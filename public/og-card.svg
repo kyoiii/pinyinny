@@ -1,0 +1,14 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#ECE8DE"/>
+  <rect x="42" y="42" width="1116" height="546" rx="42" fill="#F8F6F0" stroke="#D8D1C2"/>
+  <circle cx="1010" cy="162" r="90" fill="#DEE7DF"/>
+  <circle cx="155" cy="520" r="72" fill="#E8D9BE"/>
+  <text x="120" y="238" fill="#233528" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="88" font-weight="700">拼音卡</text>
+  <text x="120" y="320" fill="#4A564B" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="34">简单、快速的拼音到汉字复习工具</text>
+  <rect x="120" y="380" width="192" height="58" rx="29" fill="#E8F0E8"/>
+  <text x="156" y="418" fill="#294033" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="28">周词汇</text>
+  <rect x="330" y="380" width="192" height="58" rx="29" fill="#E8F0E8"/>
+  <text x="366" y="418" fill="#294033" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="28">快复习</text>
+  <rect x="540" y="380" width="192" height="58" rx="29" fill="#E8F0E8"/>
+  <text x="576" y="418" fill="#294033" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="28">无干扰</text>
+</svg>

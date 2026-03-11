@@ -1,0 +1,9 @@
+{
+  "name": "拼音卡",
+  "short_name": "拼音卡",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ece8de",
+  "theme_color": "#ece8de",
+  "lang": "zh-CN"
+}

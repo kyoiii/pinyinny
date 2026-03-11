@@ -1,0 +1,13 @@
+[Unit]
+Description=Pinyinka Reddit monitoring worker
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/apps/pinyinka-reddit-ops
+EnvironmentFile=%h/apps/pinyinka-reddit-ops/.env
+ExecStart=/bin/bash -lc '%h/apps/pinyinka-reddit-ops/run-monitor.sh >> %h/apps/pinyinka-reddit-ops/cron.log 2>&1'
+
+[Install]
+WantedBy=default.target

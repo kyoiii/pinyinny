@@ -1,0 +1,15 @@
+{
+  "name": "pinyinka-reddit-ops",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "monitor": "bash run-monitor.sh",
+    "search": "node search-opportunities.mjs",
+    "feedback": "node monitor-feedback.mjs",
+    "comments": "node profile-comments.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.53.2"
+  }
+}

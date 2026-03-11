@@ -32,6 +32,10 @@ jobs:
         working-directory: ops/reddit
         run: npm install --no-fund --no-audit
 
+      - name: Install Playwright browser
+        working-directory: ops/reddit
+        run: npx playwright install --with-deps firefox
+
       - name: Run monitor
         working-directory: ops/reddit
         run: bash run-monitor.sh

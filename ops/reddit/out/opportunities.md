@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-03-11T21:19:17.704Z
+Generated: 2026-03-11T21:52:35.515Z
 
 ## [What is the best app to learn Mandarin ?](https://old.reddit.com/r/ChineseLanguage/comments/1rql3xs/what_is_the_best_app_to_learn_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -11,7 +11,7 @@ Generated: 2026-03-11T21:19:17.704Z
 
 ## [Learning Chinese as a new language - recommend any language apps](https://old.reddit.com/r/ChineseLanguage/comments/1rqachb/learning_chinese_as_a_new_language_recommend_any/)
 - subreddit: r/ChineseLanguage
-- score: 9
+- score: 8
 - comments: 12
 - created: 2026-03-10T21:37:08.000Z
 - matched query: "learn chinese" app
@@ -19,7 +19,7 @@ Generated: 2026-03-11T21:19:17.704Z
 ## [I’m taking the HSK 3 exam this weekend. Any last-minute tips from people who passed?](https://old.reddit.com/r/ChineseLanguage/comments/1rqxi0l/im_taking_the_hsk_3_exam_this_weekend_any/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 6
+- comments: 7
 - created: 2026-03-11T15:51:35.000Z
 - matched query: resource
 

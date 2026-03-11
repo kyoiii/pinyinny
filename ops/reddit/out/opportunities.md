@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-03-11T17:31:28.558Z
+Generated: 2026-03-11T18:31:50.939Z
 
 ## [What is the best app to learn Mandarin ?](https://old.reddit.com/r/ChineseLanguage/comments/1rql3xs/what_is_the_best_app_to_learn_mandarin/)
 - subreddit: r/ChineseLanguage

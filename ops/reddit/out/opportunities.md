@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-03-12T08:06:48.443Z
+Generated: 2026-03-12T09:01:46.214Z
 
 ## [What is the best app to learn Mandarin ?](https://old.reddit.com/r/ChineseLanguage/comments/1rql3xs/what_is_the_best_app_to_learn_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -21,13 +21,6 @@ Generated: 2026-03-12T08:06:48.443Z
 - score: 7
 - comments: 10
 - created: 2026-03-11T15:51:35.000Z
-- matched query: resource
-
-## [Resources to Self-Learn Reading and Writing Chinese (Mandarin and Cantonese) in 3-6 months for the Workplace](https://old.reddit.com/r/ChineseLanguage/comments/1rouplk/resources_to_selflearn_reading_and_writing/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 6
-- created: 2026-03-09T08:34:36.000Z
 - matched query: resource
 
 ## [How to remove HSK 3.0 flashcards from Pleco?](https://old.reddit.com/r/ChineseLanguage/comments/1re9z8d/how_to_remove_hsk_30_flashcards_from_pleco/)
@@ -57,6 +50,13 @@ Generated: 2026-03-12T08:06:48.443Z
 - comments: 10
 - created: 2026-02-10T07:52:53.000Z
 - matched query: "learn chinese" app
+
+## [Resources to Self-Learn Reading and Writing Chinese (Mandarin and Cantonese) in 3-6 months for the Workplace](https://old.reddit.com/r/ChineseLanguage/comments/1rouplk/resources_to_selflearn_reading_and_writing/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 6
+- created: 2026-03-09T08:34:36.000Z
+- matched query: resource
 
 ## [Learning resources from the wild #1](https://old.reddit.com/r/ChineseLanguage/comments/1rntf44/learning_resources_from_the_wild_1/)
 - subreddit: r/ChineseLanguage

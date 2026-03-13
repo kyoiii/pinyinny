@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-03-13T18:22:53.055Z
+Generated: 2026-03-13T19:07:45.162Z
 
 ## [What is the best app to learn Mandarin ?](https://old.reddit.com/r/ChineseLanguage/comments/1rql3xs/what_is_the_best_app_to_learn_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -72,13 +72,6 @@ Generated: 2026-03-13T18:22:53.055Z
 - created: 2026-02-10T07:52:53.000Z
 - matched query: "learn chinese" app
 
-## [Total Beginner in need of help with sentences.](https://old.reddit.com/r/ChineseLanguage/comments/1rrzo0i/total_beginner_in_need_of_help_with_sentences/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 5
-- created: 2026-03-12T18:57:49.000Z
-- matched query: app OR website pinyin hanzi
-
 ## [Resources to Self-Learn Reading and Writing Chinese (Mandarin and Cantonese) in 3-6 months for the Workplace](https://old.reddit.com/r/ChineseLanguage/comments/1rouplk/resources_to_selflearn_reading_and_writing/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -92,6 +85,13 @@ Generated: 2026-03-13T18:22:53.055Z
 - comments: 18
 - created: 2026-03-08T03:00:50.000Z
 - matched query: resource
+
+## [Total Beginner in need of help with sentences.](https://old.reddit.com/r/ChineseLanguage/comments/1rrzo0i/total_beginner_in_need_of_help_with_sentences/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 5
+- created: 2026-03-12T18:57:49.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [Best Chinese language apps for advanced studying](https://old.reddit.com/r/ChineseLanguage/comments/1rmep1u/best_chinese_language_apps_for_advanced_studying/)
 - subreddit: r/ChineseLanguage

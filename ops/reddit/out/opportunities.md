@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-03-13T14:30:42.119Z
+Generated: 2026-03-13T15:25:31.371Z
 
 ## [Learning resource from the wild #2](https://old.reddit.com/r/ChineseLanguage/comments/1rso5xj/learning_resource_from_the_wild_2/)
 - subreddit: r/ChineseLanguage
@@ -33,7 +33,7 @@ Generated: 2026-03-13T14:30:42.119Z
 ## [Learning Chinese characters in food apps to avoid menu confusion](https://old.reddit.com/r/ChineseLanguage/comments/1rsarvp/learning_chinese_characters_in_food_apps_to_avoid/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 13
+- comments: 12
 - created: 2026-03-13T02:10:29.000Z
 - matched query: "learn chinese" app
 

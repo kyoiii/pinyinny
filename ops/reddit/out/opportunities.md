@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-03-13T11:08:26.529Z
+Generated: 2026-03-13T11:46:38.418Z
 
 ## [What is the best app to learn Mandarin ?](https://old.reddit.com/r/ChineseLanguage/comments/1rql3xs/what_is_the_best_app_to_learn_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -19,14 +19,14 @@ Generated: 2026-03-13T11:08:26.529Z
 ## [Learning resources tips](https://old.reddit.com/r/ChineseLanguage/comments/1rscy0h/learning_resources_tips/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 5
+- comments: 6
 - created: 2026-03-13T03:52:55.000Z
 - matched query: resource
 
 ## [Learning Chinese characters in food apps to avoid menu confusion](https://old.reddit.com/r/ChineseLanguage/comments/1rsarvp/learning_chinese_characters_in_food_apps_to_avoid/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 8
+- comments: 9
 - created: 2026-03-13T02:10:29.000Z
 - matched query: "learn chinese" app
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-03-14T15:47:10.481Z
+Generated: 2026-03-14T16:14:51.578Z
 
 ## [For those moving to the new HSK course, are you finding the lack of resources refreshing like me?](https://old.reddit.com/r/ChineseLanguage/comments/1rt5l69/for_those_moving_to_the_new_hsk_course_are_you/)
 - subreddit: r/ChineseLanguage
@@ -51,13 +51,6 @@ Generated: 2026-03-14T15:47:10.481Z
 - created: 2026-03-13T02:10:29.000Z
 - matched query: "learn chinese" app
 
-## [I’m taking the HSK 3 exam this weekend. Any last-minute tips from people who passed?](https://old.reddit.com/r/ChineseLanguage/comments/1rqxi0l/im_taking_the_hsk_3_exam_this_weekend_any/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 24
-- created: 2026-03-11T15:51:35.000Z
-- matched query: resource
-
 ## [How to remove HSK 3.0 flashcards from Pleco?](https://old.reddit.com/r/ChineseLanguage/comments/1re9z8d/how_to_remove_hsk_30_flashcards_from_pleco/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -78,6 +71,13 @@ Generated: 2026-03-14T15:47:10.481Z
 - comments: 2
 - created: 2026-02-16T11:37:04.000Z
 - matched query: app OR website pinyin hanzi
+
+## [I’m taking the HSK 3 exam this weekend. Any last-minute tips from people who passed?](https://old.reddit.com/r/ChineseLanguage/comments/1rqxi0l/im_taking_the_hsk_3_exam_this_weekend_any/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 24
+- created: 2026-03-11T15:51:35.000Z
+- matched query: resource
 
 ## [Resources to Self-Learn Reading and Writing Chinese (Mandarin and Cantonese) in 3-6 months for the Workplace](https://old.reddit.com/r/ChineseLanguage/comments/1rouplk/resources_to_selflearn_reading_and_writing/)
 - subreddit: r/ChineseLanguage

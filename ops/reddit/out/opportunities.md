@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-03-14T11:27:55.349Z
+Generated: 2026-03-14T11:50:21.200Z
 
 ## [For those moving to the new HSK course, are you finding the lack of resources refreshing like me?](https://old.reddit.com/r/ChineseLanguage/comments/1rt5l69/for_those_moving_to_the_new_hsk_course_are_you/)
 - subreddit: r/ChineseLanguage
@@ -40,7 +40,7 @@ Generated: 2026-03-14T11:27:55.349Z
 ## [Learning Chinese characters in food apps to avoid menu confusion](https://old.reddit.com/r/ChineseLanguage/comments/1rsarvp/learning_chinese_characters_in_food_apps_to_avoid/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 17
+- comments: 18
 - created: 2026-03-13T02:10:29.000Z
 - matched query: "learn chinese" app
 

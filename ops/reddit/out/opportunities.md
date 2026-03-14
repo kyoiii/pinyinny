@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-03-14T15:15:02.732Z
+Generated: 2026-03-14T15:47:10.481Z
 
 ## [For those moving to the new HSK course, are you finding the lack of resources refreshing like me?](https://old.reddit.com/r/ChineseLanguage/comments/1rt5l69/for_those_moving_to_the_new_hsk_course_are_you/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 9
+- comments: 12
 - created: 2026-03-14T01:01:49.000Z
 - matched query: resource
 

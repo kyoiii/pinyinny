@@ -1,12 +1,19 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-03-14T19:05:50.757Z
+Generated: 2026-03-14T19:39:34.203Z
 
 ## [For those moving to the new HSK course, are you finding the lack of resources refreshing like me?](https://old.reddit.com/r/ChineseLanguage/comments/1rt5l69/for_those_moving_to_the_new_hsk_course_are_you/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 12
+- comments: 13
 - created: 2026-03-14T01:01:49.000Z
+- matched query: resource
+
+## [I want to learn Chinese from scratch before studying in China — what should my first steps be?](https://old.reddit.com/r/ChineseLanguage/comments/1rts4x6/i_want_to_learn_chinese_from_scratch_before/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 1
+- created: 2026-03-14T19:15:54.000Z
 - matched query: resource
 
 ## [What is the best app to learn Mandarin ?](https://old.reddit.com/r/ChineseLanguage/comments/1rql3xs/what_is_the_best_app_to_learn_mandarin/)
@@ -134,11 +141,4 @@ Generated: 2026-03-14T19:05:50.757Z
 - comments: 5
 - created: 2026-02-14T21:28:44.000Z
 - matched query: "learn chinese" app
-
-## [Studying relationships between hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1r4cs1r/studying_relationships_between_hanzi/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 24
-- created: 2026-02-14T05:55:26.000Z
-- matched query: app OR website pinyin hanzi
 

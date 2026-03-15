@@ -1,10 +1,10 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-03-14T23:59:55.857Z
+Generated: 2026-03-15T03:27:20.242Z
 
 ## [For those moving to the new HSK course, are you finding the lack of resources refreshing like me?](https://old.reddit.com/r/ChineseLanguage/comments/1rt5l69/for_those_moving_to_the_new_hsk_course_are_you/)
 - subreddit: r/ChineseLanguage
-- score: 9
+- score: 8
 - comments: 13
 - created: 2026-03-14T01:01:49.000Z
 - matched query: resource
@@ -100,19 +100,19 @@ Generated: 2026-03-14T23:59:55.857Z
 - created: 2026-03-09T08:34:36.000Z
 - matched query: resource
 
-## [Learning resources from the wild #1](https://old.reddit.com/r/ChineseLanguage/comments/1rntf44/learning_resources_from_the_wild_1/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 18
-- created: 2026-03-08T03:00:50.000Z
-- matched query: resource
-
 ## [Total Beginner in need of help with sentences.](https://old.reddit.com/r/ChineseLanguage/comments/1rrzo0i/total_beginner_in_need_of_help_with_sentences/)
 - subreddit: r/ChineseLanguage
 - score: 4
 - comments: 5
 - created: 2026-03-12T18:57:49.000Z
 - matched query: app OR website pinyin hanzi
+
+## [Learning resources from the wild #1](https://old.reddit.com/r/ChineseLanguage/comments/1rntf44/learning_resources_from_the_wild_1/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 18
+- created: 2026-03-08T03:00:50.000Z
+- matched query: resource
 
 ## [Best Chinese language apps for advanced studying](https://old.reddit.com/r/ChineseLanguage/comments/1rmep1u/best_chinese_language_apps_for_advanced_studying/)
 - subreddit: r/ChineseLanguage

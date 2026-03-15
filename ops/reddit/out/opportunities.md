@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-03-15T03:27:20.242Z
+Generated: 2026-03-15T05:20:07.695Z
 
 ## [For those moving to the new HSK course, are you finding the lack of resources refreshing like me?](https://old.reddit.com/r/ChineseLanguage/comments/1rt5l69/for_those_moving_to_the_new_hsk_course_are_you/)
 - subreddit: r/ChineseLanguage
@@ -12,7 +12,7 @@ Generated: 2026-03-15T03:27:20.242Z
 ## [I want to learn Chinese from scratch before studying in China — what should my first steps be?](https://old.reddit.com/r/ChineseLanguage/comments/1rts4x6/i_want_to_learn_chinese_from_scratch_before/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 4
+- comments: 5
 - created: 2026-03-14T19:15:54.000Z
 - matched query: resource
 

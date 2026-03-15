@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-03-15T11:37:03.860Z
+Generated: 2026-03-15T11:56:54.251Z
 
 ## [For those moving to the new HSK course, are you finding the lack of resources refreshing like me?](https://old.reddit.com/r/ChineseLanguage/comments/1rt5l69/for_those_moving_to_the_new_hsk_course_are_you/)
 - subreddit: r/ChineseLanguage
@@ -29,13 +29,6 @@ Generated: 2026-03-15T11:37:03.860Z
 - comments: 12
 - created: 2026-03-10T21:37:08.000Z
 - matched query: "learn chinese" app
-
-## [Update on Langtern: what’s changing and what’s staying](https://old.reddit.com/r/ChineseLanguage/comments/1rtofnr/update_on_langtern_whats_changing_and_whats/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-03-14T16:53:29.000Z
-- matched query: flashcard app
 
 ## [TOFU Learn alternative](https://old.reddit.com/r/ChineseLanguage/comments/1rtjae8/tofu_learn_alternative/)
 - subreddit: r/ChineseLanguage
@@ -92,6 +85,13 @@ Generated: 2026-03-15T11:37:03.860Z
 - comments: 3
 - created: 2026-03-15T08:31:06.000Z
 - matched query: resource
+
+## [Update on Langtern: what’s changing and what’s staying](https://old.reddit.com/r/ChineseLanguage/comments/1rtofnr/update_on_langtern_whats_changing_and_whats/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 1
+- created: 2026-03-14T16:53:29.000Z
+- matched query: flashcard app
 
 ## [I’m taking the HSK 3 exam this weekend. Any last-minute tips from people who passed?](https://old.reddit.com/r/ChineseLanguage/comments/1rqxi0l/im_taking_the_hsk_3_exam_this_weekend_any/)
 - subreddit: r/ChineseLanguage

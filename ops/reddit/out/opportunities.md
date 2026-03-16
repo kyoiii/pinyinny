@@ -1,12 +1,19 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-03-16T20:20:53.065Z
+Generated: 2026-03-16T21:03:16.381Z
 
 ## [For those moving to the new HSK course, are you finding the lack of resources refreshing like me?](https://old.reddit.com/r/ChineseLanguage/comments/1rt5l69/for_those_moving_to_the_new_hsk_course_are_you/)
 - subreddit: r/ChineseLanguage
 - score: 8
 - comments: 14
 - created: 2026-03-14T01:01:49.000Z
+- matched query: resource
+
+## [Duolingo pinyin accuracy](https://old.reddit.com/r/ChineseLanguage/comments/1rvlgzv/duolingo_pinyin_accuracy/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 3
+- created: 2026-03-16T20:38:04.000Z
 - matched query: resource
 
 ## [anywhere that i can learn specifically vocabulary?](https://old.reddit.com/r/ChineseLanguage/comments/1ruvdtx/anywhere_that_i_can_learn_specifically_vocabulary/)
@@ -117,7 +124,7 @@ Generated: 2026-03-16T20:20:53.065Z
 ## [Why does nobody here take actual classes?](https://old.reddit.com/r/languagelearning/comments/1ruiakx/why_does_nobody_here_take_actual_classes/)
 - subreddit: r/languagelearning
 - score: 4
-- comments: 241
+- comments: 245
 - created: 2026-03-15T16:20:29.000Z
 - matched query: "Chinese" app
 
@@ -134,11 +141,4 @@ Generated: 2026-03-16T20:20:53.065Z
 - comments: 11
 - created: 2026-03-15T12:46:42.000Z
 - matched query: "learn chinese" app
-
-## [Chinese Listening question](https://old.reddit.com/r/ChineseLanguage/comments/1ru8rye/chinese_listening_question/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 11
-- created: 2026-03-15T08:31:06.000Z
-- matched query: resource
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-03-16T17:32:16.915Z
+Generated: 2026-03-16T18:33:53.787Z
 
 ## [For those moving to the new HSK course, are you finding the lack of resources refreshing like me?](https://old.reddit.com/r/ChineseLanguage/comments/1rt5l69/for_those_moving_to_the_new_hsk_course_are_you/)
 - subreddit: r/ChineseLanguage
@@ -117,7 +117,7 @@ Generated: 2026-03-16T17:32:16.915Z
 ## [Why does nobody here take actual classes?](https://old.reddit.com/r/languagelearning/comments/1ruiakx/why_does_nobody_here_take_actual_classes/)
 - subreddit: r/languagelearning
 - score: 4
-- comments: 223
+- comments: 227
 - created: 2026-03-15T16:20:29.000Z
 - matched query: "Chinese" app
 

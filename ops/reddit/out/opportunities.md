@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-03-16T18:33:53.787Z
+Generated: 2026-03-16T19:38:56.507Z
 
 ## [For those moving to the new HSK course, are you finding the lack of resources refreshing like me?](https://old.reddit.com/r/ChineseLanguage/comments/1rt5l69/for_those_moving_to_the_new_hsk_course_are_you/)
 - subreddit: r/ChineseLanguage
@@ -68,7 +68,7 @@ Generated: 2026-03-16T18:33:53.787Z
 ## [Traditional or simplified characters](https://old.reddit.com/r/ChineseLanguage/comments/1rvd9w7/traditional_or_simplified_characters/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 9
+- comments: 11
 - created: 2026-03-16T15:52:55.000Z
 - matched query: resource
 
@@ -117,7 +117,7 @@ Generated: 2026-03-16T18:33:53.787Z
 ## [Why does nobody here take actual classes?](https://old.reddit.com/r/languagelearning/comments/1ruiakx/why_does_nobody_here_take_actual_classes/)
 - subreddit: r/languagelearning
 - score: 4
-- comments: 227
+- comments: 234
 - created: 2026-03-15T16:20:29.000Z
 - matched query: "Chinese" app
 

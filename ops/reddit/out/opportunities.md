@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-03-17T23:04:10.915Z
+Generated: 2026-03-17T23:46:06.023Z
 
 ## [How to study Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1rwajnb/how_to_study_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 22
+- comments: 23
 - created: 2026-03-17T15:57:38.000Z
 - matched query: "learn chinese" app
 
@@ -124,7 +124,7 @@ Generated: 2026-03-17T23:04:10.915Z
 ## [Why does nobody here take actual classes?](https://old.reddit.com/r/languagelearning/comments/1ruiakx/why_does_nobody_here_take_actual_classes/)
 - subreddit: r/languagelearning
 - score: 4
-- comments: 319
+- comments: 320
 - created: 2026-03-15T16:20:29.000Z
 - matched query: "Chinese" app
 

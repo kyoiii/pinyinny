@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-03-17T20:25:20.005Z
+Generated: 2026-03-17T21:06:26.873Z
 
 ## [How to study Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1rwajnb/how_to_study_chinese/)
 - subreddit: r/ChineseLanguage

@@ -1,26 +1,19 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-03-17T00:02:45.330Z
-
-## [For those moving to the new HSK course, are you finding the lack of resources refreshing like me?](https://old.reddit.com/r/ChineseLanguage/comments/1rt5l69/for_those_moving_to_the_new_hsk_course_are_you/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 14
-- created: 2026-03-14T01:01:49.000Z
-- matched query: resource
+Generated: 2026-03-17T02:53:41.414Z
 
 ## [Duolingo pinyin accuracy](https://old.reddit.com/r/ChineseLanguage/comments/1rvlgzv/duolingo_pinyin_accuracy/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 16
+- comments: 18
 - created: 2026-03-16T20:38:04.000Z
 - matched query: resource
 
-## [anywhere that i can learn specifically vocabulary?](https://old.reddit.com/r/ChineseLanguage/comments/1ruvdtx/anywhere_that_i_can_learn_specifically_vocabulary/)
+## [For those moving to the new HSK course, are you finding the lack of resources refreshing like me?](https://old.reddit.com/r/ChineseLanguage/comments/1rt5l69/for_those_moving_to_the_new_hsk_course_are_you/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 2
-- created: 2026-03-16T00:57:21.000Z
+- comments: 14
+- created: 2026-03-14T01:01:49.000Z
 - matched query: resource
 
 ## [What is the best app to learn Mandarin ?](https://old.reddit.com/r/ChineseLanguage/comments/1rql3xs/what_is_the_best_app_to_learn_mandarin/)
@@ -36,6 +29,13 @@ Generated: 2026-03-17T00:02:45.330Z
 - comments: 12
 - created: 2026-03-10T21:37:08.000Z
 - matched query: "learn chinese" app
+
+## [anywhere that i can learn specifically vocabulary?](https://old.reddit.com/r/ChineseLanguage/comments/1ruvdtx/anywhere_that_i_can_learn_specifically_vocabulary/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 2
+- created: 2026-03-16T00:57:21.000Z
+- matched query: resource
 
 ## [HSK 3 study: Is it enough just to use DuChinese and Skritter?](https://old.reddit.com/r/ChineseLanguage/comments/1rudhsy/hsk_3_study_is_it_enough_just_to_use_duchinese/)
 - subreddit: r/ChineseLanguage
@@ -124,7 +124,7 @@ Generated: 2026-03-17T00:02:45.330Z
 ## [Why does nobody here take actual classes?](https://old.reddit.com/r/languagelearning/comments/1ruiakx/why_does_nobody_here_take_actual_classes/)
 - subreddit: r/languagelearning
 - score: 4
-- comments: 263
+- comments: 277
 - created: 2026-03-15T16:20:29.000Z
 - matched query: "Chinese" app
 

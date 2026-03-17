@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-03-17T11:55:37.745Z
+Generated: 2026-03-17T13:21:28.441Z
 
 ## [For those moving to the new HSK course, are you finding the lack of resources refreshing like me?](https://old.reddit.com/r/ChineseLanguage/comments/1rt5l69/for_those_moving_to_the_new_hsk_course_are_you/)
 - subreddit: r/ChineseLanguage
@@ -68,7 +68,7 @@ Generated: 2026-03-17T11:55:37.745Z
 ## [Starting Mandarin from zero with no budget — looking for your most effective self-study tips!](https://old.reddit.com/r/ChineseLanguage/comments/1rw29rw/starting_mandarin_from_zero_with_no_budget/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 2
+- comments: 3
 - created: 2026-03-17T10:00:42.000Z
 - matched query: resource
 
@@ -117,7 +117,7 @@ Generated: 2026-03-17T11:55:37.745Z
 ## [Why does nobody here take actual classes?](https://old.reddit.com/r/languagelearning/comments/1ruiakx/why_does_nobody_here_take_actual_classes/)
 - subreddit: r/languagelearning
 - score: 4
-- comments: 300
+- comments: 302
 - created: 2026-03-15T16:20:29.000Z
 - matched query: "Chinese" app
 

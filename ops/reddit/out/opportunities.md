@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-03-17T18:42:34.438Z
+Generated: 2026-03-17T19:45:18.967Z
 
 ## [How to study Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1rwajnb/how_to_study_chinese/)
 - subreddit: r/ChineseLanguage
@@ -44,13 +44,6 @@ Generated: 2026-03-17T18:42:34.438Z
 - created: 2026-03-15T13:02:58.000Z
 - matched query: resource
 
-## [I want to learn Chinese from scratch before studying in China — what should my first steps be?](https://old.reddit.com/r/ChineseLanguage/comments/1rts4x6/i_want_to_learn_chinese_from_scratch_before/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 12
-- created: 2026-03-14T19:15:54.000Z
-- matched query: resource
-
 ## [How to remove HSK 3.0 flashcards from Pleco?](https://old.reddit.com/r/ChineseLanguage/comments/1re9z8d/how_to_remove_hsk_30_flashcards_from_pleco/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -84,6 +77,13 @@ Generated: 2026-03-17T18:42:34.438Z
 - score: 5
 - comments: 0
 - created: 2026-03-15T13:54:13.000Z
+- matched query: resource
+
+## [I want to learn Chinese from scratch before studying in China — what should my first steps be?](https://old.reddit.com/r/ChineseLanguage/comments/1rts4x6/i_want_to_learn_chinese_from_scratch_before/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 12
+- created: 2026-03-14T19:15:54.000Z
 - matched query: resource
 
 ## [Learning resource from the wild #2](https://old.reddit.com/r/ChineseLanguage/comments/1rso5xj/learning_resource_from_the_wild_2/)
@@ -124,7 +124,7 @@ Generated: 2026-03-17T18:42:34.438Z
 ## [Why does nobody here take actual classes?](https://old.reddit.com/r/languagelearning/comments/1ruiakx/why_does_nobody_here_take_actual_classes/)
 - subreddit: r/languagelearning
 - score: 4
-- comments: 314
+- comments: 317
 - created: 2026-03-15T16:20:29.000Z
 - matched query: "Chinese" app
 

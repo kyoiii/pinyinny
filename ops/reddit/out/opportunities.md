@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-03-18T09:33:33.320Z
+Generated: 2026-03-18T10:34:03.429Z
 
 ## [How to study Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1rwajnb/how_to_study_chinese/)
 - subreddit: r/ChineseLanguage
@@ -65,13 +65,6 @@ Generated: 2026-03-18T09:33:33.320Z
 - created: 2026-02-16T11:37:04.000Z
 - matched query: app OR website pinyin hanzi
 
-## [Starting Mandarin from zero with no budget — looking for your most effective self-study tips!](https://old.reddit.com/r/ChineseLanguage/comments/1rw29rw/starting_mandarin_from_zero_with_no_budget/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 14
-- created: 2026-03-17T10:00:42.000Z
-- matched query: resource
-
 ## [Self study](https://old.reddit.com/r/ChineseLanguage/comments/1ruemrq/self_study/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -112,6 +105,13 @@ Generated: 2026-03-18T09:33:33.320Z
 - score: 5
 - comments: 24
 - created: 2026-03-11T15:51:35.000Z
+- matched query: resource
+
+## [Starting Mandarin from zero with no budget — looking for your most effective self-study tips!](https://old.reddit.com/r/ChineseLanguage/comments/1rw29rw/starting_mandarin_from_zero_with_no_budget/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 14
+- created: 2026-03-17T10:00:42.000Z
 - matched query: resource
 
 ## [Traditional or simplified characters](https://old.reddit.com/r/ChineseLanguage/comments/1rvd9w7/traditional_or_simplified_characters/)

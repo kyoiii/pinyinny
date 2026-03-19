@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-03-19T17:43:01.989Z
+Generated: 2026-03-19T18:36:11.492Z
 
 ## [For those moving to the new HSK course, are you finding the lack of resources refreshing like me?](https://old.reddit.com/r/ChineseLanguage/comments/1rt5l69/for_those_moving_to_the_new_hsk_course_are_you/)
 - subreddit: r/ChineseLanguage
@@ -54,7 +54,7 @@ Generated: 2026-03-19T17:43:01.989Z
 ## [Wanting to start learning Chinese!](https://old.reddit.com/r/ChineseLanguage/comments/1ry1nji/wanting_to_start_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 2
+- comments: 3
 - created: 2026-03-19T14:18:41.000Z
 - matched query: "learn chinese" app
 

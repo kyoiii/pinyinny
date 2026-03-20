@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-03-20T17:01:38.820Z
+Generated: 2026-03-20T17:50:30.771Z
 
 ## [For those moving to the new HSK course, are you finding the lack of resources refreshing like me?](https://old.reddit.com/r/ChineseLanguage/comments/1rt5l69/for_those_moving_to_the_new_hsk_course_are_you/)
 - subreddit: r/ChineseLanguage
@@ -33,8 +33,15 @@ Generated: 2026-03-20T17:01:38.820Z
 ## [beginner at HSK 1,need help](https://old.reddit.com/r/ChineseLanguage/comments/1rz1210/beginner_at_hsk_1need_help/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 5
+- comments: 6
 - created: 2026-03-20T16:31:09.000Z
+- matched query: app OR website pinyin hanzi
+
+## [Are there any “default” word swaps native speakers use that learners miss? (HSK 3 to HSK 4)](https://old.reddit.com/r/ChineseLanguage/comments/1rye3ld/are_there_any_default_word_swaps_native_speakers/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 34
+- created: 2026-03-19T22:10:08.000Z
 - matched query: app OR website pinyin hanzi
 
 ## [🚀 New Drop: Inside China’s Reusable Rocket Race](https://old.reddit.com/r/ChineseLanguage/comments/1ry205o/new_drop_inside_chinas_reusable_rocket_race/)

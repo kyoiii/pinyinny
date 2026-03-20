@@ -1,6 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-03-20T00:57:04.377Z
+Generated: 2026-03-20T03:34:24.925Z
+
+## [Update: Learning from Chinese Superapps like 美团 Meituan (外卖 wài mài food delivery, 酒店 jiǔ diàn hotels, 打车 dǎ chē taxi hailing, etc.)](https://old.reddit.com/r/ChineseLanguage/comments/1ryjznq/update_learning_from_chinese_superapps_like_美团/)
+- subreddit: r/ChineseLanguage
+- score: 8
+- comments: 0
+- created: 2026-03-20T02:18:52.000Z
+- matched query: flashcard app
 
 ## [For those moving to the new HSK course, are you finding the lack of resources refreshing like me?](https://old.reddit.com/r/ChineseLanguage/comments/1rt5l69/for_those_moving_to_the_new_hsk_course_are_you/)
 - subreddit: r/ChineseLanguage
@@ -40,7 +47,7 @@ Generated: 2026-03-20T00:57:04.377Z
 ## [Wanting to start learning Chinese!](https://old.reddit.com/r/ChineseLanguage/comments/1ry1nji/wanting_to_start_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 4
+- comments: 5
 - created: 2026-03-19T14:18:41.000Z
 - matched query: "learn chinese" app
 
@@ -79,13 +86,6 @@ Generated: 2026-03-20T00:57:04.377Z
 - created: 2026-03-13T03:52:55.000Z
 - matched query: resource
 
-## [Learning Chinese characters in food apps to avoid menu confusion](https://old.reddit.com/r/ChineseLanguage/comments/1rsarvp/learning_chinese_characters_in_food_apps_to_avoid/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 19
-- created: 2026-03-13T02:10:29.000Z
-- matched query: "learn chinese" app
-
 ## [How to study Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1rwajnb/how_to_study_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -107,10 +107,17 @@ Generated: 2026-03-20T00:57:04.377Z
 - created: 2026-03-15T13:54:13.000Z
 - matched query: resource
 
+## [Learning Chinese characters in food apps to avoid menu confusion](https://old.reddit.com/r/ChineseLanguage/comments/1rsarvp/learning_chinese_characters_in_food_apps_to_avoid/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 19
+- created: 2026-03-13T02:10:29.000Z
+- matched query: "learn chinese" app
+
 ## [Best Chinese language apps for advanced studying](https://old.reddit.com/r/ChineseLanguage/comments/1rmep1u/best_chinese_language_apps_for_advanced_studying/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 12
+- comments: 13
 - created: 2026-03-06T13:58:31.000Z
 - matched query: "learn chinese" app
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-03-22T20:40:13.453Z
+Generated: 2026-03-22T21:01:53.970Z
 
 ## [Who has taken HSK exams? What was your experience?](https://old.reddit.com/r/ChineseLanguage/comments/1s0rx7h/who_has_taken_hsk_exams_what_was_your_experience/)
 - subreddit: r/ChineseLanguage

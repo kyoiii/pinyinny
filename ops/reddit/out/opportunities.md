@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-03-22T22:37:02.785Z
+Generated: 2026-03-22T23:00:16.785Z
 
 ## [Who has taken HSK exams? What was your experience?](https://old.reddit.com/r/ChineseLanguage/comments/1s0rx7h/who_has_taken_hsk_exams_what_was_your_experience/)
 - subreddit: r/ChineseLanguage
@@ -8,20 +8,6 @@ Generated: 2026-03-22T22:37:02.785Z
 - comments: 0
 - created: 2026-03-22T17:38:42.000Z
 - matched query: resource
-
-## [I'm looking for a font for chinese pinyin and hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1rzw5qg/im_looking_for_a_font_for_chinese_pinyin_and_hanzi/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 4
-- created: 2026-03-21T16:41:56.000Z
-- matched query: app OR website pinyin hanzi
-
-## [When you keep focusing on pinyin instead of hanzi [Hanly]](https://old.reddit.com/r/ChineseLanguage/comments/1s0kegh/when_you_keep_focusing_on_pinyin_instead_of_hanzi/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 47
-- created: 2026-03-22T12:30:40.000Z
-- matched query: app OR website pinyin hanzi
 
 ## [Amazing resource](https://old.reddit.com/r/ChineseLanguage/comments/1s0adg9/amazing_resource/)
 - subreddit: r/ChineseLanguage
@@ -64,13 +50,6 @@ Generated: 2026-03-22T22:37:02.785Z
 - comments: 2
 - created: 2026-03-16T00:57:21.000Z
 - matched query: resource
-
-## [beginner at HSK 1,need help](https://old.reddit.com/r/ChineseLanguage/comments/1rz1210/beginner_at_hsk_1need_help/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 15
-- created: 2026-03-20T16:31:09.000Z
-- matched query: app OR website pinyin hanzi
 
 ## [HSK 3 study: Is it enough just to use DuChinese and Skritter?](https://old.reddit.com/r/ChineseLanguage/comments/1rudhsy/hsk_3_study_is_it_enough_just_to_use_duchinese/)
 - subreddit: r/ChineseLanguage

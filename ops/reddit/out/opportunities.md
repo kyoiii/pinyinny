@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-03-22T21:58:28.178Z
+Generated: 2026-03-22T22:37:02.785Z
 
 ## [Who has taken HSK exams? What was your experience?](https://old.reddit.com/r/ChineseLanguage/comments/1s0rx7h/who_has_taken_hsk_exams_what_was_your_experience/)
 - subreddit: r/ChineseLanguage
@@ -70,13 +70,6 @@ Generated: 2026-03-22T21:58:28.178Z
 - score: 4
 - comments: 15
 - created: 2026-03-20T16:31:09.000Z
-- matched query: app OR website pinyin hanzi
-
-## [Are there any “default” word swaps native speakers use that learners miss? (HSK 3 to HSK 4)](https://old.reddit.com/r/ChineseLanguage/comments/1rye3ld/are_there_any_default_word_swaps_native_speakers/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 42
-- created: 2026-03-19T22:10:08.000Z
 - matched query: app OR website pinyin hanzi
 
 ## [HSK 3 study: Is it enough just to use DuChinese and Skritter?](https://old.reddit.com/r/ChineseLanguage/comments/1rudhsy/hsk_3_study_is_it_enough_just_to_use_duchinese/)

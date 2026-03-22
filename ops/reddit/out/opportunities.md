@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-03-22T07:09:39.001Z
+Generated: 2026-03-22T07:51:11.457Z
 
 ## [I'm looking for a font for chinese pinyin and hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1rzw5qg/im_looking_for_a_font_for_chinese_pinyin_and_hanzi/)
 - subreddit: r/ChineseLanguage
@@ -18,7 +18,7 @@ Generated: 2026-03-22T07:09:39.001Z
 
 ## [beginner resources](https://old.reddit.com/r/ChineseLanguage/comments/1rzl8jy/beginner_resources/)
 - subreddit: r/ChineseLanguage
-- score: 7
+- score: 6
 - comments: 6
 - created: 2026-03-21T07:23:20.000Z
 - matched query: resource
@@ -75,7 +75,7 @@ Generated: 2026-03-22T07:09:39.001Z
 ## [Are there any “default” word swaps native speakers use that learners miss? (HSK 3 to HSK 4)](https://old.reddit.com/r/ChineseLanguage/comments/1rye3ld/are_there_any_default_word_swaps_native_speakers/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 40
+- comments: 41
 - created: 2026-03-19T22:10:08.000Z
 - matched query: app OR website pinyin hanzi
 

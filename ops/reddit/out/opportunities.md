@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-03-23T22:03:48.660Z
+Generated: 2026-03-23T22:51:12.103Z
 
 ## [I'm looking for a font for chinese pinyin and hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1rzw5qg/im_looking_for_a_font_for_chinese_pinyin_and_hanzi/)
 - subreddit: r/ChineseLanguage
@@ -19,7 +19,7 @@ Generated: 2026-03-23T22:03:48.660Z
 ## [When you keep focusing on pinyin instead of hanzi [Hanly]](https://old.reddit.com/r/ChineseLanguage/comments/1s0kegh/when_you_keep_focusing_on_pinyin_instead_of_hanzi/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 62
+- comments: 63
 - created: 2026-03-22T12:30:40.000Z
 - matched query: app OR website pinyin hanzi
 

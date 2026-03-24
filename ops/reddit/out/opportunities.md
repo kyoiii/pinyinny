@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-03-24T10:34:58.073Z
+Generated: 2026-03-24T11:30:05.776Z
 
 ## [I'm looking for a font for chinese pinyin and hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1rzw5qg/im_looking_for_a_font_for_chinese_pinyin_and_hanzi/)
 - subreddit: r/ChineseLanguage
@@ -61,7 +61,7 @@ Generated: 2026-03-24T10:34:58.073Z
 ## [Great way to find and watch movies and tv shows with Mandarin dubbing (links posted in description)](https://old.reddit.com/r/ChineseLanguage/comments/1s26qbe/great_way_to_find_and_watch_movies_and_tv_shows/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 1
+- comments: 2
 - created: 2026-03-24T07:05:00.000Z
 - matched query: resource
 

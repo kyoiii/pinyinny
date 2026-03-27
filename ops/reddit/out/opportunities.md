@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-03-27T16:09:05.033Z
+Generated: 2026-03-27T17:11:37.494Z
 
 ## [I made a website so you can read Chinese social media](https://old.reddit.com/r/ChineseLanguage/comments/1s57w83/i_made_a_website_so_you_can_read_chinese_social/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 1
+- comments: 4
 - created: 2026-03-27T15:48:12.000Z
 - matched query: "learn chinese" app
 

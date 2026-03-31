@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-03-31T18:36:31.375Z
+Generated: 2026-03-31T19:40:40.756Z
 
 ## [Best resources to get me started?](https://old.reddit.com/r/ChineseLanguage/comments/1s6d7j5/best_resources_to_get_me_started/)
 - subreddit: r/ChineseLanguage
@@ -12,7 +12,7 @@ Generated: 2026-03-31T18:36:31.375Z
 ## [offline learning materials for beginners?](https://old.reddit.com/r/ChineseLanguage/comments/1s8ru1g/offline_learning_materials_for_beginners/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 5
+- comments: 8
 - created: 2026-03-31T16:11:11.000Z
 - matched query: "learn chinese" app
 

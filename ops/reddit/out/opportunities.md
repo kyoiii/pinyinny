@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-01T14:05:46.586Z
+Generated: 2026-04-01T15:40:24.275Z
 
 ## [If you're learning Chinese to go to Taiwan, what are some roadblocks you've encountered with Chinese-learning apps?](https://old.reddit.com/r/ChineseLanguage/comments/1s9ldpy/if_youre_learning_chinese_to_go_to_taiwan_what/)
 - subreddit: r/ChineseLanguage
-- score: 10
-- comments: 0
+- score: 9
+- comments: 1
 - created: 2026-04-01T13:59:08.000Z
 - matched query: "learn chinese" app
 
@@ -79,13 +79,6 @@ Generated: 2026-04-01T14:05:46.586Z
 - created: 2026-04-01T02:47:39.000Z
 - matched query: flashcard app
 
-## [OCR editing of DeFrancis "ABC Chinese-English Comprehensive Dictionary."](https://old.reddit.com/r/ChineseLanguage/comments/1s8p85j/ocr_editing_of_defrancis_abc_chineseenglish/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 9
-- created: 2026-03-31T14:36:56.000Z
-- matched query: resource
-
 ## [Organizing a chart by HSK levels or by alphabet?](https://old.reddit.com/r/ChineseLanguage/comments/1s6g1ll/organizing_a_chart_by_hsk_levels_or_by_alphabet/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -113,6 +106,13 @@ Generated: 2026-04-01T14:05:46.586Z
 - comments: 7
 - created: 2026-03-26T22:46:39.000Z
 - matched query: app OR website pinyin hanzi
+
+## [OCR editing of DeFrancis "ABC Chinese-English Comprehensive Dictionary."](https://old.reddit.com/r/ChineseLanguage/comments/1s8p85j/ocr_editing_of_defrancis_abc_chineseenglish/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 9
+- created: 2026-03-31T14:36:56.000Z
+- matched query: resource
 
 ## [Using comprehensible input early HSK](https://old.reddit.com/r/ChineseLanguage/comments/1s7ghoq/using_comprehensible_input_early_hsk/)
 - subreddit: r/ChineseLanguage

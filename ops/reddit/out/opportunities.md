@@ -1,6 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-01T06:11:16.747Z
+Generated: 2026-04-01T07:56:04.148Z
+
+## [Any AI tool that actually forces you to speak and corrects you properly? (language learning)](https://old.reddit.com/r/ChineseLanguage/comments/1s9crks/any_ai_tool_that_actually_forces_you_to_speak_and/)
+- subreddit: r/ChineseLanguage
+- score: 9
+- comments: 4
+- created: 2026-04-01T06:37:20.000Z
+- matched query: flashcard app
 
 ## [One month into Chinese: Speaking is okay, but Grammar and Characters are killing me. Any advice?](https://old.reddit.com/r/ChineseLanguage/comments/1s95lub/one_month_into_chinese_speaking_is_okay_but/)
 - subreddit: r/ChineseLanguage

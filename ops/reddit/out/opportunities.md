@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-01T15:40:24.275Z
+Generated: 2026-04-01T16:38:51.092Z
 
 ## [If you're learning Chinese to go to Taiwan, what are some roadblocks you've encountered with Chinese-learning apps?](https://old.reddit.com/r/ChineseLanguage/comments/1s9ldpy/if_youre_learning_chinese_to_go_to_taiwan_what/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 1
+- comments: 2
 - created: 2026-04-01T13:59:08.000Z
 - matched query: "learn chinese" app
 
@@ -23,19 +23,19 @@ Generated: 2026-04-01T15:40:24.275Z
 - created: 2026-04-01T00:47:24.000Z
 - matched query: "learn chinese" app
 
-## [offline learning materials for beginners?](https://old.reddit.com/r/ChineseLanguage/comments/1s8ru1g/offline_learning_materials_for_beginners/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 11
-- created: 2026-03-31T16:11:11.000Z
-- matched query: "learn chinese" app
-
 ## [Best resources to get me started?](https://old.reddit.com/r/ChineseLanguage/comments/1s6d7j5/best_resources_to_get_me_started/)
 - subreddit: r/ChineseLanguage
 - score: 7
 - comments: 16
 - created: 2026-03-28T21:54:54.000Z
 - matched query: resource
+
+## [offline learning materials for beginners?](https://old.reddit.com/r/ChineseLanguage/comments/1s8ru1g/offline_learning_materials_for_beginners/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 11
+- created: 2026-03-31T16:11:11.000Z
+- matched query: "learn chinese" app
 
 ## [Why are other languages communities online so small compared to German?](https://old.reddit.com/r/ChineseLanguage/comments/1s86qrs/why_are_other_languages_communities_online_so/)
 - subreddit: r/ChineseLanguage

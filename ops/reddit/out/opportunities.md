@@ -1,6 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-01T12:10:15.790Z
+Generated: 2026-04-01T14:05:46.586Z
+
+## [If you're learning Chinese to go to Taiwan, what are some roadblocks you've encountered with Chinese-learning apps?](https://old.reddit.com/r/ChineseLanguage/comments/1s9ldpy/if_youre_learning_chinese_to_go_to_taiwan_what/)
+- subreddit: r/ChineseLanguage
+- score: 10
+- comments: 0
+- created: 2026-04-01T13:59:08.000Z
+- matched query: "learn chinese" app
 
 ## [Any AI tool that actually forces you to speak and corrects you properly? (language learning)](https://old.reddit.com/r/ChineseLanguage/comments/1s9crks/any_ai_tool_that_actually_forces_you_to_speak_and/)
 - subreddit: r/ChineseLanguage
@@ -68,7 +75,7 @@ Generated: 2026-04-01T12:10:15.790Z
 ## [Learning Chinese via Netflix/Youtube](https://old.reddit.com/r/ChineseLanguage/comments/1s98brc/learning_chinese_via_netflixyoutube/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 5
+- comments: 6
 - created: 2026-04-01T02:47:39.000Z
 - matched query: flashcard app
 
@@ -133,12 +140,5 @@ Generated: 2026-04-01T12:10:15.790Z
 - score: 4
 - comments: 20
 - created: 2026-03-13T02:10:29.000Z
-- matched query: "learn chinese" app
-
-## [Best Chinese language apps for advanced studying](https://old.reddit.com/r/ChineseLanguage/comments/1rmep1u/best_chinese_language_apps_for_advanced_studying/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 14
-- created: 2026-03-06T13:58:31.000Z
 - matched query: "learn chinese" app
 

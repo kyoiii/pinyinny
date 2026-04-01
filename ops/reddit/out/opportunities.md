@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-01T20:31:04.142Z
+Generated: 2026-04-01T22:04:16.923Z
 
 ## [If you're learning Chinese to go to Taiwan, what are some roadblocks you've encountered with Chinese-learning apps?](https://old.reddit.com/r/ChineseLanguage/comments/1s9ldpy/if_youre_learning_chinese_to_go_to_taiwan_what/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 2
+- comments: 3
 - created: 2026-04-01T13:59:08.000Z
 - matched query: "learn chinese" app
 
@@ -33,7 +33,7 @@ Generated: 2026-04-01T20:31:04.142Z
 ## [offline learning materials for beginners?](https://old.reddit.com/r/ChineseLanguage/comments/1s8ru1g/offline_learning_materials_for_beginners/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 12
+- comments: 13
 - created: 2026-03-31T16:11:11.000Z
 - matched query: "learn chinese" app
 
@@ -42,13 +42,6 @@ Generated: 2026-04-01T20:31:04.142Z
 - score: 6
 - comments: 18
 - created: 2026-03-30T23:20:03.000Z
-- matched query: resource
-
-## [Best ways to learn to write Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1s78bor/best_ways_to_learn_to_write_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 16
-- created: 2026-03-29T21:58:16.000Z
 - matched query: resource
 
 ## [I'm looking for a font for chinese pinyin and hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1rzw5qg/im_looking_for_a_font_for_chinese_pinyin_and_hanzi/)
@@ -78,6 +71,13 @@ Generated: 2026-04-01T20:31:04.142Z
 - comments: 6
 - created: 2026-04-01T02:47:39.000Z
 - matched query: flashcard app
+
+## [Best ways to learn to write Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1s78bor/best_ways_to_learn_to_write_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 16
+- created: 2026-03-29T21:58:16.000Z
+- matched query: resource
 
 ## [Organizing a chart by HSK levels or by alphabet?](https://old.reddit.com/r/ChineseLanguage/comments/1s6g1ll/organizing_a_chart_by_hsk_levels_or_by_alphabet/)
 - subreddit: r/ChineseLanguage

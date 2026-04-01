@@ -1,6 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-01T22:57:08.500Z
+Generated: 2026-04-01T23:44:06.617Z
+
+## [Trying a game-based approach to learning Chinese characters – curious if it works for others?](https://old.reddit.com/r/ChineseLanguage/comments/1sa0fmk/trying_a_gamebased_approach_to_learning_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 9
+- comments: 3
+- created: 2026-04-01T23:04:41.000Z
+- matched query: "learn chinese" app
 
 ## [If you're learning Chinese to go to Taiwan, what are some roadblocks you've encountered with Chinese-learning apps?](https://old.reddit.com/r/ChineseLanguage/comments/1s9ldpy/if_youre_learning_chinese_to_go_to_taiwan_what/)
 - subreddit: r/ChineseLanguage
@@ -119,13 +126,6 @@ Generated: 2026-04-01T22:57:08.500Z
 - score: 4
 - comments: 5
 - created: 2026-03-30T04:14:45.000Z
-- matched query: resource
-
-## [Looking to start Chinese as someone with ADHD and Dyslexic](https://old.reddit.com/r/ChineseLanguage/comments/1s79r5q/looking_to_start_chinese_as_someone_with_adhd_and/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 5
-- created: 2026-03-29T22:58:02.000Z
 - matched query: resource
 
 ## [HSK Flashcards as Pleco](https://old.reddit.com/r/ChineseLanguage/comments/1s206wx/hsk_flashcards_as_pleco/)

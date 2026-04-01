@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-01T11:28:20.670Z
+Generated: 2026-04-01T12:10:15.790Z
 
 ## [Any AI tool that actually forces you to speak and corrects you properly? (language learning)](https://old.reddit.com/r/ChineseLanguage/comments/1s9crks/any_ai_tool_that_actually_forces_you_to_speak_and/)
 - subreddit: r/ChineseLanguage

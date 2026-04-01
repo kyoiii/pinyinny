@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-01T09:12:51.040Z
+Generated: 2026-04-01T10:18:10.505Z
 
 ## [Any AI tool that actually forces you to speak and corrects you properly? (language learning)](https://old.reddit.com/r/ChineseLanguage/comments/1s9crks/any_ai_tool_that_actually_forces_you_to_speak_and/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 12
+- comments: 17
 - created: 2026-04-01T06:37:20.000Z
 - matched query: flashcard app
 
@@ -29,13 +29,6 @@ Generated: 2026-04-01T09:12:51.040Z
 - comments: 16
 - created: 2026-03-28T21:54:54.000Z
 - matched query: resource
-
-## [Learning Chinese via Netflix/Youtube](https://old.reddit.com/r/ChineseLanguage/comments/1s98brc/learning_chinese_via_netflixyoutube/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-04-01T02:47:39.000Z
-- matched query: flashcard app
 
 ## [Why are other languages communities online so small compared to German?](https://old.reddit.com/r/ChineseLanguage/comments/1s86qrs/why_are_other_languages_communities_online_so/)
 - subreddit: r/ChineseLanguage
@@ -71,6 +64,13 @@ Generated: 2026-04-01T09:12:51.040Z
 - comments: 12
 - created: 2026-03-10T21:37:08.000Z
 - matched query: "learn chinese" app
+
+## [Learning Chinese via Netflix/Youtube](https://old.reddit.com/r/ChineseLanguage/comments/1s98brc/learning_chinese_via_netflixyoutube/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 4
+- created: 2026-04-01T02:47:39.000Z
+- matched query: flashcard app
 
 ## [OCR editing of DeFrancis "ABC Chinese-English Comprehensive Dictionary."](https://old.reddit.com/r/ChineseLanguage/comments/1s8p85j/ocr_editing_of_defrancis_abc_chineseenglish/)
 - subreddit: r/ChineseLanguage

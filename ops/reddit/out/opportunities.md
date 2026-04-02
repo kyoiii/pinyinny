@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-02T15:46:34.862Z
+Generated: 2026-04-02T16:41:52.136Z
 
 ## [Trying a game-based approach to learning Chinese characters – curious if it works for others?](https://old.reddit.com/r/ChineseLanguage/comments/1sa0fmk/trying_a_gamebased_approach_to_learning_chinese/)
 - subreddit: r/ChineseLanguage

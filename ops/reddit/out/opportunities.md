@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-02T03:50:11.195Z
+Generated: 2026-04-02T05:28:06.511Z
 
 ## [Trying a game-based approach to learning Chinese characters – curious if it works for others?](https://old.reddit.com/r/ChineseLanguage/comments/1sa0fmk/trying_a_gamebased_approach_to_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -128,17 +128,17 @@ Generated: 2026-04-02T03:50:11.195Z
 - created: 2026-03-31T14:36:56.000Z
 - matched query: resource
 
-## [Using comprehensible input early HSK](https://old.reddit.com/r/ChineseLanguage/comments/1s7ghoq/using_comprehensible_input_early_hsk/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 5
-- created: 2026-03-30T04:14:45.000Z
-- matched query: resource
-
 ## [HSK Flashcards as Pleco](https://old.reddit.com/r/ChineseLanguage/comments/1s206wx/hsk_flashcards_as_pleco/)
 - subreddit: r/ChineseLanguage
 - score: 4
 - comments: 7
 - created: 2026-03-24T01:27:40.000Z
 - matched query: flashcard app
+
+## [Learning Chinese characters in food apps to avoid menu confusion](https://old.reddit.com/r/ChineseLanguage/comments/1rsarvp/learning_chinese_characters_in_food_apps_to_avoid/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 20
+- created: 2026-03-13T02:10:29.000Z
+- matched query: "learn chinese" app
 

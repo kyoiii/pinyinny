@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-02T22:55:31.282Z
+Generated: 2026-04-02T23:39:40.875Z
 
 ## [Trying a game-based approach to learning Chinese characters – curious if it works for others?](https://old.reddit.com/r/ChineseLanguage/comments/1sa0fmk/trying_a_gamebased_approach_to_learning_chinese/)
 - subreddit: r/ChineseLanguage
-- score: 9
-- comments: 6
+- score: 8
+- comments: 7
 - created: 2026-04-01T23:04:41.000Z
 - matched query: "learn chinese" app
 
@@ -19,7 +19,7 @@ Generated: 2026-04-02T22:55:31.282Z
 ## [More advanced Chinese vocabulary lists for travel?](https://old.reddit.com/r/ChineseLanguage/comments/1satzzv/more_advanced_chinese_vocabulary_lists_for_travel/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 6
+- comments: 7
 - created: 2026-04-02T21:15:45.000Z
 - matched query: "learn chinese" app
 
@@ -65,13 +65,6 @@ Generated: 2026-04-02T22:55:31.282Z
 - created: 2026-03-31T16:11:11.000Z
 - matched query: "learn chinese" app
 
-## [Why are other languages communities online so small compared to German?](https://old.reddit.com/r/ChineseLanguage/comments/1s86qrs/why_are_other_languages_communities_online_so/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 18
-- created: 2026-03-30T23:20:03.000Z
-- matched query: resource
-
 ## [I'm looking for a font for chinese pinyin and hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1rzw5qg/im_looking_for_a_font_for_chinese_pinyin_and_hanzi/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -105,6 +98,13 @@ Generated: 2026-04-02T22:55:31.282Z
 - score: 5
 - comments: 3
 - created: 2026-04-02T01:15:04.000Z
+- matched query: resource
+
+## [Why are other languages communities online so small compared to German?](https://old.reddit.com/r/ChineseLanguage/comments/1s86qrs/why_are_other_languages_communities_online_so/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 18
+- created: 2026-03-30T23:20:03.000Z
 - matched query: resource
 
 ## [Best ways to learn to write Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1s78bor/best_ways_to_learn_to_write_chinese/)

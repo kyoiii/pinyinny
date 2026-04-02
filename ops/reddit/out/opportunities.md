@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-02T18:35:57.937Z
+Generated: 2026-04-02T19:35:06.464Z
 
 ## [Trying a game-based approach to learning Chinese characters – curious if it works for others?](https://old.reddit.com/r/ChineseLanguage/comments/1sa0fmk/trying_a_gamebased_approach_to_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -26,7 +26,7 @@ Generated: 2026-04-02T18:35:57.937Z
 ## [My gf and I both CBCs both fluent in Canto, but our trip back to China made us realize we were missing something... So I built an app about it](https://old.reddit.com/r/ChineseLanguage/comments/1sadasx/my_gf_and_i_both_cbcs_both_fluent_in_canto_but/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 6
+- comments: 8
 - created: 2026-04-02T10:09:51.000Z
 - matched query: flashcard app
 
@@ -100,13 +100,6 @@ Generated: 2026-04-02T18:35:57.937Z
 - created: 2026-04-02T15:17:43.000Z
 - matched query: "learn chinese" app
 
-## [suffering through naming characters](https://old.reddit.com/r/ChineseLanguage/comments/1sagapr/suffering_through_naming_characters/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 1
-- created: 2026-04-02T12:41:12.000Z
-- matched query: resource
-
 ## [Need help with my Chinese pronunciation](https://old.reddit.com/r/ChineseLanguage/comments/1sa3f8l/need_help_with_my_chinese_pronunciation/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -141,4 +134,11 @@ Generated: 2026-04-02T18:35:57.937Z
 - comments: 1
 - created: 2026-03-27T00:12:06.000Z
 - matched query: "learn chinese" app
+
+## [Do any tone trainers exist that use active recall/spaced repetition similar to anki decks?](https://old.reddit.com/r/ChineseLanguage/comments/1s4mhzz/do_any_tone_trainers_exist_that_use_active/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 7
+- created: 2026-03-26T22:46:39.000Z
+- matched query: app OR website pinyin hanzi
 

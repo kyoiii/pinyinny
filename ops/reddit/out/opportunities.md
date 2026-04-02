@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-02T16:41:52.136Z
+Generated: 2026-04-02T17:37:46.202Z
 
 ## [Trying a game-based approach to learning Chinese characters – curious if it works for others?](https://old.reddit.com/r/ChineseLanguage/comments/1sa0fmk/trying_a_gamebased_approach_to_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -36,13 +36,6 @@ Generated: 2026-04-02T16:41:52.136Z
 - comments: 16
 - created: 2026-03-28T21:54:54.000Z
 - matched query: resource
-
-## [xiaomi speaker pro dev for chinese langage student](https://old.reddit.com/r/ChineseLanguage/comments/1sak9dj/xiaomi_speaker_pro_dev_for_chinese_langage_student/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-04-02T15:17:43.000Z
-- matched query: "learn chinese" app
 
 ## [PDF workbook generator](https://old.reddit.com/r/ChineseLanguage/comments/1sabd5m/pdf_workbook_generator/)
 - subreddit: r/ChineseLanguage
@@ -98,6 +91,13 @@ Generated: 2026-04-02T16:41:52.136Z
 - score: 6
 - comments: 12
 - created: 2026-03-10T21:37:08.000Z
+- matched query: "learn chinese" app
+
+## [xiaomi speaker pro dev for chinese langage student](https://old.reddit.com/r/ChineseLanguage/comments/1sak9dj/xiaomi_speaker_pro_dev_for_chinese_langage_student/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 1
+- created: 2026-04-02T15:17:43.000Z
 - matched query: "learn chinese" app
 
 ## [suffering through naming characters](https://old.reddit.com/r/ChineseLanguage/comments/1sagapr/suffering_through_naming_characters/)

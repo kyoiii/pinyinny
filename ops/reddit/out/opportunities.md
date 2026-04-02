@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-02T19:35:06.464Z
+Generated: 2026-04-02T20:07:21.752Z
 
 ## [Trying a game-based approach to learning Chinese characters – curious if it works for others?](https://old.reddit.com/r/ChineseLanguage/comments/1sa0fmk/trying_a_gamebased_approach_to_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -19,14 +19,14 @@ Generated: 2026-04-02T19:35:06.464Z
 ## [Memory Tool Discussion](https://old.reddit.com/r/ChineseLanguage/comments/1sahdkr/memory_tool_discussion/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 10
+- comments: 11
 - created: 2026-04-02T13:26:47.000Z
 - matched query: flashcard app
 
 ## [My gf and I both CBCs both fluent in Canto, but our trip back to China made us realize we were missing something... So I built an app about it](https://old.reddit.com/r/ChineseLanguage/comments/1sadasx/my_gf_and_i_both_cbcs_both_fluent_in_canto_but/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 8
+- comments: 9
 - created: 2026-04-02T10:09:51.000Z
 - matched query: flashcard app
 
@@ -96,7 +96,7 @@ Generated: 2026-04-02T19:35:06.464Z
 ## [xiaomi speaker pro dev for chinese langage student](https://old.reddit.com/r/ChineseLanguage/comments/1sak9dj/xiaomi_speaker_pro_dev_for_chinese_langage_student/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 1
+- comments: 3
 - created: 2026-04-02T15:17:43.000Z
 - matched query: "learn chinese" app
 

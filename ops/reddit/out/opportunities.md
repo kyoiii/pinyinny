@@ -1,18 +1,18 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-02T01:00:06.988Z
+Generated: 2026-04-02T03:50:11.195Z
 
 ## [Trying a game-based approach to learning Chinese characters – curious if it works for others?](https://old.reddit.com/r/ChineseLanguage/comments/1sa0fmk/trying_a_gamebased_approach_to_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 5
+- comments: 6
 - created: 2026-04-01T23:04:41.000Z
 - matched query: "learn chinese" app
 
 ## [If you're learning Chinese to go to Taiwan, what are some roadblocks you've encountered with Chinese-learning apps?](https://old.reddit.com/r/ChineseLanguage/comments/1s9ldpy/if_youre_learning_chinese_to_go_to_taiwan_what/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 4
+- comments: 5
 - created: 2026-04-01T13:59:08.000Z
 - matched query: "learn chinese" app
 
@@ -72,12 +72,12 @@ Generated: 2026-04-02T01:00:06.988Z
 - created: 2026-03-10T21:37:08.000Z
 - matched query: "learn chinese" app
 
-## [Learning Chinese via Netflix/Youtube](https://old.reddit.com/r/ChineseLanguage/comments/1s98brc/learning_chinese_via_netflixyoutube/)
+## [Need help with my Chinese pronunciation](https://old.reddit.com/r/ChineseLanguage/comments/1sa3f8l/need_help_with_my_chinese_pronunciation/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 6
-- created: 2026-04-01T02:47:39.000Z
-- matched query: flashcard app
+- comments: 2
+- created: 2026-04-02T01:15:04.000Z
+- matched query: resource
 
 ## [Best ways to learn to write Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1s78bor/best_ways_to_learn_to_write_chinese/)
 - subreddit: r/ChineseLanguage
@@ -114,6 +114,13 @@ Generated: 2026-04-02T01:00:06.988Z
 - created: 2026-03-26T22:46:39.000Z
 - matched query: app OR website pinyin hanzi
 
+## [Learning Chinese via Netflix/Youtube](https://old.reddit.com/r/ChineseLanguage/comments/1s98brc/learning_chinese_via_netflixyoutube/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 5
+- created: 2026-04-01T02:47:39.000Z
+- matched query: flashcard app
+
 ## [OCR editing of DeFrancis "ABC Chinese-English Comprehensive Dictionary."](https://old.reddit.com/r/ChineseLanguage/comments/1s8p85j/ocr_editing_of_defrancis_abc_chineseenglish/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -134,11 +141,4 @@ Generated: 2026-04-02T01:00:06.988Z
 - comments: 7
 - created: 2026-03-24T01:27:40.000Z
 - matched query: flashcard app
-
-## [Learning Chinese characters in food apps to avoid menu confusion](https://old.reddit.com/r/ChineseLanguage/comments/1rsarvp/learning_chinese_characters_in_food_apps_to_avoid/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 20
-- created: 2026-03-13T02:10:29.000Z
-- matched query: "learn chinese" app
 

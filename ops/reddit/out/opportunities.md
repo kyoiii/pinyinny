@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-02T14:47:54.800Z
+Generated: 2026-04-02T15:46:34.862Z
 
 ## [Trying a game-based approach to learning Chinese characters – curious if it works for others?](https://old.reddit.com/r/ChineseLanguage/comments/1sa0fmk/trying_a_gamebased_approach_to_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -19,14 +19,14 @@ Generated: 2026-04-02T14:47:54.800Z
 ## [Memory Tool Discussion](https://old.reddit.com/r/ChineseLanguage/comments/1sahdkr/memory_tool_discussion/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 9
+- comments: 10
 - created: 2026-04-02T13:26:47.000Z
 - matched query: flashcard app
 
 ## [My gf and I both CBCs both fluent in Canto, but our trip back to China made us realize we were missing something... So I built an app about it](https://old.reddit.com/r/ChineseLanguage/comments/1sadasx/my_gf_and_i_both_cbcs_both_fluent_in_canto_but/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 5
+- comments: 6
 - created: 2026-04-02T10:09:51.000Z
 - matched query: flashcard app
 
@@ -36,6 +36,13 @@ Generated: 2026-04-02T14:47:54.800Z
 - comments: 16
 - created: 2026-03-28T21:54:54.000Z
 - matched query: resource
+
+## [xiaomi speaker pro dev for chinese langage student](https://old.reddit.com/r/ChineseLanguage/comments/1sak9dj/xiaomi_speaker_pro_dev_for_chinese_langage_student/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 0
+- created: 2026-04-02T15:17:43.000Z
+- matched query: "learn chinese" app
 
 ## [PDF workbook generator](https://old.reddit.com/r/ChineseLanguage/comments/1sabd5m/pdf_workbook_generator/)
 - subreddit: r/ChineseLanguage
@@ -134,11 +141,4 @@ Generated: 2026-04-02T14:47:54.800Z
 - comments: 1
 - created: 2026-03-27T00:12:06.000Z
 - matched query: "learn chinese" app
-
-## [Do any tone trainers exist that use active recall/spaced repetition similar to anki decks?](https://old.reddit.com/r/ChineseLanguage/comments/1s4mhzz/do_any_tone_trainers_exist_that_use_active/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 7
-- created: 2026-03-26T22:46:39.000Z
-- matched query: app OR website pinyin hanzi
 

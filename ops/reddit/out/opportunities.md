@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-02T20:54:24.227Z
+Generated: 2026-04-02T21:38:55.966Z
 
 ## [Trying a game-based approach to learning Chinese characters – curious if it works for others?](https://old.reddit.com/r/ChineseLanguage/comments/1sa0fmk/trying_a_gamebased_approach_to_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -12,8 +12,15 @@ Generated: 2026-04-02T20:54:24.227Z
 ## [If you're learning Chinese to go to Taiwan, what are some roadblocks you've encountered with Chinese-learning apps?](https://old.reddit.com/r/ChineseLanguage/comments/1s9ldpy/if_youre_learning_chinese_to_go_to_taiwan_what/)
 - subreddit: r/ChineseLanguage
 - score: 8
-- comments: 6
+- comments: 8
 - created: 2026-04-01T13:59:08.000Z
+- matched query: "learn chinese" app
+
+## [More advanced Chinese vocabulary lists for travel?](https://old.reddit.com/r/ChineseLanguage/comments/1satzzv/more_advanced_chinese_vocabulary_lists_for_travel/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 1
+- created: 2026-04-02T21:15:45.000Z
 - matched query: "learn chinese" app
 
 ## [Memory Tool Discussion](https://old.reddit.com/r/ChineseLanguage/comments/1sahdkr/memory_tool_discussion/)
@@ -21,13 +28,6 @@ Generated: 2026-04-02T20:54:24.227Z
 - score: 7
 - comments: 11
 - created: 2026-04-02T13:26:47.000Z
-- matched query: flashcard app
-
-## [My gf and I both CBCs both fluent in Canto, but our trip back to China made us realize we were missing something... So I built an app about it](https://old.reddit.com/r/ChineseLanguage/comments/1sadasx/my_gf_and_i_both_cbcs_both_fluent_in_canto_but/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 9
-- created: 2026-04-02T10:09:51.000Z
 - matched query: flashcard app
 
 ## [Best resources to get me started?](https://old.reddit.com/r/ChineseLanguage/comments/1s6d7j5/best_resources_to_get_me_started/)

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-02T08:03:21.036Z
+Generated: 2026-04-02T09:13:17.644Z
 
 ## [Trying a game-based approach to learning Chinese characters – curious if it works for others?](https://old.reddit.com/r/ChineseLanguage/comments/1sa0fmk/trying_a_gamebased_approach_to_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -22,6 +22,13 @@ Generated: 2026-04-02T08:03:21.036Z
 - comments: 16
 - created: 2026-03-28T21:54:54.000Z
 - matched query: resource
+
+## [PDF workbook generator](https://old.reddit.com/r/ChineseLanguage/comments/1sabd5m/pdf_workbook_generator/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 0
+- created: 2026-04-02T08:12:10.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [Any AI tool that actually forces you to speak and corrects you properly? (language learning)](https://old.reddit.com/r/ChineseLanguage/comments/1s9crks/any_ai_tool_that_actually_forces_you_to_speak_and/)
 - subreddit: r/ChineseLanguage
@@ -113,13 +120,6 @@ Generated: 2026-04-02T08:03:21.036Z
 - comments: 7
 - created: 2026-03-26T22:46:39.000Z
 - matched query: app OR website pinyin hanzi
-
-## [Learning Chinese via Netflix/Youtube](https://old.reddit.com/r/ChineseLanguage/comments/1s98brc/learning_chinese_via_netflixyoutube/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 5
-- created: 2026-04-01T02:47:39.000Z
-- matched query: flashcard app
 
 ## [OCR editing of DeFrancis "ABC Chinese-English Comprehensive Dictionary."](https://old.reddit.com/r/ChineseLanguage/comments/1s8p85j/ocr_editing_of_defrancis_abc_chineseenglish/)
 - subreddit: r/ChineseLanguage

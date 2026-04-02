@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-02T05:28:06.511Z
+Generated: 2026-04-02T06:52:27.911Z
 
 ## [Trying a game-based approach to learning Chinese characters – curious if it works for others?](https://old.reddit.com/r/ChineseLanguage/comments/1sa0fmk/trying_a_gamebased_approach_to_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -16,19 +16,19 @@ Generated: 2026-04-02T05:28:06.511Z
 - created: 2026-04-01T13:59:08.000Z
 - matched query: "learn chinese" app
 
-## [Any AI tool that actually forces you to speak and corrects you properly? (language learning)](https://old.reddit.com/r/ChineseLanguage/comments/1s9crks/any_ai_tool_that_actually_forces_you_to_speak_and/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 31
-- created: 2026-04-01T06:37:20.000Z
-- matched query: flashcard app
-
 ## [Best resources to get me started?](https://old.reddit.com/r/ChineseLanguage/comments/1s6d7j5/best_resources_to_get_me_started/)
 - subreddit: r/ChineseLanguage
 - score: 7
 - comments: 16
 - created: 2026-03-28T21:54:54.000Z
 - matched query: resource
+
+## [Any AI tool that actually forces you to speak and corrects you properly? (language learning)](https://old.reddit.com/r/ChineseLanguage/comments/1s9crks/any_ai_tool_that_actually_forces_you_to_speak_and/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 31
+- created: 2026-04-01T06:37:20.000Z
+- matched query: flashcard app
 
 ## [One month into Chinese: Speaking is okay, but Grammar and Characters are killing me. Any advice?](https://old.reddit.com/r/ChineseLanguage/comments/1s95lub/one_month_into_chinese_speaking_is_okay_but/)
 - subreddit: r/ChineseLanguage

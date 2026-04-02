@@ -1,18 +1,18 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-01T23:44:06.617Z
+Generated: 2026-04-02T01:00:06.988Z
 
 ## [Trying a game-based approach to learning Chinese characters – curious if it works for others?](https://old.reddit.com/r/ChineseLanguage/comments/1sa0fmk/trying_a_gamebased_approach_to_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 3
+- comments: 5
 - created: 2026-04-01T23:04:41.000Z
 - matched query: "learn chinese" app
 
 ## [If you're learning Chinese to go to Taiwan, what are some roadblocks you've encountered with Chinese-learning apps?](https://old.reddit.com/r/ChineseLanguage/comments/1s9ldpy/if_youre_learning_chinese_to_go_to_taiwan_what/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 3
+- comments: 4
 - created: 2026-04-01T13:59:08.000Z
 - matched query: "learn chinese" app
 
@@ -23,19 +23,19 @@ Generated: 2026-04-01T23:44:06.617Z
 - created: 2026-04-01T06:37:20.000Z
 - matched query: flashcard app
 
-## [One month into Chinese: Speaking is okay, but Grammar and Characters are killing me. Any advice?](https://old.reddit.com/r/ChineseLanguage/comments/1s95lub/one_month_into_chinese_speaking_is_okay_but/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 9
-- created: 2026-04-01T00:47:24.000Z
-- matched query: "learn chinese" app
-
 ## [Best resources to get me started?](https://old.reddit.com/r/ChineseLanguage/comments/1s6d7j5/best_resources_to_get_me_started/)
 - subreddit: r/ChineseLanguage
 - score: 7
 - comments: 16
 - created: 2026-03-28T21:54:54.000Z
 - matched query: resource
+
+## [One month into Chinese: Speaking is okay, but Grammar and Characters are killing me. Any advice?](https://old.reddit.com/r/ChineseLanguage/comments/1s95lub/one_month_into_chinese_speaking_is_okay_but/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 9
+- created: 2026-04-01T00:47:24.000Z
+- matched query: "learn chinese" app
 
 ## [offline learning materials for beginners?](https://old.reddit.com/r/ChineseLanguage/comments/1s8ru1g/offline_learning_materials_for_beginners/)
 - subreddit: r/ChineseLanguage

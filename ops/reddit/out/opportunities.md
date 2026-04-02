@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-02T12:00:32.263Z
+Generated: 2026-04-02T13:50:53.420Z
 
 ## [Trying a game-based approach to learning Chinese characters – curious if it works for others?](https://old.reddit.com/r/ChineseLanguage/comments/1sa0fmk/trying_a_gamebased_approach_to_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -12,9 +12,16 @@ Generated: 2026-04-02T12:00:32.263Z
 ## [If you're learning Chinese to go to Taiwan, what are some roadblocks you've encountered with Chinese-learning apps?](https://old.reddit.com/r/ChineseLanguage/comments/1s9ldpy/if_youre_learning_chinese_to_go_to_taiwan_what/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 5
+- comments: 6
 - created: 2026-04-01T13:59:08.000Z
 - matched query: "learn chinese" app
+
+## [Memory Tool Discussion](https://old.reddit.com/r/ChineseLanguage/comments/1sahdkr/memory_tool_discussion/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 2
+- created: 2026-04-02T13:26:47.000Z
+- matched query: flashcard app
 
 ## [My gf and I both CBCs both fluent in Canto, but our trip back to China made us realize we were missing something... So I built an app about it](https://old.reddit.com/r/ChineseLanguage/comments/1sadasx/my_gf_and_i_both_cbcs_both_fluent_in_canto_but/)
 - subreddit: r/ChineseLanguage
@@ -28,6 +35,13 @@ Generated: 2026-04-02T12:00:32.263Z
 - score: 7
 - comments: 16
 - created: 2026-03-28T21:54:54.000Z
+- matched query: resource
+
+## [suffering through naming characters](https://old.reddit.com/r/ChineseLanguage/comments/1sagapr/suffering_through_naming_characters/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 0
+- created: 2026-04-02T12:41:12.000Z
 - matched query: resource
 
 ## [PDF workbook generator](https://old.reddit.com/r/ChineseLanguage/comments/1sabd5m/pdf_workbook_generator/)
@@ -89,7 +103,7 @@ Generated: 2026-04-02T12:00:32.263Z
 ## [Need help with my Chinese pronunciation](https://old.reddit.com/r/ChineseLanguage/comments/1sa3f8l/need_help_with_my_chinese_pronunciation/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 2
+- comments: 3
 - created: 2026-04-02T01:15:04.000Z
 - matched query: resource
 
@@ -127,18 +141,4 @@ Generated: 2026-04-02T12:00:32.263Z
 - comments: 7
 - created: 2026-03-26T22:46:39.000Z
 - matched query: app OR website pinyin hanzi
-
-## [OCR editing of DeFrancis "ABC Chinese-English Comprehensive Dictionary."](https://old.reddit.com/r/ChineseLanguage/comments/1s8p85j/ocr_editing_of_defrancis_abc_chineseenglish/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 9
-- created: 2026-03-31T14:36:56.000Z
-- matched query: resource
-
-## [HSK Flashcards as Pleco](https://old.reddit.com/r/ChineseLanguage/comments/1s206wx/hsk_flashcards_as_pleco/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 7
-- created: 2026-03-24T01:27:40.000Z
-- matched query: flashcard app
 

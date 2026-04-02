@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-02T22:18:40.099Z
+Generated: 2026-04-02T22:55:31.282Z
 
 ## [Trying a game-based approach to learning Chinese characters – curious if it works for others?](https://old.reddit.com/r/ChineseLanguage/comments/1sa0fmk/trying_a_gamebased_approach_to_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -19,7 +19,7 @@ Generated: 2026-04-02T22:18:40.099Z
 ## [More advanced Chinese vocabulary lists for travel?](https://old.reddit.com/r/ChineseLanguage/comments/1satzzv/more_advanced_chinese_vocabulary_lists_for_travel/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 5
+- comments: 6
 - created: 2026-04-02T21:15:45.000Z
 - matched query: "learn chinese" app
 
@@ -135,10 +135,10 @@ Generated: 2026-04-02T22:18:40.099Z
 - created: 2026-03-27T00:12:06.000Z
 - matched query: "learn chinese" app
 
-## [Do any tone trainers exist that use active recall/spaced repetition similar to anki decks?](https://old.reddit.com/r/ChineseLanguage/comments/1s4mhzz/do_any_tone_trainers_exist_that_use_active/)
+## [OCR editing of DeFrancis "ABC Chinese-English Comprehensive Dictionary."](https://old.reddit.com/r/ChineseLanguage/comments/1s8p85j/ocr_editing_of_defrancis_abc_chineseenglish/)
 - subreddit: r/ChineseLanguage
-- score: 5
-- comments: 7
-- created: 2026-03-26T22:46:39.000Z
-- matched query: app OR website pinyin hanzi
+- score: 4
+- comments: 9
+- created: 2026-03-31T14:36:56.000Z
+- matched query: resource
 

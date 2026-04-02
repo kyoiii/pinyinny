@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-02T13:50:53.420Z
+Generated: 2026-04-02T14:47:54.800Z
 
 ## [Trying a game-based approach to learning Chinese characters – curious if it works for others?](https://old.reddit.com/r/ChineseLanguage/comments/1sa0fmk/trying_a_gamebased_approach_to_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -11,7 +11,7 @@ Generated: 2026-04-02T13:50:53.420Z
 
 ## [If you're learning Chinese to go to Taiwan, what are some roadblocks you've encountered with Chinese-learning apps?](https://old.reddit.com/r/ChineseLanguage/comments/1s9ldpy/if_youre_learning_chinese_to_go_to_taiwan_what/)
 - subreddit: r/ChineseLanguage
-- score: 9
+- score: 8
 - comments: 6
 - created: 2026-04-01T13:59:08.000Z
 - matched query: "learn chinese" app
@@ -19,7 +19,7 @@ Generated: 2026-04-02T13:50:53.420Z
 ## [Memory Tool Discussion](https://old.reddit.com/r/ChineseLanguage/comments/1sahdkr/memory_tool_discussion/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 2
+- comments: 9
 - created: 2026-04-02T13:26:47.000Z
 - matched query: flashcard app
 
@@ -35,13 +35,6 @@ Generated: 2026-04-02T13:50:53.420Z
 - score: 7
 - comments: 16
 - created: 2026-03-28T21:54:54.000Z
-- matched query: resource
-
-## [suffering through naming characters](https://old.reddit.com/r/ChineseLanguage/comments/1sagapr/suffering_through_naming_characters/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-04-02T12:41:12.000Z
 - matched query: resource
 
 ## [PDF workbook generator](https://old.reddit.com/r/ChineseLanguage/comments/1sabd5m/pdf_workbook_generator/)
@@ -99,6 +92,13 @@ Generated: 2026-04-02T13:50:53.420Z
 - comments: 12
 - created: 2026-03-10T21:37:08.000Z
 - matched query: "learn chinese" app
+
+## [suffering through naming characters](https://old.reddit.com/r/ChineseLanguage/comments/1sagapr/suffering_through_naming_characters/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 1
+- created: 2026-04-02T12:41:12.000Z
+- matched query: resource
 
 ## [Need help with my Chinese pronunciation](https://old.reddit.com/r/ChineseLanguage/comments/1sa3f8l/need_help_with_my_chinese_pronunciation/)
 - subreddit: r/ChineseLanguage

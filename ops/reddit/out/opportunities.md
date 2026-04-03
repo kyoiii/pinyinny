@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-03T06:45:25.363Z
+Generated: 2026-04-03T07:52:05.649Z
 
 ## [Trying a game-based approach to learning Chinese characters – curious if it works for others?](https://old.reddit.com/r/ChineseLanguage/comments/1sa0fmk/trying_a_gamebased_approach_to_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -33,7 +33,7 @@ Generated: 2026-04-03T06:45:25.363Z
 ## [Memory Tool Discussion](https://old.reddit.com/r/ChineseLanguage/comments/1sahdkr/memory_tool_discussion/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 11
+- comments: 12
 - created: 2026-04-02T13:26:47.000Z
 - matched query: flashcard app
 
@@ -96,7 +96,7 @@ Generated: 2026-04-03T06:45:25.363Z
 ## [Looking for collaborations in a project](https://old.reddit.com/r/ChineseLanguage/comments/1sb5mgn/looking_for_collaborations_in_a_project/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 4
+- comments: 5
 - created: 2026-04-03T06:14:31.000Z
 - matched query: app OR website pinyin hanzi
 
@@ -110,7 +110,7 @@ Generated: 2026-04-03T06:45:25.363Z
 ## [I want to get back to learning Chinese, but the learning of the chinese characters cools me off it.](https://old.reddit.com/r/ChineseLanguage/comments/1sayr8j/i_want_to_get_back_to_learning_chinese_but_the/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 16
+- comments: 17
 - created: 2026-04-03T00:33:31.000Z
 - matched query: app OR website pinyin hanzi
 

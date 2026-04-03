@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-03T11:59:56.686Z
+Generated: 2026-04-03T13:25:27.037Z
 
 ## [Trying a game-based approach to learning Chinese characters – curious if it works for others?](https://old.reddit.com/r/ChineseLanguage/comments/1sa0fmk/trying_a_gamebased_approach_to_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -12,28 +12,28 @@ Generated: 2026-04-03T11:59:56.686Z
 ## [If you're learning Chinese to go to Taiwan, what are some roadblocks you've encountered with Chinese-learning apps?](https://old.reddit.com/r/ChineseLanguage/comments/1s9ldpy/if_youre_learning_chinese_to_go_to_taiwan_what/)
 - subreddit: r/ChineseLanguage
 - score: 8
-- comments: 8
+- comments: 9
 - created: 2026-04-01T13:59:08.000Z
 - matched query: "learn chinese" app
 
 ## [Traditional character HSK 1 immersion?](https://old.reddit.com/r/ChineseLanguage/comments/1sb3tb6/traditional_character_hsk_1_immersion/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 4
+- comments: 5
 - created: 2026-04-03T04:34:31.000Z
 - matched query: resource
 
 ## [More advanced Chinese vocabulary lists for travel?](https://old.reddit.com/r/ChineseLanguage/comments/1satzzv/more_advanced_chinese_vocabulary_lists_for_travel/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 13
+- comments: 14
 - created: 2026-04-02T21:15:45.000Z
 - matched query: "learn chinese" app
 
 ## [Memory Tool Discussion](https://old.reddit.com/r/ChineseLanguage/comments/1sahdkr/memory_tool_discussion/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 12
+- comments: 13
 - created: 2026-04-02T13:26:47.000Z
 - matched query: flashcard app
 
@@ -89,14 +89,14 @@ Generated: 2026-04-03T11:59:56.686Z
 ## [Looking for collaborations in a project](https://old.reddit.com/r/ChineseLanguage/comments/1sb5mgn/looking_for_collaborations_in_a_project/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 12
+- comments: 13
 - created: 2026-04-03T06:14:31.000Z
 - matched query: app OR website pinyin hanzi
 
 ## [How to learn chinese by order for complete beginner?](https://old.reddit.com/r/ChineseLanguage/comments/1sazmgr/how_to_learn_chinese_by_order_for_complete/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 36
+- comments: 37
 - created: 2026-04-03T01:13:05.000Z
 - matched query: resource
 
@@ -138,7 +138,7 @@ Generated: 2026-04-03T11:59:56.686Z
 ## [Need help with my Chinese pronunciation](https://old.reddit.com/r/ChineseLanguage/comments/1sa3f8l/need_help_with_my_chinese_pronunciation/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 3
+- comments: 4
 - created: 2026-04-02T01:15:04.000Z
 - matched query: resource
 

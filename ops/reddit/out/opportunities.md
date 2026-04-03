@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-03T18:43:15.115Z
+Generated: 2026-04-03T19:29:24.564Z
 
 ## [For those of you with a Chinese reading habit, what tools are you using? And why are e-readers so bad?](https://old.reddit.com/r/ChineseLanguage/comments/1sbj6c6/for_those_of_you_with_a_chinese_reading_habit/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 15
+- comments: 22
 - created: 2026-04-03T16:59:25.000Z
 - matched query: "learn chinese" app
 

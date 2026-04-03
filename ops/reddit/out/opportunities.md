@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-03T15:52:23.732Z
+Generated: 2026-04-03T16:34:44.099Z
 
 ## [Trying a game-based approach to learning Chinese characters – curious if it works for others?](https://old.reddit.com/r/ChineseLanguage/comments/1sa0fmk/trying_a_gamebased_approach_to_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -26,7 +26,7 @@ Generated: 2026-04-03T15:52:23.732Z
 ## [More advanced Chinese vocabulary lists for travel?](https://old.reddit.com/r/ChineseLanguage/comments/1satzzv/more_advanced_chinese_vocabulary_lists_for_travel/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 14
+- comments: 15
 - created: 2026-04-02T21:15:45.000Z
 - matched query: "learn chinese" app
 
@@ -47,7 +47,7 @@ Generated: 2026-04-03T15:52:23.732Z
 ## [Any AI tool that actually forces you to speak and corrects you properly? (language learning)](https://old.reddit.com/r/ChineseLanguage/comments/1s9crks/any_ai_tool_that_actually_forces_you_to_speak_and/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 31
+- comments: 32
 - created: 2026-04-01T06:37:20.000Z
 - matched query: flashcard app
 
@@ -56,13 +56,6 @@ Generated: 2026-04-03T15:52:23.732Z
 - score: 6
 - comments: 10
 - created: 2026-04-01T00:47:24.000Z
-- matched query: "learn chinese" app
-
-## [offline learning materials for beginners?](https://old.reddit.com/r/ChineseLanguage/comments/1s8ru1g/offline_learning_materials_for_beginners/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 13
-- created: 2026-03-31T16:11:11.000Z
 - matched query: "learn chinese" app
 
 ## [I'm looking for a font for chinese pinyin and hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1rzw5qg/im_looking_for_a_font_for_chinese_pinyin_and_hanzi/)
@@ -113,6 +106,13 @@ Generated: 2026-04-03T15:52:23.732Z
 - comments: 0
 - created: 2026-04-02T08:12:10.000Z
 - matched query: app OR website pinyin hanzi
+
+## [offline learning materials for beginners?](https://old.reddit.com/r/ChineseLanguage/comments/1s8ru1g/offline_learning_materials_for_beginners/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 13
+- created: 2026-03-31T16:11:11.000Z
+- matched query: "learn chinese" app
 
 ## [Best ways to learn to write Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1s78bor/best_ways_to_learn_to_write_chinese/)
 - subreddit: r/ChineseLanguage

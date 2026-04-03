@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-03T22:49:42.434Z
+Generated: 2026-04-03T23:22:58.148Z
 
 ## [Trying a game-based approach to learning Chinese characters – curious if it works for others?](https://old.reddit.com/r/ChineseLanguage/comments/1sa0fmk/trying_a_gamebased_approach_to_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -19,7 +19,7 @@ Generated: 2026-04-03T22:49:42.434Z
 ## [For those of you with a Chinese reading habit, what tools are you using? And why are e-readers so bad?](https://old.reddit.com/r/ChineseLanguage/comments/1sbj6c6/for_those_of_you_with_a_chinese_reading_habit/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 33
+- comments: 34
 - created: 2026-04-03T16:59:25.000Z
 - matched query: "learn chinese" app
 

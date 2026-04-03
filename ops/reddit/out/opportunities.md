@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-03T05:22:52.772Z
+Generated: 2026-04-03T06:45:25.363Z
 
 ## [Trying a game-based approach to learning Chinese characters – curious if it works for others?](https://old.reddit.com/r/ChineseLanguage/comments/1sa0fmk/trying_a_gamebased_approach_to_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -19,14 +19,14 @@ Generated: 2026-04-03T05:22:52.772Z
 ## [Traditional character HSK 1 immersion?](https://old.reddit.com/r/ChineseLanguage/comments/1sb3tb6/traditional_character_hsk_1_immersion/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 2
+- comments: 4
 - created: 2026-04-03T04:34:31.000Z
 - matched query: resource
 
 ## [More advanced Chinese vocabulary lists for travel?](https://old.reddit.com/r/ChineseLanguage/comments/1satzzv/more_advanced_chinese_vocabulary_lists_for_travel/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 11
+- comments: 13
 - created: 2026-04-02T21:15:45.000Z
 - matched query: "learn chinese" app
 
@@ -93,10 +93,17 @@ Generated: 2026-04-03T05:22:52.772Z
 - created: 2026-03-10T21:37:08.000Z
 - matched query: "learn chinese" app
 
+## [Looking for collaborations in a project](https://old.reddit.com/r/ChineseLanguage/comments/1sb5mgn/looking_for_collaborations_in_a_project/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 4
+- created: 2026-04-03T06:14:31.000Z
+- matched query: app OR website pinyin hanzi
+
 ## [How to learn chinese by order for complete beginner?](https://old.reddit.com/r/ChineseLanguage/comments/1sazmgr/how_to_learn_chinese_by_order_for_complete/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 31
+- comments: 34
 - created: 2026-04-03T01:13:05.000Z
 - matched query: resource
 
@@ -133,12 +140,5 @@ Generated: 2026-04-03T05:22:52.772Z
 - score: 4
 - comments: 3
 - created: 2026-04-02T01:15:04.000Z
-- matched query: resource
-
-## [OCR editing of DeFrancis "ABC Chinese-English Comprehensive Dictionary."](https://old.reddit.com/r/ChineseLanguage/comments/1s8p85j/ocr_editing_of_defrancis_abc_chineseenglish/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 10
-- created: 2026-03-31T14:36:56.000Z
 - matched query: resource
 

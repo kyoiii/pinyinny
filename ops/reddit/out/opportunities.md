@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-03T17:53:20.191Z
+Generated: 2026-04-03T18:43:15.115Z
 
 ## [For those of you with a Chinese reading habit, what tools are you using? And why are e-readers so bad?](https://old.reddit.com/r/ChineseLanguage/comments/1sbj6c6/for_those_of_you_with_a_chinese_reading_habit/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 4
+- comments: 15
 - created: 2026-04-03T16:59:25.000Z
 - matched query: "learn chinese" app
 
@@ -42,13 +42,6 @@ Generated: 2026-04-03T17:53:20.191Z
 - score: 7
 - comments: 16
 - created: 2026-03-28T21:54:54.000Z
-- matched query: resource
-
-## [Download chinese ebooks, listen to chinese radio channels](https://old.reddit.com/r/ChineseLanguage/comments/1sbk51s/download_chinese_ebooks_listen_to_chinese_radio/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-04-03T17:34:01.000Z
 - matched query: resource
 
 ## [Memory Tool Discussion](https://old.reddit.com/r/ChineseLanguage/comments/1sahdkr/memory_tool_discussion/)
@@ -93,10 +86,17 @@ Generated: 2026-04-03T17:53:20.191Z
 - created: 2026-03-10T21:37:08.000Z
 - matched query: "learn chinese" app
 
+## [Download chinese ebooks, listen to chinese radio channels](https://old.reddit.com/r/ChineseLanguage/comments/1sbk51s/download_chinese_ebooks_listen_to_chinese_radio/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 1
+- created: 2026-04-03T17:34:01.000Z
+- matched query: resource
+
 ## [Looking for collaborations in a project](https://old.reddit.com/r/ChineseLanguage/comments/1sb5mgn/looking_for_collaborations_in_a_project/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 20
+- comments: 21
 - created: 2026-04-03T06:14:31.000Z
 - matched query: app OR website pinyin hanzi
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-03T13:25:27.037Z
+Generated: 2026-04-03T14:13:14.425Z
 
 ## [Trying a game-based approach to learning Chinese characters – curious if it works for others?](https://old.reddit.com/r/ChineseLanguage/comments/1sa0fmk/trying_a_gamebased_approach_to_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -30,19 +30,19 @@ Generated: 2026-04-03T13:25:27.037Z
 - created: 2026-04-02T21:15:45.000Z
 - matched query: "learn chinese" app
 
-## [Memory Tool Discussion](https://old.reddit.com/r/ChineseLanguage/comments/1sahdkr/memory_tool_discussion/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 13
-- created: 2026-04-02T13:26:47.000Z
-- matched query: flashcard app
-
 ## [Best resources to get me started?](https://old.reddit.com/r/ChineseLanguage/comments/1s6d7j5/best_resources_to_get_me_started/)
 - subreddit: r/ChineseLanguage
 - score: 7
 - comments: 16
 - created: 2026-03-28T21:54:54.000Z
 - matched query: resource
+
+## [Memory Tool Discussion](https://old.reddit.com/r/ChineseLanguage/comments/1sahdkr/memory_tool_discussion/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 13
+- created: 2026-04-02T13:26:47.000Z
+- matched query: flashcard app
 
 ## [Any AI tool that actually forces you to speak and corrects you properly? (language learning)](https://old.reddit.com/r/ChineseLanguage/comments/1s9crks/any_ai_tool_that_actually_forces_you_to_speak_and/)
 - subreddit: r/ChineseLanguage

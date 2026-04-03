@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-03T07:52:05.649Z
+Generated: 2026-04-03T08:45:22.585Z
 
 ## [Trying a game-based approach to learning Chinese characters – curious if it works for others?](https://old.reddit.com/r/ChineseLanguage/comments/1sa0fmk/trying_a_gamebased_approach_to_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -43,13 +43,6 @@ Generated: 2026-04-03T07:52:05.649Z
 - comments: 16
 - created: 2026-03-28T21:54:54.000Z
 - matched query: resource
-
-## [PDF workbook generator](https://old.reddit.com/r/ChineseLanguage/comments/1sabd5m/pdf_workbook_generator/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-04-02T08:12:10.000Z
-- matched query: app OR website pinyin hanzi
 
 ## [Any AI tool that actually forces you to speak and corrects you properly? (language learning)](https://old.reddit.com/r/ChineseLanguage/comments/1s9crks/any_ai_tool_that_actually_forces_you_to_speak_and/)
 - subreddit: r/ChineseLanguage
@@ -96,7 +89,7 @@ Generated: 2026-04-03T07:52:05.649Z
 ## [Looking for collaborations in a project](https://old.reddit.com/r/ChineseLanguage/comments/1sb5mgn/looking_for_collaborations_in_a_project/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 5
+- comments: 7
 - created: 2026-04-03T06:14:31.000Z
 - matched query: app OR website pinyin hanzi
 
@@ -112,6 +105,13 @@ Generated: 2026-04-03T07:52:05.649Z
 - score: 5
 - comments: 17
 - created: 2026-04-03T00:33:31.000Z
+- matched query: app OR website pinyin hanzi
+
+## [PDF workbook generator](https://old.reddit.com/r/ChineseLanguage/comments/1sabd5m/pdf_workbook_generator/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 0
+- created: 2026-04-02T08:12:10.000Z
 - matched query: app OR website pinyin hanzi
 
 ## [Best ways to learn to write Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1s78bor/best_ways_to_learn_to_write_chinese/)

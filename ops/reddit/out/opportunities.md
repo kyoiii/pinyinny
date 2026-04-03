@@ -1,27 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-03T00:05:17.060Z
+Generated: 2026-04-03T03:26:17.190Z
 
-## [Trying a game-based approach to learning Chinese characters – curious if it works for others?](https://old.reddit.com/r/ChineseLanguage/comments/1sa0fmk/trying_a_gamebased_approach_to_learning_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 8
-- created: 2026-04-01T23:04:41.000Z
-- matched query: "learn chinese" app
-
-## [If you're learning Chinese to go to Taiwan, what are some roadblocks you've encountered with Chinese-learning apps?](https://old.reddit.com/r/ChineseLanguage/comments/1s9ldpy/if_youre_learning_chinese_to_go_to_taiwan_what/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 8
-- created: 2026-04-01T13:59:08.000Z
-- matched query: "learn chinese" app
-
-## [More advanced Chinese vocabulary lists for travel?](https://old.reddit.com/r/ChineseLanguage/comments/1satzzv/more_advanced_chinese_vocabulary_lists_for_travel/)
+## [How to learn chinese by order for complete beginner?](https://old.reddit.com/r/ChineseLanguage/comments/1sazmgr/how_to_learn_chinese_by_order_for_complete/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 8
-- created: 2026-04-02T21:15:45.000Z
-- matched query: "learn chinese" app
+- comments: 30
+- created: 2026-04-03T01:13:05.000Z
+- matched query: resource
 
 ## [Memory Tool Discussion](https://old.reddit.com/r/ChineseLanguage/comments/1sahdkr/memory_tool_discussion/)
 - subreddit: r/ChineseLanguage
@@ -51,20 +37,6 @@ Generated: 2026-04-03T00:05:17.060Z
 - created: 2026-04-01T06:37:20.000Z
 - matched query: flashcard app
 
-## [One month into Chinese: Speaking is okay, but Grammar and Characters are killing me. Any advice?](https://old.reddit.com/r/ChineseLanguage/comments/1s95lub/one_month_into_chinese_speaking_is_okay_but/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 9
-- created: 2026-04-01T00:47:24.000Z
-- matched query: "learn chinese" app
-
-## [offline learning materials for beginners?](https://old.reddit.com/r/ChineseLanguage/comments/1s8ru1g/offline_learning_materials_for_beginners/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 13
-- created: 2026-03-31T16:11:11.000Z
-- matched query: "learn chinese" app
-
 ## [I'm looking for a font for chinese pinyin and hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1rzw5qg/im_looking_for_a_font_for_chinese_pinyin_and_hanzi/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -72,33 +44,12 @@ Generated: 2026-04-03T00:05:17.060Z
 - created: 2026-03-21T16:41:56.000Z
 - matched query: app OR website pinyin hanzi
 
-## [What is the best app to learn Mandarin ?](https://old.reddit.com/r/ChineseLanguage/comments/1rql3xs/what_is_the_best_app_to_learn_mandarin/)
+## [I want to get back to learning Chinese, but the learning of the chinese characters cools me off it.](https://old.reddit.com/r/ChineseLanguage/comments/1sayr8j/i_want_to_get_back_to_learning_chinese_but_the/)
 - subreddit: r/ChineseLanguage
-- score: 6
+- score: 5
 - comments: 14
-- created: 2026-03-11T05:24:51.000Z
-- matched query: "learn chinese" app
-
-## [Learning Chinese as a new language - recommend any language apps](https://old.reddit.com/r/ChineseLanguage/comments/1rqachb/learning_chinese_as_a_new_language_recommend_any/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 12
-- created: 2026-03-10T21:37:08.000Z
-- matched query: "learn chinese" app
-
-## [xiaomi speaker pro dev for chinese langage student](https://old.reddit.com/r/ChineseLanguage/comments/1sak9dj/xiaomi_speaker_pro_dev_for_chinese_langage_student/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 3
-- created: 2026-04-02T15:17:43.000Z
-- matched query: "learn chinese" app
-
-## [Need help with my Chinese pronunciation](https://old.reddit.com/r/ChineseLanguage/comments/1sa3f8l/need_help_with_my_chinese_pronunciation/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 3
-- created: 2026-04-02T01:15:04.000Z
-- matched query: resource
+- created: 2026-04-03T00:33:31.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [Best ways to learn to write Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1s78bor/best_ways_to_learn_to_write_chinese/)
 - subreddit: r/ChineseLanguage
@@ -121,17 +72,17 @@ Generated: 2026-04-03T00:05:17.060Z
 - created: 2026-03-28T11:43:27.000Z
 - matched query: resource
 
-## [Stick to 2.0 or get new 3.0 textbooks?](https://old.reddit.com/r/ChineseLanguage/comments/1s4om6n/stick_to_20_or_get_new_30_textbooks/)
+## [Need help with my Chinese pronunciation](https://old.reddit.com/r/ChineseLanguage/comments/1sa3f8l/need_help_with_my_chinese_pronunciation/)
 - subreddit: r/ChineseLanguage
-- score: 5
-- comments: 1
-- created: 2026-03-27T00:12:06.000Z
-- matched query: "learn chinese" app
+- score: 4
+- comments: 3
+- created: 2026-04-02T01:15:04.000Z
+- matched query: resource
 
 ## [OCR editing of DeFrancis "ABC Chinese-English Comprehensive Dictionary."](https://old.reddit.com/r/ChineseLanguage/comments/1s8p85j/ocr_editing_of_defrancis_abc_chineseenglish/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 9
+- comments: 10
 - created: 2026-03-31T14:36:56.000Z
 - matched query: resource
 
@@ -141,4 +92,11 @@ Generated: 2026-04-03T00:05:17.060Z
 - comments: 7
 - created: 2026-03-26T22:46:39.000Z
 - matched query: app OR website pinyin hanzi
+
+## [HSK Flashcards as Pleco](https://old.reddit.com/r/ChineseLanguage/comments/1s206wx/hsk_flashcards_as_pleco/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 7
+- created: 2026-03-24T01:27:40.000Z
+- matched query: flashcard app
 

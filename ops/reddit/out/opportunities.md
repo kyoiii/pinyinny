@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-04T04:32:20.712Z
+Generated: 2026-04-04T05:43:58.256Z
 
 ## [Trying a game-based approach to learning Chinese characters – curious if it works for others?](https://old.reddit.com/r/ChineseLanguage/comments/1sa0fmk/trying_a_gamebased_approach_to_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -23,18 +23,18 @@ Generated: 2026-04-04T04:32:20.712Z
 - created: 2026-04-03T16:59:25.000Z
 - matched query: "learn chinese" app
 
-## [Traditional character HSK 1 immersion?](https://old.reddit.com/r/ChineseLanguage/comments/1sb3tb6/traditional_character_hsk_1_immersion/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 8
-- created: 2026-04-03T04:34:31.000Z
-- matched query: resource
-
 ## [Best resources to get me started?](https://old.reddit.com/r/ChineseLanguage/comments/1s6d7j5/best_resources_to_get_me_started/)
 - subreddit: r/ChineseLanguage
 - score: 7
 - comments: 16
 - created: 2026-03-28T21:54:54.000Z
+- matched query: resource
+
+## [Traditional character HSK 1 immersion?](https://old.reddit.com/r/ChineseLanguage/comments/1sb3tb6/traditional_character_hsk_1_immersion/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 9
+- created: 2026-04-03T04:34:31.000Z
 - matched query: resource
 
 ## [More advanced Chinese vocabulary lists for travel?](https://old.reddit.com/r/ChineseLanguage/comments/1satzzv/more_advanced_chinese_vocabulary_lists_for_travel/)
@@ -82,7 +82,7 @@ Generated: 2026-04-04T04:32:20.712Z
 ## [Busy college student but love languages. Concerned about feasibility of learning Chinese. (pic unrelated)](https://old.reddit.com/r/ChineseLanguage/comments/1sbtz6u/busy_college_student_but_love_languages_concerned/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 21
+- comments: 23
 - created: 2026-04-03T23:57:48.000Z
 - matched query: resource
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-04T06:43:10.495Z
+Generated: 2026-04-04T07:39:38.436Z
 
 ## [Trying a game-based approach to learning Chinese characters – curious if it works for others?](https://old.reddit.com/r/ChineseLanguage/comments/1sa0fmk/trying_a_gamebased_approach_to_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -19,7 +19,7 @@ Generated: 2026-04-04T06:43:10.495Z
 ## [For those of you with a Chinese reading habit, what tools are you using? And why are e-readers so bad?](https://old.reddit.com/r/ChineseLanguage/comments/1sbj6c6/for_those_of_you_with_a_chinese_reading_habit/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 46
+- comments: 47
 - created: 2026-04-03T16:59:25.000Z
 - matched query: "learn chinese" app
 
@@ -86,13 +86,6 @@ Generated: 2026-04-04T06:43:10.495Z
 - created: 2026-04-02T08:12:10.000Z
 - matched query: app OR website pinyin hanzi
 
-## [Any AI tool that actually forces you to speak and corrects you properly? (language learning)](https://old.reddit.com/r/ChineseLanguage/comments/1s9crks/any_ai_tool_that_actually_forces_you_to_speak_and/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 32
-- created: 2026-04-01T06:37:20.000Z
-- matched query: flashcard app
-
 ## [One month into Chinese: Speaking is okay, but Grammar and Characters are killing me. Any advice?](https://old.reddit.com/r/ChineseLanguage/comments/1s95lub/one_month_into_chinese_speaking_is_okay_but/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -141,4 +134,11 @@ Generated: 2026-04-04T06:43:10.495Z
 - comments: 37
 - created: 2026-04-03T01:13:05.000Z
 - matched query: resource
+
+## [I want to get back to learning Chinese, but the learning of the chinese characters cools me off it.](https://old.reddit.com/r/ChineseLanguage/comments/1sayr8j/i_want_to_get_back_to_learning_chinese_but_the/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 17
+- created: 2026-04-03T00:33:31.000Z
+- matched query: app OR website pinyin hanzi
 

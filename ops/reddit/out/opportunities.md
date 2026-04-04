@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-04T16:34:57.028Z
+Generated: 2026-04-04T17:05:42.027Z
 
 ## [HSK sentence flashcards?](https://old.reddit.com/r/ChineseLanguage/comments/1scd3ii/hsk_sentence_flashcards/)
 - subreddit: r/ChineseLanguage
@@ -16,13 +16,6 @@ Generated: 2026-04-04T16:34:57.028Z
 - created: 2026-04-01T23:04:41.000Z
 - matched query: "learn chinese" app
 
-## [For those of you with a Chinese reading habit, what tools are you using? And why are e-readers so bad?](https://old.reddit.com/r/ChineseLanguage/comments/1sbj6c6/for_those_of_you_with_a_chinese_reading_habit/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 51
-- created: 2026-04-03T16:59:25.000Z
-- matched query: "learn chinese" app
-
 ## [If you're learning Chinese to go to Taiwan, what are some roadblocks you've encountered with Chinese-learning apps?](https://old.reddit.com/r/ChineseLanguage/comments/1s9ldpy/if_youre_learning_chinese_to_go_to_taiwan_what/)
 - subreddit: r/ChineseLanguage
 - score: 7
@@ -36,6 +29,13 @@ Generated: 2026-04-04T16:34:57.028Z
 - comments: 16
 - created: 2026-03-28T21:54:54.000Z
 - matched query: resource
+
+## [For those of you with a Chinese reading habit, what tools are you using? And why are e-readers so bad?](https://old.reddit.com/r/ChineseLanguage/comments/1sbj6c6/for_those_of_you_with_a_chinese_reading_habit/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 51
+- created: 2026-04-03T16:59:25.000Z
+- matched query: "learn chinese" app
 
 ## [Traditional character HSK 1 immersion?](https://old.reddit.com/r/ChineseLanguage/comments/1sb3tb6/traditional_character_hsk_1_immersion/)
 - subreddit: r/ChineseLanguage
@@ -82,7 +82,7 @@ Generated: 2026-04-04T16:34:57.028Z
 ## [Busy college student but love languages. Concerned about feasibility of learning Chinese. (pic unrelated)](https://old.reddit.com/r/ChineseLanguage/comments/1sbtz6u/busy_college_student_but_love_languages_concerned/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 27
+- comments: 28
 - created: 2026-04-03T23:57:48.000Z
 - matched query: resource
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-04T05:43:58.256Z
+Generated: 2026-04-04T06:43:10.495Z
 
 ## [Trying a game-based approach to learning Chinese characters – curious if it works for others?](https://old.reddit.com/r/ChineseLanguage/comments/1sa0fmk/trying_a_gamebased_approach_to_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -19,7 +19,7 @@ Generated: 2026-04-04T05:43:58.256Z
 ## [For those of you with a Chinese reading habit, what tools are you using? And why are e-readers so bad?](https://old.reddit.com/r/ChineseLanguage/comments/1sbj6c6/for_those_of_you_with_a_chinese_reading_habit/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 44
+- comments: 46
 - created: 2026-04-03T16:59:25.000Z
 - matched query: "learn chinese" app
 
@@ -51,13 +51,6 @@ Generated: 2026-04-04T05:43:58.256Z
 - created: 2026-04-02T13:26:47.000Z
 - matched query: flashcard app
 
-## [Any AI tool that actually forces you to speak and corrects you properly? (language learning)](https://old.reddit.com/r/ChineseLanguage/comments/1s9crks/any_ai_tool_that_actually_forces_you_to_speak_and/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 32
-- created: 2026-04-01T06:37:20.000Z
-- matched query: flashcard app
-
 ## [I'm looking for a font for chinese pinyin and hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1rzw5qg/im_looking_for_a_font_for_chinese_pinyin_and_hanzi/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -86,19 +79,19 @@ Generated: 2026-04-04T05:43:58.256Z
 - created: 2026-04-03T23:57:48.000Z
 - matched query: resource
 
-## [Looking for collaborations in a project](https://old.reddit.com/r/ChineseLanguage/comments/1sb5mgn/looking_for_collaborations_in_a_project/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 22
-- created: 2026-04-03T06:14:31.000Z
-- matched query: app OR website pinyin hanzi
-
 ## [PDF workbook generator](https://old.reddit.com/r/ChineseLanguage/comments/1sabd5m/pdf_workbook_generator/)
 - subreddit: r/ChineseLanguage
 - score: 5
 - comments: 0
 - created: 2026-04-02T08:12:10.000Z
 - matched query: app OR website pinyin hanzi
+
+## [Any AI tool that actually forces you to speak and corrects you properly? (language learning)](https://old.reddit.com/r/ChineseLanguage/comments/1s9crks/any_ai_tool_that_actually_forces_you_to_speak_and/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 32
+- created: 2026-04-01T06:37:20.000Z
+- matched query: flashcard app
 
 ## [One month into Chinese: Speaking is okay, but Grammar and Characters are killing me. Any advice?](https://old.reddit.com/r/ChineseLanguage/comments/1s95lub/one_month_into_chinese_speaking_is_okay_but/)
 - subreddit: r/ChineseLanguage
@@ -134,6 +127,13 @@ Generated: 2026-04-04T05:43:58.256Z
 - comments: 3
 - created: 2026-03-28T11:43:27.000Z
 - matched query: resource
+
+## [Looking for collaborations in a project](https://old.reddit.com/r/ChineseLanguage/comments/1sb5mgn/looking_for_collaborations_in_a_project/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 22
+- created: 2026-04-03T06:14:31.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [How to learn chinese by order for complete beginner?](https://old.reddit.com/r/ChineseLanguage/comments/1sazmgr/how_to_learn_chinese_by_order_for_complete/)
 - subreddit: r/ChineseLanguage

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-04T02:41:47.103Z
+Generated: 2026-04-04T04:32:20.712Z
 
 ## [Trying a game-based approach to learning Chinese characters – curious if it works for others?](https://old.reddit.com/r/ChineseLanguage/comments/1sa0fmk/trying_a_gamebased_approach_to_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -82,7 +82,7 @@ Generated: 2026-04-04T02:41:47.103Z
 ## [Busy college student but love languages. Concerned about feasibility of learning Chinese. (pic unrelated)](https://old.reddit.com/r/ChineseLanguage/comments/1sbtz6u/busy_college_student_but_love_languages_concerned/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 15
+- comments: 21
 - created: 2026-04-03T23:57:48.000Z
 - matched query: resource
 

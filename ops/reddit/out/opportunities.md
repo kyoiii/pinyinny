@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-03T23:56:26.060Z
+Generated: 2026-04-04T02:41:47.103Z
 
 ## [Trying a game-based approach to learning Chinese characters – curious if it works for others?](https://old.reddit.com/r/ChineseLanguage/comments/1sa0fmk/trying_a_gamebased_approach_to_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -19,7 +19,7 @@ Generated: 2026-04-03T23:56:26.060Z
 ## [For those of you with a Chinese reading habit, what tools are you using? And why are e-readers so bad?](https://old.reddit.com/r/ChineseLanguage/comments/1sbj6c6/for_those_of_you_with_a_chinese_reading_habit/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 34
+- comments: 44
 - created: 2026-04-03T16:59:25.000Z
 - matched query: "learn chinese" app
 
@@ -58,13 +58,6 @@ Generated: 2026-04-03T23:56:26.060Z
 - created: 2026-04-01T06:37:20.000Z
 - matched query: flashcard app
 
-## [One month into Chinese: Speaking is okay, but Grammar and Characters are killing me. Any advice?](https://old.reddit.com/r/ChineseLanguage/comments/1s95lub/one_month_into_chinese_speaking_is_okay_but/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 10
-- created: 2026-04-01T00:47:24.000Z
-- matched query: "learn chinese" app
-
 ## [I'm looking for a font for chinese pinyin and hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1rzw5qg/im_looking_for_a_font_for_chinese_pinyin_and_hanzi/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -86,25 +79,18 @@ Generated: 2026-04-03T23:56:26.060Z
 - created: 2026-03-10T21:37:08.000Z
 - matched query: "learn chinese" app
 
+## [Busy college student but love languages. Concerned about feasibility of learning Chinese. (pic unrelated)](https://old.reddit.com/r/ChineseLanguage/comments/1sbtz6u/busy_college_student_but_love_languages_concerned/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 15
+- created: 2026-04-03T23:57:48.000Z
+- matched query: resource
+
 ## [Looking for collaborations in a project](https://old.reddit.com/r/ChineseLanguage/comments/1sb5mgn/looking_for_collaborations_in_a_project/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 21
+- comments: 22
 - created: 2026-04-03T06:14:31.000Z
-- matched query: app OR website pinyin hanzi
-
-## [How to learn chinese by order for complete beginner?](https://old.reddit.com/r/ChineseLanguage/comments/1sazmgr/how_to_learn_chinese_by_order_for_complete/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 37
-- created: 2026-04-03T01:13:05.000Z
-- matched query: resource
-
-## [I want to get back to learning Chinese, but the learning of the chinese characters cools me off it.](https://old.reddit.com/r/ChineseLanguage/comments/1sayr8j/i_want_to_get_back_to_learning_chinese_but_the/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 17
-- created: 2026-04-03T00:33:31.000Z
 - matched query: app OR website pinyin hanzi
 
 ## [PDF workbook generator](https://old.reddit.com/r/ChineseLanguage/comments/1sabd5m/pdf_workbook_generator/)
@@ -113,6 +99,13 @@ Generated: 2026-04-03T23:56:26.060Z
 - comments: 0
 - created: 2026-04-02T08:12:10.000Z
 - matched query: app OR website pinyin hanzi
+
+## [One month into Chinese: Speaking is okay, but Grammar and Characters are killing me. Any advice?](https://old.reddit.com/r/ChineseLanguage/comments/1s95lub/one_month_into_chinese_speaking_is_okay_but/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 10
+- created: 2026-04-01T00:47:24.000Z
+- matched query: "learn chinese" app
 
 ## [offline learning materials for beginners?](https://old.reddit.com/r/ChineseLanguage/comments/1s8ru1g/offline_learning_materials_for_beginners/)
 - subreddit: r/ChineseLanguage
@@ -140,5 +133,12 @@ Generated: 2026-04-03T23:56:26.060Z
 - score: 5
 - comments: 3
 - created: 2026-03-28T11:43:27.000Z
+- matched query: resource
+
+## [How to learn chinese by order for complete beginner?](https://old.reddit.com/r/ChineseLanguage/comments/1sazmgr/how_to_learn_chinese_by_order_for_complete/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 37
+- created: 2026-04-03T01:13:05.000Z
 - matched query: resource
 

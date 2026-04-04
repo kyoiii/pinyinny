@@ -1,6 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-04T15:53:41.971Z
+Generated: 2026-04-04T16:34:57.028Z
+
+## [HSK sentence flashcards?](https://old.reddit.com/r/ChineseLanguage/comments/1scd3ii/hsk_sentence_flashcards/)
+- subreddit: r/ChineseLanguage
+- score: 10
+- comments: 0
+- created: 2026-04-04T16:06:16.000Z
+- matched query: flashcard app
 
 ## [Trying a game-based approach to learning Chinese characters – curious if it works for others?](https://old.reddit.com/r/ChineseLanguage/comments/1sa0fmk/trying_a_gamebased_approach_to_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -75,7 +82,7 @@ Generated: 2026-04-04T15:53:41.971Z
 ## [Busy college student but love languages. Concerned about feasibility of learning Chinese. (pic unrelated)](https://old.reddit.com/r/ChineseLanguage/comments/1sbtz6u/busy_college_student_but_love_languages_concerned/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 25
+- comments: 27
 - created: 2026-04-03T23:57:48.000Z
 - matched query: resource
 
@@ -134,11 +141,4 @@ Generated: 2026-04-04T15:53:41.971Z
 - comments: 17
 - created: 2026-04-03T00:33:31.000Z
 - matched query: app OR website pinyin hanzi
-
-## [Need help with my Chinese pronunciation](https://old.reddit.com/r/ChineseLanguage/comments/1sa3f8l/need_help_with_my_chinese_pronunciation/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 4
-- created: 2026-04-02T01:15:04.000Z
-- matched query: resource
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-04T17:05:42.027Z
+Generated: 2026-04-04T17:47:30.470Z
 
 ## [HSK sentence flashcards?](https://old.reddit.com/r/ChineseLanguage/comments/1scd3ii/hsk_sentence_flashcards/)
 - subreddit: r/ChineseLanguage

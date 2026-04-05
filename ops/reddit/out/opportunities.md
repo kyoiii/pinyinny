@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-05T20:54:51.631Z
+Generated: 2026-04-05T21:35:15.881Z
 
 ## [HSK sentence flashcards?](https://old.reddit.com/r/ChineseLanguage/comments/1scd3ii/hsk_sentence_flashcards/)
 - subreddit: r/ChineseLanguage
@@ -44,13 +44,6 @@ Generated: 2026-04-05T20:54:51.631Z
 - created: 2026-04-03T04:34:31.000Z
 - matched query: resource
 
-## [More advanced Chinese vocabulary lists for travel?](https://old.reddit.com/r/ChineseLanguage/comments/1satzzv/more_advanced_chinese_vocabulary_lists_for_travel/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 15
-- created: 2026-04-02T21:15:45.000Z
-- matched query: "learn chinese" app
-
 ## [I'm looking for a font for chinese pinyin and hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1rzw5qg/im_looking_for_a_font_for_chinese_pinyin_and_hanzi/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -78,6 +71,13 @@ Generated: 2026-04-05T20:54:51.631Z
 - comments: 7
 - created: 2026-04-05T00:43:45.000Z
 - matched query: resource
+
+## [More advanced Chinese vocabulary lists for travel?](https://old.reddit.com/r/ChineseLanguage/comments/1satzzv/more_advanced_chinese_vocabulary_lists_for_travel/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 15
+- created: 2026-04-02T21:15:45.000Z
+- matched query: "learn chinese" app
 
 ## [Memory Tool Discussion](https://old.reddit.com/r/ChineseLanguage/comments/1sahdkr/memory_tool_discussion/)
 - subreddit: r/ChineseLanguage
@@ -107,13 +107,6 @@ Generated: 2026-04-05T20:54:51.631Z
 - created: 2026-03-29T21:58:16.000Z
 - matched query: resource
 
-## [Busy college student but love languages. Concerned about feasibility of learning Chinese. (pic unrelated)](https://old.reddit.com/r/ChineseLanguage/comments/1sbtz6u/busy_college_student_but_love_languages_concerned/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 30
-- created: 2026-04-03T23:57:48.000Z
-- matched query: resource
-
 ## [Looking for collaborations in a project](https://old.reddit.com/r/ChineseLanguage/comments/1sb5mgn/looking_for_collaborations_in_a_project/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -140,5 +133,12 @@ Generated: 2026-04-05T20:54:51.631Z
 - score: 4
 - comments: 0
 - created: 2026-04-02T08:12:10.000Z
+- matched query: app OR website pinyin hanzi
+
+## [Organizing a chart by HSK levels or by alphabet?](https://old.reddit.com/r/ChineseLanguage/comments/1s6g1ll/organizing_a_chart_by_hsk_levels_or_by_alphabet/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 3
+- created: 2026-03-28T23:57:36.000Z
 - matched query: app OR website pinyin hanzi
 

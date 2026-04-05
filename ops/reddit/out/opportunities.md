@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-05T16:19:13.811Z
+Generated: 2026-04-05T16:59:09.611Z
 
 ## [HSK sentence flashcards?](https://old.reddit.com/r/ChineseLanguage/comments/1scd3ii/hsk_sentence_flashcards/)
 - subreddit: r/ChineseLanguage
@@ -8,6 +8,13 @@ Generated: 2026-04-05T16:19:13.811Z
 - comments: 6
 - created: 2026-04-04T16:06:16.000Z
 - matched query: flashcard app
+
+## [Which voice-over to use?](https://old.reddit.com/r/ChineseLanguage/comments/1sd8owe/which_voiceover_to_use/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 1
+- created: 2026-04-05T16:54:50.000Z
+- matched query: resource
 
 ## [Trying a game-based approach to learning Chinese characters – curious if it works for others?](https://old.reddit.com/r/ChineseLanguage/comments/1sa0fmk/trying_a_gamebased_approach_to_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -133,12 +140,5 @@ Generated: 2026-04-05T16:19:13.811Z
 - score: 4
 - comments: 0
 - created: 2026-04-02T08:12:10.000Z
-- matched query: app OR website pinyin hanzi
-
-## [Organizing a chart by HSK levels or by alphabet?](https://old.reddit.com/r/ChineseLanguage/comments/1s6g1ll/organizing_a_chart_by_hsk_levels_or_by_alphabet/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 3
-- created: 2026-03-28T23:57:36.000Z
 - matched query: app OR website pinyin hanzi
 

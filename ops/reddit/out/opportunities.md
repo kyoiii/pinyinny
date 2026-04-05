@@ -1,10 +1,10 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-05T15:44:25.557Z
+Generated: 2026-04-05T16:19:13.811Z
 
 ## [HSK sentence flashcards?](https://old.reddit.com/r/ChineseLanguage/comments/1scd3ii/hsk_sentence_flashcards/)
 - subreddit: r/ChineseLanguage
-- score: 9
+- score: 8
 - comments: 6
 - created: 2026-04-04T16:06:16.000Z
 - matched query: flashcard app
@@ -12,7 +12,7 @@ Generated: 2026-04-05T15:44:25.557Z
 ## [Trying a game-based approach to learning Chinese characters – curious if it works for others?](https://old.reddit.com/r/ChineseLanguage/comments/1sa0fmk/trying_a_gamebased_approach_to_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 9
+- comments: 10
 - created: 2026-04-01T23:04:41.000Z
 - matched query: "learn chinese" app
 

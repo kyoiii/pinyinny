@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-05T05:30:01.952Z
+Generated: 2026-04-05T06:47:08.102Z
 
 ## [HSK sentence flashcards?](https://old.reddit.com/r/ChineseLanguage/comments/1scd3ii/hsk_sentence_flashcards/)
 - subreddit: r/ChineseLanguage
@@ -110,7 +110,7 @@ Generated: 2026-04-05T05:30:01.952Z
 ## [Busy college student but love languages. Concerned about feasibility of learning Chinese. (pic unrelated)](https://old.reddit.com/r/ChineseLanguage/comments/1sbtz6u/busy_college_student_but_love_languages_concerned/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 29
+- comments: 30
 - created: 2026-04-03T23:57:48.000Z
 - matched query: resource
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-05T18:04:58.910Z
+Generated: 2026-04-05T19:02:58.333Z
 
 ## [HSK sentence flashcards?](https://old.reddit.com/r/ChineseLanguage/comments/1scd3ii/hsk_sentence_flashcards/)
 - subreddit: r/ChineseLanguage
@@ -12,7 +12,7 @@ Generated: 2026-04-05T18:04:58.910Z
 ## [Which voice-over to use?](https://old.reddit.com/r/ChineseLanguage/comments/1sd8owe/which_voiceover_to_use/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 6
+- comments: 8
 - created: 2026-04-05T16:54:50.000Z
 - matched query: resource
 

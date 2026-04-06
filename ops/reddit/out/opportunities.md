@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-06T14:32:15.839Z
+Generated: 2026-04-06T15:28:48.273Z
 
 ## [HSK sentence flashcards?](https://old.reddit.com/r/ChineseLanguage/comments/1scd3ii/hsk_sentence_flashcards/)
 - subreddit: r/ChineseLanguage
@@ -22,13 +22,6 @@ Generated: 2026-04-06T14:32:15.839Z
 - comments: 18
 - created: 2026-04-05T16:54:50.000Z
 - matched query: resource
-
-## [Trying a game-based approach to learning Chinese characters – curious if it works for others?](https://old.reddit.com/r/ChineseLanguage/comments/1sa0fmk/trying_a_gamebased_approach_to_learning_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 10
-- created: 2026-04-01T23:04:41.000Z
-- matched query: "learn chinese" app
 
 ## [If you're learning Chinese to go to Taiwan, what are some roadblocks you've encountered with Chinese-learning apps?](https://old.reddit.com/r/ChineseLanguage/comments/1s9ldpy/if_youre_learning_chinese_to_go_to_taiwan_what/)
 - subreddit: r/ChineseLanguage
@@ -141,4 +134,11 @@ Generated: 2026-04-06T14:32:15.839Z
 - comments: 7
 - created: 2026-03-24T01:27:40.000Z
 - matched query: flashcard app
+
+## [Learning Chinese characters in food apps to avoid menu confusion](https://old.reddit.com/r/ChineseLanguage/comments/1rsarvp/learning_chinese_characters_in_food_apps_to_avoid/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 20
+- created: 2026-03-13T02:10:29.000Z
+- matched query: "learn chinese" app
 

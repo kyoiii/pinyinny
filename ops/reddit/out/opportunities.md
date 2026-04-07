@@ -1,11 +1,18 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-07T22:05:41.989Z
+Generated: 2026-04-07T23:49:21.788Z
+
+## [Has this app worked for you guys??](https://old.reddit.com/r/ChineseLanguage/comments/1sfbmhp/has_this_app_worked_for_you_guys/)
+- subreddit: r/ChineseLanguage
+- score: 9
+- comments: 1
+- created: 2026-04-07T23:00:04.000Z
+- matched query: "learn chinese" app
 
 ## [App recommendations](https://old.reddit.com/r/ChineseLanguage/comments/1sf85br/app_recommendations/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 8
+- comments: 11
 - created: 2026-04-07T20:44:41.000Z
 - matched query: "learn chinese" app
 
@@ -134,11 +141,4 @@ Generated: 2026-04-07T22:05:41.989Z
 - comments: 1
 - created: 2026-03-27T00:12:06.000Z
 - matched query: "learn chinese" app
-
-## [Do any tone trainers exist that use active recall/spaced repetition similar to anki decks?](https://old.reddit.com/r/ChineseLanguage/comments/1s4mhzz/do_any_tone_trainers_exist_that_use_active/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 7
-- created: 2026-03-26T22:46:39.000Z
-- matched query: app OR website pinyin hanzi
 

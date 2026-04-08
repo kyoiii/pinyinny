@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-07T23:49:21.788Z
+Generated: 2026-04-08T01:07:54.711Z
 
 ## [Has this app worked for you guys??](https://old.reddit.com/r/ChineseLanguage/comments/1sfbmhp/has_this_app_worked_for_you_guys/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 1
+- comments: 2
 - created: 2026-04-07T23:00:04.000Z
 - matched query: "learn chinese" app
 
@@ -40,7 +40,7 @@ Generated: 2026-04-07T23:49:21.788Z
 ## [Which voice-over to use?](https://old.reddit.com/r/ChineseLanguage/comments/1sd8owe/which_voiceover_to_use/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 18
+- comments: 19
 - created: 2026-04-05T16:54:50.000Z
 - matched query: resource
 
@@ -64,6 +64,13 @@ Generated: 2026-04-07T23:49:21.788Z
 - comments: 11
 - created: 2026-03-10T21:37:08.000Z
 - matched query: "learn chinese" app
+
+## [Looking for advice on my learning method](https://old.reddit.com/r/ChineseLanguage/comments/1sfe7ni/looking_for_advice_on_my_learning_method/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 1
+- created: 2026-04-08T00:51:14.000Z
+- matched query: resource
 
 ## [Chinese Tone Pair Trainer in Anki](https://old.reddit.com/r/ChineseLanguage/comments/1sf1x1p/chinese_tone_pair_trainer_in_anki/)
 - subreddit: r/ChineseLanguage
@@ -100,26 +107,19 @@ Generated: 2026-04-07T23:49:21.788Z
 - created: 2026-04-02T13:26:47.000Z
 - matched query: flashcard app
 
-## [One month into Chinese: Speaking is okay, but Grammar and Characters are killing me. Any advice?](https://old.reddit.com/r/ChineseLanguage/comments/1s95lub/one_month_into_chinese_speaking_is_okay_but/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 10
-- created: 2026-04-01T00:47:24.000Z
-- matched query: "learn chinese" app
-
-## [Taiwanese Mandarin course now on ChineseSkill (looking for feedback)](https://old.reddit.com/r/ChineseLanguage/comments/1scpoe9/taiwanese_mandarin_course_now_on_chineseskill/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 12
-- created: 2026-04-05T00:43:45.000Z
-- matched query: resource
-
 ## [PDF workbook generator](https://old.reddit.com/r/ChineseLanguage/comments/1sabd5m/pdf_workbook_generator/)
 - subreddit: r/ChineseLanguage
 - score: 4
 - comments: 0
 - created: 2026-04-02T08:12:10.000Z
 - matched query: app OR website pinyin hanzi
+
+## [One month into Chinese: Speaking is okay, but Grammar and Characters are killing me. Any advice?](https://old.reddit.com/r/ChineseLanguage/comments/1s95lub/one_month_into_chinese_speaking_is_okay_but/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 10
+- created: 2026-04-01T00:47:24.000Z
+- matched query: "learn chinese" app
 
 ## [offline learning materials for beginners?](https://old.reddit.com/r/ChineseLanguage/comments/1s8ru1g/offline_learning_materials_for_beginners/)
 - subreddit: r/ChineseLanguage

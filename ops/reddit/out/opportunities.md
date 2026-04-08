@@ -1,6 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-08T16:41:23.705Z
+Generated: 2026-04-08T17:48:46.252Z
+
+## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 12
+- comments: 0
+- created: 2026-04-08T17:11:49.000Z
+- matched query: "learn chinese" app
 
 ## [Anki Decks for purely listening practice?](https://old.reddit.com/r/ChineseLanguage/comments/1sfiysw/anki_decks_for_purely_listening_practice/)
 - subreddit: r/ChineseLanguage
@@ -51,13 +58,6 @@ Generated: 2026-04-08T16:41:23.705Z
 - created: 2026-04-06T07:23:11.000Z
 - matched query: resource
 
-## [Which voice-over to use?](https://old.reddit.com/r/ChineseLanguage/comments/1sd8owe/which_voiceover_to_use/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 19
-- created: 2026-04-05T16:54:50.000Z
-- matched query: resource
-
 ## [If you're learning Chinese to go to Taiwan, what are some roadblocks you've encountered with Chinese-learning apps?](https://old.reddit.com/r/ChineseLanguage/comments/1s9ldpy/if_youre_learning_chinese_to_go_to_taiwan_what/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -100,11 +100,11 @@ Generated: 2026-04-08T16:41:23.705Z
 - created: 2026-04-08T00:51:14.000Z
 - matched query: resource
 
-## [Chinese Tone Pair Trainer in Anki](https://old.reddit.com/r/ChineseLanguage/comments/1sf1x1p/chinese_tone_pair_trainer_in_anki/)
+## [Which voice-over to use?](https://old.reddit.com/r/ChineseLanguage/comments/1sd8owe/which_voiceover_to_use/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 1
-- created: 2026-04-07T17:02:30.000Z
+- comments: 19
+- created: 2026-04-05T16:54:50.000Z
 - matched query: resource
 
 ## [For those of you with a Chinese reading habit, what tools are you using? And why are e-readers so bad?](https://old.reddit.com/r/ChineseLanguage/comments/1sbj6c6/for_those_of_you_with_a_chinese_reading_habit/)
@@ -135,10 +135,10 @@ Generated: 2026-04-08T16:41:23.705Z
 - created: 2026-04-02T13:26:47.000Z
 - matched query: flashcard app
 
-## [PDF workbook generator](https://old.reddit.com/r/ChineseLanguage/comments/1sabd5m/pdf_workbook_generator/)
+## [Chinese Tone Pair Trainer in Anki](https://old.reddit.com/r/ChineseLanguage/comments/1sf1x1p/chinese_tone_pair_trainer_in_anki/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 0
-- created: 2026-04-02T08:12:10.000Z
-- matched query: app OR website pinyin hanzi
+- comments: 1
+- created: 2026-04-07T17:02:30.000Z
+- matched query: resource
 

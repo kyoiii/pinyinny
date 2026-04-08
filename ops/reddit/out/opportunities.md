@@ -1,20 +1,27 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-08T01:07:54.711Z
+Generated: 2026-04-08T04:08:42.796Z
 
 ## [Has this app worked for you guys??](https://old.reddit.com/r/ChineseLanguage/comments/1sfbmhp/has_this_app_worked_for_you_guys/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 2
+- comments: 3
 - created: 2026-04-07T23:00:04.000Z
 - matched query: "learn chinese" app
 
 ## [App recommendations](https://old.reddit.com/r/ChineseLanguage/comments/1sf85br/app_recommendations/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 11
+- comments: 12
 - created: 2026-04-07T20:44:41.000Z
 - matched query: "learn chinese" app
+
+## [Using the super Chinese app. Feeling overwhelmed..](https://old.reddit.com/r/ChineseLanguage/comments/1sfi3dw/using_the_super_chinese_app_feeling_overwhelmed/)
+- subreddit: r/ChineseLanguage
+- score: 8
+- comments: 0
+- created: 2026-04-08T03:50:01.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [HSK sentence flashcards?](https://old.reddit.com/r/ChineseLanguage/comments/1scd3ii/hsk_sentence_flashcards/)
 - subreddit: r/ChineseLanguage
@@ -64,6 +71,13 @@ Generated: 2026-04-08T01:07:54.711Z
 - comments: 11
 - created: 2026-03-10T21:37:08.000Z
 - matched query: "learn chinese" app
+
+## [Progress Update #1](https://old.reddit.com/r/ChineseLanguage/comments/1sffvwl/progress_update_1/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 5
+- created: 2026-04-08T02:05:11.000Z
+- matched query: resource
 
 ## [Looking for advice on my learning method](https://old.reddit.com/r/ChineseLanguage/comments/1sfe7ni/looking_for_advice_on_my_learning_method/)
 - subreddit: r/ChineseLanguage
@@ -126,19 +140,5 @@ Generated: 2026-04-08T01:07:54.711Z
 - score: 4
 - comments: 13
 - created: 2026-03-31T16:11:11.000Z
-- matched query: "learn chinese" app
-
-## [Organizing a chart by HSK levels or by alphabet?](https://old.reddit.com/r/ChineseLanguage/comments/1s6g1ll/organizing_a_chart_by_hsk_levels_or_by_alphabet/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 3
-- created: 2026-03-28T23:57:36.000Z
-- matched query: app OR website pinyin hanzi
-
-## [Stick to 2.0 or get new 3.0 textbooks?](https://old.reddit.com/r/ChineseLanguage/comments/1s4om6n/stick_to_20_or_get_new_30_textbooks/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 1
-- created: 2026-03-27T00:12:06.000Z
 - matched query: "learn chinese" app
 

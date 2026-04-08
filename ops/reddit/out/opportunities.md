@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-08T13:59:48.835Z
+Generated: 2026-04-08T15:23:48.372Z
 
 ## [Anki Decks for purely listening practice?](https://old.reddit.com/r/ChineseLanguage/comments/1sfiysw/anki_decks_for_purely_listening_practice/)
 - subreddit: r/ChineseLanguage
@@ -26,7 +26,7 @@ Generated: 2026-04-08T13:59:48.835Z
 ## [Should I immediately learn the Chinese characters or should I first focus on pronounciation?](https://old.reddit.com/r/ChineseLanguage/comments/1sfks6s/should_i_immediately_learn_the_chinese_characters/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 23
+- comments: 24
 - created: 2026-04-08T06:15:14.000Z
 - matched query: app OR website pinyin hanzi
 

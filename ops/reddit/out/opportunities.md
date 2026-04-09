@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-09T08:25:39.988Z
+Generated: 2026-04-09T09:51:22.355Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -33,7 +33,7 @@ Generated: 2026-04-09T08:25:39.988Z
 ## [What if I want to learn only speaking, but not the words? How to best optimize my learning experience?](https://old.reddit.com/r/ChineseLanguage/comments/1sgd0kp/what_if_i_want_to_learn_only_speaking_but_not_the/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 22
+- comments: 25
 - created: 2026-04-09T02:25:25.000Z
 - matched query: resource
 

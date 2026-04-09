@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-09T20:51:13.560Z
+Generated: 2026-04-09T23:11:48.093Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -19,7 +19,7 @@ Generated: 2026-04-09T20:51:13.560Z
 ## [Has this app worked for you guys??](https://old.reddit.com/r/ChineseLanguage/comments/1sfbmhp/has_this_app_worked_for_you_guys/)
 - subreddit: r/ChineseLanguage
 - score: 8
-- comments: 9
+- comments: 10
 - created: 2026-04-07T23:00:04.000Z
 - matched query: "learn chinese" app
 
@@ -86,6 +86,13 @@ Generated: 2026-04-09T20:51:13.560Z
 - created: 2026-03-10T21:37:08.000Z
 - matched query: "learn chinese" app
 
+## [Duolingo’s scoring system is frying me](https://old.reddit.com/r/ChineseLanguage/comments/1sh3nb7/duolingos_scoring_system_is_frying_me/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 2
+- created: 2026-04-09T21:56:37.000Z
+- matched query: "learn chinese" app
+
 ## [YCT Level 1 learning resources](https://old.reddit.com/r/ChineseLanguage/comments/1sdrzda/yct_level_1_learning_resources/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -113,13 +120,6 @@ Generated: 2026-04-09T20:51:13.560Z
 - comments: 9
 - created: 2026-04-03T04:34:31.000Z
 - matched query: resource
-
-## [More advanced Chinese vocabulary lists for travel?](https://old.reddit.com/r/ChineseLanguage/comments/1satzzv/more_advanced_chinese_vocabulary_lists_for_travel/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 15
-- created: 2026-04-02T21:15:45.000Z
-- matched query: "learn chinese" app
 
 ## [Progress Update #1](https://old.reddit.com/r/ChineseLanguage/comments/1sffvwl/progress_update_1/)
 - subreddit: r/ChineseLanguage

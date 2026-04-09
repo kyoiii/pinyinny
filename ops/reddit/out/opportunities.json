@@ -6,7 +6,7 @@
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/",
     "created_utc": 1775668309,
     "created_at": "2026-04-08T17:11:49.000Z",
-    "num_comments": 1,
+    "num_comments": 4,
     "author": "Kanu-chan",
     "score": 11
   },
@@ -28,7 +28,7 @@
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1sfbmhp/has_this_app_worked_for_you_guys/",
     "created_utc": 1775602804,
     "created_at": "2026-04-07T23:00:04.000Z",
-    "num_comments": 8,
+    "num_comments": 10,
     "author": "SatisfactionNice653",
     "score": 8
   },
@@ -39,9 +39,20 @@
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1sf85br/app_recommendations/",
     "created_utc": 1775594681,
     "created_at": "2026-04-07T20:44:41.000Z",
-    "num_comments": 15,
+    "num_comments": 16,
     "author": "heyyaa22n",
     "score": 8
+  },
+  {
+    "subreddit": "ChineseLanguage",
+    "query": "resource",
+    "title": "What if I want to learn only speaking, but not the words? How to best optimize my learning experience?",
+    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1sgd0kp/what_if_i_want_to_learn_only_speaking_but_not_the/",
+    "created_utc": 1775701525,
+    "created_at": "2026-04-09T02:25:25.000Z",
+    "num_comments": 5,
+    "author": "reddituseonlyplease",
+    "score": 7
   },
   {
     "subreddit": "ChineseLanguage",
@@ -50,7 +61,7 @@
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1sfks6s/should_i_immediately_learn_the_chinese_characters/",
     "created_utc": 1775628914,
     "created_at": "2026-04-08T06:15:14.000Z",
-    "num_comments": 25,
+    "num_comments": 26,
     "author": "tomatobroccoli",
     "score": 7
   },
@@ -61,7 +72,7 @@
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1sfi3dw/using_the_super_chinese_app_feeling_overwhelmed/",
     "created_utc": 1775620201,
     "created_at": "2026-04-08T03:50:01.000Z",
-    "num_comments": 9,
+    "num_comments": 10,
     "author": "OldStatement7037",
     "score": 7
   },
@@ -134,28 +145,6 @@
   {
     "subreddit": "ChineseLanguage",
     "query": "resource",
-    "title": "Progress Update #1",
-    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1sffvwl/progress_update_1/",
-    "created_utc": 1775613911,
-    "created_at": "2026-04-08T02:05:11.000Z",
-    "num_comments": 8,
-    "author": "PsychologyBig1104",
-    "score": 5
-  },
-  {
-    "subreddit": "ChineseLanguage",
-    "query": "resource",
-    "title": "Looking for advice on my learning method",
-    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1sfe7ni/looking_for_advice_on_my_learning_method/",
-    "created_utc": 1775609474,
-    "created_at": "2026-04-08T00:51:14.000Z",
-    "num_comments": 1,
-    "author": "jessaay",
-    "score": 5
-  },
-  {
-    "subreddit": "ChineseLanguage",
-    "query": "resource",
     "title": "Which voice-over to use?",
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1sd8owe/which_voiceover_to_use/",
     "created_utc": 1775408090,
@@ -211,12 +200,23 @@
   {
     "subreddit": "ChineseLanguage",
     "query": "resource",
-    "title": "Chinese Tone Pair Trainer in Anki",
-    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1sf1x1p/chinese_tone_pair_trainer_in_anki/",
-    "created_utc": 1775581350,
-    "created_at": "2026-04-07T17:02:30.000Z",
-    "num_comments": 1,
-    "author": "KartaviyKot",
+    "title": "Progress Update #1",
+    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1sffvwl/progress_update_1/",
+    "created_utc": 1775613911,
+    "created_at": "2026-04-08T02:05:11.000Z",
+    "num_comments": 9,
+    "author": "PsychologyBig1104",
+    "score": 4
+  },
+  {
+    "subreddit": "ChineseLanguage",
+    "query": "resource",
+    "title": "Looking for advice on my learning method",
+    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1sfe7ni/looking_for_advice_on_my_learning_method/",
+    "created_utc": 1775609474,
+    "created_at": "2026-04-08T00:51:14.000Z",
+    "num_comments": 2,
+    "author": "jessaay",
     "score": 4
   }
 ]

@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-09T00:01:47.375Z
+Generated: 2026-04-09T03:24:49.142Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 11
-- comments: 1
+- comments: 4
 - created: 2026-04-08T17:11:49.000Z
 - matched query: "learn chinese" app
 
@@ -19,28 +19,35 @@ Generated: 2026-04-09T00:01:47.375Z
 ## [Has this app worked for you guys??](https://old.reddit.com/r/ChineseLanguage/comments/1sfbmhp/has_this_app_worked_for_you_guys/)
 - subreddit: r/ChineseLanguage
 - score: 8
-- comments: 8
+- comments: 10
 - created: 2026-04-07T23:00:04.000Z
 - matched query: "learn chinese" app
 
 ## [App recommendations](https://old.reddit.com/r/ChineseLanguage/comments/1sf85br/app_recommendations/)
 - subreddit: r/ChineseLanguage
 - score: 8
-- comments: 15
+- comments: 16
 - created: 2026-04-07T20:44:41.000Z
 - matched query: "learn chinese" app
+
+## [What if I want to learn only speaking, but not the words? How to best optimize my learning experience?](https://old.reddit.com/r/ChineseLanguage/comments/1sgd0kp/what_if_i_want_to_learn_only_speaking_but_not_the/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 5
+- created: 2026-04-09T02:25:25.000Z
+- matched query: resource
 
 ## [Should I immediately learn the Chinese characters or should I first focus on pronounciation?](https://old.reddit.com/r/ChineseLanguage/comments/1sfks6s/should_i_immediately_learn_the_chinese_characters/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 25
+- comments: 26
 - created: 2026-04-08T06:15:14.000Z
 - matched query: app OR website pinyin hanzi
 
 ## [Using the super Chinese app. Feeling overwhelmed..](https://old.reddit.com/r/ChineseLanguage/comments/1sfi3dw/using_the_super_chinese_app_feeling_overwhelmed/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 9
+- comments: 10
 - created: 2026-04-08T03:50:01.000Z
 - matched query: app OR website pinyin hanzi
 
@@ -86,20 +93,6 @@ Generated: 2026-04-09T00:01:47.375Z
 - created: 2026-03-10T21:37:08.000Z
 - matched query: "learn chinese" app
 
-## [Progress Update #1](https://old.reddit.com/r/ChineseLanguage/comments/1sffvwl/progress_update_1/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 8
-- created: 2026-04-08T02:05:11.000Z
-- matched query: resource
-
-## [Looking for advice on my learning method](https://old.reddit.com/r/ChineseLanguage/comments/1sfe7ni/looking_for_advice_on_my_learning_method/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 1
-- created: 2026-04-08T00:51:14.000Z
-- matched query: resource
-
 ## [Which voice-over to use?](https://old.reddit.com/r/ChineseLanguage/comments/1sd8owe/which_voiceover_to_use/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -135,10 +128,17 @@ Generated: 2026-04-09T00:01:47.375Z
 - created: 2026-04-02T13:26:47.000Z
 - matched query: flashcard app
 
-## [Chinese Tone Pair Trainer in Anki](https://old.reddit.com/r/ChineseLanguage/comments/1sf1x1p/chinese_tone_pair_trainer_in_anki/)
+## [Progress Update #1](https://old.reddit.com/r/ChineseLanguage/comments/1sffvwl/progress_update_1/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 1
-- created: 2026-04-07T17:02:30.000Z
+- comments: 9
+- created: 2026-04-08T02:05:11.000Z
+- matched query: resource
+
+## [Looking for advice on my learning method](https://old.reddit.com/r/ChineseLanguage/comments/1sfe7ni/looking_for_advice_on_my_learning_method/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 2
+- created: 2026-04-08T00:51:14.000Z
 - matched query: resource
 

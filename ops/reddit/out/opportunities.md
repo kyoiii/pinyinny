@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-09T03:24:49.142Z
+Generated: 2026-04-09T05:28:16.668Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -11,7 +11,7 @@ Generated: 2026-04-09T03:24:49.142Z
 
 ## [Anki Decks for purely listening practice?](https://old.reddit.com/r/ChineseLanguage/comments/1sfiysw/anki_decks_for_purely_listening_practice/)
 - subreddit: r/ChineseLanguage
-- score: 9
+- score: 8
 - comments: 4
 - created: 2026-04-08T04:33:49.000Z
 - matched query: flashcard app
@@ -19,7 +19,7 @@ Generated: 2026-04-09T03:24:49.142Z
 ## [Has this app worked for you guys??](https://old.reddit.com/r/ChineseLanguage/comments/1sfbmhp/has_this_app_worked_for_you_guys/)
 - subreddit: r/ChineseLanguage
 - score: 8
-- comments: 10
+- comments: 9
 - created: 2026-04-07T23:00:04.000Z
 - matched query: "learn chinese" app
 
@@ -33,7 +33,7 @@ Generated: 2026-04-09T03:24:49.142Z
 ## [What if I want to learn only speaking, but not the words? How to best optimize my learning experience?](https://old.reddit.com/r/ChineseLanguage/comments/1sgd0kp/what_if_i_want_to_learn_only_speaking_but_not_the/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 5
+- comments: 9
 - created: 2026-04-09T02:25:25.000Z
 - matched query: resource
 
@@ -44,19 +44,19 @@ Generated: 2026-04-09T03:24:49.142Z
 - created: 2026-04-08T06:15:14.000Z
 - matched query: app OR website pinyin hanzi
 
-## [Using the super Chinese app. Feeling overwhelmed..](https://old.reddit.com/r/ChineseLanguage/comments/1sfi3dw/using_the_super_chinese_app_feeling_overwhelmed/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 10
-- created: 2026-04-08T03:50:01.000Z
-- matched query: app OR website pinyin hanzi
-
 ## [HSK sentence flashcards?](https://old.reddit.com/r/ChineseLanguage/comments/1scd3ii/hsk_sentence_flashcards/)
 - subreddit: r/ChineseLanguage
 - score: 7
 - comments: 6
 - created: 2026-04-04T16:06:16.000Z
 - matched query: flashcard app
+
+## [Using the super Chinese app. Feeling overwhelmed..](https://old.reddit.com/r/ChineseLanguage/comments/1sfi3dw/using_the_super_chinese_app_feeling_overwhelmed/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 10
+- created: 2026-04-08T03:50:01.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [YCT Level 1 learning resources](https://old.reddit.com/r/ChineseLanguage/comments/1sdrzda/yct_level_1_learning_resources/)
 - subreddit: r/ChineseLanguage

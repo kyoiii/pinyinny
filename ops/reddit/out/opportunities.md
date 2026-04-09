@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-09T23:11:48.093Z
+Generated: 2026-04-09T23:55:37.982Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -89,7 +89,7 @@ Generated: 2026-04-09T23:11:48.093Z
 ## [Duolingo’s scoring system is frying me](https://old.reddit.com/r/ChineseLanguage/comments/1sh3nb7/duolingos_scoring_system_is_frying_me/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 2
+- comments: 3
 - created: 2026-04-09T21:56:37.000Z
 - matched query: "learn chinese" app
 

@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-09T11:54:54.200Z
+Generated: 2026-04-09T13:44:45.488Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 11
-- comments: 6
+- comments: 8
 - created: 2026-04-08T17:11:49.000Z
 - matched query: "learn chinese" app
 
@@ -121,13 +121,6 @@ Generated: 2026-04-09T11:54:54.200Z
 - created: 2026-04-02T21:15:45.000Z
 - matched query: "learn chinese" app
 
-## [Memory Tool Discussion](https://old.reddit.com/r/ChineseLanguage/comments/1sahdkr/memory_tool_discussion/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 14
-- created: 2026-04-02T13:26:47.000Z
-- matched query: flashcard app
-
 ## [Progress Update #1](https://old.reddit.com/r/ChineseLanguage/comments/1sffvwl/progress_update_1/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -140,5 +133,12 @@ Generated: 2026-04-09T11:54:54.200Z
 - score: 4
 - comments: 2
 - created: 2026-04-08T00:51:14.000Z
+- matched query: resource
+
+## [Chinese Tone Pair Trainer in Anki](https://old.reddit.com/r/ChineseLanguage/comments/1sf1x1p/chinese_tone_pair_trainer_in_anki/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 1
+- created: 2026-04-07T17:02:30.000Z
 - matched query: resource
 

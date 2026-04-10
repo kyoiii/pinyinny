@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-10T02:52:27.523Z
+Generated: 2026-04-10T05:20:44.738Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -89,7 +89,7 @@ Generated: 2026-04-10T02:52:27.523Z
 ## [Duolingo’s scoring system is frying me](https://old.reddit.com/r/ChineseLanguage/comments/1sh3nb7/duolingos_scoring_system_is_frying_me/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 4
+- comments: 6
 - created: 2026-04-09T21:56:37.000Z
 - matched query: "learn chinese" app
 
@@ -114,13 +114,6 @@ Generated: 2026-04-10T02:52:27.523Z
 - created: 2026-04-03T16:59:25.000Z
 - matched query: "learn chinese" app
 
-## [Traditional character HSK 1 immersion?](https://old.reddit.com/r/ChineseLanguage/comments/1sb3tb6/traditional_character_hsk_1_immersion/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 9
-- created: 2026-04-03T04:34:31.000Z
-- matched query: resource
-
 ## [Progress Update #1](https://old.reddit.com/r/ChineseLanguage/comments/1sffvwl/progress_update_1/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -140,5 +133,12 @@ Generated: 2026-04-10T02:52:27.523Z
 - score: 4
 - comments: 1
 - created: 2026-04-07T17:02:30.000Z
+- matched query: resource
+
+## [Traditional character HSK 1 immersion?](https://old.reddit.com/r/ChineseLanguage/comments/1sb3tb6/traditional_character_hsk_1_immersion/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 9
+- created: 2026-04-03T04:34:31.000Z
 - matched query: resource
 

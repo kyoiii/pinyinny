@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-10T15:34:20.201Z
+Generated: 2026-04-10T16:33:01.943Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -12,9 +12,23 @@ Generated: 2026-04-10T15:34:20.201Z
 ## [Resources for learning TAIWANESE mandarin for a native English speaker, fluent in Japanese, with bopomofo (not pinyin)](https://old.reddit.com/r/ChineseLanguage/comments/1shlayh/resources_for_learning_taiwanese_mandarin_for_a/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 12
+- comments: 19
 - created: 2026-04-10T12:36:36.000Z
 - matched query: resource
+
+## [Voiczy.com - Is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1shr138/voiczycom_is_it_worth_it/)
+- subreddit: r/ChineseLanguage
+- score: 8
+- comments: 0
+- created: 2026-04-10T16:11:23.000Z
+- matched query: resource
+
+## [Speak Chinese but struggling to read so I built my own learning tool](https://old.reddit.com/r/ChineseLanguage/comments/1shqocg/speak_chinese_but_struggling_to_read_so_i_built/)
+- subreddit: r/ChineseLanguage
+- score: 8
+- comments: 0
+- created: 2026-04-10T15:59:16.000Z
+- matched query: flashcard app
 
 ## [Anki Decks for purely listening practice?](https://old.reddit.com/r/ChineseLanguage/comments/1sfiysw/anki_decks_for_purely_listening_practice/)
 - subreddit: r/ChineseLanguage
@@ -110,7 +124,7 @@ Generated: 2026-04-10T15:34:20.201Z
 ## [YCT Level 1 learning resources](https://old.reddit.com/r/ChineseLanguage/comments/1sdrzda/yct_level_1_learning_resources/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 10
+- comments: 13
 - created: 2026-04-06T07:23:11.000Z
 - matched query: resource
 
@@ -127,18 +141,4 @@ Generated: 2026-04-10T15:34:20.201Z
 - comments: 51
 - created: 2026-04-03T16:59:25.000Z
 - matched query: "learn chinese" app
-
-## [Progress Update #1](https://old.reddit.com/r/ChineseLanguage/comments/1sffvwl/progress_update_1/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 9
-- created: 2026-04-08T02:05:11.000Z
-- matched query: resource
-
-## [Looking for advice on my learning method](https://old.reddit.com/r/ChineseLanguage/comments/1sfe7ni/looking_for_advice_on_my_learning_method/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 9
-- created: 2026-04-08T00:51:14.000Z
-- matched query: resource
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-10T22:21:03.574Z
+Generated: 2026-04-10T23:02:07.534Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -30,13 +30,6 @@ Generated: 2026-04-10T22:21:03.574Z
 - created: 2026-04-08T04:33:49.000Z
 - matched query: flashcard app
 
-## [Has this app worked for you guys??](https://old.reddit.com/r/ChineseLanguage/comments/1sfbmhp/has_this_app_worked_for_you_guys/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 10
-- created: 2026-04-07T23:00:04.000Z
-- matched query: "learn chinese" app
-
 ## [Voiczy.com - Is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1shr138/voiczycom_is_it_worth_it/)
 - subreddit: r/ChineseLanguage
 - score: 7
@@ -50,6 +43,13 @@ Generated: 2026-04-10T22:21:03.574Z
 - comments: 2
 - created: 2026-04-10T13:24:00.000Z
 - matched query: app OR website pinyin hanzi
+
+## [Has this app worked for you guys??](https://old.reddit.com/r/ChineseLanguage/comments/1sfbmhp/has_this_app_worked_for_you_guys/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 10
+- created: 2026-04-07T23:00:04.000Z
+- matched query: "learn chinese" app
 
 ## [App recommendations](https://old.reddit.com/r/ChineseLanguage/comments/1sf85br/app_recommendations/)
 - subreddit: r/ChineseLanguage

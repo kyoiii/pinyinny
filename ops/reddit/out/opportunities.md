@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-10T18:31:00.235Z
+Generated: 2026-04-10T19:32:38.272Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -12,7 +12,7 @@ Generated: 2026-04-10T18:31:00.235Z
 ## [Resources for learning TAIWANESE mandarin for a native English speaker, fluent in Japanese, with bopomofo (not pinyin)](https://old.reddit.com/r/ChineseLanguage/comments/1shlayh/resources_for_learning_taiwanese_mandarin_for_a/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 24
+- comments: 27
 - created: 2026-04-10T12:36:36.000Z
 - matched query: resource
 
@@ -117,7 +117,7 @@ Generated: 2026-04-10T18:31:00.235Z
 ## [Duolingo’s scoring system is frying me](https://old.reddit.com/r/ChineseLanguage/comments/1sh3nb7/duolingos_scoring_system_is_frying_me/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 6
+- comments: 7
 - created: 2026-04-09T21:56:37.000Z
 - matched query: "learn chinese" app
 

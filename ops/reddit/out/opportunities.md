@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-10T21:41:24.864Z
+Generated: 2026-04-10T22:21:03.574Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -12,15 +12,8 @@ Generated: 2026-04-10T21:41:24.864Z
 ## [Resources for learning TAIWANESE mandarin for a native English speaker, fluent in Japanese, with bopomofo (not pinyin)](https://old.reddit.com/r/ChineseLanguage/comments/1shlayh/resources_for_learning_taiwanese_mandarin_for_a/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 28
+- comments: 30
 - created: 2026-04-10T12:36:36.000Z
-- matched query: resource
-
-## [Voiczy.com - Is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1shr138/voiczycom_is_it_worth_it/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 0
-- created: 2026-04-10T16:11:23.000Z
 - matched query: resource
 
 ## [Speak Chinese but struggling to read so I built my own learning tool](https://old.reddit.com/r/ChineseLanguage/comments/1shqocg/speak_chinese_but_struggling_to_read_so_i_built/)
@@ -44,12 +37,12 @@ Generated: 2026-04-10T21:41:24.864Z
 - created: 2026-04-07T23:00:04.000Z
 - matched query: "learn chinese" app
 
-## [Give me fun translators app](https://old.reddit.com/r/languagelearning/comments/1shwjjt/give_me_fun_translators_app/)
-- subreddit: r/languagelearning
+## [Voiczy.com - Is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1shr138/voiczycom_is_it_worth_it/)
+- subreddit: r/ChineseLanguage
 - score: 7
-- comments: 2
-- created: 2026-04-10T19:26:52.000Z
-- matched query: "Chinese" app
+- comments: 1
+- created: 2026-04-10T16:11:23.000Z
+- matched query: resource
 
 ## [I made a multiplayer Chinese word game that lets you practice vocab and typing with friends](https://old.reddit.com/r/ChineseLanguage/comments/1shmgia/i_made_a_multiplayer_chinese_word_game_that_lets/)
 - subreddit: r/ChineseLanguage
@@ -121,13 +114,6 @@ Generated: 2026-04-10T21:41:24.864Z
 - created: 2026-03-10T21:37:08.000Z
 - matched query: "learn chinese" app
 
-## [Duolingo’s scoring system is frying me](https://old.reddit.com/r/ChineseLanguage/comments/1sh3nb7/duolingos_scoring_system_is_frying_me/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 7
-- created: 2026-04-09T21:56:37.000Z
-- matched query: "learn chinese" app
-
 ## [YCT Level 1 learning resources](https://old.reddit.com/r/ChineseLanguage/comments/1sdrzda/yct_level_1_learning_resources/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -140,5 +126,19 @@ Generated: 2026-04-10T21:41:24.864Z
 - score: 5
 - comments: 19
 - created: 2026-04-05T16:54:50.000Z
+- matched query: resource
+
+## [Duolingo’s scoring system is frying me](https://old.reddit.com/r/ChineseLanguage/comments/1sh3nb7/duolingos_scoring_system_is_frying_me/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 7
+- created: 2026-04-09T21:56:37.000Z
+- matched query: "learn chinese" app
+
+## [Progress Update #1](https://old.reddit.com/r/ChineseLanguage/comments/1sffvwl/progress_update_1/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 9
+- created: 2026-04-08T02:05:11.000Z
 - matched query: resource
 

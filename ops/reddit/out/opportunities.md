@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-10T16:33:01.943Z
+Generated: 2026-04-10T17:31:00.134Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -12,7 +12,7 @@ Generated: 2026-04-10T16:33:01.943Z
 ## [Resources for learning TAIWANESE mandarin for a native English speaker, fluent in Japanese, with bopomofo (not pinyin)](https://old.reddit.com/r/ChineseLanguage/comments/1shlayh/resources_for_learning_taiwanese_mandarin_for_a/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 19
+- comments: 22
 - created: 2026-04-10T12:36:36.000Z
 - matched query: resource
 
@@ -135,10 +135,10 @@ Generated: 2026-04-10T16:33:01.943Z
 - created: 2026-04-05T16:54:50.000Z
 - matched query: resource
 
-## [For those of you with a Chinese reading habit, what tools are you using? And why are e-readers so bad?](https://old.reddit.com/r/ChineseLanguage/comments/1sbj6c6/for_those_of_you_with_a_chinese_reading_habit/)
+## [Progress Update #1](https://old.reddit.com/r/ChineseLanguage/comments/1sffvwl/progress_update_1/)
 - subreddit: r/ChineseLanguage
-- score: 5
-- comments: 51
-- created: 2026-04-03T16:59:25.000Z
-- matched query: "learn chinese" app
+- score: 4
+- comments: 9
+- created: 2026-04-08T02:05:11.000Z
+- matched query: resource
 

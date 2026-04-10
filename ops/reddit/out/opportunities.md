@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-10T07:05:47.346Z
+Generated: 2026-04-10T08:45:49.856Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -131,7 +131,7 @@ Generated: 2026-04-10T07:05:47.346Z
 ## [Chinese Tone Pair Trainer in Anki](https://old.reddit.com/r/ChineseLanguage/comments/1sf1x1p/chinese_tone_pair_trainer_in_anki/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 1
+- comments: 2
 - created: 2026-04-07T17:02:30.000Z
 - matched query: resource
 

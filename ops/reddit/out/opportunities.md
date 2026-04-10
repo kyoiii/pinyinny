@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-09T23:55:37.982Z
+Generated: 2026-04-10T02:52:27.523Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 10
-- comments: 9
+- comments: 10
 - created: 2026-04-08T17:11:49.000Z
 - matched query: "learn chinese" app
 
@@ -30,19 +30,19 @@ Generated: 2026-04-09T23:55:37.982Z
 - created: 2026-04-07T20:44:41.000Z
 - matched query: "learn chinese" app
 
-## [What if I want to learn only speaking, but not the words? How to best optimize my learning experience?](https://old.reddit.com/r/ChineseLanguage/comments/1sgd0kp/what_if_i_want_to_learn_only_speaking_but_not_the/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 29
-- created: 2026-04-09T02:25:25.000Z
-- matched query: resource
-
 ## [HSK sentence flashcards?](https://old.reddit.com/r/ChineseLanguage/comments/1scd3ii/hsk_sentence_flashcards/)
 - subreddit: r/ChineseLanguage
 - score: 7
 - comments: 6
 - created: 2026-04-04T16:06:16.000Z
 - matched query: flashcard app
+
+## [What if I want to learn only speaking, but not the words? How to best optimize my learning experience?](https://old.reddit.com/r/ChineseLanguage/comments/1sgd0kp/what_if_i_want_to_learn_only_speaking_but_not_the/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 29
+- created: 2026-04-09T02:25:25.000Z
+- matched query: resource
 
 ## [Should I immediately learn the Chinese characters or should I first focus on pronounciation?](https://old.reddit.com/r/ChineseLanguage/comments/1sfks6s/should_i_immediately_learn_the_chinese_characters/)
 - subreddit: r/ChineseLanguage
@@ -89,7 +89,7 @@ Generated: 2026-04-09T23:55:37.982Z
 ## [Duolingo’s scoring system is frying me](https://old.reddit.com/r/ChineseLanguage/comments/1sh3nb7/duolingos_scoring_system_is_frying_me/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 3
+- comments: 4
 - created: 2026-04-09T21:56:37.000Z
 - matched query: "learn chinese" app
 

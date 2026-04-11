@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-11T12:37:00.925Z
+Generated: 2026-04-11T13:42:43.435Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -22,13 +22,6 @@ Generated: 2026-04-11T12:37:00.925Z
 - comments: 1
 - created: 2026-04-10T15:59:16.000Z
 - matched query: flashcard app
-
-## [I made a multiplayer Chinese word game that lets you practice vocab and typing with friends](https://old.reddit.com/r/ChineseLanguage/comments/1shmgia/i_made_a_multiplayer_chinese_word_game_that_lets/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 4
-- created: 2026-04-10T13:24:00.000Z
-- matched query: app OR website pinyin hanzi
 
 ## [Anki Decks for purely listening practice?](https://old.reddit.com/r/ChineseLanguage/comments/1sfiysw/anki_decks_for_purely_listening_practice/)
 - subreddit: r/ChineseLanguage
@@ -57,6 +50,13 @@ Generated: 2026-04-11T12:37:00.925Z
 - comments: 6
 - created: 2026-04-04T16:06:16.000Z
 - matched query: flashcard app
+
+## [I made a multiplayer Chinese word game that lets you practice vocab and typing with friends](https://old.reddit.com/r/ChineseLanguage/comments/1shmgia/i_made_a_multiplayer_chinese_word_game_that_lets/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 4
+- created: 2026-04-10T13:24:00.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [Resources for learning TAIWANESE mandarin for a native English speaker, fluent in Japanese, with bopomofo (not pinyin)](https://old.reddit.com/r/ChineseLanguage/comments/1shlayh/resources_for_learning_taiwanese_mandarin_for_a/)
 - subreddit: r/ChineseLanguage

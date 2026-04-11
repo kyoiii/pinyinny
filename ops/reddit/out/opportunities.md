@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-11T01:04:17.103Z
+Generated: 2026-04-11T03:46:35.135Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -26,7 +26,7 @@ Generated: 2026-04-11T01:04:17.103Z
 ## [Voiczy.com - Is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1shr138/voiczycom_is_it_worth_it/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 1
+- comments: 2
 - created: 2026-04-10T16:11:23.000Z
 - matched query: resource
 
@@ -40,7 +40,7 @@ Generated: 2026-04-11T01:04:17.103Z
 ## [Resources for learning TAIWANESE mandarin for a native English speaker, fluent in Japanese, with bopomofo (not pinyin)](https://old.reddit.com/r/ChineseLanguage/comments/1shlayh/resources_for_learning_taiwanese_mandarin_for_a/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 32
+- comments: 37
 - created: 2026-04-10T12:36:36.000Z
 - matched query: resource
 
@@ -128,17 +128,17 @@ Generated: 2026-04-11T01:04:17.103Z
 - created: 2026-04-09T21:56:37.000Z
 - matched query: "learn chinese" app
 
-## [Progress Update #1](https://old.reddit.com/r/ChineseLanguage/comments/1sffvwl/progress_update_1/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 9
-- created: 2026-04-08T02:05:11.000Z
-- matched query: resource
-
 ## [For those of you with a Chinese reading habit, what tools are you using? And why are e-readers so bad?](https://old.reddit.com/r/ChineseLanguage/comments/1sbj6c6/for_those_of_you_with_a_chinese_reading_habit/)
 - subreddit: r/ChineseLanguage
 - score: 4
 - comments: 53
 - created: 2026-04-03T16:59:25.000Z
+- matched query: "learn chinese" app
+
+## [More advanced Chinese vocabulary lists for travel?](https://old.reddit.com/r/ChineseLanguage/comments/1satzzv/more_advanced_chinese_vocabulary_lists_for_travel/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 15
+- created: 2026-04-02T21:15:45.000Z
 - matched query: "learn chinese" app
 

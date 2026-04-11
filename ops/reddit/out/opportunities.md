@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-11T03:46:35.135Z
+Generated: 2026-04-11T05:19:29.928Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -14,13 +14,6 @@ Generated: 2026-04-11T03:46:35.135Z
 - score: 8
 - comments: 0
 - created: 2026-04-10T15:59:16.000Z
-- matched query: flashcard app
-
-## [Anki Decks for purely listening practice?](https://old.reddit.com/r/ChineseLanguage/comments/1sfiysw/anki_decks_for_purely_listening_practice/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 4
-- created: 2026-04-08T04:33:49.000Z
 - matched query: flashcard app
 
 ## [Voiczy.com - Is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1shr138/voiczycom_is_it_worth_it/)
@@ -43,6 +36,13 @@ Generated: 2026-04-11T03:46:35.135Z
 - comments: 37
 - created: 2026-04-10T12:36:36.000Z
 - matched query: resource
+
+## [Anki Decks for purely listening practice?](https://old.reddit.com/r/ChineseLanguage/comments/1sfiysw/anki_decks_for_purely_listening_practice/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 4
+- created: 2026-04-08T04:33:49.000Z
+- matched query: flashcard app
 
 ## [Has this app worked for you guys??](https://old.reddit.com/r/ChineseLanguage/comments/1sfbmhp/has_this_app_worked_for_you_guys/)
 - subreddit: r/ChineseLanguage
@@ -79,13 +79,6 @@ Generated: 2026-04-11T03:46:35.135Z
 - created: 2026-04-08T06:15:14.000Z
 - matched query: app OR website pinyin hanzi
 
-## [Using the super Chinese app. Feeling overwhelmed..](https://old.reddit.com/r/ChineseLanguage/comments/1sfi3dw/using_the_super_chinese_app_feeling_overwhelmed/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 10
-- created: 2026-04-08T03:50:01.000Z
-- matched query: app OR website pinyin hanzi
-
 ## [If you're learning Chinese to go to Taiwan, what are some roadblocks you've encountered with Chinese-learning apps?](https://old.reddit.com/r/ChineseLanguage/comments/1s9ldpy/if_youre_learning_chinese_to_go_to_taiwan_what/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -106,6 +99,13 @@ Generated: 2026-04-11T03:46:35.135Z
 - comments: 14
 - created: 2026-03-11T05:24:51.000Z
 - matched query: "learn chinese" app
+
+## [Using the super Chinese app. Feeling overwhelmed..](https://old.reddit.com/r/ChineseLanguage/comments/1sfi3dw/using_the_super_chinese_app_feeling_overwhelmed/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 10
+- created: 2026-04-08T03:50:01.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [YCT Level 1 learning resources](https://old.reddit.com/r/ChineseLanguage/comments/1sdrzda/yct_level_1_learning_resources/)
 - subreddit: r/ChineseLanguage

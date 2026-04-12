@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-12T07:00:27.354Z
+Generated: 2026-04-12T08:08:07.632Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -12,7 +12,7 @@ Generated: 2026-04-12T07:00:27.354Z
 ## [Is there anywhere to buy physical manhua written in Mandarin?](https://old.reddit.com/r/ChineseLanguage/comments/1sj33gz/is_there_anywhere_to_buy_physical_manhua_written/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 1
+- comments: 2
 - created: 2026-04-12T03:14:55.000Z
 - matched query: resource
 
@@ -26,7 +26,7 @@ Generated: 2026-04-12T07:00:27.354Z
 ## [Any other frustrated intermediates? “know” a lot of Chinese but can’t actually sustain a conversation?](https://old.reddit.com/r/ChineseLanguage/comments/1sidqgu/any_other_frustrated_intermediates_know_a_lot_of/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 23
+- comments: 24
 - created: 2026-04-11T08:45:10.000Z
 - matched query: "learn chinese" app
 

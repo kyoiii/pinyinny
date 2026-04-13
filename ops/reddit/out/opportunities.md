@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-13T14:25:43.561Z
+Generated: 2026-04-13T15:57:36.531Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -28,6 +28,13 @@ Generated: 2026-04-13T14:25:43.561Z
 - score: 7
 - comments: 19
 - created: 2026-04-07T20:44:41.000Z
+- matched query: "learn chinese" app
+
+## [Mode of Learning for a previous 死读书](https://old.reddit.com/r/ChineseLanguage/comments/1skdk0w/mode_of_learning_for_a_previous_死读书/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 0
+- created: 2026-04-13T15:05:23.000Z
 - matched query: "learn chinese" app
 
 ## [Is there anywhere to buy physical manhua written in Mandarin?](https://old.reddit.com/r/ChineseLanguage/comments/1sj33gz/is_there_anywhere_to_buy_physical_manhua_written/)
@@ -82,7 +89,7 @@ Generated: 2026-04-13T14:25:43.561Z
 ## [Simple books](https://old.reddit.com/r/ChineseLanguage/comments/1sk3eyd/simple_books/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 2
+- comments: 3
 - created: 2026-04-13T07:07:18.000Z
 - matched query: "learn chinese" app
 
@@ -133,12 +140,5 @@ Generated: 2026-04-13T14:25:43.561Z
 - score: 4
 - comments: 54
 - created: 2026-04-03T16:59:25.000Z
-- matched query: "learn chinese" app
-
-## [More advanced Chinese vocabulary lists for travel?](https://old.reddit.com/r/ChineseLanguage/comments/1satzzv/more_advanced_chinese_vocabulary_lists_for_travel/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 15
-- created: 2026-04-02T21:15:45.000Z
 - matched query: "learn chinese" app
 

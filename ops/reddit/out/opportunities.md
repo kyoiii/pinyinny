@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-13T15:57:36.531Z
+Generated: 2026-04-13T17:14:50.589Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -8,6 +8,13 @@ Generated: 2026-04-13T15:57:36.531Z
 - comments: 12
 - created: 2026-04-08T17:11:49.000Z
 - matched query: "learn chinese" app
+
+## [Apps I use to study Mandarin Chinese from zero](https://old.reddit.com/r/ChineseLanguage/comments/1skfhfl/apps_i_use_to_study_mandarin_chinese_from_zero/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 1
+- created: 2026-04-13T16:11:57.000Z
+- matched query: flashcard app
 
 ## [Anki Decks for purely listening practice?](https://old.reddit.com/r/ChineseLanguage/comments/1sfiysw/anki_decks_for_purely_listening_practice/)
 - subreddit: r/ChineseLanguage
@@ -51,20 +58,6 @@ Generated: 2026-04-13T15:57:36.531Z
 - created: 2026-04-12T00:55:44.000Z
 - matched query: resource
 
-## [Voiczy.com - Is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1shr138/voiczycom_is_it_worth_it/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 3
-- created: 2026-04-10T16:11:23.000Z
-- matched query: resource
-
-## [Speak Chinese but struggling to read so I built my own learning tool](https://old.reddit.com/r/ChineseLanguage/comments/1shqocg/speak_chinese_but_struggling_to_read_so_i_built/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 2
-- created: 2026-04-10T15:59:16.000Z
-- matched query: flashcard app
-
 ## [HSK sentence flashcards?](https://old.reddit.com/r/ChineseLanguage/comments/1scd3ii/hsk_sentence_flashcards/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -89,9 +82,23 @@ Generated: 2026-04-13T15:57:36.531Z
 ## [Simple books](https://old.reddit.com/r/ChineseLanguage/comments/1sk3eyd/simple_books/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 3
+- comments: 4
 - created: 2026-04-13T07:07:18.000Z
 - matched query: "learn chinese" app
+
+## [Voiczy.com - Is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1shr138/voiczycom_is_it_worth_it/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 3
+- created: 2026-04-10T16:11:23.000Z
+- matched query: resource
+
+## [Speak Chinese but struggling to read so I built my own learning tool](https://old.reddit.com/r/ChineseLanguage/comments/1shqocg/speak_chinese_but_struggling_to_read_so_i_built/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 2
+- created: 2026-04-10T15:59:16.000Z
+- matched query: flashcard app
 
 ## [I made a multiplayer Chinese word game that lets you practice vocab and typing with friends](https://old.reddit.com/r/ChineseLanguage/comments/1shmgia/i_made_a_multiplayer_chinese_word_game_that_lets/)
 - subreddit: r/ChineseLanguage
@@ -134,11 +141,4 @@ Generated: 2026-04-13T15:57:36.531Z
 - comments: 13
 - created: 2026-04-06T07:23:11.000Z
 - matched query: resource
-
-## [For those of you with a Chinese reading habit, what tools are you using? And why are e-readers so bad?](https://old.reddit.com/r/ChineseLanguage/comments/1sbj6c6/for_those_of_you_with_a_chinese_reading_habit/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 54
-- created: 2026-04-03T16:59:25.000Z
-- matched query: "learn chinese" app
 

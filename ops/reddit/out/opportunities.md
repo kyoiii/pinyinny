@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-13T08:23:31.808Z
+Generated: 2026-04-13T10:13:03.904Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -30,13 +30,6 @@ Generated: 2026-04-13T08:23:31.808Z
 - created: 2026-04-07T20:44:41.000Z
 - matched query: "learn chinese" app
 
-## [Simple books](https://old.reddit.com/r/ChineseLanguage/comments/1sk3eyd/simple_books/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-04-13T07:07:18.000Z
-- matched query: "learn chinese" app
-
 ## [Is there anywhere to buy physical manhua written in Mandarin?](https://old.reddit.com/r/ChineseLanguage/comments/1sj33gz/is_there_anywhere_to_buy_physical_manhua_written/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -47,7 +40,7 @@ Generated: 2026-04-13T08:23:31.808Z
 ## [How can I begin studying Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1sj07ki/how_can_i_begin_studying_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 26
+- comments: 27
 - created: 2026-04-12T00:55:44.000Z
 - matched query: resource
 
@@ -99,6 +92,13 @@ Generated: 2026-04-13T08:23:31.808Z
 - comments: 4
 - created: 2026-03-21T16:41:56.000Z
 - matched query: app OR website pinyin hanzi
+
+## [Simple books](https://old.reddit.com/r/ChineseLanguage/comments/1sk3eyd/simple_books/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 1
+- created: 2026-04-13T07:07:18.000Z
+- matched query: "learn chinese" app
 
 ## [Should I immediately learn the Chinese characters or should I first focus on pronounciation?](https://old.reddit.com/r/ChineseLanguage/comments/1sfks6s/should_i_immediately_learn_the_chinese_characters/)
 - subreddit: r/ChineseLanguage

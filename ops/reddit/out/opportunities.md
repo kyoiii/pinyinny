@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-13T17:14:50.589Z
+Generated: 2026-04-13T18:19:14.479Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -54,7 +54,7 @@ Generated: 2026-04-13T17:14:50.589Z
 ## [How can I begin studying Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1sj07ki/how_can_i_begin_studying_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 29
+- comments: 30
 - created: 2026-04-12T00:55:44.000Z
 - matched query: resource
 
@@ -131,7 +131,7 @@ Generated: 2026-04-13T17:14:50.589Z
 ## [Any other frustrated intermediates? “know” a lot of Chinese but can’t actually sustain a conversation?](https://old.reddit.com/r/ChineseLanguage/comments/1sidqgu/any_other_frustrated_intermediates_know_a_lot_of/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 47
+- comments: 48
 - created: 2026-04-11T08:45:10.000Z
 - matched query: "learn chinese" app
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-14T05:52:41.168Z
+Generated: 2026-04-14T07:24:46.862Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -86,13 +86,6 @@ Generated: 2026-04-14T05:52:41.168Z
 - created: 2026-04-13T15:05:23.000Z
 - matched query: "learn chinese" app
 
-## [Simple books](https://old.reddit.com/r/ChineseLanguage/comments/1sk3eyd/simple_books/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 4
-- created: 2026-04-13T07:07:18.000Z
-- matched query: "learn chinese" app
-
 ## [Voiczy.com - Is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1shr138/voiczycom_is_it_worth_it/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -134,6 +127,13 @@ Generated: 2026-04-14T05:52:41.168Z
 - comments: 10
 - created: 2026-04-08T03:50:01.000Z
 - matched query: app OR website pinyin hanzi
+
+## [Simple books](https://old.reddit.com/r/ChineseLanguage/comments/1sk3eyd/simple_books/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 4
+- created: 2026-04-13T07:07:18.000Z
+- matched query: "learn chinese" app
 
 ## [How can I begin studying Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1sj07ki/how_can_i_begin_studying_chinese/)
 - subreddit: r/ChineseLanguage

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-14T07:24:46.862Z
+Generated: 2026-04-14T09:02:50.499Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -19,7 +19,7 @@ Generated: 2026-04-14T07:24:46.862Z
 ## [How accurate is SuperChinese recognition?](https://old.reddit.com/r/ChineseLanguage/comments/1skomgy/how_accurate_is_superchinese_recognition/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 2
+- comments: 3
 - created: 2026-04-13T21:26:13.000Z
 - matched query: "learn chinese" app
 

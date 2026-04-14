@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-14T20:38:27.771Z
+Generated: 2026-04-14T21:35:14.298Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -23,13 +23,6 @@ Generated: 2026-04-14T20:38:27.771Z
 - created: 2026-04-14T13:41:00.000Z
 - matched query: flashcard app
 
-## [How accurate is SuperChinese recognition?](https://old.reddit.com/r/ChineseLanguage/comments/1skomgy/how_accurate_is_superchinese_recognition/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 4
-- created: 2026-04-13T21:26:13.000Z
-- matched query: "learn chinese" app
-
 ## [Anki Decks for purely listening practice?](https://old.reddit.com/r/ChineseLanguage/comments/1sfiysw/anki_decks_for_purely_listening_practice/)
 - subreddit: r/ChineseLanguage
 - score: 7
@@ -44,11 +37,11 @@ Generated: 2026-04-14T20:38:27.771Z
 - created: 2026-04-07T23:00:04.000Z
 - matched query: "learn chinese" app
 
-## [App recommendations](https://old.reddit.com/r/ChineseLanguage/comments/1sf85br/app_recommendations/)
+## [How accurate is SuperChinese recognition?](https://old.reddit.com/r/ChineseLanguage/comments/1skomgy/how_accurate_is_superchinese_recognition/)
 - subreddit: r/ChineseLanguage
-- score: 7
-- comments: 19
-- created: 2026-04-07T20:44:41.000Z
+- score: 6
+- comments: 4
+- created: 2026-04-13T21:26:13.000Z
 - matched query: "learn chinese" app
 
 ## [Apps I use to study Mandarin Chinese from zero](https://old.reddit.com/r/ChineseLanguage/comments/1skfhfl/apps_i_use_to_study_mandarin_chinese_from_zero/)
@@ -64,6 +57,13 @@ Generated: 2026-04-14T20:38:27.771Z
 - comments: 5
 - created: 2026-04-12T03:14:55.000Z
 - matched query: resource
+
+## [App recommendations](https://old.reddit.com/r/ChineseLanguage/comments/1sf85br/app_recommendations/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 19
+- created: 2026-04-07T20:44:41.000Z
+- matched query: "learn chinese" app
 
 ## [HSK sentence flashcards?](https://old.reddit.com/r/ChineseLanguage/comments/1scd3ii/hsk_sentence_flashcards/)
 - subreddit: r/ChineseLanguage

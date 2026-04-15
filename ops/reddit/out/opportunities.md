@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-15T20:13:19.130Z
+Generated: 2026-04-15T21:09:32.532Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -82,7 +82,7 @@ Generated: 2026-04-15T20:13:19.130Z
 ## [Interesting 才 usage](https://old.reddit.com/r/ChineseLanguage/comments/1sm1nvd/interesting_才_usage/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 20
+- comments: 21
 - created: 2026-04-15T10:04:13.000Z
 - matched query: resource
 

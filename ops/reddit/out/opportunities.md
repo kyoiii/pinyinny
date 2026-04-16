@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-16T14:31:10.097Z
+Generated: 2026-04-16T16:10:13.084Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -121,13 +121,6 @@ Generated: 2026-04-16T14:31:10.097Z
 - created: 2026-04-15T10:04:13.000Z
 - matched query: resource
 
-## [Mode of Learning for a previous 死读书](https://old.reddit.com/r/ChineseLanguage/comments/1skdk0w/mode_of_learning_for_a_previous_死读书/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 2
-- created: 2026-04-13T15:05:23.000Z
-- matched query: "learn chinese" app
-
 ## [Should I immediately learn the Chinese characters or should I first focus on pronounciation?](https://old.reddit.com/r/ChineseLanguage/comments/1sfks6s/should_i_immediately_learn_the_chinese_characters/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -141,4 +134,11 @@ Generated: 2026-04-16T14:31:10.097Z
 - comments: 10
 - created: 2026-04-08T03:50:01.000Z
 - matched query: app OR website pinyin hanzi
+
+## [For those of you with a Chinese reading habit, what tools are you using? And why are e-readers so bad?](https://old.reddit.com/r/ChineseLanguage/comments/1sbj6c6/for_those_of_you_with_a_chinese_reading_habit/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 54
+- created: 2026-04-03T16:59:25.000Z
+- matched query: "learn chinese" app
 

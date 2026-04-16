@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-16T11:37:47.473Z
+Generated: 2026-04-16T12:48:35.373Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -19,7 +19,7 @@ Generated: 2026-04-16T11:37:47.473Z
 ## [Some (seemingly) less known resources I find helpful](https://old.reddit.com/r/ChineseLanguage/comments/1sl92a8/some_seemingly_less_known_resources_i_find_helpful/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 1
+- comments: 2
 - created: 2026-04-14T13:41:00.000Z
 - matched query: flashcard app
 

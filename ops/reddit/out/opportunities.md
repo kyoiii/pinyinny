@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-16T16:10:13.084Z
+Generated: 2026-04-16T17:45:14.487Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -29,13 +29,6 @@ Generated: 2026-04-16T16:10:13.084Z
 - comments: 6
 - created: 2026-04-13T21:26:13.000Z
 - matched query: "learn chinese" app
-
-## [Apps I use to study Mandarin Chinese from zero](https://old.reddit.com/r/ChineseLanguage/comments/1skfhfl/apps_i_use_to_study_mandarin_chinese_from_zero/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 1
-- created: 2026-04-13T16:11:57.000Z
-- matched query: flashcard app
 
 ## [Anki Decks for purely listening practice?](https://old.reddit.com/r/ChineseLanguage/comments/1sfiysw/anki_decks_for_purely_listening_practice/)
 - subreddit: r/ChineseLanguage
@@ -78,6 +71,13 @@ Generated: 2026-04-16T16:10:13.084Z
 - comments: 4
 - created: 2026-03-21T16:41:56.000Z
 - matched query: app OR website pinyin hanzi
+
+## [Apps I use to study Mandarin Chinese from zero](https://old.reddit.com/r/ChineseLanguage/comments/1skfhfl/apps_i_use_to_study_mandarin_chinese_from_zero/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 1
+- created: 2026-04-13T16:11:57.000Z
+- matched query: flashcard app
 
 ## [Is there anywhere to buy physical manhua written in Mandarin?](https://old.reddit.com/r/ChineseLanguage/comments/1sj33gz/is_there_anywhere_to_buy_physical_manhua_written/)
 - subreddit: r/ChineseLanguage

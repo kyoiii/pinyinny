@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-17T03:45:50.176Z
+Generated: 2026-04-17T05:56:18.567Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -135,10 +135,10 @@ Generated: 2026-04-17T03:45:50.176Z
 - created: 2026-04-08T06:15:14.000Z
 - matched query: app OR website pinyin hanzi
 
-## [Using the super Chinese app. Feeling overwhelmed..](https://old.reddit.com/r/ChineseLanguage/comments/1sfi3dw/using_the_super_chinese_app_feeling_overwhelmed/)
+## [For those of you with a Chinese reading habit, what tools are you using? And why are e-readers so bad?](https://old.reddit.com/r/ChineseLanguage/comments/1sbj6c6/for_those_of_you_with_a_chinese_reading_habit/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 10
-- created: 2026-04-08T03:50:01.000Z
-- matched query: app OR website pinyin hanzi
+- comments: 54
+- created: 2026-04-03T16:59:25.000Z
+- matched query: "learn chinese" app
 

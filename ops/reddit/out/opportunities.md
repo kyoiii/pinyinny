@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-17T14:11:30.882Z
+Generated: 2026-04-17T15:18:14.012Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -8,13 +8,6 @@ Generated: 2026-04-17T14:11:30.882Z
 - comments: 12
 - created: 2026-04-08T17:11:49.000Z
 - matched query: "learn chinese" app
-
-## [How’s my writing?](https://old.reddit.com/r/ChineseLanguage/comments/1so1ahh/hows_my_writing/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 17
-- created: 2026-04-17T13:39:12.000Z
-- matched query: resource
 
 ## [Optometry?](https://old.reddit.com/r/ChineseLanguage/comments/1skvicd/optometry/)
 - subreddit: r/ChineseLanguage
@@ -65,6 +58,13 @@ Generated: 2026-04-17T14:11:30.882Z
 - created: 2026-03-21T16:41:56.000Z
 - matched query: app OR website pinyin hanzi
 
+## [How’s my writing?](https://old.reddit.com/r/ChineseLanguage/comments/1so1ahh/hows_my_writing/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 35
+- created: 2026-04-17T13:39:12.000Z
+- matched query: resource
+
 ## [Some (seemingly) less known resources I find helpful](https://old.reddit.com/r/ChineseLanguage/comments/1sl92a8/some_seemingly_less_known_resources_i_find_helpful/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -75,7 +75,7 @@ Generated: 2026-04-17T14:11:30.882Z
 ## [How accurate is SuperChinese recognition?](https://old.reddit.com/r/ChineseLanguage/comments/1skomgy/how_accurate_is_superchinese_recognition/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 6
+- comments: 7
 - created: 2026-04-13T21:26:13.000Z
 - matched query: "learn chinese" app
 

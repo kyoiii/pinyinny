@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-17T15:18:14.012Z
+Generated: 2026-04-17T16:17:16.595Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -61,7 +61,7 @@ Generated: 2026-04-17T15:18:14.012Z
 ## [How’s my writing?](https://old.reddit.com/r/ChineseLanguage/comments/1so1ahh/hows_my_writing/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 35
+- comments: 43
 - created: 2026-04-17T13:39:12.000Z
 - matched query: resource
 
@@ -93,26 +93,26 @@ Generated: 2026-04-17T15:18:14.012Z
 - created: 2026-04-12T03:14:55.000Z
 - matched query: resource
 
-## [Voiczy.com - Is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1shr138/voiczycom_is_it_worth_it/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 3
-- created: 2026-04-10T16:11:23.000Z
-- matched query: resource
-
-## [Speak Chinese but struggling to read so I built my own learning tool](https://old.reddit.com/r/ChineseLanguage/comments/1shqocg/speak_chinese_but_struggling_to_read_so_i_built/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 2
-- created: 2026-04-10T15:59:16.000Z
-- matched query: flashcard app
-
 ## [Interesting 才 usage](https://old.reddit.com/r/ChineseLanguage/comments/1sm1nvd/interesting_才_usage/)
 - subreddit: r/ChineseLanguage
 - score: 4
 - comments: 29
 - created: 2026-04-15T10:04:13.000Z
 - matched query: resource
+
+## [Voiczy.com - Is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1shr138/voiczycom_is_it_worth_it/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 3
+- created: 2026-04-10T16:11:23.000Z
+- matched query: resource
+
+## [Speak Chinese but struggling to read so I built my own learning tool](https://old.reddit.com/r/ChineseLanguage/comments/1shqocg/speak_chinese_but_struggling_to_read_so_i_built/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 2
+- created: 2026-04-10T15:59:16.000Z
+- matched query: flashcard app
 
 ## [I made a multiplayer Chinese word game that lets you practice vocab and typing with friends](https://old.reddit.com/r/ChineseLanguage/comments/1shmgia/i_made_a_multiplayer_chinese_word_game_that_lets/)
 - subreddit: r/ChineseLanguage

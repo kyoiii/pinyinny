@@ -1,19 +1,12 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-17T11:39:19.289Z
+Generated: 2026-04-17T12:44:07.844Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 8
 - comments: 12
 - created: 2026-04-08T17:11:49.000Z
-- matched query: "learn chinese" app
-
-## [Learn Chinese Menus: 蟹黄小笼 Crab Roe Soup Dumpling](https://old.reddit.com/r/ChineseLanguage/comments/1snoy1w/learn_chinese_menus_蟹黄小笼_crab_roe_soup_dumpling/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-04-17T03:07:52.000Z
 - matched query: "learn chinese" app
 
 ## [Some (seemingly) less known resources I find helpful](https://old.reddit.com/r/ChineseLanguage/comments/1sl92a8/some_seemingly_less_known_resources_i_find_helpful/)
@@ -114,18 +107,18 @@ Generated: 2026-04-17T11:39:19.289Z
 - created: 2026-04-10T13:24:00.000Z
 - matched query: app OR website pinyin hanzi
 
-## [Resources for learning TAIWANESE mandarin for a native English speaker, fluent in Japanese, with bopomofo (not pinyin)](https://old.reddit.com/r/ChineseLanguage/comments/1shlayh/resources_for_learning_taiwanese_mandarin_for_a/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 46
-- created: 2026-04-10T12:36:36.000Z
-- matched query: resource
-
 ## [Interesting 才 usage](https://old.reddit.com/r/ChineseLanguage/comments/1sm1nvd/interesting_才_usage/)
 - subreddit: r/ChineseLanguage
 - score: 4
 - comments: 29
 - created: 2026-04-15T10:04:13.000Z
+- matched query: resource
+
+## [Resources for learning TAIWANESE mandarin for a native English speaker, fluent in Japanese, with bopomofo (not pinyin)](https://old.reddit.com/r/ChineseLanguage/comments/1shlayh/resources_for_learning_taiwanese_mandarin_for_a/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 46
+- created: 2026-04-10T12:36:36.000Z
 - matched query: resource
 
 ## [Should I immediately learn the Chinese characters or should I first focus on pronounciation?](https://old.reddit.com/r/ChineseLanguage/comments/1sfks6s/should_i_immediately_learn_the_chinese_characters/)
@@ -140,5 +133,12 @@ Generated: 2026-04-17T11:39:19.289Z
 - score: 4
 - comments: 54
 - created: 2026-04-03T16:59:25.000Z
+- matched query: "learn chinese" app
+
+## [More advanced Chinese vocabulary lists for travel?](https://old.reddit.com/r/ChineseLanguage/comments/1satzzv/more_advanced_chinese_vocabulary_lists_for_travel/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 15
+- created: 2026-04-02T21:15:45.000Z
 - matched query: "learn chinese" app
 

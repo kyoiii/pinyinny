@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-17T23:41:51.304Z
+Generated: 2026-04-18T01:03:48.716Z
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -61,7 +61,7 @@ Generated: 2026-04-17T23:41:51.304Z
 ## [How’s my writing?](https://old.reddit.com/r/ChineseLanguage/comments/1so1ahh/hows_my_writing/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 55
+- comments: 58
 - created: 2026-04-17T13:39:12.000Z
 - matched query: resource
 
@@ -100,13 +100,6 @@ Generated: 2026-04-17T23:41:51.304Z
 - created: 2026-04-15T10:04:13.000Z
 - matched query: resource
 
-## [Voiczy.com - Is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1shr138/voiczycom_is_it_worth_it/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 3
-- created: 2026-04-10T16:11:23.000Z
-- matched query: resource
-
 ## [Speak Chinese but struggling to read so I built my own learning tool](https://old.reddit.com/r/ChineseLanguage/comments/1shqocg/speak_chinese_but_struggling_to_read_so_i_built/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -121,13 +114,6 @@ Generated: 2026-04-17T23:41:51.304Z
 - created: 2026-04-10T13:24:00.000Z
 - matched query: app OR website pinyin hanzi
 
-## [Resources for learning TAIWANESE mandarin for a native English speaker, fluent in Japanese, with bopomofo (not pinyin)](https://old.reddit.com/r/ChineseLanguage/comments/1shlayh/resources_for_learning_taiwanese_mandarin_for_a/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 46
-- created: 2026-04-10T12:36:36.000Z
-- matched query: resource
-
 ## [Should I immediately learn the Chinese characters or should I first focus on pronounciation?](https://old.reddit.com/r/ChineseLanguage/comments/1sfks6s/should_i_immediately_learn_the_chinese_characters/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -141,4 +127,18 @@ Generated: 2026-04-17T23:41:51.304Z
 - comments: 54
 - created: 2026-04-03T16:59:25.000Z
 - matched query: "learn chinese" app
+
+## [More advanced Chinese vocabulary lists for travel?](https://old.reddit.com/r/ChineseLanguage/comments/1satzzv/more_advanced_chinese_vocabulary_lists_for_travel/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 15
+- created: 2026-04-02T21:15:45.000Z
+- matched query: "learn chinese" app
+
+## [Memory Tool Discussion](https://old.reddit.com/r/ChineseLanguage/comments/1sahdkr/memory_tool_discussion/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 14
+- created: 2026-04-02T13:26:47.000Z
+- matched query: flashcard app
 

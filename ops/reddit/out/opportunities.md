@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-20T20:38:32.984Z
+Generated: 2026-04-20T21:32:46.638Z
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -88,7 +88,7 @@ Generated: 2026-04-20T20:38:32.984Z
 
 ## [How accurate is SuperChinese recognition?](https://old.reddit.com/r/ChineseLanguage/comments/1skomgy/how_accurate_is_superchinese_recognition/)
 - subreddit: r/ChineseLanguage
-- score: 5
+- score: 4
 - comments: 7
 - created: 2026-04-13T21:26:13.000Z
 - matched query: "learn chinese" app

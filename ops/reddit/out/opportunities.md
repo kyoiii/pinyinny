@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-21T19:52:56.742Z
+Generated: 2026-04-21T20:47:13.197Z
 
 ## [I’m new here and I’ve created a free app to learn Chinese. What do you think?](https://old.reddit.com/r/ChineseLanguage/comments/1srqs12/im_new_here_and_ive_created_a_free_app_to_learn/)
 - subreddit: r/ChineseLanguage
@@ -44,20 +44,6 @@ Generated: 2026-04-21T19:52:56.742Z
 - created: 2026-04-21T01:47:00.000Z
 - matched query: "learn chinese" app
 
-## [Survey on Learning Chinese Character Radicals for beginners](https://old.reddit.com/r/ChineseLanguage/comments/1srxddn/survey_on_learning_chinese_character_radicals_for/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-04-21T19:04:12.000Z
-- matched query: resource
-
-## [Studying academics in Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1sp844x/studying_academics_in_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 2
-- created: 2026-04-18T20:13:33.000Z
-- matched query: resource
-
 ## [Anki Decks for purely listening practice?](https://old.reddit.com/r/ChineseLanguage/comments/1sfiysw/anki_decks_for_purely_listening_practice/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -100,12 +86,26 @@ Generated: 2026-04-21T19:52:56.742Z
 - created: 2026-03-21T16:41:56.000Z
 - matched query: app OR website pinyin hanzi
 
+## [Survey on Learning Chinese Character Radicals for beginners](https://old.reddit.com/r/ChineseLanguage/comments/1srxddn/survey_on_learning_chinese_character_radicals_for/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 3
+- created: 2026-04-21T19:04:12.000Z
+- matched query: resource
+
 ## [Pinyin on Duolingo](https://old.reddit.com/r/ChineseLanguage/comments/1srl09a/pinyin_on_duolingo/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 32
+- comments: 34
 - created: 2026-04-21T11:35:22.000Z
 - matched query: app OR website pinyin hanzi
+
+## [Studying academics in Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1sp844x/studying_academics_in_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 2
+- created: 2026-04-18T20:13:33.000Z
+- matched query: resource
 
 ## [Optometry?](https://old.reddit.com/r/ChineseLanguage/comments/1skvicd/optometry/)
 - subreddit: r/ChineseLanguage

@@ -1,17 +1,6 @@
 [
   {
     "subreddit": "ChineseLanguage",
-    "query": "flashcard app",
-    "title": "I’m new here and I’ve created a free app to learn Chinese. What do you think?",
-    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1srqs12/im_new_here_and_ive_created_a_free_app_to_learn/",
-    "created_utc": 1776784754,
-    "created_at": "2026-04-21T15:19:14.000Z",
-    "num_comments": 0,
-    "author": "Own-Artichoke-1578",
-    "score": 10
-  },
-  {
-    "subreddit": "ChineseLanguage",
     "query": "\"learn chinese\" app",
     "title": "Any good cheap learning resources recommendations?",
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/",
@@ -41,6 +30,17 @@
     "created_at": "2026-04-21T15:21:11.000Z",
     "num_comments": 4,
     "author": "commie_cornbread",
+    "score": 9
+  },
+  {
+    "subreddit": "ChineseLanguage",
+    "query": "flashcard app",
+    "title": "I’m new here and I’ve created a free app to learn Chinese. What do you think?",
+    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1srqs12/im_new_here_and_ive_created_a_free_app_to_learn/",
+    "created_utc": 1776784754,
+    "created_at": "2026-04-21T15:19:14.000Z",
+    "num_comments": 1,
+    "author": "Own-Artichoke-1578",
     "score": 9
   },
   {
@@ -149,7 +149,7 @@
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1srl09a/pinyin_on_duolingo/",
     "created_utc": 1776771322,
     "created_at": "2026-04-21T11:35:22.000Z",
-    "num_comments": 34,
+    "num_comments": 35,
     "author": "bebilov",
     "score": 5
   },

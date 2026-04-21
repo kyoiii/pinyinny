@@ -1,13 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-21T21:34:56.254Z
-
-## [I’m new here and I’ve created a free app to learn Chinese. What do you think?](https://old.reddit.com/r/ChineseLanguage/comments/1srqs12/im_new_here_and_ive_created_a_free_app_to_learn/)
-- subreddit: r/ChineseLanguage
-- score: 10
-- comments: 0
-- created: 2026-04-21T15:19:14.000Z
-- matched query: flashcard app
+Generated: 2026-04-21T22:25:12.623Z
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -29,6 +22,13 @@ Generated: 2026-04-21T21:34:56.254Z
 - comments: 4
 - created: 2026-04-21T15:21:11.000Z
 - matched query: resource
+
+## [I’m new here and I’ve created a free app to learn Chinese. What do you think?](https://old.reddit.com/r/ChineseLanguage/comments/1srqs12/im_new_here_and_ive_created_a_free_app_to_learn/)
+- subreddit: r/ChineseLanguage
+- score: 9
+- comments: 1
+- created: 2026-04-21T15:19:14.000Z
+- matched query: flashcard app
 
 ## [Are there any websites or apps to learn Chinese by reading manhua?](https://old.reddit.com/r/ChineseLanguage/comments/1sfz22i/are_there_any_websites_or_apps_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -96,7 +96,7 @@ Generated: 2026-04-21T21:34:56.254Z
 ## [Pinyin on Duolingo](https://old.reddit.com/r/ChineseLanguage/comments/1srl09a/pinyin_on_duolingo/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 34
+- comments: 35
 - created: 2026-04-21T11:35:22.000Z
 - matched query: app OR website pinyin hanzi
 

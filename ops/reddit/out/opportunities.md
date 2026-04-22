@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-22T21:31:49.521Z
+Generated: 2026-04-22T22:27:40.012Z
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -47,7 +47,7 @@ Generated: 2026-04-22T21:31:49.521Z
 ## [How to properly write the Chinese character “差”?](https://old.reddit.com/r/ChineseLanguage/comments/1ssqbad/how_to_properly_write_the_chinese_character_差/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 15
+- comments: 16
 - created: 2026-04-22T16:21:28.000Z
 - matched query: resource
 
@@ -93,6 +93,13 @@ Generated: 2026-04-22T21:31:49.521Z
 - created: 2026-04-01T13:59:08.000Z
 - matched query: "learn chinese" app
 
+## [Learning traditional while already fluent in simplified](https://old.reddit.com/r/ChineseLanguage/comments/1ssznz6/learning_traditional_while_already_fluent_in/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 3
+- created: 2026-04-22T21:58:55.000Z
+- matched query: resource
+
 ## [Studying academics in Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1sp844x/studying_academics_in_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -133,12 +140,5 @@ Generated: 2026-04-22T21:31:49.521Z
 - score: 4
 - comments: 1
 - created: 2026-04-13T16:11:57.000Z
-- matched query: flashcard app
-
-## [Speak Chinese but struggling to read so I built my own learning tool](https://old.reddit.com/r/ChineseLanguage/comments/1shqocg/speak_chinese_but_struggling_to_read_so_i_built/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 2
-- created: 2026-04-10T15:59:16.000Z
 - matched query: flashcard app
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-22T19:27:04.572Z
+Generated: 2026-04-22T20:32:16.210Z
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -47,7 +47,7 @@ Generated: 2026-04-22T19:27:04.572Z
 ## [How to properly write the Chinese character “差”?](https://old.reddit.com/r/ChineseLanguage/comments/1ssqbad/how_to_properly_write_the_chinese_character_差/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 12
+- comments: 14
 - created: 2026-04-22T16:21:28.000Z
 - matched query: resource
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-23T06:23:43.760Z
+Generated: 2026-04-23T08:18:25.737Z
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -103,7 +103,7 @@ Generated: 2026-04-23T06:23:43.760Z
 ## [How to properly write the Chinese character “差”?](https://old.reddit.com/r/ChineseLanguage/comments/1ssqbad/how_to_properly_write_the_chinese_character_差/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 42
+- comments: 48
 - created: 2026-04-22T16:21:28.000Z
 - matched query: resource
 
@@ -124,7 +124,7 @@ Generated: 2026-04-23T06:23:43.760Z
 ## [Pinyin on Duolingo](https://old.reddit.com/r/ChineseLanguage/comments/1srl09a/pinyin_on_duolingo/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 39
+- comments: 40
 - created: 2026-04-21T11:35:22.000Z
 - matched query: app OR website pinyin hanzi
 

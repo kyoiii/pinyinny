@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-24T18:30:27.801Z
+Generated: 2026-04-24T19:34:20.375Z
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -121,13 +121,6 @@ Generated: 2026-04-24T18:30:27.801Z
 - created: 2026-04-22T16:21:28.000Z
 - matched query: resource
 
-## [Survey on Learning Chinese Character Radicals for beginners](https://old.reddit.com/r/ChineseLanguage/comments/1srxddn/survey_on_learning_chinese_character_radicals_for/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 4
-- created: 2026-04-21T19:04:12.000Z
-- matched query: resource
-
 ## [Some (seemingly) less known resources I find helpful](https://old.reddit.com/r/ChineseLanguage/comments/1sl92a8/some_seemingly_less_known_resources_i_find_helpful/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -141,4 +134,11 @@ Generated: 2026-04-24T18:30:27.801Z
 - comments: 7
 - created: 2026-04-13T21:26:13.000Z
 - matched query: "learn chinese" app
+
+## [Apps I use to study Mandarin Chinese from zero](https://old.reddit.com/r/ChineseLanguage/comments/1skfhfl/apps_i_use_to_study_mandarin_chinese_from_zero/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 1
+- created: 2026-04-13T16:11:57.000Z
+- matched query: flashcard app
 

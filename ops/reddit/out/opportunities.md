@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-25T17:00:01.292Z
+Generated: 2026-04-25T17:52:41.111Z
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -44,13 +44,6 @@ Generated: 2026-04-25T17:00:01.292Z
 - created: 2026-04-21T15:19:14.000Z
 - matched query: flashcard app
 
-## [Opening a door for studying mandarin](https://old.reddit.com/r/ChineseLanguage/comments/1sumrwg/opening_a_door_for_studying_mandarin/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-04-24T17:44:37.000Z
-- matched query: resource
-
 ## [Anki Decks for purely listening practice?](https://old.reddit.com/r/ChineseLanguage/comments/1sfiysw/anki_decks_for_purely_listening_practice/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -85,6 +78,13 @@ Generated: 2026-04-25T17:00:01.292Z
 - comments: 9
 - created: 2026-04-01T13:59:08.000Z
 - matched query: "learn chinese" app
+
+## [Opening a door for studying mandarin](https://old.reddit.com/r/ChineseLanguage/comments/1sumrwg/opening_a_door_for_studying_mandarin/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 0
+- created: 2026-04-24T17:44:37.000Z
+- matched query: resource
 
 ## [I'm totally new to learning Chinese but I'm spanish native speaker learning Japanese. How should I start?](https://old.reddit.com/r/ChineseLanguage/comments/1sr9voe/im_totally_new_to_learning_chinese_but_im_spanish/)
 - subreddit: r/ChineseLanguage

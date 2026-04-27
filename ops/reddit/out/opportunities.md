@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-27T11:17:59.306Z
+Generated: 2026-04-27T12:56:22.076Z
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -26,7 +26,7 @@ Generated: 2026-04-27T11:17:59.306Z
 ## [Reading resources](https://old.reddit.com/r/ChineseLanguage/comments/1swvwk2/reading_resources/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 5
+- comments: 6
 - created: 2026-04-27T06:46:12.000Z
 - matched query: resource
 

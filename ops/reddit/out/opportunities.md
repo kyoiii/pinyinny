@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-28T14:21:51.327Z
+Generated: 2026-04-28T16:22:53.928Z
 
 ## [I want to design an app to learn chinese cantonese](https://old.reddit.com/r/ChineseLanguage/comments/1sxulkq/i_want_to_design_an_app_to_learn_chinese_cantonese/)
 - subreddit: r/ChineseLanguage
@@ -37,26 +37,26 @@ Generated: 2026-04-28T14:21:51.327Z
 - created: 2026-04-22T02:19:28.000Z
 - matched query: resource
 
-## [Pinyin resources](https://old.reddit.com/r/ChineseLanguage/comments/1srqumn/pinyin_resources/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 7
-- created: 2026-04-21T15:21:11.000Z
-- matched query: resource
-
-## [I’m new here and I’ve created a free app to learn Chinese. What do you think?](https://old.reddit.com/r/ChineseLanguage/comments/1srqs12/im_new_here_and_ive_created_a_free_app_to_learn/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 3
-- created: 2026-04-21T15:19:14.000Z
-- matched query: flashcard app
-
 ## [Reading resources](https://old.reddit.com/r/ChineseLanguage/comments/1swvwk2/reading_resources/)
 - subreddit: r/ChineseLanguage
 - score: 6
 - comments: 8
 - created: 2026-04-27T06:46:12.000Z
 - matched query: resource
+
+## [Pinyin resources](https://old.reddit.com/r/ChineseLanguage/comments/1srqumn/pinyin_resources/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 7
+- created: 2026-04-21T15:21:11.000Z
+- matched query: resource
+
+## [I’m new here and I’ve created a free app to learn Chinese. What do you think?](https://old.reddit.com/r/ChineseLanguage/comments/1srqs12/im_new_here_and_ive_created_a_free_app_to_learn/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 3
+- created: 2026-04-21T15:19:14.000Z
+- matched query: flashcard app
 
 ## [Anki Decks for purely listening practice?](https://old.reddit.com/r/ChineseLanguage/comments/1sfiysw/anki_decks_for_purely_listening_practice/)
 - subreddit: r/ChineseLanguage
@@ -96,7 +96,7 @@ Generated: 2026-04-28T14:21:51.327Z
 ## [Learning Path](https://old.reddit.com/r/ChineseLanguage/comments/1swrz5i/learning_path/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 5
+- comments: 6
 - created: 2026-04-27T03:19:55.000Z
 - matched query: "learn chinese" app
 

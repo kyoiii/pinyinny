@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-28T18:01:39.428Z
+Generated: 2026-04-28T19:54:41.051Z
 
 ## [I want to design an app to learn chinese cantonese](https://old.reddit.com/r/ChineseLanguage/comments/1sxulkq/i_want_to_design_an_app_to_learn_chinese_cantonese/)
 - subreddit: r/ChineseLanguage
@@ -107,13 +107,6 @@ Generated: 2026-04-28T18:01:39.428Z
 - created: 2026-04-26T08:23:11.000Z
 - matched query: "learn chinese" app
 
-## [Learning Chinese Writing](https://old.reddit.com/r/ChineseLanguage/comments/1svlmxu/learning_chinese_writing/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 1
-- created: 2026-04-25T19:35:57.000Z
-- matched query: "learn chinese" app
-
 ## [I'm totally new to learning Chinese but I'm spanish native speaker learning Japanese. How should I start?](https://old.reddit.com/r/ChineseLanguage/comments/1sr9voe/im_totally_new_to_learning_chinese_but_im_spanish/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -140,5 +133,12 @@ Generated: 2026-04-28T18:01:39.428Z
 - score: 4
 - comments: 1
 - created: 2026-04-13T16:11:57.000Z
+- matched query: flashcard app
+
+## [Speak Chinese but struggling to read so I built my own learning tool](https://old.reddit.com/r/ChineseLanguage/comments/1shqocg/speak_chinese_but_struggling_to_read_so_i_built/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 2
+- created: 2026-04-10T15:59:16.000Z
 - matched query: flashcard app
 

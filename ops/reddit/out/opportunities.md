@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-28T19:54:41.051Z
+Generated: 2026-04-28T21:08:16.532Z
 
 ## [I want to design an app to learn chinese cantonese](https://old.reddit.com/r/ChineseLanguage/comments/1sxulkq/i_want_to_design_an_app_to_learn_chinese_cantonese/)
 - subreddit: r/ChineseLanguage
@@ -96,7 +96,7 @@ Generated: 2026-04-28T19:54:41.051Z
 ## [Learning Path](https://old.reddit.com/r/ChineseLanguage/comments/1swrz5i/learning_path/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 6
+- comments: 7
 - created: 2026-04-27T03:19:55.000Z
 - matched query: "learn chinese" app
 

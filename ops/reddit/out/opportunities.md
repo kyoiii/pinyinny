@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-28T16:22:53.928Z
+Generated: 2026-04-28T18:01:39.428Z
 
 ## [I want to design an app to learn chinese cantonese](https://old.reddit.com/r/ChineseLanguage/comments/1sxulkq/i_want_to_design_an_app_to_learn_chinese_cantonese/)
 - subreddit: r/ChineseLanguage

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-29T14:36:41.552Z
+Generated: 2026-04-29T16:18:36.408Z
 
 ## [Any good resource to find out about family relationship terms?](https://old.reddit.com/r/ChineseLanguage/comments/1syll9a/any_good_resource_to_find_out_about_family/)
 - subreddit: r/ChineseLanguage

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-28T23:12:00.629Z
+Generated: 2026-04-29T00:09:46.397Z
 
 ## [I want to design an app to learn chinese cantonese](https://old.reddit.com/r/ChineseLanguage/comments/1sxulkq/i_want_to_design_an_app_to_learn_chinese_cantonese/)
 - subreddit: r/ChineseLanguage
@@ -42,13 +42,6 @@ Generated: 2026-04-28T23:12:00.629Z
 - score: 6
 - comments: 8
 - created: 2026-04-27T06:46:12.000Z
-- matched query: resource
-
-## [Pinyin resources](https://old.reddit.com/r/ChineseLanguage/comments/1srqumn/pinyin_resources/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 7
-- created: 2026-04-21T15:21:11.000Z
 - matched query: resource
 
 ## [I’m new here and I’ve created a free app to learn Chinese. What do you think?](https://old.reddit.com/r/ChineseLanguage/comments/1srqs12/im_new_here_and_ive_created_a_free_app_to_learn/)
@@ -141,4 +134,11 @@ Generated: 2026-04-28T23:12:00.629Z
 - comments: 2
 - created: 2026-04-10T15:59:16.000Z
 - matched query: flashcard app
+
+## [I made a multiplayer Chinese word game that lets you practice vocab and typing with friends](https://old.reddit.com/r/ChineseLanguage/comments/1shmgia/i_made_a_multiplayer_chinese_word_game_that_lets/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 6
+- created: 2026-04-10T13:24:00.000Z
+- matched query: app OR website pinyin hanzi
 

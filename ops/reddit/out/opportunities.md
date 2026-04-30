@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-30T18:08:14.061Z
+Generated: 2026-04-30T19:50:15.388Z
 
 ## [Any good resource to find out about family relationship terms?](https://old.reddit.com/r/ChineseLanguage/comments/1syll9a/any_good_resource_to_find_out_about_family/)
 - subreddit: r/ChineseLanguage
@@ -86,6 +86,13 @@ Generated: 2026-04-30T18:08:14.061Z
 - created: 2026-04-01T13:59:08.000Z
 - matched query: "learn chinese" app
 
+## [Can we please stop with "helpful" posts that are just thinly-veiled advertisements](https://old.reddit.com/r/ChineseLanguage/comments/1t06kw8/can_we_please_stop_with_helpful_posts_that_are/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 3
+- created: 2026-04-30T19:36:57.000Z
+- matched query: "learn chinese" app
+
 ## [Reading resources](https://old.reddit.com/r/ChineseLanguage/comments/1swvwk2/reading_resources/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -133,12 +140,5 @@ Generated: 2026-04-30T18:08:14.061Z
 - score: 4
 - comments: 6
 - created: 2026-04-10T13:24:00.000Z
-- matched query: app OR website pinyin hanzi
-
-## [Should I immediately learn the Chinese characters or should I first focus on pronounciation?](https://old.reddit.com/r/ChineseLanguage/comments/1sfks6s/should_i_immediately_learn_the_chinese_characters/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 27
-- created: 2026-04-08T06:15:14.000Z
 - matched query: app OR website pinyin hanzi
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-30T22:38:11.496Z
+Generated: 2026-04-30T23:36:56.912Z
 
 ## [Any good resource to find out about family relationship terms?](https://old.reddit.com/r/ChineseLanguage/comments/1syll9a/any_good_resource_to_find_out_about_family/)
 - subreddit: r/ChineseLanguage
@@ -96,7 +96,7 @@ Generated: 2026-04-30T22:38:11.496Z
 ## [Can we please stop with "helpful" posts that are just thinly-veiled advertisements](https://old.reddit.com/r/ChineseLanguage/comments/1t06kw8/can_we_please_stop_with_helpful_posts_that_are/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 10
+- comments: 12
 - created: 2026-04-30T19:36:57.000Z
 - matched query: "learn chinese" app
 

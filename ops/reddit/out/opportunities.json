@@ -50,7 +50,7 @@
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1szl91z/if_you_had_750_to_spend_on_learning_chinese_what/",
     "created_utc": 1777521743,
     "created_at": "2026-04-30T04:02:23.000Z",
-    "num_comments": 25,
+    "num_comments": 26,
     "author": "cyb0rgprincess",
     "score": 7
   },
@@ -133,12 +133,23 @@
   },
   {
     "subreddit": "ChineseLanguage",
+    "query": "resource",
+    "title": "Pronunciation… /tones/tongue twisters",
+    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1t07ye7/pronunciation_tonestongue_twisters/",
+    "created_utc": 1777580754,
+    "created_at": "2026-04-30T20:25:54.000Z",
+    "num_comments": 1,
+    "author": "Salitur",
+    "score": 5
+  },
+  {
+    "subreddit": "ChineseLanguage",
     "query": "\"learn chinese\" app",
     "title": "Can we please stop with \"helpful\" posts that are just thinly-veiled advertisements",
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1t06kw8/can_we_please_stop_with_helpful_posts_that_are/",
     "created_utc": 1777577817,
     "created_at": "2026-04-30T19:36:57.000Z",
-    "num_comments": 3,
+    "num_comments": 5,
     "author": "Infinite-Chocolate46",
     "score": 5
   },
@@ -206,17 +217,6 @@
     "created_at": "2026-04-10T15:59:16.000Z",
     "num_comments": 2,
     "author": "gniuz",
-    "score": 4
-  },
-  {
-    "subreddit": "ChineseLanguage",
-    "query": "app OR website pinyin hanzi",
-    "title": "I made a multiplayer Chinese word game that lets you practice vocab and typing with friends",
-    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1shmgia/i_made_a_multiplayer_chinese_word_game_that_lets/",
-    "created_utc": 1775827440,
-    "created_at": "2026-04-10T13:24:00.000Z",
-    "num_comments": 6,
-    "author": "maenbalja",
     "score": 4
   }
 ]

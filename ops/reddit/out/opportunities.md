@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-01T13:24:14.664Z
+Generated: 2026-05-01T14:37:13.736Z
 
 ## [Which apps are worth the money? And what are must know YouTube channels?](https://old.reddit.com/r/ChineseLanguage/comments/1t0q6do/which_apps_are_worth_the_money_and_what_are_must/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 6
+- comments: 8
 - created: 2026-05-01T11:01:33.000Z
 - matched query: "learn chinese" app
 
@@ -110,7 +110,7 @@ Generated: 2026-05-01T13:24:14.664Z
 ## [Can we please stop with "helpful" posts that are just thinly-veiled advertisements](https://old.reddit.com/r/ChineseLanguage/comments/1t06kw8/can_we_please_stop_with_helpful_posts_that_are/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 18
+- comments: 19
 - created: 2026-04-30T19:36:57.000Z
 - matched query: "learn chinese" app
 
@@ -124,7 +124,7 @@ Generated: 2026-05-01T13:24:14.664Z
 ## [if you had $750 to spend on learning Chinese, what would you do?](https://old.reddit.com/r/ChineseLanguage/comments/1szl91z/if_you_had_750_to_spend_on_learning_chinese_what/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 38
+- comments: 39
 - created: 2026-04-30T04:02:23.000Z
 - matched query: resource
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-04-30T23:36:56.912Z
+Generated: 2026-05-01T01:27:04.562Z
 
 ## [Any good resource to find out about family relationship terms?](https://old.reddit.com/r/ChineseLanguage/comments/1syll9a/any_good_resource_to_find_out_about_family/)
 - subreddit: r/ChineseLanguage
@@ -33,7 +33,7 @@ Generated: 2026-04-30T23:36:56.912Z
 ## [if you had $750 to spend on learning Chinese, what would you do?](https://old.reddit.com/r/ChineseLanguage/comments/1szl91z/if_you_had_750_to_spend_on_learning_chinese_what/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 27
+- comments: 28
 - created: 2026-04-30T04:02:23.000Z
 - matched query: resource
 
@@ -89,14 +89,14 @@ Generated: 2026-04-30T23:36:56.912Z
 ## [Pronunciation… /tones/tongue twisters](https://old.reddit.com/r/ChineseLanguage/comments/1t07ye7/pronunciation_tonestongue_twisters/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 1
+- comments: 2
 - created: 2026-04-30T20:25:54.000Z
 - matched query: resource
 
 ## [Can we please stop with "helpful" posts that are just thinly-veiled advertisements](https://old.reddit.com/r/ChineseLanguage/comments/1t06kw8/can_we_please_stop_with_helpful_posts_that_are/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 12
+- comments: 13
 - created: 2026-04-30T19:36:57.000Z
 - matched query: "learn chinese" app
 

@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-01T11:55:28.369Z
+Generated: 2026-05-01T13:24:14.664Z
 
 ## [Which apps are worth the money? And what are must know YouTube channels?](https://old.reddit.com/r/ChineseLanguage/comments/1t0q6do/which_apps_are_worth_the_money_and_what_are_must/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 1
+- comments: 6
 - created: 2026-05-01T11:01:33.000Z
 - matched query: "learn chinese" app
 
@@ -35,13 +35,6 @@ Generated: 2026-05-01T11:55:28.369Z
 - score: 8
 - comments: 12
 - created: 2026-04-08T17:11:49.000Z
-- matched query: "learn chinese" app
-
-## [Improve Hanzi Writing](https://old.reddit.com/r/ChineseLanguage/comments/1t0lf4k/improve_hanzi_writing/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 30
-- created: 2026-05-01T06:33:19.000Z
 - matched query: "learn chinese" app
 
 ## [I want to design an app to learn chinese cantonese](https://old.reddit.com/r/ChineseLanguage/comments/1sxulkq/i_want_to_design_an_app_to_learn_chinese_cantonese/)
@@ -91,6 +84,13 @@ Generated: 2026-05-01T11:55:28.369Z
 - score: 6
 - comments: 9
 - created: 2026-04-01T13:59:08.000Z
+- matched query: "learn chinese" app
+
+## [Improve Hanzi Writing](https://old.reddit.com/r/ChineseLanguage/comments/1t0lf4k/improve_hanzi_writing/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 40
+- created: 2026-05-01T06:33:19.000Z
 - matched query: "learn chinese" app
 
 ## [How to prepare for HSK 1 3.0](https://old.reddit.com/r/ChineseLanguage/comments/1t0l9m2/how_to_prepare_for_hsk_1_30/)

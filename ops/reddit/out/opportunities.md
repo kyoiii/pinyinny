@@ -1,6 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-01T16:39:05.076Z
+Generated: 2026-05-01T17:42:09.905Z
+
+## [Best way to learn hanzi?](https://old.reddit.com/r/ChineseLanguage/comments/1t0yk7b/best_way_to_learn_hanzi/)
+- subreddit: r/ChineseLanguage
+- score: 9
+- comments: 2
+- created: 2026-05-01T16:36:37.000Z
+- matched query: resource
 
 ## [Which apps are worth the money? And what are must know YouTube channels?](https://old.reddit.com/r/ChineseLanguage/comments/1t0q6do/which_apps_are_worth_the_money_and_what_are_must/)
 - subreddit: r/ChineseLanguage
@@ -89,7 +96,7 @@ Generated: 2026-05-01T16:39:05.076Z
 ## [Improve Hanzi Writing](https://old.reddit.com/r/ChineseLanguage/comments/1t0lf4k/improve_hanzi_writing/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 45
+- comments: 46
 - created: 2026-05-01T06:33:19.000Z
 - matched query: "learn chinese" app
 
@@ -110,7 +117,7 @@ Generated: 2026-05-01T16:39:05.076Z
 ## [Can we please stop with "helpful" posts that are just thinly-veiled advertisements](https://old.reddit.com/r/ChineseLanguage/comments/1t06kw8/can_we_please_stop_with_helpful_posts_that_are/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 21
+- comments: 22
 - created: 2026-04-30T19:36:57.000Z
 - matched query: "learn chinese" app
 
@@ -134,11 +141,4 @@ Generated: 2026-05-01T16:39:05.076Z
 - comments: 2
 - created: 2026-04-21T01:47:00.000Z
 - matched query: "learn chinese" app
-
-## [Some (seemingly) less known resources I find helpful](https://old.reddit.com/r/ChineseLanguage/comments/1sl92a8/some_seemingly_less_known_resources_i_find_helpful/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 2
-- created: 2026-04-14T13:41:00.000Z
-- matched query: flashcard app
 

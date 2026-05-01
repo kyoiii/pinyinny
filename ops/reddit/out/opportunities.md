@@ -1,6 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-01T10:52:18.217Z
+Generated: 2026-05-01T11:55:28.369Z
+
+## [Which apps are worth the money? And what are must know YouTube channels?](https://old.reddit.com/r/ChineseLanguage/comments/1t0q6do/which_apps_are_worth_the_money_and_what_are_must/)
+- subreddit: r/ChineseLanguage
+- score: 9
+- comments: 1
+- created: 2026-05-01T11:01:33.000Z
+- matched query: "learn chinese" app
 
 ## [Any good resource to find out about family relationship terms?](https://old.reddit.com/r/ChineseLanguage/comments/1syll9a/any_good_resource_to_find_out_about_family/)
 - subreddit: r/ChineseLanguage
@@ -33,7 +40,7 @@ Generated: 2026-05-01T10:52:18.217Z
 ## [Improve Hanzi Writing](https://old.reddit.com/r/ChineseLanguage/comments/1t0lf4k/improve_hanzi_writing/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 27
+- comments: 30
 - created: 2026-05-01T06:33:19.000Z
 - matched query: "learn chinese" app
 
@@ -89,7 +96,7 @@ Generated: 2026-05-01T10:52:18.217Z
 ## [How to prepare for HSK 1 3.0](https://old.reddit.com/r/ChineseLanguage/comments/1t0l9m2/how_to_prepare_for_hsk_1_30/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 1
+- comments: 2
 - created: 2026-05-01T06:24:44.000Z
 - matched query: resource
 
@@ -134,11 +141,4 @@ Generated: 2026-05-01T10:52:18.217Z
 - comments: 2
 - created: 2026-04-14T13:41:00.000Z
 - matched query: flashcard app
-
-## [How accurate is SuperChinese recognition?](https://old.reddit.com/r/ChineseLanguage/comments/1skomgy/how_accurate_is_superchinese_recognition/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 7
-- created: 2026-04-13T21:26:13.000Z
-- matched query: "learn chinese" app
 

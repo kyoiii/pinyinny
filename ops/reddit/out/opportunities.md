@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-02T13:42:12.021Z
+Generated: 2026-05-02T14:36:11.739Z
 
 ## [Best way to learn hanzi?](https://old.reddit.com/r/ChineseLanguage/comments/1t0yk7b/best_way_to_learn_hanzi/)
 - subreddit: r/ChineseLanguage

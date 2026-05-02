@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-02T10:12:41.892Z
+Generated: 2026-05-02T11:09:15.212Z
 
 ## [Best way to learn hanzi?](https://old.reddit.com/r/ChineseLanguage/comments/1t0yk7b/best_way_to_learn_hanzi/)
 - subreddit: r/ChineseLanguage
@@ -11,7 +11,7 @@ Generated: 2026-05-02T10:12:41.892Z
 
 ## [Which apps are worth the money? And what are must know YouTube channels?](https://old.reddit.com/r/ChineseLanguage/comments/1t0q6do/which_apps_are_worth_the_money_and_what_are_must/)
 - subreddit: r/ChineseLanguage
-- score: 9
+- score: 8
 - comments: 19
 - created: 2026-05-01T11:01:33.000Z
 - matched query: "learn chinese" app
@@ -110,7 +110,7 @@ Generated: 2026-05-02T10:12:41.892Z
 ## [Improve Hanzi Writing](https://old.reddit.com/r/ChineseLanguage/comments/1t0lf4k/improve_hanzi_writing/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 71
+- comments: 72
 - created: 2026-05-01T06:33:19.000Z
 - matched query: "learn chinese" app
 

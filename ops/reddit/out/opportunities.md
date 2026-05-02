@@ -1,27 +1,20 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-01T23:03:04.544Z
+Generated: 2026-05-02T03:46:14.498Z
 
 ## [Best way to learn hanzi?](https://old.reddit.com/r/ChineseLanguage/comments/1t0yk7b/best_way_to_learn_hanzi/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 5
+- comments: 6
 - created: 2026-05-01T16:36:37.000Z
 - matched query: resource
 
 ## [Which apps are worth the money? And what are must know YouTube channels?](https://old.reddit.com/r/ChineseLanguage/comments/1t0q6do/which_apps_are_worth_the_money_and_what_are_must/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 16
+- comments: 20
 - created: 2026-05-01T11:01:33.000Z
 - matched query: "learn chinese" app
-
-## [Any good resource to find out about family relationship terms?](https://old.reddit.com/r/ChineseLanguage/comments/1syll9a/any_good_resource_to_find_out_about_family/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 5
-- created: 2026-04-29T02:15:47.000Z
-- matched query: resource
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -43,6 +36,13 @@ Generated: 2026-05-01T23:03:04.544Z
 - comments: 12
 - created: 2026-04-08T17:11:49.000Z
 - matched query: "learn chinese" app
+
+## [Any good resource to find out about family relationship terms?](https://old.reddit.com/r/ChineseLanguage/comments/1syll9a/any_good_resource_to_find_out_about_family/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 5
+- created: 2026-04-29T02:15:47.000Z
+- matched query: resource
 
 ## [I want to design an app to learn chinese cantonese](https://old.reddit.com/r/ChineseLanguage/comments/1sxulkq/i_want_to_design_an_app_to_learn_chinese_cantonese/)
 - subreddit: r/ChineseLanguage
@@ -96,7 +96,7 @@ Generated: 2026-05-01T23:03:04.544Z
 ## [Improve Hanzi Writing](https://old.reddit.com/r/ChineseLanguage/comments/1t0lf4k/improve_hanzi_writing/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 55
+- comments: 66
 - created: 2026-05-01T06:33:19.000Z
 - matched query: "learn chinese" app
 
@@ -124,7 +124,7 @@ Generated: 2026-05-01T23:03:04.544Z
 ## [Can we please stop with "helpful" posts that are just thinly-veiled advertisements](https://old.reddit.com/r/ChineseLanguage/comments/1t06kw8/can_we_please_stop_with_helpful_posts_that_are/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 22
+- comments: 23
 - created: 2026-04-30T19:36:57.000Z
 - matched query: "learn chinese" app
 

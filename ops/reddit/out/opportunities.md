@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-02T23:28:45.967Z
+Generated: 2026-05-03T00:11:34.955Z
 
 ## [Best way to learn hanzi?](https://old.reddit.com/r/ChineseLanguage/comments/1t0yk7b/best_way_to_learn_hanzi/)
 - subreddit: r/ChineseLanguage
@@ -93,13 +93,6 @@ Generated: 2026-05-02T23:28:45.967Z
 - created: 2026-04-04T16:06:16.000Z
 - matched query: flashcard app
 
-## [If you're learning Chinese to go to Taiwan, what are some roadblocks you've encountered with Chinese-learning apps?](https://old.reddit.com/r/ChineseLanguage/comments/1s9ldpy/if_youre_learning_chinese_to_go_to_taiwan_what/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 9
-- created: 2026-04-01T13:59:08.000Z
-- matched query: "learn chinese" app
-
 ## [learning some basic vocab for travelling to china](https://old.reddit.com/r/ChineseLanguage/comments/1t1kt5h/learning_some_basic_vocab_for_travelling_to_china/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -141,4 +134,11 @@ Generated: 2026-05-02T23:28:45.967Z
 - comments: 23
 - created: 2026-04-30T19:36:57.000Z
 - matched query: "learn chinese" app
+
+## [if you had $750 to spend on learning Chinese, what would you do?](https://old.reddit.com/r/ChineseLanguage/comments/1szl91z/if_you_had_750_to_spend_on_learning_chinese_what/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 41
+- created: 2026-04-30T04:02:23.000Z
+- matched query: resource
 

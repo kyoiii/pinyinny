@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-03T16:58:53.489Z
+Generated: 2026-05-03T17:55:05.495Z
 
 ## [Best way to learn hanzi?](https://old.reddit.com/r/ChineseLanguage/comments/1t0yk7b/best_way_to_learn_hanzi/)
 - subreddit: r/ChineseLanguage
@@ -37,10 +37,17 @@ Generated: 2026-05-03T16:58:53.489Z
 - created: 2026-04-08T17:11:49.000Z
 - matched query: "learn chinese" app
 
+## [Best way to learn written Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1t2rom6/best_way_to_learn_written_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 2
+- created: 2026-05-03T17:27:14.000Z
+- matched query: resource
+
 ## [Booked the HSK1 exam in 2 months, studied all the materials, but still feel like I don't know everything I need to know for the exam and I'm not good enough for it. Is it normal?](https://old.reddit.com/r/ChineseLanguage/comments/1t2efpl/booked_the_hsk1_exam_in_2_months_studied_all_the/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 11
+- comments: 14
 - created: 2026-05-03T07:12:58.000Z
 - matched query: resource
 
@@ -134,11 +141,4 @@ Generated: 2026-05-03T16:58:53.489Z
 - comments: 86
 - created: 2026-05-01T06:33:19.000Z
 - matched query: "learn chinese" app
-
-## [How to prepare for HSK 1 3.0](https://old.reddit.com/r/ChineseLanguage/comments/1t0l9m2/how_to_prepare_for_hsk_1_30/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 2
-- created: 2026-05-01T06:24:44.000Z
-- matched query: resource
 

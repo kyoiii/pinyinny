@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-03T20:56:49.665Z
+Generated: 2026-05-03T21:52:47.036Z
 
 ## [Best way to learn hanzi?](https://old.reddit.com/r/ChineseLanguage/comments/1t0yk7b/best_way_to_learn_hanzi/)
 - subreddit: r/ChineseLanguage
@@ -40,7 +40,7 @@ Generated: 2026-05-03T20:56:49.665Z
 ## [Best way to learn written Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1t2rom6/best_way_to_learn_written_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 8
+- comments: 9
 - created: 2026-05-03T17:27:14.000Z
 - matched query: resource
 
@@ -117,7 +117,7 @@ Generated: 2026-05-03T20:56:49.665Z
 ## [HelloChinese vs. SuperChinese vs. ChineseSkill](https://old.reddit.com/r/ChineseLanguage/comments/1t2bjj9/hellochinese_vs_superchinese_vs_chineseskill/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 9
+- comments: 10
 - created: 2026-05-03T04:33:39.000Z
 - matched query: resource
 

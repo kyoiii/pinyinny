@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-04T20:58:29.266Z
+Generated: 2026-05-04T22:11:19.510Z
 
 ## [What are some resources for learning how to read handwritten Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1t3py8h/what_are_some_resources_for_learning_how_to_read/)
 - subreddit: r/ChineseLanguage
@@ -8,6 +8,13 @@ Generated: 2026-05-04T20:58:29.266Z
 - comments: 1
 - created: 2026-05-04T18:18:44.000Z
 - matched query: resource
+
+## [Looking for a simple Anki deck for extremely basic Chinese for travel phrases (pinyin & audio)](https://old.reddit.com/r/ChineseLanguage/comments/1t3vcre/looking_for_a_simple_anki_deck_for_extremely/)
+- subreddit: r/ChineseLanguage
+- score: 8
+- comments: 0
+- created: 2026-05-04T21:28:54.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -133,12 +140,5 @@ Generated: 2026-05-04T20:58:29.266Z
 - score: 4
 - comments: 12
 - created: 2026-05-03T04:33:39.000Z
-- matched query: resource
-
-## [learning some basic vocab for travelling to china](https://old.reddit.com/r/ChineseLanguage/comments/1t1kt5h/learning_some_basic_vocab_for_travelling_to_china/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 6
-- created: 2026-05-02T09:08:23.000Z
 - matched query: resource
 

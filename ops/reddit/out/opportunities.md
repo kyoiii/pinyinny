@@ -1,13 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-04T16:20:22.238Z
-
-## [Best way to learn hanzi?](https://old.reddit.com/r/ChineseLanguage/comments/1t0yk7b/best_way_to_learn_hanzi/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 8
-- created: 2026-05-01T16:36:37.000Z
-- matched query: resource
+Generated: 2026-05-04T17:57:30.909Z
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -37,11 +30,11 @@ Generated: 2026-05-04T16:20:22.238Z
 - created: 2026-05-03T22:58:32.000Z
 - matched query: resource
 
-## [Best way to learn written Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1t2rom6/best_way_to_learn_written_chinese/)
+## [Best way to learn hanzi?](https://old.reddit.com/r/ChineseLanguage/comments/1t0yk7b/best_way_to_learn_hanzi/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 14
-- created: 2026-05-03T17:27:14.000Z
+- comments: 8
+- created: 2026-05-01T16:36:37.000Z
 - matched query: resource
 
 ## [Which apps are worth the money? And what are must know YouTube channels?](https://old.reddit.com/r/ChineseLanguage/comments/1t0q6do/which_apps_are_worth_the_money_and_what_are_must/)
@@ -56,6 +49,13 @@ Generated: 2026-05-04T16:20:22.238Z
 - score: 7
 - comments: 5
 - created: 2026-04-29T02:15:47.000Z
+- matched query: resource
+
+## [Best way to learn written Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1t2rom6/best_way_to_learn_written_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 14
+- created: 2026-05-03T17:27:14.000Z
 - matched query: resource
 
 ## [Booked the HSK1 exam in 2 months, studied all the materials, but still feel like I don't know everything I need to know for the exam and I'm not good enough for it. Is it normal?](https://old.reddit.com/r/ChineseLanguage/comments/1t2efpl/booked_the_hsk1_exam_in_2_months_studied_all_the/)

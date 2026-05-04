@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-04T10:03:11.130Z
+Generated: 2026-05-04T12:03:55.830Z
 
 ## [Best way to learn hanzi?](https://old.reddit.com/r/ChineseLanguage/comments/1t0yk7b/best_way_to_learn_hanzi/)
 - subreddit: r/ChineseLanguage
@@ -8,13 +8,6 @@ Generated: 2026-05-04T10:03:11.130Z
 - comments: 7
 - created: 2026-05-01T16:36:37.000Z
 - matched query: resource
-
-## [Which apps are worth the money? And what are must know YouTube channels?](https://old.reddit.com/r/ChineseLanguage/comments/1t0q6do/which_apps_are_worth_the_money_and_what_are_must/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 20
-- created: 2026-05-01T11:01:33.000Z
-- matched query: "learn chinese" app
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -50,6 +43,13 @@ Generated: 2026-05-04T10:03:11.130Z
 - comments: 14
 - created: 2026-05-03T17:27:14.000Z
 - matched query: resource
+
+## [Which apps are worth the money? And what are must know YouTube channels?](https://old.reddit.com/r/ChineseLanguage/comments/1t0q6do/which_apps_are_worth_the_money_and_what_are_must/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 20
+- created: 2026-05-01T11:01:33.000Z
+- matched query: "learn chinese" app
 
 ## [Any good resource to find out about family relationship terms?](https://old.reddit.com/r/ChineseLanguage/comments/1syll9a/any_good_resource_to_find_out_about_family/)
 - subreddit: r/ChineseLanguage

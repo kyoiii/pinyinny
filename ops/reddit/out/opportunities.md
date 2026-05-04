@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-04T19:50:46.957Z
+Generated: 2026-05-04T20:58:29.266Z
 
 ## [What are some resources for learning how to read handwritten Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1t3py8h/what_are_some_resources_for_learning_how_to_read/)
 - subreddit: r/ChineseLanguage
@@ -131,7 +131,7 @@ Generated: 2026-05-04T19:50:46.957Z
 ## [HelloChinese vs. SuperChinese vs. ChineseSkill](https://old.reddit.com/r/ChineseLanguage/comments/1t2bjj9/hellochinese_vs_superchinese_vs_chineseskill/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 11
+- comments: 12
 - created: 2026-05-03T04:33:39.000Z
 - matched query: resource
 

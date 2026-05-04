@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-03T23:27:46.803Z
+Generated: 2026-05-04T01:17:44.837Z
 
 ## [Best way to learn hanzi?](https://old.reddit.com/r/ChineseLanguage/comments/1t0yk7b/best_way_to_learn_hanzi/)
 - subreddit: r/ChineseLanguage
@@ -58,19 +58,19 @@ Generated: 2026-05-03T23:27:46.803Z
 - created: 2026-05-03T07:12:58.000Z
 - matched query: resource
 
-## [What is the best way to learn Chinese language?](https://old.reddit.com/r/ChineseLanguage/comments/1t27gtb/what_is_the_best_way_to_learn_chinese_language/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 2
-- created: 2026-05-03T01:14:37.000Z
-- matched query: "learn chinese" app
-
 ## [Any good resource to find out about family relationship terms?](https://old.reddit.com/r/ChineseLanguage/comments/1syll9a/any_good_resource_to_find_out_about_family/)
 - subreddit: r/ChineseLanguage
 - score: 7
 - comments: 5
 - created: 2026-04-29T02:15:47.000Z
 - matched query: resource
+
+## [What is the best way to learn Chinese language?](https://old.reddit.com/r/ChineseLanguage/comments/1t27gtb/what_is_the_best_way_to_learn_chinese_language/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 2
+- created: 2026-05-03T01:14:37.000Z
+- matched query: "learn chinese" app
 
 ## [Tips??](https://old.reddit.com/r/ChineseLanguage/comments/1t23d55/tips/)
 - subreddit: r/ChineseLanguage

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-04T22:11:19.510Z
+Generated: 2026-05-04T23:11:21.127Z
 
 ## [What are some resources for learning how to read handwritten Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1t3py8h/what_are_some_resources_for_learning_how_to_read/)
 - subreddit: r/ChineseLanguage
@@ -37,13 +37,6 @@ Generated: 2026-05-04T22:11:19.510Z
 - created: 2026-04-08T17:11:49.000Z
 - matched query: "learn chinese" app
 
-## [Seeking tutor/class and self study resources](https://old.reddit.com/r/ChineseLanguage/comments/1t30au8/seeking_tutorclass_and_self_study_resources/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 1
-- created: 2026-05-03T22:58:32.000Z
-- matched query: resource
-
 ## [Best way to learn hanzi?](https://old.reddit.com/r/ChineseLanguage/comments/1t0yk7b/best_way_to_learn_hanzi/)
 - subreddit: r/ChineseLanguage
 - score: 7
@@ -63,6 +56,13 @@ Generated: 2026-05-04T22:11:19.510Z
 - score: 7
 - comments: 5
 - created: 2026-04-29T02:15:47.000Z
+- matched query: resource
+
+## [Seeking tutor/class and self study resources](https://old.reddit.com/r/ChineseLanguage/comments/1t30au8/seeking_tutorclass_and_self_study_resources/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 1
+- created: 2026-05-03T22:58:32.000Z
 - matched query: resource
 
 ## [Best way to learn written Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1t2rom6/best_way_to_learn_written_chinese/)

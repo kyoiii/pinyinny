@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-05T18:20:14.207Z
+Generated: 2026-05-05T19:56:37.041Z
 
 ## [What are some resources for learning how to read handwritten Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1t3py8h/what_are_some_resources_for_learning_how_to_read/)
 - subreddit: r/ChineseLanguage
@@ -33,7 +33,7 @@ Generated: 2026-05-05T18:20:14.207Z
 ## [Looking for a simple Anki deck for extremely basic Chinese for travel phrases (pinyin & audio)](https://old.reddit.com/r/ChineseLanguage/comments/1t3vcre/looking_for_a_simple_anki_deck_for_extremely/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 2
+- comments: 3
 - created: 2026-05-04T21:28:54.000Z
 - matched query: app OR website pinyin hanzi
 
@@ -82,7 +82,7 @@ Generated: 2026-05-05T18:20:14.207Z
 ## [What is the best way to learn Chinese language?](https://old.reddit.com/r/ChineseLanguage/comments/1t27gtb/what_is_the_best_way_to_learn_chinese_language/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 2
+- comments: 3
 - created: 2026-05-03T01:14:37.000Z
 - matched query: "learn chinese" app
 
@@ -138,7 +138,7 @@ Generated: 2026-05-05T18:20:14.207Z
 ## [HelloChinese vs. SuperChinese vs. ChineseSkill](https://old.reddit.com/r/ChineseLanguage/comments/1t2bjj9/hellochinese_vs_superchinese_vs_chineseskill/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 22
+- comments: 23
 - created: 2026-05-03T04:33:39.000Z
 - matched query: resource
 

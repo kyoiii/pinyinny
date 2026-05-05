@@ -1,20 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-05T00:10:04.454Z
+Generated: 2026-05-05T03:51:35.318Z
 
 ## [What are some resources for learning how to read handwritten Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1t3py8h/what_are_some_resources_for_learning_how_to_read/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 1
+- comments: 5
 - created: 2026-05-04T18:18:44.000Z
 - matched query: resource
-
-## [Looking for a simple Anki deck for extremely basic Chinese for travel phrases (pinyin & audio)](https://old.reddit.com/r/ChineseLanguage/comments/1t3vcre/looking_for_a_simple_anki_deck_for_extremely/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 0
-- created: 2026-05-04T21:28:54.000Z
-- matched query: app OR website pinyin hanzi
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -36,6 +29,13 @@ Generated: 2026-05-05T00:10:04.454Z
 - comments: 12
 - created: 2026-04-08T17:11:49.000Z
 - matched query: "learn chinese" app
+
+## [Looking for a simple Anki deck for extremely basic Chinese for travel phrases (pinyin & audio)](https://old.reddit.com/r/ChineseLanguage/comments/1t3vcre/looking_for_a_simple_anki_deck_for_extremely/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 1
+- created: 2026-05-04T21:28:54.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [Best way to learn hanzi?](https://old.reddit.com/r/ChineseLanguage/comments/1t0yk7b/best_way_to_learn_hanzi/)
 - subreddit: r/ChineseLanguage

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-05T22:13:06.276Z
+Generated: 2026-05-05T23:13:58.015Z
 
 ## [What are some resources for learning how to read handwritten Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1t3py8h/what_are_some_resources_for_learning_how_to_read/)
 - subreddit: r/ChineseLanguage
@@ -33,7 +33,7 @@ Generated: 2026-05-05T22:13:06.276Z
 ## [duchinese alternative app](https://old.reddit.com/r/ChineseLanguage/comments/1t4rcrn/duchinese_alternative_app/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 4
+- comments: 5
 - created: 2026-05-05T20:25:32.000Z
 - matched query: flashcard app
 

@@ -1,10 +1,10 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-05T17:02:37.593Z
+Generated: 2026-05-05T18:20:14.207Z
 
 ## [What are some resources for learning how to read handwritten Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1t3py8h/what_are_some_resources_for_learning_how_to_read/)
 - subreddit: r/ChineseLanguage
-- score: 9
+- score: 8
 - comments: 6
 - created: 2026-05-04T18:18:44.000Z
 - matched query: resource

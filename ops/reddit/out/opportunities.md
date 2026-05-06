@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-06T00:07:45.938Z
+Generated: 2026-05-06T04:04:05.021Z
 
 ## [What are some resources for learning how to read handwritten Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1t3py8h/what_are_some_resources_for_learning_how_to_read/)
 - subreddit: r/ChineseLanguage
@@ -51,13 +51,6 @@ Generated: 2026-05-06T00:07:45.938Z
 - created: 2026-05-01T11:01:33.000Z
 - matched query: "learn chinese" app
 
-## [Any good resource to find out about family relationship terms?](https://old.reddit.com/r/ChineseLanguage/comments/1syll9a/any_good_resource_to_find_out_about_family/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 5
-- created: 2026-04-29T02:15:47.000Z
-- matched query: resource
-
 ## [Looking for a simple Anki deck for extremely basic Chinese for travel phrases (pinyin & audio)](https://old.reddit.com/r/ChineseLanguage/comments/1t3vcre/looking_for_a_simple_anki_deck_for_extremely/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -86,12 +79,12 @@ Generated: 2026-05-06T00:07:45.938Z
 - created: 2026-05-03T07:12:58.000Z
 - matched query: resource
 
-## [What is the best way to learn Chinese language?](https://old.reddit.com/r/ChineseLanguage/comments/1t27gtb/what_is_the_best_way_to_learn_chinese_language/)
+## [Any good resource to find out about family relationship terms?](https://old.reddit.com/r/ChineseLanguage/comments/1syll9a/any_good_resource_to_find_out_about_family/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 3
-- created: 2026-05-03T01:14:37.000Z
-- matched query: "learn chinese" app
+- comments: 5
+- created: 2026-04-29T02:15:47.000Z
+- matched query: resource
 
 ## [I’m new here and I’ve created a free app to learn Chinese. What do you think?](https://old.reddit.com/r/ChineseLanguage/comments/1srqs12/im_new_here_and_ive_created_a_free_app_to_learn/)
 - subreddit: r/ChineseLanguage
@@ -119,6 +112,13 @@ Generated: 2026-05-06T00:07:45.938Z
 - score: 6
 - comments: 20
 - created: 2026-04-07T20:44:41.000Z
+- matched query: "learn chinese" app
+
+## [What is the best way to learn Chinese language?](https://old.reddit.com/r/ChineseLanguage/comments/1t27gtb/what_is_the_best_way_to_learn_chinese_language/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 3
+- created: 2026-05-03T01:14:37.000Z
 - matched query: "learn chinese" app
 
 ## [Tips??](https://old.reddit.com/r/ChineseLanguage/comments/1t23d55/tips/)

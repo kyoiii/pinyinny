@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-06T13:11:29.652Z
+Generated: 2026-05-06T15:36:23.472Z
 
 ## [What are some resources for learning how to read handwritten Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1t3py8h/what_are_some_resources_for_learning_how_to_read/)
 - subreddit: r/ChineseLanguage
@@ -107,6 +107,13 @@ Generated: 2026-05-06T13:11:29.652Z
 - created: 2026-04-07T20:44:41.000Z
 - matched query: "learn chinese" app
 
+## [Learning to read and write](https://old.reddit.com/r/ChineseLanguage/comments/1t5dc7v/learning_to_read_and_write/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 2
+- created: 2026-05-06T13:43:19.000Z
+- matched query: resource
+
 ## [Booked the HSK1 exam in 2 months, studied all the materials, but still feel like I don't know everything I need to know for the exam and I'm not good enough for it. Is it normal?](https://old.reddit.com/r/ChineseLanguage/comments/1t2efpl/booked_the_hsk1_exam_in_2_months_studied_all_the/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -133,12 +140,5 @@ Generated: 2026-05-06T13:11:29.652Z
 - score: 5
 - comments: 0
 - created: 2026-04-28T07:43:11.000Z
-- matched query: "learn chinese" app
-
-## [I'm totally new to learning Chinese but I'm spanish native speaker learning Japanese. How should I start?](https://old.reddit.com/r/ChineseLanguage/comments/1sr9voe/im_totally_new_to_learning_chinese_but_im_spanish/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 2
-- created: 2026-04-21T01:47:00.000Z
 - matched query: "learn chinese" app
 

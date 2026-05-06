@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-06T04:04:05.021Z
+Generated: 2026-05-06T06:45:44.310Z
 
 ## [What are some resources for learning how to read handwritten Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1t3py8h/what_are_some_resources_for_learning_how_to_read/)
 - subreddit: r/ChineseLanguage
@@ -29,6 +29,13 @@ Generated: 2026-05-06T04:04:05.021Z
 - comments: 12
 - created: 2026-04-08T17:11:49.000Z
 - matched query: "learn chinese" app
+
+## [(advanced/native) I'm looking for resources that help me structure essays and academic papers in Chinese.](https://old.reddit.com/r/ChineseLanguage/comments/1t539is/advancednative_im_looking_for_resources_that_help/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 3
+- created: 2026-05-06T05:04:40.000Z
+- matched query: resource
 
 ## [duchinese alternative app](https://old.reddit.com/r/ChineseLanguage/comments/1t4rcrn/duchinese_alternative_app/)
 - subreddit: r/ChineseLanguage
@@ -134,11 +141,4 @@ Generated: 2026-05-06T04:04:05.021Z
 - comments: 0
 - created: 2026-04-28T07:43:11.000Z
 - matched query: "learn chinese" app
-
-## [HelloChinese vs. SuperChinese vs. ChineseSkill](https://old.reddit.com/r/ChineseLanguage/comments/1t2bjj9/hellochinese_vs_superchinese_vs_chineseskill/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 24
-- created: 2026-05-03T04:33:39.000Z
-- matched query: resource
 

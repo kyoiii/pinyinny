@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-05T23:13:58.015Z
+Generated: 2026-05-06T00:07:45.938Z
 
 ## [What are some resources for learning how to read handwritten Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1t3py8h/what_are_some_resources_for_learning_how_to_read/)
 - subreddit: r/ChineseLanguage
@@ -121,13 +121,6 @@ Generated: 2026-05-05T23:13:58.015Z
 - created: 2026-04-07T20:44:41.000Z
 - matched query: "learn chinese" app
 
-## [HSK sentence flashcards?](https://old.reddit.com/r/ChineseLanguage/comments/1scd3ii/hsk_sentence_flashcards/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 6
-- created: 2026-04-04T16:06:16.000Z
-- matched query: flashcard app
-
 ## [Tips??](https://old.reddit.com/r/ChineseLanguage/comments/1t23d55/tips/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -141,4 +134,11 @@ Generated: 2026-05-05T23:13:58.015Z
 - comments: 0
 - created: 2026-04-28T07:43:11.000Z
 - matched query: "learn chinese" app
+
+## [HelloChinese vs. SuperChinese vs. ChineseSkill](https://old.reddit.com/r/ChineseLanguage/comments/1t2bjj9/hellochinese_vs_superchinese_vs_chineseskill/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 24
+- created: 2026-05-03T04:33:39.000Z
+- matched query: resource
 

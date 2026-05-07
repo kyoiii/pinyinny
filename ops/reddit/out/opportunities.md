@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-07T21:09:41.268Z
+Generated: 2026-05-07T22:17:12.863Z
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -65,13 +65,6 @@ Generated: 2026-05-07T21:09:41.268Z
 - created: 2026-05-06T05:04:40.000Z
 - matched query: resource
 
-## [Looking for a simple Anki deck for extremely basic Chinese for travel phrases (pinyin & audio)](https://old.reddit.com/r/ChineseLanguage/comments/1t3vcre/looking_for_a_simple_anki_deck_for_extremely/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 3
-- created: 2026-05-04T21:28:54.000Z
-- matched query: app OR website pinyin hanzi
-
 ## [I’m new here and I’ve created a free app to learn Chinese. What do you think?](https://old.reddit.com/r/ChineseLanguage/comments/1srqs12/im_new_here_and_ive_created_a_free_app_to_learn/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -99,6 +92,13 @@ Generated: 2026-05-07T21:09:41.268Z
 - comments: 20
 - created: 2026-04-07T20:44:41.000Z
 - matched query: "learn chinese" app
+
+## [Looking for a simple Anki deck for extremely basic Chinese for travel phrases (pinyin & audio)](https://old.reddit.com/r/ChineseLanguage/comments/1t3vcre/looking_for_a_simple_anki_deck_for_extremely/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 3
+- created: 2026-05-04T21:28:54.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [Seeking tutor/class and self study resources](https://old.reddit.com/r/ChineseLanguage/comments/1t30au8/seeking_tutorclass_and_self_study_resources/)
 - subreddit: r/ChineseLanguage

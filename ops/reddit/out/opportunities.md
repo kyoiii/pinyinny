@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-07T19:56:46.782Z
+Generated: 2026-05-07T21:09:41.268Z
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -57,13 +57,6 @@ Generated: 2026-05-07T19:56:46.782Z
 - comments: 20
 - created: 2026-05-01T11:01:33.000Z
 - matched query: "learn chinese" app
-
-## [Want to learn how to speak/read/write Mandarin Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1t6ir7a/want_to_learn_how_to_speakreadwrite_mandarin/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-05-07T18:17:19.000Z
-- matched query: resource
 
 ## [(advanced/native) I'm looking for resources that help me structure essays and academic papers in Chinese.](https://old.reddit.com/r/ChineseLanguage/comments/1t539is/advancednative_im_looking_for_resources_that_help/)
 - subreddit: r/ChineseLanguage
@@ -140,5 +133,12 @@ Generated: 2026-05-07T19:56:46.782Z
 - score: 5
 - comments: 2
 - created: 2026-05-02T22:09:33.000Z
+- matched query: "learn chinese" app
+
+## [I want to design an app to learn chinese cantonese](https://old.reddit.com/r/ChineseLanguage/comments/1sxulkq/i_want_to_design_an_app_to_learn_chinese_cantonese/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 0
+- created: 2026-04-28T07:43:11.000Z
 - matched query: "learn chinese" app
 

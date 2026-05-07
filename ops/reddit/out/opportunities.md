@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-07T16:31:04.057Z
+Generated: 2026-05-07T18:18:11.253Z
 
 ## [What are some resources for learning how to read handwritten Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1t3py8h/what_are_some_resources_for_learning_how_to_read/)
 - subreddit: r/ChineseLanguage
@@ -58,6 +58,13 @@ Generated: 2026-05-07T16:31:04.057Z
 - created: 2026-05-01T11:01:33.000Z
 - matched query: "learn chinese" app
 
+## [Want to learn how to speak/read/write Mandarin Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1t6ir7a/want_to_learn_how_to_speakreadwrite_mandarin/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 0
+- created: 2026-05-07T18:17:19.000Z
+- matched query: resource
+
 ## [(advanced/native) I'm looking for resources that help me structure essays and academic papers in Chinese.](https://old.reddit.com/r/ChineseLanguage/comments/1t539is/advancednative_im_looking_for_resources_that_help/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -99,13 +106,6 @@ Generated: 2026-05-07T16:31:04.057Z
 - comments: 20
 - created: 2026-04-07T20:44:41.000Z
 - matched query: "learn chinese" app
-
-## [Learning chinese for the first time](https://old.reddit.com/r/ChineseLanguage/comments/1t5jjyf/learning_chinese_for_the_first_time/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 7
-- created: 2026-05-06T17:23:35.000Z
-- matched query: resource
 
 ## [Seeking tutor/class and self study resources](https://old.reddit.com/r/ChineseLanguage/comments/1t30au8/seeking_tutorclass_and_self_study_resources/)
 - subreddit: r/ChineseLanguage

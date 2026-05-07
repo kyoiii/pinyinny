@@ -1,13 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-07T18:18:11.253Z
-
-## [What are some resources for learning how to read handwritten Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1t3py8h/what_are_some_resources_for_learning_how_to_read/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 6
-- created: 2026-05-04T18:18:44.000Z
-- matched query: resource
+Generated: 2026-05-07T19:56:46.782Z
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -42,6 +35,13 @@ Generated: 2026-05-07T18:18:11.253Z
 - score: 7
 - comments: 3
 - created: 2026-05-07T10:26:52.000Z
+- matched query: resource
+
+## [What are some resources for learning how to read handwritten Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1t3py8h/what_are_some_resources_for_learning_how_to_read/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 6
+- created: 2026-05-04T18:18:44.000Z
 - matched query: resource
 
 ## [Best way to learn hanzi?](https://old.reddit.com/r/ChineseLanguage/comments/1t0yk7b/best_way_to_learn_hanzi/)

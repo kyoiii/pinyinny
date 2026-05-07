@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-07T10:10:12.604Z
+Generated: 2026-05-07T12:08:11.940Z
 
 ## [What are some resources for learning how to read handwritten Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1t3py8h/what_are_some_resources_for_learning_how_to_read/)
 - subreddit: r/ChineseLanguage
@@ -29,6 +29,20 @@ Generated: 2026-05-07T10:10:12.604Z
 - comments: 12
 - created: 2026-04-08T17:11:49.000Z
 - matched query: "learn chinese" app
+
+## [Learning hanzi with Hellochinese](https://old.reddit.com/r/ChineseLanguage/comments/1t676kp/learning_hanzi_with_hellochinese/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 2
+- created: 2026-05-07T11:03:25.000Z
+- matched query: "learn chinese" app
+
+## [Where to start?](https://old.reddit.com/r/ChineseLanguage/comments/1t66gsi/where_to_start/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 2
+- created: 2026-05-07T10:26:52.000Z
+- matched query: resource
 
 ## [Best way to learn hanzi?](https://old.reddit.com/r/ChineseLanguage/comments/1t0yk7b/best_way_to_learn_hanzi/)
 - subreddit: r/ChineseLanguage
@@ -126,19 +140,5 @@ Generated: 2026-05-07T10:10:12.604Z
 - score: 5
 - comments: 3
 - created: 2026-05-03T01:14:37.000Z
-- matched query: "learn chinese" app
-
-## [Tips??](https://old.reddit.com/r/ChineseLanguage/comments/1t23d55/tips/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 2
-- created: 2026-05-02T22:09:33.000Z
-- matched query: "learn chinese" app
-
-## [I want to design an app to learn chinese cantonese](https://old.reddit.com/r/ChineseLanguage/comments/1sxulkq/i_want_to_design_an_app_to_learn_chinese_cantonese/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 0
-- created: 2026-04-28T07:43:11.000Z
 - matched query: "learn chinese" app
 

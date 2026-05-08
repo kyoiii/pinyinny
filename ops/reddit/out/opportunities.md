@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-08T22:14:48.542Z
+Generated: 2026-05-08T23:14:19.787Z
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -21,6 +21,13 @@ Generated: 2026-05-08T22:14:48.542Z
 - score: 8
 - comments: 12
 - created: 2026-04-08T17:11:49.000Z
+- matched query: "learn chinese" app
+
+## [advice for chinese learning app!!](https://old.reddit.com/r/ChineseLanguage/comments/1t7nay2/advice_for_chinese_learning_app/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 2
+- created: 2026-05-08T22:49:14.000Z
 - matched query: "learn chinese" app
 
 ## [What are some resources for learning how to read handwritten Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1t3py8h/what_are_some_resources_for_learning_how_to_read/)
@@ -134,11 +141,4 @@ Generated: 2026-05-08T22:14:48.542Z
 - comments: 24
 - created: 2026-05-03T07:12:58.000Z
 - matched query: resource
-
-## [What is the best way to learn Chinese language?](https://old.reddit.com/r/ChineseLanguage/comments/1t27gtb/what_is_the_best_way_to_learn_chinese_language/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 4
-- created: 2026-05-03T01:14:37.000Z
-- matched query: "learn chinese" app
 

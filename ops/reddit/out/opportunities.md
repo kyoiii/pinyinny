@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-08T00:11:12.077Z
+Generated: 2026-05-08T03:55:27.868Z
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -26,7 +26,7 @@ Generated: 2026-05-08T00:11:12.077Z
 ## [Learning hanzi with Hellochinese](https://old.reddit.com/r/ChineseLanguage/comments/1t676kp/learning_hanzi_with_hellochinese/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 4
+- comments: 5
 - created: 2026-05-07T11:03:25.000Z
 - matched query: "learn chinese" app
 

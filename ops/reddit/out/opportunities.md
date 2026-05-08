@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-08T09:21:45.997Z
+Generated: 2026-05-08T10:53:18.403Z
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -30,13 +30,6 @@ Generated: 2026-05-08T09:21:45.997Z
 - created: 2026-05-07T11:03:25.000Z
 - matched query: "learn chinese" app
 
-## [Where to start?](https://old.reddit.com/r/ChineseLanguage/comments/1t66gsi/where_to_start/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 3
-- created: 2026-05-07T10:26:52.000Z
-- matched query: resource
-
 ## [What are some resources for learning how to read handwritten Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1t3py8h/what_are_some_resources_for_learning_how_to_read/)
 - subreddit: r/ChineseLanguage
 - score: 7
@@ -57,6 +50,13 @@ Generated: 2026-05-08T09:21:45.997Z
 - comments: 20
 - created: 2026-05-01T11:01:33.000Z
 - matched query: "learn chinese" app
+
+## [Where to start?](https://old.reddit.com/r/ChineseLanguage/comments/1t66gsi/where_to_start/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 3
+- created: 2026-05-07T10:26:52.000Z
+- matched query: resource
 
 ## [(advanced/native) I'm looking for resources that help me structure essays and academic papers in Chinese.](https://old.reddit.com/r/ChineseLanguage/comments/1t539is/advancednative_im_looking_for_resources_that_help/)
 - subreddit: r/ChineseLanguage

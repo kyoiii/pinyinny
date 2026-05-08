@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-08T15:56:00.204Z
+Generated: 2026-05-08T17:28:44.000Z
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -30,13 +30,6 @@ Generated: 2026-05-08T15:56:00.204Z
 - created: 2026-05-04T18:18:44.000Z
 - matched query: resource
 
-## [Best way to learn hanzi?](https://old.reddit.com/r/ChineseLanguage/comments/1t0yk7b/best_way_to_learn_hanzi/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 8
-- created: 2026-05-01T16:36:37.000Z
-- matched query: resource
-
 ## [Learn Chinese 一起学习中文 Discord Server](https://old.reddit.com/r/ChineseLanguage/comments/1t78gaw/learn_chinese_一起学习中文_discord_server/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -63,6 +56,13 @@ Generated: 2026-05-08T15:56:00.204Z
 - score: 6
 - comments: 8
 - created: 2026-05-06T05:04:40.000Z
+- matched query: resource
+
+## [Best way to learn hanzi?](https://old.reddit.com/r/ChineseLanguage/comments/1t0yk7b/best_way_to_learn_hanzi/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 8
+- created: 2026-05-01T16:36:37.000Z
 - matched query: resource
 
 ## [Which apps are worth the money? And what are must know YouTube channels?](https://old.reddit.com/r/ChineseLanguage/comments/1t0q6do/which_apps_are_worth_the_money_and_what_are_must/)

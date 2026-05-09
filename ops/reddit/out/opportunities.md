@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-09T23:01:22.993Z
+Generated: 2026-05-09T23:59:36.682Z
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -33,7 +33,7 @@ Generated: 2026-05-09T23:01:22.993Z
 ## [advice for chinese learning app!!](https://old.reddit.com/r/ChineseLanguage/comments/1t7nay2/advice_for_chinese_learning_app/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 3
+- comments: 4
 - created: 2026-05-08T22:49:14.000Z
 - matched query: "learn chinese" app
 
@@ -78,13 +78,6 @@ Generated: 2026-05-09T23:01:22.993Z
 - comments: 14
 - created: 2026-05-09T04:01:57.000Z
 - matched query: app OR website pinyin hanzi
-
-## [Chinese Study](https://old.reddit.com/r/ChineseLanguage/comments/1t7og2a/chinese_study/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 4
-- created: 2026-05-08T23:37:07.000Z
-- matched query: resource
 
 ## [Learn Chinese 一起学习中文 Discord Server](https://old.reddit.com/r/ChineseLanguage/comments/1t78gaw/learn_chinese_一起学习中文_discord_server/)
 - subreddit: r/ChineseLanguage
@@ -141,4 +134,11 @@ Generated: 2026-05-09T23:01:22.993Z
 - comments: 0
 - created: 2026-04-28T07:43:11.000Z
 - matched query: "learn chinese" app
+
+## [Chinese Study](https://old.reddit.com/r/ChineseLanguage/comments/1t7og2a/chinese_study/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 4
+- created: 2026-05-08T23:37:07.000Z
+- matched query: resource
 

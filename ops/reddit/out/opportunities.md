@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-09T11:37:45.944Z
+Generated: 2026-05-09T12:42:14.451Z
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -93,13 +93,6 @@ Generated: 2026-05-09T11:37:45.944Z
 - created: 2026-05-08T23:37:07.000Z
 - matched query: resource
 
-## [Question about 基地](https://old.reddit.com/r/ChineseLanguage/comments/1t75s6j/question_about_基地/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 6
-- created: 2026-05-08T11:58:21.000Z
-- matched query: resource
-
 ## [(advanced/native) I'm looking for resources that help me structure essays and academic papers in Chinese.](https://old.reddit.com/r/ChineseLanguage/comments/1t539is/advancednative_im_looking_for_resources_that_help/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -140,5 +133,12 @@ Generated: 2026-05-09T11:37:45.944Z
 - score: 5
 - comments: 4
 - created: 2026-05-03T01:14:37.000Z
+- matched query: "learn chinese" app
+
+## [Tips??](https://old.reddit.com/r/ChineseLanguage/comments/1t23d55/tips/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 2
+- created: 2026-05-02T22:09:33.000Z
 - matched query: "learn chinese" app
 

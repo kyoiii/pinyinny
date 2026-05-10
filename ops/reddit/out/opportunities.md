@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-10T18:38:44.037Z
+Generated: 2026-05-10T19:46:03.529Z
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -47,7 +47,7 @@ Generated: 2026-05-10T18:38:44.037Z
 ## [Listening advice needed](https://old.reddit.com/r/ChineseLanguage/comments/1t9cztp/listening_advice_needed/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 5
+- comments: 6
 - created: 2026-05-10T17:22:12.000Z
 - matched query: "learn chinese" app
 

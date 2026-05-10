@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-10T12:03:45.642Z
+Generated: 2026-05-10T13:52:14.800Z
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -23,13 +23,6 @@ Generated: 2026-05-10T12:03:45.642Z
 - created: 2026-05-04T18:18:44.000Z
 - matched query: resource
 
-## [Random question](https://old.reddit.com/r/ChineseLanguage/comments/1t93xkh/random_question/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-05-10T11:04:45.000Z
-- matched query: "learn chinese" app
-
 ## [advice for chinese learning app!!](https://old.reddit.com/r/ChineseLanguage/comments/1t7nay2/advice_for_chinese_learning_app/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -51,10 +44,17 @@ Generated: 2026-05-10T12:03:45.642Z
 - created: 2026-04-21T15:19:14.000Z
 - matched query: flashcard app
 
+## [Random question](https://old.reddit.com/r/ChineseLanguage/comments/1t93xkh/random_question/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 1
+- created: 2026-05-10T11:04:45.000Z
+- matched query: "learn chinese" app
+
 ## [Teenager learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1t8ykjd/teenager_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 5
+- comments: 6
 - created: 2026-05-10T06:00:38.000Z
 - matched query: resource
 

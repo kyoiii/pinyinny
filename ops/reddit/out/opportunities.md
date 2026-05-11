@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-11T08:48:05.031Z
+Generated: 2026-05-11T11:52:22.763Z
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -47,15 +47,8 @@ Generated: 2026-05-11T08:48:05.031Z
 ## [Listening advice needed](https://old.reddit.com/r/ChineseLanguage/comments/1t9cztp/listening_advice_needed/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 8
+- comments: 9
 - created: 2026-05-10T17:22:12.000Z
-- matched query: "learn chinese" app
-
-## [Random question](https://old.reddit.com/r/ChineseLanguage/comments/1t93xkh/random_question/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 2
-- created: 2026-05-10T11:04:45.000Z
 - matched query: "learn chinese" app
 
 ## [Learn Chinese 一起学习中文 Discord Server](https://old.reddit.com/r/ChineseLanguage/comments/1t78gaw/learn_chinese_一起学习中文_discord_server/)
@@ -98,6 +91,13 @@ Generated: 2026-05-11T08:48:05.031Z
 - score: 5
 - comments: 0
 - created: 2026-04-28T07:43:11.000Z
+- matched query: "learn chinese" app
+
+## [Random question](https://old.reddit.com/r/ChineseLanguage/comments/1t93xkh/random_question/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 2
+- created: 2026-05-10T11:04:45.000Z
 - matched query: "learn chinese" app
 
 ## [Teenager learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1t8ykjd/teenager_learning_chinese/)

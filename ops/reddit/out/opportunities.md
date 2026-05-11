@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-11T11:52:22.763Z
+Generated: 2026-05-11T14:36:58.221Z
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -50,13 +50,6 @@ Generated: 2026-05-11T11:52:22.763Z
 - comments: 9
 - created: 2026-05-10T17:22:12.000Z
 - matched query: "learn chinese" app
-
-## [Learn Chinese 一起学习中文 Discord Server](https://old.reddit.com/r/ChineseLanguage/comments/1t78gaw/learn_chinese_一起学习中文_discord_server/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 0
-- created: 2026-05-08T13:46:32.000Z
-- matched query: resource
 
 ## [Learning hanzi with Hellochinese](https://old.reddit.com/r/ChineseLanguage/comments/1t676kp/learning_hanzi_with_hellochinese/)
 - subreddit: r/ChineseLanguage
@@ -121,13 +114,6 @@ Generated: 2026-05-11T11:52:22.763Z
 - created: 2026-05-08T23:37:07.000Z
 - matched query: resource
 
-## [Question about 基地](https://old.reddit.com/r/ChineseLanguage/comments/1t75s6j/question_about_基地/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 6
-- created: 2026-05-08T11:58:21.000Z
-- matched query: resource
-
 ## [What is the best way to learn Chinese language?](https://old.reddit.com/r/ChineseLanguage/comments/1t27gtb/what_is_the_best_way_to_learn_chinese_language/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -141,4 +127,18 @@ Generated: 2026-05-11T11:52:22.763Z
 - comments: 2
 - created: 2026-05-02T22:09:33.000Z
 - matched query: "learn chinese" app
+
+## [I'm totally new to learning Chinese but I'm spanish native speaker learning Japanese. How should I start?](https://old.reddit.com/r/ChineseLanguage/comments/1sr9voe/im_totally_new_to_learning_chinese_but_im_spanish/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 2
+- created: 2026-04-21T01:47:00.000Z
+- matched query: "learn chinese" app
+
+## [Some (seemingly) less known resources I find helpful](https://old.reddit.com/r/ChineseLanguage/comments/1sl92a8/some_seemingly_less_known_resources_i_find_helpful/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 2
+- created: 2026-04-14T13:41:00.000Z
+- matched query: flashcard app
 

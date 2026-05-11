@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-11T22:11:14.733Z
+Generated: 2026-05-11T23:13:06.670Z
 
 ## [Resources of Romeo and Juliet in Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1ta8df2/resources_of_romeo_and_juliet_in_chinese/)
 - subreddit: r/ChineseLanguage
@@ -23,11 +23,11 @@ Generated: 2026-05-11T22:11:14.733Z
 - created: 2026-04-19T18:01:01.000Z
 - matched query: "learn chinese" app
 
-## [advice for chinese learning app!!](https://old.reddit.com/r/ChineseLanguage/comments/1t7nay2/advice_for_chinese_learning_app/)
+## [Beginner courses](https://old.reddit.com/r/ChineseLanguage/comments/1tajk33/beginner_courses/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 4
-- created: 2026-05-08T22:49:14.000Z
+- comments: 0
+- created: 2026-05-11T23:04:03.000Z
 - matched query: "learn chinese" app
 
 ## [What are some resources for learning how to read handwritten Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1t3py8h/what_are_some_resources_for_learning_how_to_read/)

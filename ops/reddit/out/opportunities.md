@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-11T20:56:50.298Z
+Generated: 2026-05-11T22:11:14.733Z
 
 ## [Resources of Romeo and Juliet in Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1ta8df2/resources_of_romeo_and_juliet_in_chinese/)
 - subreddit: r/ChineseLanguage
@@ -72,13 +72,6 @@ Generated: 2026-05-11T20:56:50.298Z
 - created: 2026-05-06T05:04:40.000Z
 - matched query: resource
 
-## [Looking for a simple Anki deck for extremely basic Chinese for travel phrases (pinyin & audio)](https://old.reddit.com/r/ChineseLanguage/comments/1t3vcre/looking_for_a_simple_anki_deck_for_extremely/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 3
-- created: 2026-05-04T21:28:54.000Z
-- matched query: app OR website pinyin hanzi
-
 ## [I want to design an app to learn chinese cantonese](https://old.reddit.com/r/ChineseLanguage/comments/1sxulkq/i_want_to_design_an_app_to_learn_chinese_cantonese/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -120,6 +113,13 @@ Generated: 2026-05-11T20:56:50.298Z
 - comments: 5
 - created: 2026-05-08T23:37:07.000Z
 - matched query: resource
+
+## [Looking for a simple Anki deck for extremely basic Chinese for travel phrases (pinyin & audio)](https://old.reddit.com/r/ChineseLanguage/comments/1t3vcre/looking_for_a_simple_anki_deck_for_extremely/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 3
+- created: 2026-05-04T21:28:54.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [What is the best way to learn Chinese language?](https://old.reddit.com/r/ChineseLanguage/comments/1t27gtb/what_is_the_best_way_to_learn_chinese_language/)
 - subreddit: r/ChineseLanguage

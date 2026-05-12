@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-12T00:13:10.426Z
+Generated: 2026-05-12T04:09:15.378Z
 
 ## [Resources of Romeo and Juliet in Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1ta8df2/resources_of_romeo_and_juliet_in_chinese/)
 - subreddit: r/ChineseLanguage
@@ -75,7 +75,7 @@ Generated: 2026-05-12T00:13:10.426Z
 ## [Listening advice needed](https://old.reddit.com/r/ChineseLanguage/comments/1t9cztp/listening_advice_needed/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 9
+- comments: 10
 - created: 2026-05-10T17:22:12.000Z
 - matched query: "learn chinese" app
 
@@ -92,13 +92,6 @@ Generated: 2026-05-12T00:13:10.426Z
 - comments: 6
 - created: 2026-05-10T06:00:38.000Z
 - matched query: resource
-
-## [I wanna learn chinese...but idk where to start from](https://old.reddit.com/r/ChineseLanguage/comments/1t7u50e/i_wanna_learn_chinesebut_idk_where_to_start_from/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 14
-- created: 2026-05-09T04:01:57.000Z
-- matched query: app OR website pinyin hanzi
 
 ## [Looking for a simple Anki deck for extremely basic Chinese for travel phrases (pinyin & audio)](https://old.reddit.com/r/ChineseLanguage/comments/1t3vcre/looking_for_a_simple_anki_deck_for_extremely/)
 - subreddit: r/ChineseLanguage
@@ -141,4 +134,11 @@ Generated: 2026-05-12T00:13:10.426Z
 - comments: 7
 - created: 2026-04-13T21:26:13.000Z
 - matched query: "learn chinese" app
+
+## [Apps I use to study Mandarin Chinese from zero](https://old.reddit.com/r/ChineseLanguage/comments/1skfhfl/apps_i_use_to_study_mandarin_chinese_from_zero/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 1
+- created: 2026-04-13T16:11:57.000Z
+- matched query: flashcard app
 

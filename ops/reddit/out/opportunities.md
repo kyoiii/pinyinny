@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-12T22:47:57.257Z
+Generated: 2026-05-12T23:46:49.686Z
 
 ## [Resources of Romeo and Juliet in Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1ta8df2/resources_of_romeo_and_juliet_in_chinese/)
 - subreddit: r/ChineseLanguage
@@ -37,13 +37,6 @@ Generated: 2026-05-12T22:47:57.257Z
 - created: 2026-04-21T15:19:14.000Z
 - matched query: flashcard app
 
-## [Beginner courses](https://old.reddit.com/r/ChineseLanguage/comments/1tajk33/beginner_courses/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 5
-- created: 2026-05-11T23:04:03.000Z
-- matched query: "learn chinese" app
-
 ## [Learning hanzi with Hellochinese](https://old.reddit.com/r/ChineseLanguage/comments/1t676kp/learning_hanzi_with_hellochinese/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -70,6 +63,13 @@ Generated: 2026-05-12T22:47:57.257Z
 - score: 5
 - comments: 0
 - created: 2026-04-28T07:43:11.000Z
+- matched query: "learn chinese" app
+
+## [Beginner courses](https://old.reddit.com/r/ChineseLanguage/comments/1tajk33/beginner_courses/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 5
+- created: 2026-05-11T23:04:03.000Z
 - matched query: "learn chinese" app
 
 ## [Listening advice needed](https://old.reddit.com/r/ChineseLanguage/comments/1t9cztp/listening_advice_needed/)

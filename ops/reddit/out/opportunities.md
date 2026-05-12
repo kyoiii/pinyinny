@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-12T13:25:18.571Z
+Generated: 2026-05-12T18:11:00.731Z
 
 ## [Resources of Romeo and Juliet in Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1ta8df2/resources_of_romeo_and_juliet_in_chinese/)
 - subreddit: r/ChineseLanguage
-- score: 9
-- comments: 2
+- score: 8
+- comments: 3
 - created: 2026-05-11T16:27:29.000Z
 - matched query: resource
 
@@ -40,7 +40,7 @@ Generated: 2026-05-12T13:25:18.571Z
 ## [Beginner courses](https://old.reddit.com/r/ChineseLanguage/comments/1tajk33/beginner_courses/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 4
+- comments: 5
 - created: 2026-05-11T23:04:03.000Z
 - matched query: "learn chinese" app
 

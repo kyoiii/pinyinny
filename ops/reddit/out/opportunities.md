@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-13T18:14:53.445Z
+Generated: 2026-05-13T20:11:20.733Z
 
 ## [pinyin camera https://apps.apple.com/app/id6766483875](https://old.reddit.com/r/ChineseLanguage/comments/1tc1swl/pinyin_camera_httpsappsapplecomappid6766483875/)
 - subreddit: r/ChineseLanguage
@@ -43,6 +43,13 @@ Generated: 2026-05-13T18:14:53.445Z
 - comments: 3
 - created: 2026-05-13T10:43:22.000Z
 - matched query: "learn chinese" app
+
+## [Web based Chinese language simulator to rehearse specific real world tasks](https://old.reddit.com/r/ChineseLanguage/comments/1tc8k3u/web_based_chinese_language_simulator_to_rehearse/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 0
+- created: 2026-05-13T18:34:37.000Z
+- matched query: resource
 
 ## [Which apps are worth the money? And what are must know YouTube channels?](https://old.reddit.com/r/ChineseLanguage/comments/1t0q6do/which_apps_are_worth_the_money_and_what_are_must/)
 - subreddit: r/ChineseLanguage
@@ -134,11 +141,4 @@ Generated: 2026-05-13T18:14:53.445Z
 - comments: 7
 - created: 2026-04-13T21:26:13.000Z
 - matched query: "learn chinese" app
-
-## [Apps I use to study Mandarin Chinese from zero](https://old.reddit.com/r/ChineseLanguage/comments/1skfhfl/apps_i_use_to_study_mandarin_chinese_from_zero/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 1
-- created: 2026-04-13T16:11:57.000Z
-- matched query: flashcard app
 

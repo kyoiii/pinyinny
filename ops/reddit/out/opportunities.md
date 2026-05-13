@@ -1,13 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-13T11:04:22.127Z
-
-## [Anyone else do this to learn chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tbvw53/anyone_else_do_this_to_learn_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 0
-- created: 2026-05-13T10:43:22.000Z
-- matched query: "learn chinese" app
+Generated: 2026-05-13T13:26:38.986Z
 
 ## [Resources of Romeo and Juliet in Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1ta8df2/resources_of_romeo_and_juliet_in_chinese/)
 - subreddit: r/ChineseLanguage
@@ -28,6 +21,20 @@ Generated: 2026-05-13T11:04:22.127Z
 - score: 8
 - comments: 7
 - created: 2026-04-19T18:01:01.000Z
+- matched query: "learn chinese" app
+
+## [Best app for learning](https://old.reddit.com/r/ChineseLanguage/comments/1tbwk45/best_app_for_learning/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 7
+- created: 2026-05-13T11:16:16.000Z
+- matched query: "learn chinese" app
+
+## [Anyone else do this to learn chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tbvw53/anyone_else_do_this_to_learn_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 3
+- created: 2026-05-13T10:43:22.000Z
 - matched query: "learn chinese" app
 
 ## [Which apps are worth the money? And what are must know YouTube channels?](https://old.reddit.com/r/ChineseLanguage/comments/1t0q6do/which_apps_are_worth_the_money_and_what_are_must/)
@@ -77,13 +84,6 @@ Generated: 2026-05-13T11:04:22.127Z
 - score: 4
 - comments: 10
 - created: 2026-05-10T17:22:12.000Z
-- matched query: "learn chinese" app
-
-## [Random question](https://old.reddit.com/r/ChineseLanguage/comments/1t93xkh/random_question/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 2
-- created: 2026-05-10T11:04:45.000Z
 - matched query: "learn chinese" app
 
 ## [(advanced/native) I'm looking for resources that help me structure essays and academic papers in Chinese.](https://old.reddit.com/r/ChineseLanguage/comments/1t539is/advancednative_im_looking_for_resources_that_help/)

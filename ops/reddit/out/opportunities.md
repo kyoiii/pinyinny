@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-13T01:46:13.741Z
+Generated: 2026-05-13T05:40:53.444Z
 
 ## [Resources of Romeo and Juliet in Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1ta8df2/resources_of_romeo_and_juliet_in_chinese/)
 - subreddit: r/ChineseLanguage
@@ -51,13 +51,6 @@ Generated: 2026-05-13T01:46:13.741Z
 - created: 2026-05-07T10:26:52.000Z
 - matched query: resource
 
-## [(advanced/native) I'm looking for resources that help me structure essays and academic papers in Chinese.](https://old.reddit.com/r/ChineseLanguage/comments/1t539is/advancednative_im_looking_for_resources_that_help/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 8
-- created: 2026-05-06T05:04:40.000Z
-- matched query: resource
-
 ## [I want to design an app to learn chinese cantonese](https://old.reddit.com/r/ChineseLanguage/comments/1sxulkq/i_want_to_design_an_app_to_learn_chinese_cantonese/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -68,7 +61,7 @@ Generated: 2026-05-13T01:46:13.741Z
 ## [Beginner courses](https://old.reddit.com/r/ChineseLanguage/comments/1tajk33/beginner_courses/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 5
+- comments: 8
 - created: 2026-05-11T23:04:03.000Z
 - matched query: "learn chinese" app
 
@@ -91,6 +84,13 @@ Generated: 2026-05-13T01:46:13.741Z
 - score: 4
 - comments: 6
 - created: 2026-05-10T06:00:38.000Z
+- matched query: resource
+
+## [(advanced/native) I'm looking for resources that help me structure essays and academic papers in Chinese.](https://old.reddit.com/r/ChineseLanguage/comments/1t539is/advancednative_im_looking_for_resources_that_help/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 8
+- created: 2026-05-06T05:04:40.000Z
 - matched query: resource
 
 ## [Looking for a simple Anki deck for extremely basic Chinese for travel phrases (pinyin & audio)](https://old.reddit.com/r/ChineseLanguage/comments/1t3vcre/looking_for_a_simple_anki_deck_for_extremely/)

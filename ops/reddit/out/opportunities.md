@@ -1,6 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-13T13:26:38.986Z
+Generated: 2026-05-13T16:05:33.727Z
+
+## [pinyin camera https://apps.apple.com/app/id6766483875](https://old.reddit.com/r/ChineseLanguage/comments/1tc1swl/pinyin_camera_httpsappsapplecomappid6766483875/)
+- subreddit: r/ChineseLanguage
+- score: 9
+- comments: 1
+- created: 2026-05-13T14:45:45.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [Resources of Romeo and Juliet in Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1ta8df2/resources_of_romeo_and_juliet_in_chinese/)
 - subreddit: r/ChineseLanguage
@@ -134,11 +141,4 @@ Generated: 2026-05-13T13:26:38.986Z
 - comments: 7
 - created: 2026-04-13T21:26:13.000Z
 - matched query: "learn chinese" app
-
-## [Apps I use to study Mandarin Chinese from zero](https://old.reddit.com/r/ChineseLanguage/comments/1skfhfl/apps_i_use_to_study_mandarin_chinese_from_zero/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 1
-- created: 2026-04-13T16:11:57.000Z
-- matched query: flashcard app
 

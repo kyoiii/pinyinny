@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-13T21:46:20.988Z
+Generated: 2026-05-13T22:52:53.184Z
 
 ## [pinyin camera https://apps.apple.com/app/id6766483875](https://old.reddit.com/r/ChineseLanguage/comments/1tc1swl/pinyin_camera_httpsappsapplecomappid6766483875/)
 - subreddit: r/ChineseLanguage
@@ -63,7 +63,7 @@ Generated: 2026-05-13T21:46:20.988Z
 - score: 6
 - comments: 3
 - created: 2026-04-21T15:19:14.000Z
-- matched query: "learn chinese" app
+- matched query: flashcard app
 
 ## [Learning hanzi with Hellochinese](https://old.reddit.com/r/ChineseLanguage/comments/1t676kp/learning_hanzi_with_hellochinese/)
 - subreddit: r/ChineseLanguage
@@ -127,6 +127,13 @@ Generated: 2026-05-13T21:46:20.988Z
 - comments: 2
 - created: 2026-04-21T01:47:00.000Z
 - matched query: "learn chinese" app
+
+## [Some (seemingly) less known resources I find helpful](https://old.reddit.com/r/ChineseLanguage/comments/1sl92a8/some_seemingly_less_known_resources_i_find_helpful/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 2
+- created: 2026-04-14T13:41:00.000Z
+- matched query: flashcard app
 
 ## [How accurate is SuperChinese recognition?](https://old.reddit.com/r/ChineseLanguage/comments/1skomgy/how_accurate_is_superchinese_recognition/)
 - subreddit: r/ChineseLanguage

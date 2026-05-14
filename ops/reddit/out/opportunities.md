@@ -1,10 +1,10 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-14T13:13:36.854Z
+Generated: 2026-05-14T15:36:36.393Z
 
 ## [pinyin camera https://apps.apple.com/app/id6766483875](https://old.reddit.com/r/ChineseLanguage/comments/1tc1swl/pinyin_camera_httpsappsapplecomappid6766483875/)
 - subreddit: r/ChineseLanguage
-- score: 9
+- score: 8
 - comments: 1
 - created: 2026-05-13T14:45:45.000Z
 - matched query: app OR website pinyin hanzi

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-14T15:36:36.393Z
+Generated: 2026-05-14T17:25:43.306Z
 
 ## [pinyin camera https://apps.apple.com/app/id6766483875](https://old.reddit.com/r/ChineseLanguage/comments/1tc1swl/pinyin_camera_httpsappsapplecomappid6766483875/)
 - subreddit: r/ChineseLanguage
@@ -8,13 +8,6 @@ Generated: 2026-05-14T15:36:36.393Z
 - comments: 1
 - created: 2026-05-13T14:45:45.000Z
 - matched query: app OR website pinyin hanzi
-
-## [Resources of Romeo and Juliet in Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1ta8df2/resources_of_romeo_and_juliet_in_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 3
-- created: 2026-05-11T16:27:29.000Z
-- matched query: resource
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -29,6 +22,13 @@ Generated: 2026-05-14T15:36:36.393Z
 - comments: 7
 - created: 2026-04-19T18:01:01.000Z
 - matched query: "learn chinese" app
+
+## [Resources of Romeo and Juliet in Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1ta8df2/resources_of_romeo_and_juliet_in_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 3
+- created: 2026-05-11T16:27:29.000Z
+- matched query: resource
 
 ## [Web based Chinese language simulator to rehearse specific real world tasks](https://old.reddit.com/r/ChineseLanguage/comments/1tc8k3u/web_based_chinese_language_simulator_to_rehearse/)
 - subreddit: r/ChineseLanguage

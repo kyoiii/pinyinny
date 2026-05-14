@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-13T23:53:09.968Z
+Generated: 2026-05-14T02:49:57.728Z
 
 ## [pinyin camera https://apps.apple.com/app/id6766483875](https://old.reddit.com/r/ChineseLanguage/comments/1tc1swl/pinyin_camera_httpsappsapplecomappid6766483875/)
 - subreddit: r/ChineseLanguage
@@ -89,16 +89,9 @@ Generated: 2026-05-13T23:53:09.968Z
 ## [Beginner courses](https://old.reddit.com/r/ChineseLanguage/comments/1tajk33/beginner_courses/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 8
+- comments: 9
 - created: 2026-05-11T23:04:03.000Z
 - matched query: "learn chinese" app
-
-## [(advanced/native) I'm looking for resources that help me structure essays and academic papers in Chinese.](https://old.reddit.com/r/ChineseLanguage/comments/1t539is/advancednative_im_looking_for_resources_that_help/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 8
-- created: 2026-05-06T05:04:40.000Z
-- matched query: resource
 
 ## [Looking for a simple Anki deck for extremely basic Chinese for travel phrases (pinyin & audio)](https://old.reddit.com/r/ChineseLanguage/comments/1t3vcre/looking_for_a_simple_anki_deck_for_extremely/)
 - subreddit: r/ChineseLanguage
@@ -141,4 +134,11 @@ Generated: 2026-05-13T23:53:09.968Z
 - comments: 7
 - created: 2026-04-13T21:26:13.000Z
 - matched query: "learn chinese" app
+
+## [Apps I use to study Mandarin Chinese from zero](https://old.reddit.com/r/ChineseLanguage/comments/1skfhfl/apps_i_use_to_study_mandarin_chinese_from_zero/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 1
+- created: 2026-04-13T16:11:57.000Z
+- matched query: flashcard app
 

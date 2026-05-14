@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-14T21:58:21.764Z
+Generated: 2026-05-14T23:06:47.125Z
 
 ## [What are the best resources for learning Mandarin?](https://old.reddit.com/r/ChineseLanguage/comments/1td71bu/what_are_the_best_resources_for_learning_mandarin/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 13
+- comments: 14
 - created: 2026-05-14T18:34:29.000Z
 - matched query: resource
 
@@ -40,7 +40,7 @@ Generated: 2026-05-14T21:58:21.764Z
 ## [Best app for learning](https://old.reddit.com/r/ChineseLanguage/comments/1tbwk45/best_app_for_learning/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 8
+- comments: 9
 - created: 2026-05-13T11:16:16.000Z
 - matched query: "learn chinese" app
 
@@ -77,13 +77,6 @@ Generated: 2026-05-14T21:58:21.764Z
 - score: 5
 - comments: 0
 - created: 2026-04-28T07:43:11.000Z
-- matched query: "learn chinese" app
-
-## [Beginner courses](https://old.reddit.com/r/ChineseLanguage/comments/1tajk33/beginner_courses/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 9
-- created: 2026-05-11T23:04:03.000Z
 - matched query: "learn chinese" app
 
 ## [Learning hanzi with Hellochinese](https://old.reddit.com/r/ChineseLanguage/comments/1t676kp/learning_hanzi_with_hellochinese/)
@@ -141,4 +134,11 @@ Generated: 2026-05-14T21:58:21.764Z
 - comments: 7
 - created: 2026-04-13T21:26:13.000Z
 - matched query: "learn chinese" app
+
+## [Apps I use to study Mandarin Chinese from zero](https://old.reddit.com/r/ChineseLanguage/comments/1skfhfl/apps_i_use_to_study_mandarin_chinese_from_zero/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 1
+- created: 2026-04-13T16:11:57.000Z
+- matched query: flashcard app
 

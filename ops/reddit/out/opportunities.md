@@ -1,6 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-14T17:25:43.306Z
+Generated: 2026-05-14T19:19:51.853Z
+
+## [What are the best resources for learning Mandarin?](https://old.reddit.com/r/ChineseLanguage/comments/1td71bu/what_are_the_best_resources_for_learning_mandarin/)
+- subreddit: r/ChineseLanguage
+- score: 9
+- comments: 5
+- created: 2026-05-14T18:34:29.000Z
+- matched query: resource
 
 ## [pinyin camera https://apps.apple.com/app/id6766483875](https://old.reddit.com/r/ChineseLanguage/comments/1tc1swl/pinyin_camera_httpsappsapplecomappid6766483875/)
 - subreddit: r/ChineseLanguage
@@ -30,13 +37,6 @@ Generated: 2026-05-14T17:25:43.306Z
 - created: 2026-05-11T16:27:29.000Z
 - matched query: resource
 
-## [Web based Chinese language simulator to rehearse specific real world tasks](https://old.reddit.com/r/ChineseLanguage/comments/1tc8k3u/web_based_chinese_language_simulator_to_rehearse/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-05-13T18:34:37.000Z
-- matched query: resource
-
 ## [Best app for learning](https://old.reddit.com/r/ChineseLanguage/comments/1tbwk45/best_app_for_learning/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -64,6 +64,13 @@ Generated: 2026-05-14T17:25:43.306Z
 - comments: 3
 - created: 2026-04-21T15:19:14.000Z
 - matched query: flashcard app
+
+## [Web based Chinese language simulator to rehearse specific real world tasks](https://old.reddit.com/r/ChineseLanguage/comments/1tc8k3u/web_based_chinese_language_simulator_to_rehearse/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 0
+- created: 2026-05-13T18:34:37.000Z
+- matched query: resource
 
 ## [I want to design an app to learn chinese cantonese](https://old.reddit.com/r/ChineseLanguage/comments/1sxulkq/i_want_to_design_an_app_to_learn_chinese_cantonese/)
 - subreddit: r/ChineseLanguage
@@ -134,11 +141,4 @@ Generated: 2026-05-14T17:25:43.306Z
 - comments: 7
 - created: 2026-04-13T21:26:13.000Z
 - matched query: "learn chinese" app
-
-## [Apps I use to study Mandarin Chinese from zero](https://old.reddit.com/r/ChineseLanguage/comments/1skfhfl/apps_i_use_to_study_mandarin_chinese_from_zero/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 1
-- created: 2026-04-13T16:11:57.000Z
-- matched query: flashcard app
 

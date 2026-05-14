@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-14T11:23:06.233Z
+Generated: 2026-05-14T13:13:36.854Z
 
 ## [pinyin camera https://apps.apple.com/app/id6766483875](https://old.reddit.com/r/ChineseLanguage/comments/1tc1swl/pinyin_camera_httpsappsapplecomappid6766483875/)
 - subreddit: r/ChineseLanguage
@@ -40,7 +40,7 @@ Generated: 2026-05-14T11:23:06.233Z
 ## [Best app for learning](https://old.reddit.com/r/ChineseLanguage/comments/1tbwk45/best_app_for_learning/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 7
+- comments: 8
 - created: 2026-05-13T11:16:16.000Z
 - matched query: "learn chinese" app
 

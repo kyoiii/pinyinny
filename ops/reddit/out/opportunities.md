@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-15T12:06:37.372Z
+Generated: 2026-05-15T14:33:25.705Z
 
 ## [What are the best resources for learning Mandarin?](https://old.reddit.com/r/ChineseLanguage/comments/1td71bu/what_are_the_best_resources_for_learning_mandarin/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 26
+- comments: 28
 - created: 2026-05-14T18:34:29.000Z
 - matched query: resource
 
@@ -47,7 +47,7 @@ Generated: 2026-05-15T12:06:37.372Z
 ## [Anyone else do this to learn chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tbvw53/anyone_else_do_this_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 3
+- comments: 4
 - created: 2026-05-13T10:43:22.000Z
 - matched query: "learn chinese" app
 
@@ -64,6 +64,13 @@ Generated: 2026-05-15T12:06:37.372Z
 - comments: 3
 - created: 2026-04-21T15:19:14.000Z
 - matched query: flashcard app
+
+## [where to start leaning chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tdv5e1/where_to_start_leaning_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 1
+- created: 2026-05-15T12:39:18.000Z
+- matched query: "learn chinese" app
 
 ## [Web based Chinese language simulator to rehearse specific real world tasks](https://old.reddit.com/r/ChineseLanguage/comments/1tc8k3u/web_based_chinese_language_simulator_to_rehearse/)
 - subreddit: r/ChineseLanguage

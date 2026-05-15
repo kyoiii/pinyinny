@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-15T18:00:23.313Z
+Generated: 2026-05-15T19:50:35.923Z
 
 ## [What are the best resources for learning Mandarin?](https://old.reddit.com/r/ChineseLanguage/comments/1td71bu/what_are_the_best_resources_for_learning_mandarin/)
 - subreddit: r/ChineseLanguage
-- score: 9
-- comments: 29
+- score: 8
+- comments: 30
 - created: 2026-05-14T18:34:29.000Z
 - matched query: resource
 
@@ -42,6 +42,13 @@ Generated: 2026-05-15T18:00:23.313Z
 - score: 7
 - comments: 3
 - created: 2026-05-11T16:27:29.000Z
+- matched query: resource
+
+## [拖后腿 / 掉链子：How Chinese slang describes people who always screw up at the worst possible moment](https://old.reddit.com/r/ChineseLanguage/comments/1te45mt/拖后腿_掉链子how_chinese_slang_describes_people_who/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 0
+- created: 2026-05-15T18:04:21.000Z
 - matched query: resource
 
 ## [Best app for learning](https://old.reddit.com/r/ChineseLanguage/comments/1tbwk45/best_app_for_learning/)

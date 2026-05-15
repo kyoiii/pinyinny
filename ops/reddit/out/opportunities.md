@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-14T23:06:47.125Z
+Generated: 2026-05-15T00:09:34.919Z
 
 ## [What are the best resources for learning Mandarin?](https://old.reddit.com/r/ChineseLanguage/comments/1td71bu/what_are_the_best_resources_for_learning_mandarin/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 14
+- comments: 16
 - created: 2026-05-14T18:34:29.000Z
 - matched query: resource
 
@@ -86,13 +86,6 @@ Generated: 2026-05-14T23:06:47.125Z
 - created: 2026-05-07T11:03:25.000Z
 - matched query: "learn chinese" app
 
-## [Where to start?](https://old.reddit.com/r/ChineseLanguage/comments/1t66gsi/where_to_start/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 3
-- created: 2026-05-07T10:26:52.000Z
-- matched query: resource
-
 ## [Looking for a simple Anki deck for extremely basic Chinese for travel phrases (pinyin & audio)](https://old.reddit.com/r/ChineseLanguage/comments/1t3vcre/looking_for_a_simple_anki_deck_for_extremely/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -126,19 +119,5 @@ Generated: 2026-05-14T23:06:47.125Z
 - score: 4
 - comments: 2
 - created: 2026-04-14T13:41:00.000Z
-- matched query: flashcard app
-
-## [How accurate is SuperChinese recognition?](https://old.reddit.com/r/ChineseLanguage/comments/1skomgy/how_accurate_is_superchinese_recognition/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 7
-- created: 2026-04-13T21:26:13.000Z
-- matched query: "learn chinese" app
-
-## [Apps I use to study Mandarin Chinese from zero](https://old.reddit.com/r/ChineseLanguage/comments/1skfhfl/apps_i_use_to_study_mandarin_chinese_from_zero/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 1
-- created: 2026-04-13T16:11:57.000Z
 - matched query: flashcard app
 

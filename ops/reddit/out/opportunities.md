@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-15T22:45:56.016Z
+Generated: 2026-05-15T23:41:25.902Z
 
 ## [What are the best resources for learning Mandarin?](https://old.reddit.com/r/ChineseLanguage/comments/1td71bu/what_are_the_best_resources_for_learning_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -82,7 +82,7 @@ Generated: 2026-05-15T22:45:56.016Z
 ## [where to start leaning chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tdv5e1/where_to_start_leaning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 3
+- comments: 4
 - created: 2026-05-15T12:39:18.000Z
 - matched query: "learn chinese" app
 

@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-15T14:33:25.705Z
+Generated: 2026-05-15T16:22:44.901Z
 
 ## [What are the best resources for learning Mandarin?](https://old.reddit.com/r/ChineseLanguage/comments/1td71bu/what_are_the_best_resources_for_learning_mandarin/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 28
+- comments: 29
 - created: 2026-05-14T18:34:29.000Z
 - matched query: resource
 
@@ -29,6 +29,13 @@ Generated: 2026-05-15T14:33:25.705Z
 - comments: 7
 - created: 2026-04-19T18:01:01.000Z
 - matched query: "learn chinese" app
+
+## [Resources to learn Hakka](https://old.reddit.com/r/ChineseLanguage/comments/1te003v/resources_to_learn_hakka/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 1
+- created: 2026-05-15T15:39:08.000Z
+- matched query: resource
 
 ## [Resources of Romeo and Juliet in Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1ta8df2/resources_of_romeo_and_juliet_in_chinese/)
 - subreddit: r/ChineseLanguage

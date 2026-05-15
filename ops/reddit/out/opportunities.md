@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-15T04:18:08.892Z
+Generated: 2026-05-15T07:40:02.646Z
 
 ## [What are the best resources for learning Mandarin?](https://old.reddit.com/r/ChineseLanguage/comments/1td71bu/what_are_the_best_resources_for_learning_mandarin/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 22
+- comments: 24
 - created: 2026-05-14T18:34:29.000Z
 - matched query: resource
 

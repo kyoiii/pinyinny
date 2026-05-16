@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-16T14:13:32.143Z
+Generated: 2026-05-16T15:19:25.638Z
 
 ## [Complete beginner scared of Chinese -best resources to start the right way?](https://old.reddit.com/r/ChineseLanguage/comments/1tef1u2/complete_beginner_scared_of_chinese_best/)
 - subreddit: r/ChineseLanguage
@@ -8,20 +8,6 @@ Generated: 2026-05-16T14:13:32.143Z
 - comments: 4
 - created: 2026-05-16T01:09:27.000Z
 - matched query: resource
-
-## [What are the best resources for learning Mandarin?](https://old.reddit.com/r/ChineseLanguage/comments/1td71bu/what_are_the_best_resources_for_learning_mandarin/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 30
-- created: 2026-05-14T18:34:29.000Z
-- matched query: resource
-
-## [pinyin camera https://apps.apple.com/app/id6766483875](https://old.reddit.com/r/ChineseLanguage/comments/1tc1swl/pinyin_camera_httpsappsapplecomappid6766483875/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 1
-- created: 2026-05-13T14:45:45.000Z
-- matched query: app OR website pinyin hanzi
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -44,6 +30,13 @@ Generated: 2026-05-16T14:13:32.143Z
 - created: 2026-05-15T15:39:08.000Z
 - matched query: resource
 
+## [pinyin camera https://apps.apple.com/app/id6766483875](https://old.reddit.com/r/ChineseLanguage/comments/1tc1swl/pinyin_camera_httpsappsapplecomappid6766483875/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 1
+- created: 2026-05-13T14:45:45.000Z
+- matched query: app OR website pinyin hanzi
+
 ## [Resources of Romeo and Juliet in Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1ta8df2/resources_of_romeo_and_juliet_in_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 7
@@ -56,6 +49,13 @@ Generated: 2026-05-16T14:13:32.143Z
 - score: 6
 - comments: 0
 - created: 2026-05-15T18:04:21.000Z
+- matched query: resource
+
+## [What are the best resources for learning Mandarin?](https://old.reddit.com/r/ChineseLanguage/comments/1td71bu/what_are_the_best_resources_for_learning_mandarin/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 32
+- created: 2026-05-14T18:34:29.000Z
 - matched query: resource
 
 ## [Which apps are worth the money? And what are must know YouTube channels?](https://old.reddit.com/r/ChineseLanguage/comments/1t0q6do/which_apps_are_worth_the_money_and_what_are_must/)

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-16T10:38:15.782Z
+Generated: 2026-05-16T11:36:52.010Z
 
 ## [Complete beginner scared of Chinese -best resources to start the right way?](https://old.reddit.com/r/ChineseLanguage/comments/1tef1u2/complete_beginner_scared_of_chinese_best/)
 - subreddit: r/ChineseLanguage
@@ -58,20 +58,6 @@ Generated: 2026-05-16T10:38:15.782Z
 - created: 2026-05-15T18:04:21.000Z
 - matched query: resource
 
-## [Best app for learning](https://old.reddit.com/r/ChineseLanguage/comments/1tbwk45/best_app_for_learning/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 9
-- created: 2026-05-13T11:16:16.000Z
-- matched query: "learn chinese" app
-
-## [Anyone else do this to learn chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tbvw53/anyone_else_do_this_to_learn_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 4
-- created: 2026-05-13T10:43:22.000Z
-- matched query: "learn chinese" app
-
 ## [Which apps are worth the money? And what are must know YouTube channels?](https://old.reddit.com/r/ChineseLanguage/comments/1t0q6do/which_apps_are_worth_the_money_and_what_are_must/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -99,6 +85,20 @@ Generated: 2026-05-16T10:38:15.782Z
 - comments: 0
 - created: 2026-05-13T18:34:37.000Z
 - matched query: resource
+
+## [Best app for learning](https://old.reddit.com/r/ChineseLanguage/comments/1tbwk45/best_app_for_learning/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 9
+- created: 2026-05-13T11:16:16.000Z
+- matched query: "learn chinese" app
+
+## [Anyone else do this to learn chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tbvw53/anyone_else_do_this_to_learn_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 4
+- created: 2026-05-13T10:43:22.000Z
+- matched query: "learn chinese" app
 
 ## [I want to design an app to learn chinese cantonese](https://old.reddit.com/r/ChineseLanguage/comments/1sxulkq/i_want_to_design_an_app_to_learn_chinese_cantonese/)
 - subreddit: r/ChineseLanguage

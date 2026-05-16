@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-16T18:33:35.748Z
+Generated: 2026-05-16T19:44:47.137Z
 
 ## [Complete beginner scared of Chinese -best resources to start the right way?](https://old.reddit.com/r/ChineseLanguage/comments/1tef1u2/complete_beginner_scared_of_chinese_best/)
 - subreddit: r/ChineseLanguage
@@ -72,13 +72,6 @@ Generated: 2026-05-16T18:33:35.748Z
 - created: 2026-05-15T18:04:21.000Z
 - matched query: resource
 
-## [Web based Chinese language simulator to rehearse specific real world tasks](https://old.reddit.com/r/ChineseLanguage/comments/1tc8k3u/web_based_chinese_language_simulator_to_rehearse/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 0
-- created: 2026-05-13T18:34:37.000Z
-- matched query: resource
-
 ## [Best app for learning](https://old.reddit.com/r/ChineseLanguage/comments/1tbwk45/best_app_for_learning/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -106,6 +99,13 @@ Generated: 2026-05-16T18:33:35.748Z
 - comments: 6
 - created: 2026-05-15T12:39:18.000Z
 - matched query: "learn chinese" app
+
+## [Web based Chinese language simulator to rehearse specific real world tasks](https://old.reddit.com/r/ChineseLanguage/comments/1tc8k3u/web_based_chinese_language_simulator_to_rehearse/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 0
+- created: 2026-05-13T18:34:37.000Z
+- matched query: resource
 
 ## [Learning hanzi with Hellochinese](https://old.reddit.com/r/ChineseLanguage/comments/1t676kp/learning_hanzi_with_hellochinese/)
 - subreddit: r/ChineseLanguage

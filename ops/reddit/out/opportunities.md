@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-16T11:36:52.010Z
+Generated: 2026-05-16T12:44:11.161Z
 
 ## [Complete beginner scared of Chinese -best resources to start the right way?](https://old.reddit.com/r/ChineseLanguage/comments/1tef1u2/complete_beginner_scared_of_chinese_best/)
 - subreddit: r/ChineseLanguage
@@ -72,13 +72,6 @@ Generated: 2026-05-16T11:36:52.010Z
 - created: 2026-04-21T15:19:14.000Z
 - matched query: flashcard app
 
-## [where to start leaning chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tdv5e1/where_to_start_leaning_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 6
-- created: 2026-05-15T12:39:18.000Z
-- matched query: "learn chinese" app
-
 ## [Web based Chinese language simulator to rehearse specific real world tasks](https://old.reddit.com/r/ChineseLanguage/comments/1tc8k3u/web_based_chinese_language_simulator_to_rehearse/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -105,6 +98,13 @@ Generated: 2026-05-16T11:36:52.010Z
 - score: 5
 - comments: 0
 - created: 2026-04-28T07:43:11.000Z
+- matched query: "learn chinese" app
+
+## [where to start leaning chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tdv5e1/where_to_start_leaning_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 6
+- created: 2026-05-15T12:39:18.000Z
 - matched query: "learn chinese" app
 
 ## [Learning hanzi with Hellochinese](https://old.reddit.com/r/ChineseLanguage/comments/1t676kp/learning_hanzi_with_hellochinese/)

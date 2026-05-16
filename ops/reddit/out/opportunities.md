@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-16T12:44:11.161Z
+Generated: 2026-05-16T14:13:32.143Z
 
 ## [Complete beginner scared of Chinese -best resources to start the right way?](https://old.reddit.com/r/ChineseLanguage/comments/1tef1u2/complete_beginner_scared_of_chinese_best/)
 - subreddit: r/ChineseLanguage
@@ -82,7 +82,7 @@ Generated: 2026-05-16T12:44:11.161Z
 ## [Best app for learning](https://old.reddit.com/r/ChineseLanguage/comments/1tbwk45/best_app_for_learning/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 9
+- comments: 10
 - created: 2026-05-13T11:16:16.000Z
 - matched query: "learn chinese" app
 

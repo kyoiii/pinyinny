@@ -1,6 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-15T23:41:25.902Z
+Generated: 2026-05-16T01:26:44.987Z
+
+## [Complete beginner scared of Chinese -best resources to start the right way?](https://old.reddit.com/r/ChineseLanguage/comments/1tef1u2/complete_beginner_scared_of_chinese_best/)
+- subreddit: r/ChineseLanguage
+- score: 9
+- comments: 2
+- created: 2026-05-16T01:09:27.000Z
+- matched query: resource
 
 ## [What are the best resources for learning Mandarin?](https://old.reddit.com/r/ChineseLanguage/comments/1td71bu/what_are_the_best_resources_for_learning_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -134,11 +141,4 @@ Generated: 2026-05-15T23:41:25.902Z
 - comments: 2
 - created: 2026-04-21T01:47:00.000Z
 - matched query: "learn chinese" app
-
-## [Some (seemingly) less known resources I find helpful](https://old.reddit.com/r/ChineseLanguage/comments/1sl92a8/some_seemingly_less_known_resources_i_find_helpful/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 2
-- created: 2026-04-14T13:41:00.000Z
-- matched query: flashcard app
 

@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-16T17:28:23.556Z
+Generated: 2026-05-16T18:33:35.748Z
 
 ## [Complete beginner scared of Chinese -best resources to start the right way?](https://old.reddit.com/r/ChineseLanguage/comments/1tef1u2/complete_beginner_scared_of_chinese_best/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 4
+- comments: 6
 - created: 2026-05-16T01:09:27.000Z
 - matched query: resource
 
@@ -37,13 +37,6 @@ Generated: 2026-05-16T17:28:23.556Z
 - created: 2026-05-11T16:27:29.000Z
 - matched query: resource
 
-## [拖后腿 / 掉链子：How Chinese slang describes people who always screw up at the worst possible moment](https://old.reddit.com/r/ChineseLanguage/comments/1te45mt/拖后腿_掉链子how_chinese_slang_describes_people_who/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-05-15T18:04:21.000Z
-- matched query: resource
-
 ## [Resources to learn Hakka](https://old.reddit.com/r/ChineseLanguage/comments/1te003v/resources_to_learn_hakka/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -71,6 +64,13 @@ Generated: 2026-05-16T17:28:23.556Z
 - comments: 3
 - created: 2026-04-21T15:19:14.000Z
 - matched query: flashcard app
+
+## [拖后腿 / 掉链子：How Chinese slang describes people who always screw up at the worst possible moment](https://old.reddit.com/r/ChineseLanguage/comments/1te45mt/拖后腿_掉链子how_chinese_slang_describes_people_who/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 0
+- created: 2026-05-15T18:04:21.000Z
+- matched query: resource
 
 ## [Web based Chinese language simulator to rehearse specific real world tasks](https://old.reddit.com/r/ChineseLanguage/comments/1tc8k3u/web_based_chinese_language_simulator_to_rehearse/)
 - subreddit: r/ChineseLanguage

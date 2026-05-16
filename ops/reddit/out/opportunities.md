@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-16T15:19:25.638Z
+Generated: 2026-05-16T16:15:05.220Z
 
 ## [Complete beginner scared of Chinese -best resources to start the right way?](https://old.reddit.com/r/ChineseLanguage/comments/1tef1u2/complete_beginner_scared_of_chinese_best/)
 - subreddit: r/ChineseLanguage
@@ -23,13 +23,6 @@ Generated: 2026-05-16T15:19:25.638Z
 - created: 2026-04-19T18:01:01.000Z
 - matched query: "learn chinese" app
 
-## [Resources to learn Hakka](https://old.reddit.com/r/ChineseLanguage/comments/1te003v/resources_to_learn_hakka/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 1
-- created: 2026-05-15T15:39:08.000Z
-- matched query: resource
-
 ## [pinyin camera https://apps.apple.com/app/id6766483875](https://old.reddit.com/r/ChineseLanguage/comments/1tc1swl/pinyin_camera_httpsappsapplecomappid6766483875/)
 - subreddit: r/ChineseLanguage
 - score: 7
@@ -49,6 +42,13 @@ Generated: 2026-05-16T15:19:25.638Z
 - score: 6
 - comments: 0
 - created: 2026-05-15T18:04:21.000Z
+- matched query: resource
+
+## [Resources to learn Hakka](https://old.reddit.com/r/ChineseLanguage/comments/1te003v/resources_to_learn_hakka/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 1
+- created: 2026-05-15T15:39:08.000Z
 - matched query: resource
 
 ## [What are the best resources for learning Mandarin?](https://old.reddit.com/r/ChineseLanguage/comments/1td71bu/what_are_the_best_resources_for_learning_mandarin/)

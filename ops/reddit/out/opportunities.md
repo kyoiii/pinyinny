@@ -1,13 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-17T13:57:07.652Z
-
-## [How can I learn chinese?(Self study) Complete beginning I only know nihao](https://old.reddit.com/r/ChineseLanguage/comments/1tfq0vf/how_can_i_learn_chineseself_study_complete/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 0
-- created: 2026-05-17T13:46:51.000Z
-- matched query: "learn chinese" app
+Generated: 2026-05-17T15:04:19.372Z
 
 ## [Complete beginner scared of Chinese -best resources to start the right way?](https://old.reddit.com/r/ChineseLanguage/comments/1tef1u2/complete_beginner_scared_of_chinese_best/)
 - subreddit: r/ChineseLanguage
@@ -28,6 +21,13 @@ Generated: 2026-05-17T13:57:07.652Z
 - score: 8
 - comments: 7
 - created: 2026-04-19T18:01:01.000Z
+- matched query: "learn chinese" app
+
+## [How can I learn chinese?(Self study) Complete beginning I only know nihao](https://old.reddit.com/r/ChineseLanguage/comments/1tfq0vf/how_can_i_learn_chineseself_study_complete/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 1
+- created: 2026-05-17T13:46:51.000Z
 - matched query: "learn chinese" app
 
 ## [pinyin camera https://apps.apple.com/app/id6766483875](https://old.reddit.com/r/ChineseLanguage/comments/1tc1swl/pinyin_camera_httpsappsapplecomappid6766483875/)

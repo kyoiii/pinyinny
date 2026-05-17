@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-17T15:04:19.372Z
+Generated: 2026-05-17T16:08:40.409Z
 
 ## [Complete beginner scared of Chinese -best resources to start the right way?](https://old.reddit.com/r/ChineseLanguage/comments/1tef1u2/complete_beginner_scared_of_chinese_best/)
 - subreddit: r/ChineseLanguage
 - score: 8
-- comments: 7
+- comments: 8
 - created: 2026-05-16T01:09:27.000Z
 - matched query: resource
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-17T20:33:28.331Z
+Generated: 2026-05-17T21:32:39.963Z
 
 ## [Complete beginner scared of Chinese -best resources to start the right way?](https://old.reddit.com/r/ChineseLanguage/comments/1tef1u2/complete_beginner_scared_of_chinese_best/)
 - subreddit: r/ChineseLanguage
@@ -26,7 +26,7 @@ Generated: 2026-05-17T20:33:28.331Z
 ## [They deleted my post when I asked for help before, can I get feedback now it's already on my skin?](https://old.reddit.com/r/ChineseLanguage/comments/1tfw7qh/they_deleted_my_post_when_i_asked_for_help_before/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 13
+- comments: 16
 - created: 2026-05-17T17:38:56.000Z
 - matched query: resource
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-17T18:13:30.101Z
+Generated: 2026-05-17T19:39:53.028Z
 
 ## [Complete beginner scared of Chinese -best resources to start the right way?](https://old.reddit.com/r/ChineseLanguage/comments/1tef1u2/complete_beginner_scared_of_chinese_best/)
 - subreddit: r/ChineseLanguage
@@ -26,7 +26,7 @@ Generated: 2026-05-17T18:13:30.101Z
 ## [They deleted my post when I asked for help before, can I get feedback now it's already on my skin?](https://old.reddit.com/r/ChineseLanguage/comments/1tfw7qh/they_deleted_my_post_when_i_asked_for_help_before/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 3
+- comments: 10
 - created: 2026-05-17T17:38:56.000Z
 - matched query: resource
 
@@ -65,13 +65,6 @@ Generated: 2026-05-17T18:13:30.101Z
 - created: 2026-05-15T15:39:08.000Z
 - matched query: resource
 
-## [What are the best resources for learning Mandarin?](https://old.reddit.com/r/ChineseLanguage/comments/1td71bu/what_are_the_best_resources_for_learning_mandarin/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 32
-- created: 2026-05-14T18:34:29.000Z
-- matched query: resource
-
 ## [Which apps are worth the money? And what are must know YouTube channels?](https://old.reddit.com/r/ChineseLanguage/comments/1t0q6do/which_apps_are_worth_the_money_and_what_are_must/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -91,6 +84,13 @@ Generated: 2026-05-17T18:13:30.101Z
 - score: 5
 - comments: 0
 - created: 2026-05-15T18:04:21.000Z
+- matched query: resource
+
+## [What are the best resources for learning Mandarin?](https://old.reddit.com/r/ChineseLanguage/comments/1td71bu/what_are_the_best_resources_for_learning_mandarin/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 32
+- created: 2026-05-14T18:34:29.000Z
 - matched query: resource
 
 ## [Best app for learning](https://old.reddit.com/r/ChineseLanguage/comments/1tbwk45/best_app_for_learning/)

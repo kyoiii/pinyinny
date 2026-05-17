@@ -1,6 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-17T12:08:24.422Z
+Generated: 2026-05-17T13:57:07.652Z
+
+## [How can I learn chinese?(Self study) Complete beginning I only know nihao](https://old.reddit.com/r/ChineseLanguage/comments/1tfq0vf/how_can_i_learn_chineseself_study_complete/)
+- subreddit: r/ChineseLanguage
+- score: 8
+- comments: 0
+- created: 2026-05-17T13:46:51.000Z
+- matched query: "learn chinese" app
 
 ## [Complete beginner scared of Chinese -best resources to start the right way?](https://old.reddit.com/r/ChineseLanguage/comments/1tef1u2/complete_beginner_scared_of_chinese_best/)
 - subreddit: r/ChineseLanguage
@@ -36,6 +43,13 @@ Generated: 2026-05-17T12:08:24.422Z
 - comments: 3
 - created: 2026-05-11T16:27:29.000Z
 - matched query: resource
+
+## [Looking for Visual Novels to learn Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tfq6by/looking_for_visual_novels_to_learn_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 0
+- created: 2026-05-17T13:52:50.000Z
+- matched query: "learn chinese" app
 
 ## [Resources to learn Hakka](https://old.reddit.com/r/ChineseLanguage/comments/1te003v/resources_to_learn_hakka/)
 - subreddit: r/ChineseLanguage
@@ -126,19 +140,5 @@ Generated: 2026-05-17T12:08:24.422Z
 - score: 4
 - comments: 4
 - created: 2026-05-03T01:14:37.000Z
-- matched query: "learn chinese" app
-
-## [Tips??](https://old.reddit.com/r/ChineseLanguage/comments/1t23d55/tips/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 2
-- created: 2026-05-02T22:09:33.000Z
-- matched query: "learn chinese" app
-
-## [I'm totally new to learning Chinese but I'm spanish native speaker learning Japanese. How should I start?](https://old.reddit.com/r/ChineseLanguage/comments/1sr9voe/im_totally_new_to_learning_chinese_but_im_spanish/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 2
-- created: 2026-04-21T01:47:00.000Z
 - matched query: "learn chinese" app
 

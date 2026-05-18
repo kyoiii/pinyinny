@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-18T16:48:48.890Z
+Generated: 2026-05-18T18:26:14.448Z
 
 ## [Complete beginner scared of Chinese -best resources to start the right way?](https://old.reddit.com/r/ChineseLanguage/comments/1tef1u2/complete_beginner_scared_of_chinese_best/)
 - subreddit: r/ChineseLanguage
@@ -30,13 +30,6 @@ Generated: 2026-05-18T16:48:48.890Z
 - created: 2026-05-18T03:35:10.000Z
 - matched query: resource
 
-## [They deleted my post when I asked for help before, can I get feedback now it's already on my skin?](https://old.reddit.com/r/ChineseLanguage/comments/1tfw7qh/they_deleted_my_post_when_i_asked_for_help_before/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 25
-- created: 2026-05-17T17:38:56.000Z
-- matched query: resource
-
 ## [pinyin camera https://apps.apple.com/app/id6766483875](https://old.reddit.com/r/ChineseLanguage/comments/1tc1swl/pinyin_camera_httpsappsapplecomappid6766483875/)
 - subreddit: r/ChineseLanguage
 - score: 7
@@ -50,6 +43,13 @@ Generated: 2026-05-18T16:48:48.890Z
 - comments: 0
 - created: 2026-05-18T14:08:06.000Z
 - matched query: app OR website pinyin hanzi
+
+## [They deleted my post when I asked for help before, can I get feedback now it's already on my skin?](https://old.reddit.com/r/ChineseLanguage/comments/1tfw7qh/they_deleted_my_post_when_i_asked_for_help_before/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 25
+- created: 2026-05-17T17:38:56.000Z
+- matched query: resource
 
 ## [How can I learn chinese?(Self study) Complete beginning I only know nihao](https://old.reddit.com/r/ChineseLanguage/comments/1tfq0vf/how_can_i_learn_chineseself_study_complete/)
 - subreddit: r/ChineseLanguage
@@ -93,13 +93,6 @@ Generated: 2026-05-18T16:48:48.890Z
 - created: 2026-05-18T07:24:01.000Z
 - matched query: "learn chinese" app
 
-## [拖后腿 / 掉链子：How Chinese slang describes people who always screw up at the worst possible moment](https://old.reddit.com/r/ChineseLanguage/comments/1te45mt/拖后腿_掉链子how_chinese_slang_describes_people_who/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 0
-- created: 2026-05-15T18:04:21.000Z
-- matched query: resource
-
 ## [Resources to learn Hakka](https://old.reddit.com/r/ChineseLanguage/comments/1te003v/resources_to_learn_hakka/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -141,4 +134,11 @@ Generated: 2026-05-18T16:48:48.890Z
 - comments: 1
 - created: 2026-05-17T13:52:50.000Z
 - matched query: "learn chinese" app
+
+## [拖后腿 / 掉链子：How Chinese slang describes people who always screw up at the worst possible moment](https://old.reddit.com/r/ChineseLanguage/comments/1te45mt/拖后腿_掉链子how_chinese_slang_describes_people_who/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 0
+- created: 2026-05-15T18:04:21.000Z
+- matched query: resource
 

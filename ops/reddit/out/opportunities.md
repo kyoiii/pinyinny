@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-18T09:58:38.269Z
+Generated: 2026-05-18T13:55:20.855Z
 
 ## [Complete beginner scared of Chinese -best resources to start the right way?](https://old.reddit.com/r/ChineseLanguage/comments/1tef1u2/complete_beginner_scared_of_chinese_best/)
 - subreddit: r/ChineseLanguage
@@ -37,13 +37,6 @@ Generated: 2026-05-18T09:58:38.269Z
 - created: 2026-05-17T17:38:56.000Z
 - matched query: resource
 
-## [How can I learn chinese?(Self study) Complete beginning I only know nihao](https://old.reddit.com/r/ChineseLanguage/comments/1tfq0vf/how_can_i_learn_chineseself_study_complete/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 2
-- created: 2026-05-17T13:46:51.000Z
-- matched query: "learn chinese" app
-
 ## [pinyin camera https://apps.apple.com/app/id6766483875](https://old.reddit.com/r/ChineseLanguage/comments/1tc1swl/pinyin_camera_httpsappsapplecomappid6766483875/)
 - subreddit: r/ChineseLanguage
 - score: 7
@@ -57,6 +50,13 @@ Generated: 2026-05-18T09:58:38.269Z
 - comments: 3
 - created: 2026-05-11T16:27:29.000Z
 - matched query: resource
+
+## [How can I learn chinese?(Self study) Complete beginning I only know nihao](https://old.reddit.com/r/ChineseLanguage/comments/1tfq0vf/how_can_i_learn_chineseself_study_complete/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 2
+- created: 2026-05-17T13:46:51.000Z
+- matched query: "learn chinese" app
 
 ## [Resources to learn Hakka](https://old.reddit.com/r/ChineseLanguage/comments/1te003v/resources_to_learn_hakka/)
 - subreddit: r/ChineseLanguage
@@ -89,15 +89,8 @@ Generated: 2026-05-18T09:58:38.269Z
 ## [Chinese is the first language I decided to learn. I don't know where to start.](https://old.reddit.com/r/ChineseLanguage/comments/1tgf6jf/chinese_is_the_first_language_i_decided_to_learn/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 7
+- comments: 9
 - created: 2026-05-18T07:24:01.000Z
-- matched query: "learn chinese" app
-
-## [Looking for Visual Novels to learn Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tfq6by/looking_for_visual_novels_to_learn_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 1
-- created: 2026-05-17T13:52:50.000Z
 - matched query: "learn chinese" app
 
 ## [拖后腿 / 掉链子：How Chinese slang describes people who always screw up at the worst possible moment](https://old.reddit.com/r/ChineseLanguage/comments/1te45mt/拖后腿_掉链子how_chinese_slang_describes_people_who/)
@@ -135,10 +128,17 @@ Generated: 2026-05-18T09:58:38.269Z
 - created: 2026-04-28T07:43:11.000Z
 - matched query: "learn chinese" app
 
-## [where to start leaning chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tdv5e1/where_to_start_leaning_chinese/)
+## [Looking for Visual Novels to learn Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tfq6by/looking_for_visual_novels_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 7
-- created: 2026-05-15T12:39:18.000Z
+- comments: 1
+- created: 2026-05-17T13:52:50.000Z
 - matched query: "learn chinese" app
+
+## [Web based Chinese language simulator to rehearse specific real world tasks](https://old.reddit.com/r/ChineseLanguage/comments/1tc8k3u/web_based_chinese_language_simulator_to_rehearse/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 0
+- created: 2026-05-13T18:34:37.000Z
+- matched query: resource
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-18T13:55:20.855Z
+Generated: 2026-05-18T16:48:48.890Z
 
 ## [Complete beginner scared of Chinese -best resources to start the right way?](https://old.reddit.com/r/ChineseLanguage/comments/1tef1u2/complete_beginner_scared_of_chinese_best/)
 - subreddit: r/ChineseLanguage
@@ -44,12 +44,12 @@ Generated: 2026-05-18T13:55:20.855Z
 - created: 2026-05-13T14:45:45.000Z
 - matched query: app OR website pinyin hanzi
 
-## [Resources of Romeo and Juliet in Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1ta8df2/resources_of_romeo_and_juliet_in_chinese/)
+## [I'm learning Chinese and wanted to learn radicals efficiently. I was unsatisfied with existing Anki decks, so I made the deck I wish I had found!](https://old.reddit.com/r/ChineseLanguage/comments/1tgnrn2/im_learning_chinese_and_wanted_to_learn_radicals/)
 - subreddit: r/ChineseLanguage
-- score: 7
-- comments: 3
-- created: 2026-05-11T16:27:29.000Z
-- matched query: resource
+- score: 6
+- comments: 0
+- created: 2026-05-18T14:08:06.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [How can I learn chinese?(Self study) Complete beginning I only know nihao](https://old.reddit.com/r/ChineseLanguage/comments/1tfq0vf/how_can_i_learn_chineseself_study_complete/)
 - subreddit: r/ChineseLanguage
@@ -58,11 +58,11 @@ Generated: 2026-05-18T13:55:20.855Z
 - created: 2026-05-17T13:46:51.000Z
 - matched query: "learn chinese" app
 
-## [Resources to learn Hakka](https://old.reddit.com/r/ChineseLanguage/comments/1te003v/resources_to_learn_hakka/)
+## [Resources of Romeo and Juliet in Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1ta8df2/resources_of_romeo_and_juliet_in_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 1
-- created: 2026-05-15T15:39:08.000Z
+- comments: 3
+- created: 2026-05-11T16:27:29.000Z
 - matched query: resource
 
 ## [Which apps are worth the money? And what are must know YouTube channels?](https://old.reddit.com/r/ChineseLanguage/comments/1t0q6do/which_apps_are_worth_the_money_and_what_are_must/)
@@ -100,6 +100,13 @@ Generated: 2026-05-18T13:55:20.855Z
 - created: 2026-05-15T18:04:21.000Z
 - matched query: resource
 
+## [Resources to learn Hakka](https://old.reddit.com/r/ChineseLanguage/comments/1te003v/resources_to_learn_hakka/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 1
+- created: 2026-05-15T15:39:08.000Z
+- matched query: resource
+
 ## [What are the best resources for learning Mandarin?](https://old.reddit.com/r/ChineseLanguage/comments/1td71bu/what_are_the_best_resources_for_learning_mandarin/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -134,11 +141,4 @@ Generated: 2026-05-18T13:55:20.855Z
 - comments: 1
 - created: 2026-05-17T13:52:50.000Z
 - matched query: "learn chinese" app
-
-## [Web based Chinese language simulator to rehearse specific real world tasks](https://old.reddit.com/r/ChineseLanguage/comments/1tc8k3u/web_based_chinese_language_simulator_to_rehearse/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 0
-- created: 2026-05-13T18:34:37.000Z
-- matched query: resource
 

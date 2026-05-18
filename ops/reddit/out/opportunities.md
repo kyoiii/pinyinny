@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-18T18:26:14.448Z
+Generated: 2026-05-18T20:15:07.042Z
 
 ## [Complete beginner scared of Chinese -best resources to start the right way?](https://old.reddit.com/r/ChineseLanguage/comments/1tef1u2/complete_beginner_scared_of_chinese_best/)
 - subreddit: r/ChineseLanguage
@@ -82,7 +82,7 @@ Generated: 2026-05-18T18:26:14.448Z
 ## [Suggest me coursebooks /exercise books](https://old.reddit.com/r/ChineseLanguage/comments/1tggdwo/suggest_me_coursebooks_exercise_books/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 2
+- comments: 3
 - created: 2026-05-18T08:33:14.000Z
 - matched query: flashcard app
 

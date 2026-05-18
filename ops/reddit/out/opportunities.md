@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-18T21:42:07.255Z
+Generated: 2026-05-18T22:44:06.341Z
 
 ## [Complete beginner scared of Chinese -best resources to start the right way?](https://old.reddit.com/r/ChineseLanguage/comments/1tef1u2/complete_beginner_scared_of_chinese_best/)
 - subreddit: r/ChineseLanguage
@@ -21,6 +21,13 @@ Generated: 2026-05-18T21:42:07.255Z
 - score: 8
 - comments: 7
 - created: 2026-04-19T18:01:01.000Z
+- matched query: "learn chinese" app
+
+## [Best App to Learn Chinese.](https://old.reddit.com/r/ChineseLanguage/comments/1th3ay0/best_app_to_learn_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 3
+- created: 2026-05-18T22:16:19.000Z
 - matched query: "learn chinese" app
 
 ## [Beginner looks for resources and tips](https://old.reddit.com/r/ChineseLanguage/comments/1tgarhp/beginner_looks_for_resources_and_tips/)
@@ -134,11 +141,4 @@ Generated: 2026-05-18T21:42:07.255Z
 - comments: 1
 - created: 2026-05-17T13:52:50.000Z
 - matched query: "learn chinese" app
-
-## [拖后腿 / 掉链子：How Chinese slang describes people who always screw up at the worst possible moment](https://old.reddit.com/r/ChineseLanguage/comments/1te45mt/拖后腿_掉链子how_chinese_slang_describes_people_who/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 0
-- created: 2026-05-15T18:04:21.000Z
-- matched query: resource
 

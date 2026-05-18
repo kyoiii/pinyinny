@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-17T23:35:52.999Z
+Generated: 2026-05-18T01:34:03.719Z
 
 ## [Complete beginner scared of Chinese -best resources to start the right way?](https://old.reddit.com/r/ChineseLanguage/comments/1tef1u2/complete_beginner_scared_of_chinese_best/)
 - subreddit: r/ChineseLanguage
@@ -26,14 +26,14 @@ Generated: 2026-05-17T23:35:52.999Z
 ## [They deleted my post when I asked for help before, can I get feedback now it's already on my skin?](https://old.reddit.com/r/ChineseLanguage/comments/1tfw7qh/they_deleted_my_post_when_i_asked_for_help_before/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 23
+- comments: 26
 - created: 2026-05-17T17:38:56.000Z
 - matched query: resource
 
 ## [How can I learn chinese?(Self study) Complete beginning I only know nihao](https://old.reddit.com/r/ChineseLanguage/comments/1tfq0vf/how_can_i_learn_chineseself_study_complete/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 1
+- comments: 2
 - created: 2026-05-17T13:46:51.000Z
 - matched query: "learn chinese" app
 

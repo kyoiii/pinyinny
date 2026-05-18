@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-18T05:53:26.789Z
+Generated: 2026-05-18T09:58:38.269Z
 
 ## [Complete beginner scared of Chinese -best resources to start the right way?](https://old.reddit.com/r/ChineseLanguage/comments/1tef1u2/complete_beginner_scared_of_chinese_best/)
 - subreddit: r/ChineseLanguage
@@ -26,7 +26,7 @@ Generated: 2026-05-18T05:53:26.789Z
 ## [Beginner looks for resources and tips](https://old.reddit.com/r/ChineseLanguage/comments/1tgarhp/beginner_looks_for_resources_and_tips/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 8
+- comments: 9
 - created: 2026-05-18T03:35:10.000Z
 - matched query: resource
 
@@ -79,6 +79,20 @@ Generated: 2026-05-18T05:53:26.789Z
 - created: 2026-04-21T15:19:14.000Z
 - matched query: flashcard app
 
+## [Suggest me coursebooks /exercise books](https://old.reddit.com/r/ChineseLanguage/comments/1tggdwo/suggest_me_coursebooks_exercise_books/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 2
+- created: 2026-05-18T08:33:14.000Z
+- matched query: flashcard app
+
+## [Chinese is the first language I decided to learn. I don't know where to start.](https://old.reddit.com/r/ChineseLanguage/comments/1tgf6jf/chinese_is_the_first_language_i_decided_to_learn/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 7
+- created: 2026-05-18T07:24:01.000Z
+- matched query: "learn chinese" app
+
 ## [Looking for Visual Novels to learn Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tfq6by/looking_for_visual_novels_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -126,19 +140,5 @@ Generated: 2026-05-18T05:53:26.789Z
 - score: 4
 - comments: 7
 - created: 2026-05-15T12:39:18.000Z
-- matched query: "learn chinese" app
-
-## [Web based Chinese language simulator to rehearse specific real world tasks](https://old.reddit.com/r/ChineseLanguage/comments/1tc8k3u/web_based_chinese_language_simulator_to_rehearse/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 0
-- created: 2026-05-13T18:34:37.000Z
-- matched query: resource
-
-## [Learning hanzi with Hellochinese](https://old.reddit.com/r/ChineseLanguage/comments/1t676kp/learning_hanzi_with_hellochinese/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 5
-- created: 2026-05-07T11:03:25.000Z
 - matched query: "learn chinese" app
 

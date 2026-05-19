@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-19T01:52:46.336Z
+Generated: 2026-05-19T06:04:14.439Z
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -23,13 +23,6 @@ Generated: 2026-05-19T01:52:46.336Z
 - created: 2026-05-18T22:16:19.000Z
 - matched query: "learn chinese" app
 
-## [Beginner looks for resources and tips](https://old.reddit.com/r/ChineseLanguage/comments/1tgarhp/beginner_looks_for_resources_and_tips/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 9
-- created: 2026-05-18T03:35:10.000Z
-- matched query: resource
-
 ## [Complete beginner scared of Chinese -best resources to start the right way?](https://old.reddit.com/r/ChineseLanguage/comments/1tef1u2/complete_beginner_scared_of_chinese_best/)
 - subreddit: r/ChineseLanguage
 - score: 7
@@ -50,6 +43,13 @@ Generated: 2026-05-19T01:52:46.336Z
 - comments: 0
 - created: 2026-05-18T14:08:06.000Z
 - matched query: app OR website pinyin hanzi
+
+## [Beginner looks for resources and tips](https://old.reddit.com/r/ChineseLanguage/comments/1tgarhp/beginner_looks_for_resources_and_tips/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 9
+- created: 2026-05-18T03:35:10.000Z
+- matched query: resource
 
 ## [They deleted my post when I asked for help before, can I get feedback now it's already on my skin?](https://old.reddit.com/r/ChineseLanguage/comments/1tfw7qh/they_deleted_my_post_when_i_asked_for_help_before/)
 - subreddit: r/ChineseLanguage
@@ -103,7 +103,7 @@ Generated: 2026-05-19T01:52:46.336Z
 ## [What are the best resources for learning Mandarin?](https://old.reddit.com/r/ChineseLanguage/comments/1td71bu/what_are_the_best_resources_for_learning_mandarin/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 32
+- comments: 34
 - created: 2026-05-14T18:34:29.000Z
 - matched query: resource
 

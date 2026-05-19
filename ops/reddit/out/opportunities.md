@@ -1,13 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-19T20:10:26.912Z
-
-## [How to reach reading automaticity in Chinese and is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1thyod6/how_to_reach_reading_automaticity_in_chinese_and/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 0
-- created: 2026-05-19T20:06:48.000Z
-- matched query: "learn chinese" app
+Generated: 2026-05-19T21:47:14.075Z
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -21,6 +14,13 @@ Generated: 2026-05-19T20:10:26.912Z
 - score: 8
 - comments: 7
 - created: 2026-04-19T18:01:01.000Z
+- matched query: "learn chinese" app
+
+## [How to reach reading automaticity in Chinese and is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1thyod6/how_to_reach_reading_automaticity_in_chinese_and/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 3
+- created: 2026-05-19T20:06:48.000Z
 - matched query: "learn chinese" app
 
 ## [Best App to Learn Chinese.](https://old.reddit.com/r/ChineseLanguage/comments/1th3ay0/best_app_to_learn_chinese/)

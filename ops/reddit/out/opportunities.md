@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-19T06:04:14.439Z
+Generated: 2026-05-19T10:04:28.690Z
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -19,7 +19,7 @@ Generated: 2026-05-19T06:04:14.439Z
 ## [Best App to Learn Chinese.](https://old.reddit.com/r/ChineseLanguage/comments/1th3ay0/best_app_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 7
+- comments: 8
 - created: 2026-05-18T22:16:19.000Z
 - matched query: "learn chinese" app
 
@@ -79,20 +79,6 @@ Generated: 2026-05-19T06:04:14.439Z
 - created: 2026-04-21T15:19:14.000Z
 - matched query: flashcard app
 
-## [Suggest me coursebooks /exercise books](https://old.reddit.com/r/ChineseLanguage/comments/1tggdwo/suggest_me_coursebooks_exercise_books/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 3
-- created: 2026-05-18T08:33:14.000Z
-- matched query: flashcard app
-
-## [Chinese is the first language I decided to learn. I don't know where to start.](https://old.reddit.com/r/ChineseLanguage/comments/1tgf6jf/chinese_is_the_first_language_i_decided_to_learn/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 9
-- created: 2026-05-18T07:24:01.000Z
-- matched query: "learn chinese" app
-
 ## [Resources to learn Hakka](https://old.reddit.com/r/ChineseLanguage/comments/1te003v/resources_to_learn_hakka/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -126,6 +112,20 @@ Generated: 2026-05-19T06:04:14.439Z
 - score: 5
 - comments: 0
 - created: 2026-04-28T07:43:11.000Z
+- matched query: "learn chinese" app
+
+## [Suggest me coursebooks /exercise books](https://old.reddit.com/r/ChineseLanguage/comments/1tggdwo/suggest_me_coursebooks_exercise_books/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 3
+- created: 2026-05-18T08:33:14.000Z
+- matched query: flashcard app
+
+## [Chinese is the first language I decided to learn. I don't know where to start.](https://old.reddit.com/r/ChineseLanguage/comments/1tgf6jf/chinese_is_the_first_language_i_decided_to_learn/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 9
+- created: 2026-05-18T07:24:01.000Z
 - matched query: "learn chinese" app
 
 ## [Looking for Visual Novels to learn Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tfq6by/looking_for_visual_novels_to_learn_chinese/)

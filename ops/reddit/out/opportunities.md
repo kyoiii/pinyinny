@@ -1,13 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-18T23:48:29.701Z
-
-## [Complete beginner scared of Chinese -best resources to start the right way?](https://old.reddit.com/r/ChineseLanguage/comments/1tef1u2/complete_beginner_scared_of_chinese_best/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 9
-- created: 2026-05-16T01:09:27.000Z
-- matched query: resource
+Generated: 2026-05-19T01:52:46.336Z
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -26,7 +19,7 @@ Generated: 2026-05-18T23:48:29.701Z
 ## [Best App to Learn Chinese.](https://old.reddit.com/r/ChineseLanguage/comments/1th3ay0/best_app_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 5
+- comments: 7
 - created: 2026-05-18T22:16:19.000Z
 - matched query: "learn chinese" app
 
@@ -35,6 +28,13 @@ Generated: 2026-05-18T23:48:29.701Z
 - score: 7
 - comments: 9
 - created: 2026-05-18T03:35:10.000Z
+- matched query: resource
+
+## [Complete beginner scared of Chinese -best resources to start the right way?](https://old.reddit.com/r/ChineseLanguage/comments/1tef1u2/complete_beginner_scared_of_chinese_best/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 9
+- created: 2026-05-16T01:09:27.000Z
 - matched query: resource
 
 ## [pinyin camera https://apps.apple.com/app/id6766483875](https://old.reddit.com/r/ChineseLanguage/comments/1tc1swl/pinyin_camera_httpsappsapplecomappid6766483875/)
@@ -64,13 +64,6 @@ Generated: 2026-05-18T23:48:29.701Z
 - comments: 2
 - created: 2026-05-17T13:46:51.000Z
 - matched query: "learn chinese" app
-
-## [Resources of Romeo and Juliet in Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1ta8df2/resources_of_romeo_and_juliet_in_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 3
-- created: 2026-05-11T16:27:29.000Z
-- matched query: resource
 
 ## [Which apps are worth the money? And what are must know YouTube channels?](https://old.reddit.com/r/ChineseLanguage/comments/1t0q6do/which_apps_are_worth_the_money_and_what_are_must/)
 - subreddit: r/ChineseLanguage
@@ -141,4 +134,11 @@ Generated: 2026-05-18T23:48:29.701Z
 - comments: 1
 - created: 2026-05-17T13:52:50.000Z
 - matched query: "learn chinese" app
+
+## [拖后腿 / 掉链子：How Chinese slang describes people who always screw up at the worst possible moment](https://old.reddit.com/r/ChineseLanguage/comments/1te45mt/拖后腿_掉链子how_chinese_slang_describes_people_who/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 0
+- created: 2026-05-15T18:04:21.000Z
+- matched query: resource
 

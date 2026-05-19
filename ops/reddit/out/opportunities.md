@@ -1,6 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-19T18:19:24.363Z
+Generated: 2026-05-19T20:10:26.912Z
+
+## [How to reach reading automaticity in Chinese and is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1thyod6/how_to_reach_reading_automaticity_in_chinese_and/)
+- subreddit: r/ChineseLanguage
+- score: 8
+- comments: 0
+- created: 2026-05-19T20:06:48.000Z
+- matched query: "learn chinese" app
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -134,11 +141,4 @@ Generated: 2026-05-19T18:19:24.363Z
 - comments: 1
 - created: 2026-05-17T13:52:50.000Z
 - matched query: "learn chinese" app
-
-## [拖后腿 / 掉链子：How Chinese slang describes people who always screw up at the worst possible moment](https://old.reddit.com/r/ChineseLanguage/comments/1te45mt/拖后腿_掉链子how_chinese_slang_describes_people_who/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 0
-- created: 2026-05-15T18:04:21.000Z
-- matched query: resource
 

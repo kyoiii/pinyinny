@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-19T12:53:54.200Z
+Generated: 2026-05-19T16:18:39.771Z
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -37,13 +37,6 @@ Generated: 2026-05-19T12:53:54.200Z
 - created: 2026-05-13T14:45:45.000Z
 - matched query: app OR website pinyin hanzi
 
-## [I'm learning Chinese and wanted to learn radicals efficiently. I was unsatisfied with existing Anki decks, so I made the deck I wish I had found!](https://old.reddit.com/r/ChineseLanguage/comments/1tgnrn2/im_learning_chinese_and_wanted_to_learn_radicals/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-05-18T14:08:06.000Z
-- matched query: app OR website pinyin hanzi
-
 ## [Beginner looks for resources and tips](https://old.reddit.com/r/ChineseLanguage/comments/1tgarhp/beginner_looks_for_resources_and_tips/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -78,6 +71,13 @@ Generated: 2026-05-19T12:53:54.200Z
 - comments: 3
 - created: 2026-04-21T15:19:14.000Z
 - matched query: flashcard app
+
+## [I'm learning Chinese and wanted to learn radicals efficiently. I was unsatisfied with existing Anki decks, so I made the deck I wish I had found!](https://old.reddit.com/r/ChineseLanguage/comments/1tgnrn2/im_learning_chinese_and_wanted_to_learn_radicals/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 0
+- created: 2026-05-18T14:08:06.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [Resources to learn Hakka](https://old.reddit.com/r/ChineseLanguage/comments/1te003v/resources_to_learn_hakka/)
 - subreddit: r/ChineseLanguage

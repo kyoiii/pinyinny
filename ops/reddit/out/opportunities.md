@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-20T11:21:47.470Z
+Generated: 2026-05-20T14:01:31.178Z
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -58,13 +58,6 @@ Generated: 2026-05-20T11:21:47.470Z
 - created: 2026-05-17T17:38:56.000Z
 - matched query: resource
 
-## [How can I learn chinese?(Self study) Complete beginning I only know nihao](https://old.reddit.com/r/ChineseLanguage/comments/1tfq0vf/how_can_i_learn_chineseself_study_complete/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 2
-- created: 2026-05-17T13:46:51.000Z
-- matched query: "learn chinese" app
-
 ## [Which apps are worth the money? And what are must know YouTube channels?](https://old.reddit.com/r/ChineseLanguage/comments/1t0q6do/which_apps_are_worth_the_money_and_what_are_must/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -85,6 +78,13 @@ Generated: 2026-05-20T11:21:47.470Z
 - comments: 0
 - created: 2026-05-18T14:08:06.000Z
 - matched query: app OR website pinyin hanzi
+
+## [How can I learn chinese?(Self study) Complete beginning I only know nihao](https://old.reddit.com/r/ChineseLanguage/comments/1tfq0vf/how_can_i_learn_chineseself_study_complete/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 2
+- created: 2026-05-17T13:46:51.000Z
+- matched query: "learn chinese" app
 
 ## [Resources to learn Hakka](https://old.reddit.com/r/ChineseLanguage/comments/1te003v/resources_to_learn_hakka/)
 - subreddit: r/ChineseLanguage
@@ -121,13 +121,6 @@ Generated: 2026-05-20T11:21:47.470Z
 - created: 2026-05-18T07:24:01.000Z
 - matched query: "learn chinese" app
 
-## [Looking for Visual Novels to learn Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tfq6by/looking_for_visual_novels_to_learn_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 1
-- created: 2026-05-17T13:52:50.000Z
-- matched query: "learn chinese" app
-
 ## [拖后腿 / 掉链子：How Chinese slang describes people who always screw up at the worst possible moment](https://old.reddit.com/r/ChineseLanguage/comments/1te45mt/拖后腿_掉链子how_chinese_slang_describes_people_who/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -141,4 +134,11 @@ Generated: 2026-05-20T11:21:47.470Z
 - comments: 0
 - created: 2026-05-13T18:34:37.000Z
 - matched query: resource
+
+## [Best app for learning](https://old.reddit.com/r/ChineseLanguage/comments/1tbwk45/best_app_for_learning/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 10
+- created: 2026-05-13T11:16:16.000Z
+- matched query: "learn chinese" app
 

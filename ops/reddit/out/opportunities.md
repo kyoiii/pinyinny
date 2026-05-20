@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-20T14:01:31.178Z
+Generated: 2026-05-20T17:22:18.891Z
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -19,7 +19,7 @@ Generated: 2026-05-20T14:01:31.178Z
 ## [How to reach reading automaticity in Chinese and is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1thyod6/how_to_reach_reading_automaticity_in_chinese_and/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 7
+- comments: 8
 - created: 2026-05-19T20:06:48.000Z
 - matched query: "learn chinese" app
 
@@ -29,13 +29,6 @@ Generated: 2026-05-20T14:01:31.178Z
 - comments: 9
 - created: 2026-05-16T01:09:27.000Z
 - matched query: resource
-
-## [pinyin camera https://apps.apple.com/app/id6766483875](https://old.reddit.com/r/ChineseLanguage/comments/1tc1swl/pinyin_camera_httpsappsapplecomappid6766483875/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 1
-- created: 2026-05-13T14:45:45.000Z
-- matched query: app OR website pinyin hanzi
 
 ## [Best App to Learn Chinese.](https://old.reddit.com/r/ChineseLanguage/comments/1th3ay0/best_app_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -57,6 +50,13 @@ Generated: 2026-05-20T14:01:31.178Z
 - comments: 25
 - created: 2026-05-17T17:38:56.000Z
 - matched query: resource
+
+## [pinyin camera https://apps.apple.com/app/id6766483875](https://old.reddit.com/r/ChineseLanguage/comments/1tc1swl/pinyin_camera_httpsappsapplecomappid6766483875/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 1
+- created: 2026-05-13T14:45:45.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [Which apps are worth the money? And what are must know YouTube channels?](https://old.reddit.com/r/ChineseLanguage/comments/1t0q6do/which_apps_are_worth_the_money_and_what_are_must/)
 - subreddit: r/ChineseLanguage

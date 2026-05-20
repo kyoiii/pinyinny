@@ -67,17 +67,6 @@
   },
   {
     "subreddit": "ChineseLanguage",
-    "query": "resource",
-    "title": "They deleted my post when I asked for help before, can I get feedback now it's already on my skin?",
-    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1tfw7qh/they_deleted_my_post_when_i_asked_for_help_before/",
-    "created_utc": 1779039536,
-    "created_at": "2026-05-17T17:38:56.000Z",
-    "num_comments": 25,
-    "author": "Accomplished_Ad905",
-    "score": 6
-  },
-  {
-    "subreddit": "ChineseLanguage",
     "query": "app OR website pinyin hanzi",
     "title": "pinyin camera https://apps.apple.com/app/id6766483875",
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1tc1swl/pinyin_camera_httpsappsapplecomappid6766483875/",
@@ -149,7 +138,7 @@
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1td71bu/what_are_the_best_resources_for_learning_mandarin/",
     "created_utc": 1778783669,
     "created_at": "2026-05-14T18:34:29.000Z",
-    "num_comments": 34,
+    "num_comments": 35,
     "author": "Emotional-Pop592",
     "score": 5
   },
@@ -199,17 +188,6 @@
   },
   {
     "subreddit": "ChineseLanguage",
-    "query": "resource",
-    "title": "Web based Chinese language simulator to rehearse specific real world tasks",
-    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1tc8k3u/web_based_chinese_language_simulator_to_rehearse/",
-    "created_utc": 1778697277,
-    "created_at": "2026-05-13T18:34:37.000Z",
-    "num_comments": 0,
-    "author": "110_percent_wrong",
-    "score": 4
-  },
-  {
-    "subreddit": "ChineseLanguage",
     "query": "\"learn chinese\" app",
     "title": "Best app for learning",
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1tbwk45/best_app_for_learning/",
@@ -217,6 +195,28 @@
     "created_at": "2026-05-13T11:16:16.000Z",
     "num_comments": 10,
     "author": "misunni",
+    "score": 4
+  },
+  {
+    "subreddit": "ChineseLanguage",
+    "query": "\"learn chinese\" app",
+    "title": "Anyone else do this to learn chinese?",
+    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1tbvw53/anyone_else_do_this_to_learn_chinese/",
+    "created_utc": 1778669002,
+    "created_at": "2026-05-13T10:43:22.000Z",
+    "num_comments": 5,
+    "author": "Atee_Vicky",
+    "score": 4
+  },
+  {
+    "subreddit": "ChineseLanguage",
+    "query": "\"learn chinese\" app",
+    "title": "Learning hanzi with Hellochinese",
+    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1t676kp/learning_hanzi_with_hellochinese/",
+    "created_utc": 1778151805,
+    "created_at": "2026-05-07T11:03:25.000Z",
+    "num_comments": 5,
+    "author": "DankTyl",
     "score": 4
   }
 ]

@@ -1,6 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-20T19:38:19.461Z
+Generated: 2026-05-20T21:24:43.655Z
+
+## [methods/resources for learning chinese with limited understanding? especially for politics/news](https://old.reddit.com/r/ChineseLanguage/comments/1tiyot4/methodsresources_for_learning_chinese_with/)
+- subreddit: r/ChineseLanguage
+- score: 10
+- comments: 0
+- created: 2026-05-20T20:54:22.000Z
+- matched query: resource
 
 ## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
 - subreddit: r/ChineseLanguage
@@ -16,19 +23,19 @@ Generated: 2026-05-20T19:38:19.461Z
 - created: 2026-04-19T18:01:01.000Z
 - matched query: "learn chinese" app
 
-## [How to reach reading automaticity in Chinese and is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1thyod6/how_to_reach_reading_automaticity_in_chinese_and/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 8
-- created: 2026-05-19T20:06:48.000Z
-- matched query: "learn chinese" app
-
 ## [Complete beginner scared of Chinese -best resources to start the right way?](https://old.reddit.com/r/ChineseLanguage/comments/1tef1u2/complete_beginner_scared_of_chinese_best/)
 - subreddit: r/ChineseLanguage
 - score: 7
 - comments: 9
 - created: 2026-05-16T01:09:27.000Z
 - matched query: resource
+
+## [How to reach reading automaticity in Chinese and is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1thyod6/how_to_reach_reading_automaticity_in_chinese_and/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 8
+- created: 2026-05-19T20:06:48.000Z
+- matched query: "learn chinese" app
 
 ## [Best App to Learn Chinese.](https://old.reddit.com/r/ChineseLanguage/comments/1th3ay0/best_app_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -133,12 +140,5 @@ Generated: 2026-05-20T19:38:19.461Z
 - score: 4
 - comments: 5
 - created: 2026-05-13T10:43:22.000Z
-- matched query: "learn chinese" app
-
-## [Learning hanzi with Hellochinese](https://old.reddit.com/r/ChineseLanguage/comments/1t676kp/learning_hanzi_with_hellochinese/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 5
-- created: 2026-05-07T11:03:25.000Z
 - matched query: "learn chinese" app
 

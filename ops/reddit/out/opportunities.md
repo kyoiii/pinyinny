@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-20T21:24:43.655Z
+Generated: 2026-05-20T22:53:10.336Z
 
 ## [methods/resources for learning chinese with limited understanding? especially for politics/news](https://old.reddit.com/r/ChineseLanguage/comments/1tiyot4/methodsresources_for_learning_chinese_with/)
 - subreddit: r/ChineseLanguage
-- score: 10
-- comments: 0
+- score: 9
+- comments: 2
 - created: 2026-05-20T20:54:22.000Z
 - matched query: resource
 

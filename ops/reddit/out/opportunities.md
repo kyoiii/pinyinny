@@ -1,6 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-21T11:44:12.896Z
+Generated: 2026-05-21T14:28:51.671Z
+
+## [Dictionary App/Web Similar to Jisho?](https://old.reddit.com/r/ChineseLanguage/comments/1tjj6jz/dictionary_appweb_similar_to_jisho/)
+- subreddit: r/ChineseLanguage
+- score: 9
+- comments: 2
+- created: 2026-05-21T12:35:45.000Z
+- matched query: "learn chinese" app
 
 ## [methods/resources for learning chinese with limited understanding? especially for politics/news](https://old.reddit.com/r/ChineseLanguage/comments/1tiyot4/methodsresources_for_learning_chinese_with/)
 - subreddit: r/ChineseLanguage
@@ -58,13 +65,6 @@ Generated: 2026-05-21T11:44:12.896Z
 - created: 2026-04-21T15:19:14.000Z
 - matched query: flashcard app
 
-## [I'm learning Chinese and wanted to learn radicals efficiently. I was unsatisfied with existing Anki decks, so I made the deck I wish I had found!](https://old.reddit.com/r/ChineseLanguage/comments/1tgnrn2/im_learning_chinese_and_wanted_to_learn_radicals/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 0
-- created: 2026-05-18T14:08:06.000Z
-- matched query: app OR website pinyin hanzi
-
 ## [Beginner looks for resources and tips](https://old.reddit.com/r/ChineseLanguage/comments/1tgarhp/beginner_looks_for_resources_and_tips/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -100,6 +100,13 @@ Generated: 2026-05-21T11:44:12.896Z
 - created: 2026-04-28T07:43:11.000Z
 - matched query: "learn chinese" app
 
+## [I'm learning Chinese and wanted to learn radicals efficiently. I was unsatisfied with existing Anki decks, so I made the deck I wish I had found!](https://old.reddit.com/r/ChineseLanguage/comments/1tgnrn2/im_learning_chinese_and_wanted_to_learn_radicals/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 0
+- created: 2026-05-18T14:08:06.000Z
+- matched query: app OR website pinyin hanzi
+
 ## [拖后腿 / 掉链子：How Chinese slang describes people who always screw up at the worst possible moment](https://old.reddit.com/r/ChineseLanguage/comments/1te45mt/拖后腿_掉链子how_chinese_slang_describes_people_who/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -134,11 +141,4 @@ Generated: 2026-05-21T11:44:12.896Z
 - comments: 3
 - created: 2026-05-04T21:28:54.000Z
 - matched query: app OR website pinyin hanzi
-
-## [What is the best way to learn Chinese language?](https://old.reddit.com/r/ChineseLanguage/comments/1t27gtb/what_is_the_best_way_to_learn_chinese_language/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 4
-- created: 2026-05-03T01:14:37.000Z
-- matched query: "learn chinese" app
 

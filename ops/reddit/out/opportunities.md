@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-21T04:42:06.578Z
+Generated: 2026-05-21T08:22:45.103Z
 
 ## [methods/resources for learning chinese with limited understanding? especially for politics/news](https://old.reddit.com/r/ChineseLanguage/comments/1tiyot4/methodsresources_for_learning_chinese_with/)
 - subreddit: r/ChineseLanguage
@@ -33,7 +33,7 @@ Generated: 2026-05-21T04:42:06.578Z
 ## [Best App to Learn Chinese.](https://old.reddit.com/r/ChineseLanguage/comments/1th3ay0/best_app_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 12
+- comments: 13
 - created: 2026-05-18T22:16:19.000Z
 - matched query: "learn chinese" app
 
@@ -107,13 +107,6 @@ Generated: 2026-05-21T04:42:06.578Z
 - created: 2026-05-18T08:33:14.000Z
 - matched query: flashcard app
 
-## [Chinese is the first language I decided to learn. I don't know where to start.](https://old.reddit.com/r/ChineseLanguage/comments/1tgf6jf/chinese_is_the_first_language_i_decided_to_learn/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 9
-- created: 2026-05-18T07:24:01.000Z
-- matched query: "learn chinese" app
-
 ## [拖后腿 / 掉链子：How Chinese slang describes people who always screw up at the worst possible moment](https://old.reddit.com/r/ChineseLanguage/comments/1te45mt/拖后腿_掉链子how_chinese_slang_describes_people_who/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -141,4 +134,11 @@ Generated: 2026-05-21T04:42:06.578Z
 - comments: 5
 - created: 2026-05-07T11:03:25.000Z
 - matched query: "learn chinese" app
+
+## [Looking for a simple Anki deck for extremely basic Chinese for travel phrases (pinyin & audio)](https://old.reddit.com/r/ChineseLanguage/comments/1t3vcre/looking_for_a_simple_anki_deck_for_extremely/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 3
+- created: 2026-05-04T21:28:54.000Z
+- matched query: app OR website pinyin hanzi
 

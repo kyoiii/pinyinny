@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-21T21:09:31.710Z
+Generated: 2026-05-21T22:42:37.979Z
 
 ## [Dictionary App/Web Similar to Jisho?](https://old.reddit.com/r/ChineseLanguage/comments/1tjj6jz/dictionary_appweb_similar_to_jisho/)
 - subreddit: r/ChineseLanguage
@@ -30,25 +30,11 @@ Generated: 2026-05-21T21:09:31.710Z
 - created: 2026-05-16T01:09:27.000Z
 - matched query: resource
 
-## [Aint no way I can do this without subtitles bruh. All I hear is Gun Wow Yi Sheeeee](https://old.reddit.com/r/ChineseLanguage/comments/1tjwzzo/aint_no_way_i_can_do_this_without_subtitles_bruh/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-05-21T20:32:07.000Z
-- matched query: app OR website pinyin hanzi
-
 ## [How to reach reading automaticity in Chinese and is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1thyod6/how_to_reach_reading_automaticity_in_chinese_and/)
 - subreddit: r/ChineseLanguage
 - score: 6
 - comments: 8
 - created: 2026-05-19T20:06:48.000Z
-- matched query: "learn chinese" app
-
-## [Best App to Learn Chinese.](https://old.reddit.com/r/ChineseLanguage/comments/1th3ay0/best_app_to_learn_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 13
-- created: 2026-05-18T22:16:19.000Z
 - matched query: "learn chinese" app
 
 ## [pinyin camera https://apps.apple.com/app/id6766483875](https://old.reddit.com/r/ChineseLanguage/comments/1tc1swl/pinyin_camera_httpsappsapplecomappid6766483875/)
@@ -71,6 +57,20 @@ Generated: 2026-05-21T21:09:31.710Z
 - comments: 3
 - created: 2026-04-21T15:19:14.000Z
 - matched query: flashcard app
+
+## [Aint no way I can do this without subtitles bruh. All I hear is Gun Wow Yi Sheeeee](https://old.reddit.com/r/ChineseLanguage/comments/1tjwzzo/aint_no_way_i_can_do_this_without_subtitles_bruh/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 1
+- created: 2026-05-21T20:32:07.000Z
+- matched query: app OR website pinyin hanzi
+
+## [Best App to Learn Chinese.](https://old.reddit.com/r/ChineseLanguage/comments/1th3ay0/best_app_to_learn_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 13
+- created: 2026-05-18T22:16:19.000Z
+- matched query: "learn chinese" app
 
 ## [Beginner looks for resources and tips](https://old.reddit.com/r/ChineseLanguage/comments/1tgarhp/beginner_looks_for_resources_and_tips/)
 - subreddit: r/ChineseLanguage

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-21T17:18:28.434Z
+Generated: 2026-05-21T19:22:33.494Z
 
 ## [Dictionary App/Web Similar to Jisho?](https://old.reddit.com/r/ChineseLanguage/comments/1tjj6jz/dictionary_appweb_similar_to_jisho/)
 - subreddit: r/ChineseLanguage
@@ -86,13 +86,6 @@ Generated: 2026-05-21T17:18:28.434Z
 - created: 2026-05-15T15:39:08.000Z
 - matched query: resource
 
-## [What are the best resources for learning Mandarin?](https://old.reddit.com/r/ChineseLanguage/comments/1td71bu/what_are_the_best_resources_for_learning_mandarin/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 35
-- created: 2026-05-14T18:34:29.000Z
-- matched query: resource
-
 ## [I want to design an app to learn chinese cantonese](https://old.reddit.com/r/ChineseLanguage/comments/1sxulkq/i_want_to_design_an_app_to_learn_chinese_cantonese/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -112,6 +105,13 @@ Generated: 2026-05-21T17:18:28.434Z
 - score: 4
 - comments: 0
 - created: 2026-05-15T18:04:21.000Z
+- matched query: resource
+
+## [What are the best resources for learning Mandarin?](https://old.reddit.com/r/ChineseLanguage/comments/1td71bu/what_are_the_best_resources_for_learning_mandarin/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 35
+- created: 2026-05-14T18:34:29.000Z
 - matched query: resource
 
 ## [Best app for learning](https://old.reddit.com/r/ChineseLanguage/comments/1tbwk45/best_app_for_learning/)

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-21T22:42:37.979Z
+Generated: 2026-05-21T23:43:02.318Z
 
 ## [Dictionary App/Web Similar to Jisho?](https://old.reddit.com/r/ChineseLanguage/comments/1tjj6jz/dictionary_appweb_similar_to_jisho/)
 - subreddit: r/ChineseLanguage
@@ -33,7 +33,7 @@ Generated: 2026-05-21T22:42:37.979Z
 ## [How to reach reading automaticity in Chinese and is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1thyod6/how_to_reach_reading_automaticity_in_chinese_and/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 8
+- comments: 9
 - created: 2026-05-19T20:06:48.000Z
 - matched query: "learn chinese" app
 
@@ -61,7 +61,7 @@ Generated: 2026-05-21T22:42:37.979Z
 ## [Aint no way I can do this without subtitles bruh. All I hear is Gun Wow Yi Sheeeee](https://old.reddit.com/r/ChineseLanguage/comments/1tjwzzo/aint_no_way_i_can_do_this_without_subtitles_bruh/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 1
+- comments: 2
 - created: 2026-05-21T20:32:07.000Z
 - matched query: app OR website pinyin hanzi
 

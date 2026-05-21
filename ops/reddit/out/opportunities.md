@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-21T08:22:45.103Z
+Generated: 2026-05-21T11:44:12.896Z
 
 ## [methods/resources for learning chinese with limited understanding? especially for politics/news](https://old.reddit.com/r/ChineseLanguage/comments/1tiyot4/methodsresources_for_learning_chinese_with/)
 - subreddit: r/ChineseLanguage
@@ -100,13 +100,6 @@ Generated: 2026-05-21T08:22:45.103Z
 - created: 2026-04-28T07:43:11.000Z
 - matched query: "learn chinese" app
 
-## [Suggest me coursebooks /exercise books](https://old.reddit.com/r/ChineseLanguage/comments/1tggdwo/suggest_me_coursebooks_exercise_books/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 3
-- created: 2026-05-18T08:33:14.000Z
-- matched query: flashcard app
-
 ## [拖后腿 / 掉链子：How Chinese slang describes people who always screw up at the worst possible moment](https://old.reddit.com/r/ChineseLanguage/comments/1te45mt/拖后腿_掉链子how_chinese_slang_describes_people_who/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -141,4 +134,11 @@ Generated: 2026-05-21T08:22:45.103Z
 - comments: 3
 - created: 2026-05-04T21:28:54.000Z
 - matched query: app OR website pinyin hanzi
+
+## [What is the best way to learn Chinese language?](https://old.reddit.com/r/ChineseLanguage/comments/1t27gtb/what_is_the_best_way_to_learn_chinese_language/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 4
+- created: 2026-05-03T01:14:37.000Z
+- matched query: "learn chinese" app
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-21T19:22:33.494Z
+Generated: 2026-05-21T21:09:31.710Z
 
 ## [Dictionary App/Web Similar to Jisho?](https://old.reddit.com/r/ChineseLanguage/comments/1tjj6jz/dictionary_appweb_similar_to_jisho/)
 - subreddit: r/ChineseLanguage
@@ -11,7 +11,7 @@ Generated: 2026-05-21T19:22:33.494Z
 
 ## [methods/resources for learning chinese with limited understanding? especially for politics/news](https://old.reddit.com/r/ChineseLanguage/comments/1tiyot4/methodsresources_for_learning_chinese_with/)
 - subreddit: r/ChineseLanguage
-- score: 9
+- score: 8
 - comments: 7
 - created: 2026-05-20T20:54:22.000Z
 - matched query: resource
@@ -29,6 +29,13 @@ Generated: 2026-05-21T19:22:33.494Z
 - comments: 10
 - created: 2026-05-16T01:09:27.000Z
 - matched query: resource
+
+## [Aint no way I can do this without subtitles bruh. All I hear is Gun Wow Yi Sheeeee](https://old.reddit.com/r/ChineseLanguage/comments/1tjwzzo/aint_no_way_i_can_do_this_without_subtitles_bruh/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 0
+- created: 2026-05-21T20:32:07.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [How to reach reading automaticity in Chinese and is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1thyod6/how_to_reach_reading_automaticity_in_chinese_and/)
 - subreddit: r/ChineseLanguage
@@ -117,7 +124,7 @@ Generated: 2026-05-21T19:22:33.494Z
 ## [Best app for learning](https://old.reddit.com/r/ChineseLanguage/comments/1tbwk45/best_app_for_learning/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 10
+- comments: 11
 - created: 2026-05-13T11:16:16.000Z
 - matched query: "learn chinese" app
 
@@ -134,11 +141,4 @@ Generated: 2026-05-21T19:22:33.494Z
 - comments: 5
 - created: 2026-05-07T11:03:25.000Z
 - matched query: "learn chinese" app
-
-## [Looking for a simple Anki deck for extremely basic Chinese for travel phrases (pinyin & audio)](https://old.reddit.com/r/ChineseLanguage/comments/1t3vcre/looking_for_a_simple_anki_deck_for_extremely/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 3
-- created: 2026-05-04T21:28:54.000Z
-- matched query: app OR website pinyin hanzi
 

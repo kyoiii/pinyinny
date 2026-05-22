@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-22T05:59:25.223Z
+Generated: 2026-05-22T09:46:29.368Z
 
 ## [Dictionary App/Web Similar to Jisho?](https://old.reddit.com/r/ChineseLanguage/comments/1tjj6jz/dictionary_appweb_similar_to_jisho/)
 - subreddit: r/ChineseLanguage
@@ -54,7 +54,7 @@ Generated: 2026-05-22T05:59:25.223Z
 ## [Aint no way I can do this without subtitles bruh. All I hear is Gun Wow Yi Sheeeee](https://old.reddit.com/r/ChineseLanguage/comments/1tjwzzo/aint_no_way_i_can_do_this_without_subtitles_bruh/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 3
+- comments: 4
 - created: 2026-05-21T20:32:07.000Z
 - matched query: app OR website pinyin hanzi
 

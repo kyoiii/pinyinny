@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-21T23:43:02.318Z
+Generated: 2026-05-22T01:51:15.582Z
 
 ## [Dictionary App/Web Similar to Jisho?](https://old.reddit.com/r/ChineseLanguage/comments/1tjj6jz/dictionary_appweb_similar_to_jisho/)
 - subreddit: r/ChineseLanguage
@@ -15,13 +15,6 @@ Generated: 2026-05-21T23:43:02.318Z
 - comments: 7
 - created: 2026-05-20T20:54:22.000Z
 - matched query: resource
-
-## [Any good cheap learning resources recommendations?](https://old.reddit.com/r/ChineseLanguage/comments/1sqcm92/any_good_cheap_learning_resources_recommendations/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 7
-- created: 2026-04-20T02:31:13.000Z
-- matched query: "learn chinese" app
 
 ## [Complete beginner scared of Chinese -best resources to start the right way?](https://old.reddit.com/r/ChineseLanguage/comments/1tef1u2/complete_beginner_scared_of_chinese_best/)
 - subreddit: r/ChineseLanguage
@@ -114,13 +107,6 @@ Generated: 2026-05-21T23:43:02.318Z
 - created: 2026-05-15T18:04:21.000Z
 - matched query: resource
 
-## [What are the best resources for learning Mandarin?](https://old.reddit.com/r/ChineseLanguage/comments/1td71bu/what_are_the_best_resources_for_learning_mandarin/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 35
-- created: 2026-05-14T18:34:29.000Z
-- matched query: resource
-
 ## [Best app for learning](https://old.reddit.com/r/ChineseLanguage/comments/1tbwk45/best_app_for_learning/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -140,5 +126,19 @@ Generated: 2026-05-21T23:43:02.318Z
 - score: 4
 - comments: 5
 - created: 2026-05-07T11:03:25.000Z
+- matched query: "learn chinese" app
+
+## [Looking for a simple Anki deck for extremely basic Chinese for travel phrases (pinyin & audio)](https://old.reddit.com/r/ChineseLanguage/comments/1t3vcre/looking_for_a_simple_anki_deck_for_extremely/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 3
+- created: 2026-05-04T21:28:54.000Z
+- matched query: app OR website pinyin hanzi
+
+## [What is the best way to learn Chinese language?](https://old.reddit.com/r/ChineseLanguage/comments/1t27gtb/what_is_the_best_way_to_learn_chinese_language/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 4
+- created: 2026-05-03T01:14:37.000Z
 - matched query: "learn chinese" app
 

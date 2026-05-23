@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-23T00:13:46.168Z
+Generated: 2026-05-23T04:10:59.414Z
 
 ## [Dictionary App/Web Similar to Jisho?](https://old.reddit.com/r/ChineseLanguage/comments/1tjj6jz/dictionary_appweb_similar_to_jisho/)
 - subreddit: r/ChineseLanguage
@@ -18,7 +18,7 @@ Generated: 2026-05-23T00:13:46.168Z
 
 ## [Complete beginner scared of Chinese -best resources to start the right way?](https://old.reddit.com/r/ChineseLanguage/comments/1tef1u2/complete_beginner_scared_of_chinese_best/)
 - subreddit: r/ChineseLanguage
-- score: 7
+- score: 6
 - comments: 10
 - created: 2026-05-16T01:09:27.000Z
 - matched query: resource
@@ -35,6 +35,13 @@ Generated: 2026-05-23T00:13:46.168Z
 - score: 6
 - comments: 20
 - created: 2026-05-01T11:01:33.000Z
+- matched query: "learn chinese" app
+
+## [Language: for the life of me I can’t make the ch- sound correctly](https://old.reddit.com/r/ChineseLanguage/comments/1tl247v/language_for_the_life_of_me_i_cant_make_the_ch/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 19
+- created: 2026-05-23T01:20:38.000Z
 - matched query: "learn chinese" app
 
 ## [How to reach reading automaticity in Chinese and is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1thyod6/how_to_reach_reading_automaticity_in_chinese_and/)

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-22T22:57:52.130Z
+Generated: 2026-05-23T00:13:46.168Z
 
 ## [Dictionary App/Web Similar to Jisho?](https://old.reddit.com/r/ChineseLanguage/comments/1tjj6jz/dictionary_appweb_similar_to_jisho/)
 - subreddit: r/ChineseLanguage
@@ -36,13 +36,6 @@ Generated: 2026-05-22T22:57:52.130Z
 - comments: 20
 - created: 2026-05-01T11:01:33.000Z
 - matched query: "learn chinese" app
-
-## [I’m new here and I’ve created a free app to learn Chinese. What do you think?](https://old.reddit.com/r/ChineseLanguage/comments/1srqs12/im_new_here_and_ive_created_a_free_app_to_learn/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 3
-- created: 2026-04-21T15:19:14.000Z
-- matched query: flashcard app
 
 ## [How to reach reading automaticity in Chinese and is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1thyod6/how_to_reach_reading_automaticity_in_chinese_and/)
 - subreddit: r/ChineseLanguage
@@ -92,13 +85,6 @@ Generated: 2026-05-22T22:57:52.130Z
 - comments: 0
 - created: 2026-05-18T14:08:06.000Z
 - matched query: app OR website pinyin hanzi
-
-## [Resources to learn Hakka](https://old.reddit.com/r/ChineseLanguage/comments/1te003v/resources_to_learn_hakka/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 1
-- created: 2026-05-15T15:39:08.000Z
-- matched query: resource
 
 ## [Best app for learning](https://old.reddit.com/r/ChineseLanguage/comments/1tbwk45/best_app_for_learning/)
 - subreddit: r/ChineseLanguage

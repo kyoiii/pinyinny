@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-23T10:38:51.911Z
+Generated: 2026-05-23T12:47:48.870Z
 
 ## [Dictionary App/Web Similar to Jisho?](https://old.reddit.com/r/ChineseLanguage/comments/1tjj6jz/dictionary_appweb_similar_to_jisho/)
 - subreddit: r/ChineseLanguage
@@ -40,7 +40,7 @@ Generated: 2026-05-23T10:38:51.911Z
 ## [Language: for the life of me I can’t make the ch- sound correctly](https://old.reddit.com/r/ChineseLanguage/comments/1tl247v/language_for_the_life_of_me_i_cant_make_the_ch/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 24
+- comments: 26
 - created: 2026-05-23T01:20:38.000Z
 - matched query: "learn chinese" app
 

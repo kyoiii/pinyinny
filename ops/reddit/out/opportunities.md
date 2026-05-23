@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-23T22:05:22.163Z
+Generated: 2026-05-23T23:08:36.330Z
 
 ## [Dictionary App/Web Similar to Jisho?](https://old.reddit.com/r/ChineseLanguage/comments/1tjj6jz/dictionary_appweb_similar_to_jisho/)
 - subreddit: r/ChineseLanguage
@@ -12,7 +12,7 @@ Generated: 2026-05-23T22:05:22.163Z
 ## [How do you learn ???](https://old.reddit.com/r/ChineseLanguage/comments/1tllldv/how_do_you_learn/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 3
+- comments: 4
 - created: 2026-05-23T16:48:05.000Z
 - matched query: "learn chinese" app
 
@@ -50,6 +50,13 @@ Generated: 2026-05-23T22:05:22.163Z
 - comments: 20
 - created: 2026-05-01T11:01:33.000Z
 - matched query: "learn chinese" app
+
+## [Sharing my HSK 3.0 (2026) Anki Decks – Free and Fully Customizable](https://old.reddit.com/r/ChineseLanguage/comments/1tluqgv/sharing_my_hsk_30_2026_anki_decks_free_and_fully/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 1
+- created: 2026-05-23T22:53:45.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [How to reach reading automaticity in Chinese and is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1thyod6/how_to_reach_reading_automaticity_in_chinese_and/)
 - subreddit: r/ChineseLanguage
@@ -133,12 +140,5 @@ Generated: 2026-05-23T22:05:22.163Z
 - score: 4
 - comments: 4
 - created: 2026-05-03T01:14:37.000Z
-- matched query: "learn chinese" app
-
-## [Tips??](https://old.reddit.com/r/ChineseLanguage/comments/1t23d55/tips/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 2
-- created: 2026-05-02T22:09:33.000Z
 - matched query: "learn chinese" app
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-24T19:54:35.362Z
+Generated: 2026-05-24T20:56:50.155Z
 
 ## [Dictionary App/Web Similar to Jisho?](https://old.reddit.com/r/ChineseLanguage/comments/1tjj6jz/dictionary_appweb_similar_to_jisho/)
 - subreddit: r/ChineseLanguage
@@ -14,6 +14,13 @@ Generated: 2026-05-24T19:54:35.362Z
 - score: 7
 - comments: 7
 - created: 2026-05-20T20:54:22.000Z
+- matched query: resource
+
+## [Learning veterinary/medical mandarin/cantonese](https://old.reddit.com/r/ChineseLanguage/comments/1tmny99/learning_veterinarymedical_mandarincantonese/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 0
+- created: 2026-05-24T20:54:14.000Z
 - matched query: resource
 
 ## [How do you learn ???](https://old.reddit.com/r/ChineseLanguage/comments/1tllldv/how_do_you_learn/)
@@ -47,7 +54,7 @@ Generated: 2026-05-24T19:54:35.362Z
 ## [How I stopped feeling completely hopeless when learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tmimhz/how_i_stopped_feeling_completely_hopeless_when/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 3
+- comments: 8
 - created: 2026-05-24T17:33:40.000Z
 - matched query: app OR website pinyin hanzi
 
@@ -92,13 +99,6 @@ Generated: 2026-05-24T19:54:35.362Z
 - comments: 0
 - created: 2026-04-28T07:43:11.000Z
 - matched query: "learn chinese" app
-
-## [Aint no way I can do this without subtitles bruh. All I hear is Gun Wow Yi Sheeeee](https://old.reddit.com/r/ChineseLanguage/comments/1tjwzzo/aint_no_way_i_can_do_this_without_subtitles_bruh/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 7
-- created: 2026-05-21T20:32:07.000Z
-- matched query: app OR website pinyin hanzi
 
 ## [I'm learning Chinese and wanted to learn radicals efficiently. I was unsatisfied with existing Anki decks, so I made the deck I wish I had found!](https://old.reddit.com/r/ChineseLanguage/comments/1tgnrn2/im_learning_chinese_and_wanted_to_learn_radicals/)
 - subreddit: r/ChineseLanguage

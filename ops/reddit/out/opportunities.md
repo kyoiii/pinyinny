@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-24T04:41:20.829Z
+Generated: 2026-05-24T07:43:02.130Z
 
 ## [Dictionary App/Web Similar to Jisho?](https://old.reddit.com/r/ChineseLanguage/comments/1tjj6jz/dictionary_appweb_similar_to_jisho/)
 - subreddit: r/ChineseLanguage
@@ -47,14 +47,14 @@ Generated: 2026-05-24T04:41:20.829Z
 ## [Looking for ideas to help me learn Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tlxgaj/looking_for_ideas_to_help_me_learn_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 15
+- comments: 22
 - created: 2026-05-24T00:55:45.000Z
 - matched query: "learn chinese" app
 
 ## [Sharing my HSK 3.0 (2026) Anki Decks – Free and Fully Customizable](https://old.reddit.com/r/ChineseLanguage/comments/1tluqgv/sharing_my_hsk_30_2026_anki_decks_free_and_fully/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 1
+- comments: 2
 - created: 2026-05-23T22:53:45.000Z
 - matched query: app OR website pinyin hanzi
 

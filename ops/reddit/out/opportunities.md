@@ -1,13 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-24T12:07:59.864Z
-
-## [Dictionary App/Web Similar to Jisho?](https://old.reddit.com/r/ChineseLanguage/comments/1tjj6jz/dictionary_appweb_similar_to_jisho/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 4
-- created: 2026-05-21T12:35:45.000Z
-- matched query: "learn chinese" app
+Generated: 2026-05-24T13:58:57.110Z
 
 ## [How do you learn ???](https://old.reddit.com/r/ChineseLanguage/comments/1tllldv/how_do_you_learn/)
 - subreddit: r/ChineseLanguage
@@ -22,6 +15,13 @@ Generated: 2026-05-24T12:07:59.864Z
 - comments: 4
 - created: 2026-05-23T15:34:13.000Z
 - matched query: resource
+
+## [Dictionary App/Web Similar to Jisho?](https://old.reddit.com/r/ChineseLanguage/comments/1tjj6jz/dictionary_appweb_similar_to_jisho/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 4
+- created: 2026-05-21T12:35:45.000Z
+- matched query: "learn chinese" app
 
 ## [methods/resources for learning chinese with limited understanding? especially for politics/news](https://old.reddit.com/r/ChineseLanguage/comments/1tiyot4/methodsresources_for_learning_chinese_with/)
 - subreddit: r/ChineseLanguage
@@ -79,13 +79,6 @@ Generated: 2026-05-24T12:07:59.864Z
 - created: 2026-05-18T03:35:10.000Z
 - matched query: resource
 
-## [How can I learn chinese?(Self study) Complete beginning I only know nihao](https://old.reddit.com/r/ChineseLanguage/comments/1tfq0vf/how_can_i_learn_chineseself_study_complete/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 2
-- created: 2026-05-17T13:46:51.000Z
-- matched query: "learn chinese" app
-
 ## [I want to design an app to learn chinese cantonese](https://old.reddit.com/r/ChineseLanguage/comments/1sxulkq/i_want_to_design_an_app_to_learn_chinese_cantonese/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -106,6 +99,13 @@ Generated: 2026-05-24T12:07:59.864Z
 - comments: 0
 - created: 2026-05-18T14:08:06.000Z
 - matched query: app OR website pinyin hanzi
+
+## [How can I learn chinese?(Self study) Complete beginning I only know nihao](https://old.reddit.com/r/ChineseLanguage/comments/1tfq0vf/how_can_i_learn_chineseself_study_complete/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 2
+- created: 2026-05-17T13:46:51.000Z
+- matched query: "learn chinese" app
 
 ## [Best app for learning](https://old.reddit.com/r/ChineseLanguage/comments/1tbwk45/best_app_for_learning/)
 - subreddit: r/ChineseLanguage

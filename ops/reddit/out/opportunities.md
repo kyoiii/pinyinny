@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-24T17:29:23.388Z
+Generated: 2026-05-24T18:43:07.935Z
 
 ## [Dictionary App/Web Similar to Jisho?](https://old.reddit.com/r/ChineseLanguage/comments/1tjj6jz/dictionary_appweb_similar_to_jisho/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 4
+- comments: 5
 - created: 2026-05-21T12:35:45.000Z
 - matched query: "learn chinese" app
 
@@ -26,7 +26,7 @@ Generated: 2026-05-24T17:29:23.388Z
 ## [Resources for advanced learners](https://old.reddit.com/r/ChineseLanguage/comments/1tljo38/resources_for_advanced_learners/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 4
+- comments: 5
 - created: 2026-05-23T15:34:13.000Z
 - matched query: resource
 
@@ -43,6 +43,13 @@ Generated: 2026-05-24T17:29:23.388Z
 - comments: 20
 - created: 2026-05-01T11:01:33.000Z
 - matched query: "learn chinese" app
+
+## [How I stopped feeling completely hopeless when learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tmimhz/how_i_stopped_feeling_completely_hopeless_when/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 2
+- created: 2026-05-24T17:33:40.000Z
+- matched query: flashcard app
 
 ## [Looking for ideas to help me learn Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tlxgaj/looking_for_ideas_to_help_me_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -134,11 +141,4 @@ Generated: 2026-05-24T17:29:23.388Z
 - comments: 3
 - created: 2026-05-04T21:28:54.000Z
 - matched query: app OR website pinyin hanzi
-
-## [What is the best way to learn Chinese language?](https://old.reddit.com/r/ChineseLanguage/comments/1t27gtb/what_is_the_best_way_to_learn_chinese_language/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 4
-- created: 2026-05-03T01:14:37.000Z
-- matched query: "learn chinese" app
 

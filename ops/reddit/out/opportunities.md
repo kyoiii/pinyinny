@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-24T15:15:06.325Z
+Generated: 2026-05-24T16:17:15.414Z
 
 ## [How do you learn ???](https://old.reddit.com/r/ChineseLanguage/comments/1tllldv/how_do_you_learn/)
 - subreddit: r/ChineseLanguage
@@ -8,13 +8,6 @@ Generated: 2026-05-24T15:15:06.325Z
 - comments: 5
 - created: 2026-05-23T16:48:05.000Z
 - matched query: "learn chinese" app
-
-## [Resources for advanced learners](https://old.reddit.com/r/ChineseLanguage/comments/1tljo38/resources_for_advanced_learners/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 4
-- created: 2026-05-23T15:34:13.000Z
-- matched query: resource
 
 ## [Dictionary App/Web Similar to Jisho?](https://old.reddit.com/r/ChineseLanguage/comments/1tjj6jz/dictionary_appweb_similar_to_jisho/)
 - subreddit: r/ChineseLanguage
@@ -28,6 +21,13 @@ Generated: 2026-05-24T15:15:06.325Z
 - score: 7
 - comments: 7
 - created: 2026-05-20T20:54:22.000Z
+- matched query: resource
+
+## [Resources for advanced learners](https://old.reddit.com/r/ChineseLanguage/comments/1tljo38/resources_for_advanced_learners/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 4
+- created: 2026-05-23T15:34:13.000Z
 - matched query: resource
 
 ## [pinyin camera https://apps.apple.com/app/id6766483875](https://old.reddit.com/r/ChineseLanguage/comments/1tc1swl/pinyin_camera_httpsappsapplecomappid6766483875/)
@@ -47,7 +47,7 @@ Generated: 2026-05-24T15:15:06.325Z
 ## [Looking for ideas to help me learn Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tlxgaj/looking_for_ideas_to_help_me_learn_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 23
+- comments: 24
 - created: 2026-05-24T00:55:45.000Z
 - matched query: "learn chinese" app
 

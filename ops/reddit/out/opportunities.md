@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-24T13:58:57.110Z
+Generated: 2026-05-24T15:15:06.325Z
 
 ## [How do you learn ???](https://old.reddit.com/r/ChineseLanguage/comments/1tllldv/how_do_you_learn/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 4
+- comments: 5
 - created: 2026-05-23T16:48:05.000Z
 - matched query: "learn chinese" app
 

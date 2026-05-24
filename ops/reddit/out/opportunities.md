@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-24T20:56:50.155Z
+Generated: 2026-05-24T22:02:01.584Z
 
 ## [Dictionary App/Web Similar to Jisho?](https://old.reddit.com/r/ChineseLanguage/comments/1tjj6jz/dictionary_appweb_similar_to_jisho/)
 - subreddit: r/ChineseLanguage
@@ -54,7 +54,7 @@ Generated: 2026-05-24T20:56:50.155Z
 ## [How I stopped feeling completely hopeless when learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tmimhz/how_i_stopped_feeling_completely_hopeless_when/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 8
+- comments: 12
 - created: 2026-05-24T17:33:40.000Z
 - matched query: app OR website pinyin hanzi
 

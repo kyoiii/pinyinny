@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-24T00:11:50.074Z
+Generated: 2026-05-24T04:41:20.829Z
 
 ## [Dictionary App/Web Similar to Jisho?](https://old.reddit.com/r/ChineseLanguage/comments/1tjj6jz/dictionary_appweb_similar_to_jisho/)
 - subreddit: r/ChineseLanguage
@@ -42,6 +42,13 @@ Generated: 2026-05-24T00:11:50.074Z
 - score: 6
 - comments: 20
 - created: 2026-05-01T11:01:33.000Z
+- matched query: "learn chinese" app
+
+## [Looking for ideas to help me learn Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tlxgaj/looking_for_ideas_to_help_me_learn_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 15
+- created: 2026-05-24T00:55:45.000Z
 - matched query: "learn chinese" app
 
 ## [Sharing my HSK 3.0 (2026) Anki Decks – Free and Fully Customizable](https://old.reddit.com/r/ChineseLanguage/comments/1tluqgv/sharing_my_hsk_30_2026_anki_decks_free_and_fully/)
@@ -133,12 +140,5 @@ Generated: 2026-05-24T00:11:50.074Z
 - score: 4
 - comments: 4
 - created: 2026-05-03T01:14:37.000Z
-- matched query: "learn chinese" app
-
-## [Tips??](https://old.reddit.com/r/ChineseLanguage/comments/1t23d55/tips/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 2
-- created: 2026-05-02T22:09:33.000Z
 - matched query: "learn chinese" app
 

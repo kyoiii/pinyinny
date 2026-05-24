@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-23T23:08:36.330Z
+Generated: 2026-05-24T00:11:50.074Z
 
 ## [Dictionary App/Web Similar to Jisho?](https://old.reddit.com/r/ChineseLanguage/comments/1tjj6jz/dictionary_appweb_similar_to_jisho/)
 - subreddit: r/ChineseLanguage
@@ -28,13 +28,6 @@ Generated: 2026-05-23T23:08:36.330Z
 - score: 7
 - comments: 7
 - created: 2026-05-20T20:54:22.000Z
-- matched query: resource
-
-## [Complete beginner scared of Chinese -best resources to start the right way?](https://old.reddit.com/r/ChineseLanguage/comments/1tef1u2/complete_beginner_scared_of_chinese_best/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 10
-- created: 2026-05-16T01:09:27.000Z
 - matched query: resource
 
 ## [pinyin camera https://apps.apple.com/app/id6766483875](https://old.reddit.com/r/ChineseLanguage/comments/1tc1swl/pinyin_camera_httpsappsapplecomappid6766483875/)
@@ -140,5 +133,12 @@ Generated: 2026-05-23T23:08:36.330Z
 - score: 4
 - comments: 4
 - created: 2026-05-03T01:14:37.000Z
+- matched query: "learn chinese" app
+
+## [Tips??](https://old.reddit.com/r/ChineseLanguage/comments/1t23d55/tips/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 2
+- created: 2026-05-02T22:09:33.000Z
 - matched query: "learn chinese" app
 

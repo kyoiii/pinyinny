@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-25T04:56:32.170Z
+Generated: 2026-05-25T09:01:38.243Z
 
 ## [Dictionary App/Web Similar to Jisho?](https://old.reddit.com/r/ChineseLanguage/comments/1tjj6jz/dictionary_appweb_similar_to_jisho/)
 - subreddit: r/ChineseLanguage
@@ -16,24 +16,17 @@ Generated: 2026-05-25T04:56:32.170Z
 - created: 2026-05-20T20:54:22.000Z
 - matched query: resource
 
-## [Learning veterinary/medical mandarin/cantonese](https://old.reddit.com/r/ChineseLanguage/comments/1tmny99/learning_veterinarymedical_mandarincantonese/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-05-24T20:54:14.000Z
-- matched query: resource
-
 ## [How do you learn ???](https://old.reddit.com/r/ChineseLanguage/comments/1tllldv/how_do_you_learn/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 5
+- comments: 6
 - created: 2026-05-23T16:48:05.000Z
 - matched query: "learn chinese" app
 
 ## [Resources for advanced learners](https://old.reddit.com/r/ChineseLanguage/comments/1tljo38/resources_for_advanced_learners/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 5
+- comments: 6
 - created: 2026-05-23T15:34:13.000Z
 - matched query: resource
 
@@ -50,6 +43,13 @@ Generated: 2026-05-25T04:56:32.170Z
 - comments: 20
 - created: 2026-05-01T11:01:33.000Z
 - matched query: "learn chinese" app
+
+## [Learning veterinary/medical mandarin/cantonese](https://old.reddit.com/r/ChineseLanguage/comments/1tmny99/learning_veterinarymedical_mandarincantonese/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 1
+- created: 2026-05-24T20:54:14.000Z
+- matched query: resource
 
 ## [How I stopped feeling completely hopeless when learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tmimhz/how_i_stopped_feeling_completely_hopeless_when/)
 - subreddit: r/ChineseLanguage

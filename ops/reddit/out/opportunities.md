@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-25T12:41:52.770Z
+Generated: 2026-05-25T15:43:39.020Z
 
 ## [Dictionary App/Web Similar to Jisho?](https://old.reddit.com/r/ChineseLanguage/comments/1tjj6jz/dictionary_appweb_similar_to_jisho/)
 - subreddit: r/ChineseLanguage
@@ -93,13 +93,6 @@ Generated: 2026-05-25T12:41:52.770Z
 - created: 2026-05-23T22:53:45.000Z
 - matched query: app OR website pinyin hanzi
 
-## [I'm learning Chinese and wanted to learn radicals efficiently. I was unsatisfied with existing Anki decks, so I made the deck I wish I had found!](https://old.reddit.com/r/ChineseLanguage/comments/1tgnrn2/im_learning_chinese_and_wanted_to_learn_radicals/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 0
-- created: 2026-05-18T14:08:06.000Z
-- matched query: app OR website pinyin hanzi
-
 ## [Beginner looks for resources and tips](https://old.reddit.com/r/ChineseLanguage/comments/1tgarhp/beginner_looks_for_resources_and_tips/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -141,4 +134,11 @@ Generated: 2026-05-25T12:41:52.770Z
 - comments: 3
 - created: 2026-05-04T21:28:54.000Z
 - matched query: app OR website pinyin hanzi
+
+## [What is the best way to learn Chinese language?](https://old.reddit.com/r/ChineseLanguage/comments/1t27gtb/what_is_the_best_way_to_learn_chinese_language/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 4
+- created: 2026-05-03T01:14:37.000Z
+- matched query: "learn chinese" app
 

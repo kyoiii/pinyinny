@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-25T00:14:43.719Z
+Generated: 2026-05-25T04:56:32.170Z
 
 ## [Dictionary App/Web Similar to Jisho?](https://old.reddit.com/r/ChineseLanguage/comments/1tjj6jz/dictionary_appweb_similar_to_jisho/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 5
+- comments: 6
 - created: 2026-05-21T12:35:45.000Z
 - matched query: "learn chinese" app
 
@@ -54,16 +54,9 @@ Generated: 2026-05-25T00:14:43.719Z
 ## [How I stopped feeling completely hopeless when learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tmimhz/how_i_stopped_feeling_completely_hopeless_when/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 17
+- comments: 21
 - created: 2026-05-24T17:33:40.000Z
 - matched query: app OR website pinyin hanzi
-
-## [Looking for ideas to help me learn Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tlxgaj/looking_for_ideas_to_help_me_learn_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 24
-- created: 2026-05-24T00:55:45.000Z
-- matched query: "learn chinese" app
 
 ## [How to reach reading automaticity in Chinese and is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1thyod6/how_to_reach_reading_automaticity_in_chinese_and/)
 - subreddit: r/ChineseLanguage
@@ -79,18 +72,18 @@ Generated: 2026-05-25T00:14:43.719Z
 - created: 2026-05-18T22:16:19.000Z
 - matched query: "learn chinese" app
 
-## [Beginner looks for resources and tips](https://old.reddit.com/r/ChineseLanguage/comments/1tgarhp/beginner_looks_for_resources_and_tips/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 10
-- created: 2026-05-18T03:35:10.000Z
-- matched query: resource
-
 ## [I want to design an app to learn chinese cantonese](https://old.reddit.com/r/ChineseLanguage/comments/1sxulkq/i_want_to_design_an_app_to_learn_chinese_cantonese/)
 - subreddit: r/ChineseLanguage
 - score: 5
 - comments: 0
 - created: 2026-04-28T07:43:11.000Z
+- matched query: "learn chinese" app
+
+## [Looking for ideas to help me learn Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tlxgaj/looking_for_ideas_to_help_me_learn_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 26
+- created: 2026-05-24T00:55:45.000Z
 - matched query: "learn chinese" app
 
 ## [Sharing my HSK 3.0 (2026) Anki Decks – Free and Fully Customizable](https://old.reddit.com/r/ChineseLanguage/comments/1tluqgv/sharing_my_hsk_30_2026_anki_decks_free_and_fully/)
@@ -106,6 +99,13 @@ Generated: 2026-05-25T00:14:43.719Z
 - comments: 0
 - created: 2026-05-18T14:08:06.000Z
 - matched query: app OR website pinyin hanzi
+
+## [Beginner looks for resources and tips](https://old.reddit.com/r/ChineseLanguage/comments/1tgarhp/beginner_looks_for_resources_and_tips/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 10
+- created: 2026-05-18T03:35:10.000Z
+- matched query: resource
 
 ## [How can I learn chinese?(Self study) Complete beginning I only know nihao](https://old.reddit.com/r/ChineseLanguage/comments/1tfq0vf/how_can_i_learn_chineseself_study_complete/)
 - subreddit: r/ChineseLanguage

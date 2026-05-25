@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-25T20:41:49.700Z
+Generated: 2026-05-25T21:55:02.719Z
 
 ## [gathering hsk 1 resources for free](https://old.reddit.com/r/ChineseLanguage/comments/1tndfnq/gathering_hsk_1_resources_for_free/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 3
+- comments: 5
 - created: 2026-05-25T16:01:12.000Z
 - matched query: resource
 
@@ -51,13 +51,6 @@ Generated: 2026-05-25T20:41:49.700Z
 - created: 2026-05-01T11:01:33.000Z
 - matched query: "learn chinese" app
 
-## [Learning veterinary/medical mandarin/cantonese](https://old.reddit.com/r/ChineseLanguage/comments/1tmny99/learning_veterinarymedical_mandarincantonese/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 1
-- created: 2026-05-24T20:54:14.000Z
-- matched query: resource
-
 ## [How to reach reading automaticity in Chinese and is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1thyod6/how_to_reach_reading_automaticity_in_chinese_and/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -78,6 +71,13 @@ Generated: 2026-05-25T20:41:49.700Z
 - comments: 0
 - created: 2026-04-28T07:43:11.000Z
 - matched query: "learn chinese" app
+
+## [Learning veterinary/medical mandarin/cantonese](https://old.reddit.com/r/ChineseLanguage/comments/1tmny99/learning_veterinarymedical_mandarincantonese/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 1
+- created: 2026-05-24T20:54:14.000Z
+- matched query: resource
 
 ## [How I stopped feeling completely hopeless when learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tmimhz/how_i_stopped_feeling_completely_hopeless_when/)
 - subreddit: r/ChineseLanguage

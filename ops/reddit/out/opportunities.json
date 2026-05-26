@@ -67,17 +67,6 @@
   },
   {
     "subreddit": "ChineseLanguage",
-    "query": "resource",
-    "title": "Zhong Chinese",
-    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1tnp9v1/zhong_chinese/",
-    "created_utc": 1779751277,
-    "created_at": "2026-05-25T23:21:17.000Z",
-    "num_comments": 3,
-    "author": "Due-Wing9034",
-    "score": 5
-  },
-  {
-    "subreddit": "ChineseLanguage",
     "query": "\"learn chinese\" app",
     "title": "How do you learn ???",
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1tllldv/how_do_you_learn/",
@@ -111,12 +100,23 @@
   },
   {
     "subreddit": "ChineseLanguage",
+    "query": "resource",
+    "title": "Zhong Chinese",
+    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1tnp9v1/zhong_chinese/",
+    "created_utc": 1779751277,
+    "created_at": "2026-05-25T23:21:17.000Z",
+    "num_comments": 3,
+    "author": "Due-Wing9034",
+    "score": 4
+  },
+  {
+    "subreddit": "ChineseLanguage",
     "query": "app OR website pinyin hanzi",
     "title": "How does native learn hanzi",
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1tnog9b/how_does_native_learn_hanzi/",
     "created_utc": 1779749212,
     "created_at": "2026-05-25T22:46:52.000Z",
-    "num_comments": 53,
+    "num_comments": 54,
     "author": "Organic_Being_324",
     "score": 4
   },
@@ -140,17 +140,6 @@
     "created_at": "2026-05-24T00:55:45.000Z",
     "num_comments": 26,
     "author": "skeelgames",
-    "score": 4
-  },
-  {
-    "subreddit": "ChineseLanguage",
-    "query": "app OR website pinyin hanzi",
-    "title": "Sharing my HSK 3.0 (2026) Anki Decks – Free and Fully Customizable",
-    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1tluqgv/sharing_my_hsk_30_2026_anki_decks_free_and_fully/",
-    "created_utc": 1779576825,
-    "created_at": "2026-05-23T22:53:45.000Z",
-    "num_comments": 4,
-    "author": "Much_Dirt8619",
     "score": 4
   },
   {
@@ -217,6 +206,17 @@
     "created_at": "2026-05-07T11:03:25.000Z",
     "num_comments": 5,
     "author": "DankTyl",
+    "score": 4
+  },
+  {
+    "subreddit": "ChineseLanguage",
+    "query": "app OR website pinyin hanzi",
+    "title": "Looking for a simple Anki deck for extremely basic Chinese for travel phrases (pinyin & audio)",
+    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1t3vcre/looking_for_a_simple_anki_deck_for_extremely/",
+    "created_utc": 1777930134,
+    "created_at": "2026-05-04T21:28:54.000Z",
+    "num_comments": 3,
+    "author": "CallMeGolem",
     "score": 4
   }
 ]

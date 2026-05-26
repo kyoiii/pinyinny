@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-26T21:22:54.431Z
+Generated: 2026-05-26T22:47:35.974Z
 
 ## [Dictionary App/Web Similar to Jisho?](https://old.reddit.com/r/ChineseLanguage/comments/1tjj6jz/dictionary_appweb_similar_to_jisho/)
 - subreddit: r/ChineseLanguage
@@ -47,16 +47,9 @@ Generated: 2026-05-26T21:22:54.431Z
 ## [Zhong Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tnp9v1/zhong_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 2
+- comments: 3
 - created: 2026-05-25T23:21:17.000Z
 - matched query: resource
-
-## [How does native learn hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1tnog9b/how_does_native_learn_hanzi/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 48
-- created: 2026-05-25T22:46:52.000Z
-- matched query: app OR website pinyin hanzi
 
 ## [How do you learn ???](https://old.reddit.com/r/ChineseLanguage/comments/1tllldv/how_do_you_learn/)
 - subreddit: r/ChineseLanguage
@@ -78,6 +71,13 @@ Generated: 2026-05-26T21:22:54.431Z
 - comments: 0
 - created: 2026-04-28T07:43:11.000Z
 - matched query: "learn chinese" app
+
+## [How does native learn hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1tnog9b/how_does_native_learn_hanzi/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 53
+- created: 2026-05-25T22:46:52.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [Learning veterinary/medical mandarin/cantonese](https://old.reddit.com/r/ChineseLanguage/comments/1tmny99/learning_veterinarymedical_mandarincantonese/)
 - subreddit: r/ChineseLanguage

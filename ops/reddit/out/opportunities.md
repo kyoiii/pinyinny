@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-26T08:22:59.291Z
+Generated: 2026-05-26T14:23:24.338Z
 
 ## [gathering hsk 1 resources for free](https://old.reddit.com/r/ChineseLanguage/comments/1tndfnq/gathering_hsk_1_resources_for_free/)
 - subreddit: r/ChineseLanguage
@@ -54,7 +54,7 @@ Generated: 2026-05-26T08:22:59.291Z
 ## [FRUSTRATED BUT STILL WALKING（水滴石穿）](https://old.reddit.com/r/ChineseLanguage/comments/1tns9s9/frustrated_but_still_walking水滴石穿/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 3
+- comments: 6
 - created: 2026-05-26T01:31:06.000Z
 - matched query: resource
 
@@ -68,7 +68,7 @@ Generated: 2026-05-26T08:22:59.291Z
 ## [How does native learn hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1tnog9b/how_does_native_learn_hanzi/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 34
+- comments: 40
 - created: 2026-05-25T22:46:52.000Z
 - matched query: app OR website pinyin hanzi
 

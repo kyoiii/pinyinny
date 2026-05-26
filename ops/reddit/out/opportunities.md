@@ -1,13 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-26T14:23:24.338Z
-
-## [gathering hsk 1 resources for free](https://old.reddit.com/r/ChineseLanguage/comments/1tndfnq/gathering_hsk_1_resources_for_free/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 7
-- created: 2026-05-25T16:01:12.000Z
-- matched query: resource
+Generated: 2026-05-26T17:42:12.892Z
 
 ## [Dictionary App/Web Similar to Jisho?](https://old.reddit.com/r/ChineseLanguage/comments/1tjj6jz/dictionary_appweb_similar_to_jisho/)
 - subreddit: r/ChineseLanguage
@@ -23,18 +16,11 @@ Generated: 2026-05-26T14:23:24.338Z
 - created: 2026-05-20T20:54:22.000Z
 - matched query: resource
 
-## [How do you learn ???](https://old.reddit.com/r/ChineseLanguage/comments/1tllldv/how_do_you_learn/)
+## [gathering hsk 1 resources for free](https://old.reddit.com/r/ChineseLanguage/comments/1tndfnq/gathering_hsk_1_resources_for_free/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 6
-- created: 2026-05-23T16:48:05.000Z
-- matched query: "learn chinese" app
-
-## [Resources for advanced learners](https://old.reddit.com/r/ChineseLanguage/comments/1tljo38/resources_for_advanced_learners/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 6
-- created: 2026-05-23T15:34:13.000Z
+- comments: 7
+- created: 2026-05-25T16:01:12.000Z
 - matched query: resource
 
 ## [pinyin camera https://apps.apple.com/app/id6766483875](https://old.reddit.com/r/ChineseLanguage/comments/1tc1swl/pinyin_camera_httpsappsapplecomappid6766483875/)
@@ -54,23 +40,37 @@ Generated: 2026-05-26T14:23:24.338Z
 ## [FRUSTRATED BUT STILL WALKING（水滴石穿）](https://old.reddit.com/r/ChineseLanguage/comments/1tns9s9/frustrated_but_still_walking水滴石穿/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 6
+- comments: 7
 - created: 2026-05-26T01:31:06.000Z
 - matched query: resource
 
 ## [Zhong Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tnp9v1/zhong_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 1
+- comments: 2
 - created: 2026-05-25T23:21:17.000Z
 - matched query: resource
 
 ## [How does native learn hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1tnog9b/how_does_native_learn_hanzi/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 40
+- comments: 41
 - created: 2026-05-25T22:46:52.000Z
 - matched query: app OR website pinyin hanzi
+
+## [How do you learn ???](https://old.reddit.com/r/ChineseLanguage/comments/1tllldv/how_do_you_learn/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 6
+- created: 2026-05-23T16:48:05.000Z
+- matched query: "learn chinese" app
+
+## [Resources for advanced learners](https://old.reddit.com/r/ChineseLanguage/comments/1tljo38/resources_for_advanced_learners/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 6
+- created: 2026-05-23T15:34:13.000Z
+- matched query: resource
 
 ## [How to reach reading automaticity in Chinese and is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1thyod6/how_to_reach_reading_automaticity_in_chinese_and/)
 - subreddit: r/ChineseLanguage

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-26T19:47:09.224Z
+Generated: 2026-05-26T21:22:54.431Z
 
 ## [Dictionary App/Web Similar to Jisho?](https://old.reddit.com/r/ChineseLanguage/comments/1tjj6jz/dictionary_appweb_similar_to_jisho/)
 - subreddit: r/ChineseLanguage
@@ -19,7 +19,7 @@ Generated: 2026-05-26T19:47:09.224Z
 ## [gathering hsk 1 resources for free](https://old.reddit.com/r/ChineseLanguage/comments/1tndfnq/gathering_hsk_1_resources_for_free/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 7
+- comments: 8
 - created: 2026-05-25T16:01:12.000Z
 - matched query: resource
 
@@ -54,7 +54,7 @@ Generated: 2026-05-26T19:47:09.224Z
 ## [How does native learn hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1tnog9b/how_does_native_learn_hanzi/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 42
+- comments: 48
 - created: 2026-05-25T22:46:52.000Z
 - matched query: app OR website pinyin hanzi
 
@@ -71,13 +71,6 @@ Generated: 2026-05-26T19:47:09.224Z
 - comments: 6
 - created: 2026-05-23T15:34:13.000Z
 - matched query: resource
-
-## [How to reach reading automaticity in Chinese and is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1thyod6/how_to_reach_reading_automaticity_in_chinese_and/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 9
-- created: 2026-05-19T20:06:48.000Z
-- matched query: "learn chinese" app
 
 ## [I want to design an app to learn chinese cantonese](https://old.reddit.com/r/ChineseLanguage/comments/1sxulkq/i_want_to_design_an_app_to_learn_chinese_cantonese/)
 - subreddit: r/ChineseLanguage
@@ -106,6 +99,13 @@ Generated: 2026-05-26T19:47:09.224Z
 - comments: 4
 - created: 2026-05-23T22:53:45.000Z
 - matched query: app OR website pinyin hanzi
+
+## [How to reach reading automaticity in Chinese and is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1thyod6/how_to_reach_reading_automaticity_in_chinese_and/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 9
+- created: 2026-05-19T20:06:48.000Z
+- matched query: "learn chinese" app
 
 ## [Best App to Learn Chinese.](https://old.reddit.com/r/ChineseLanguage/comments/1th3ay0/best_app_to_learn_chinese/)
 - subreddit: r/ChineseLanguage

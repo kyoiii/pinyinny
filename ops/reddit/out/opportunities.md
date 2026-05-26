@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-25T23:05:25.741Z
+Generated: 2026-05-26T00:15:53.561Z
 
 ## [How does native learn hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1tnog9b/how_does_native_learn_hanzi/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 3
+- comments: 14
 - created: 2026-05-25T22:46:52.000Z
 - matched query: app OR website pinyin hanzi
 
@@ -58,6 +58,13 @@ Generated: 2026-05-25T23:05:25.741Z
 - created: 2026-05-01T11:01:33.000Z
 - matched query: "learn chinese" app
 
+## [Zhong Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tnp9v1/zhong_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 1
+- created: 2026-05-25T23:21:17.000Z
+- matched query: resource
+
 ## [How to reach reading automaticity in Chinese and is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1thyod6/how_to_reach_reading_automaticity_in_chinese_and/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -82,7 +89,7 @@ Generated: 2026-05-25T23:05:25.741Z
 ## [How I stopped feeling completely hopeless when learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tmimhz/how_i_stopped_feeling_completely_hopeless_when/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 29
+- comments: 30
 - created: 2026-05-24T17:33:40.000Z
 - matched query: app OR website pinyin hanzi
 
@@ -106,13 +113,6 @@ Generated: 2026-05-25T23:05:25.741Z
 - comments: 13
 - created: 2026-05-18T22:16:19.000Z
 - matched query: "learn chinese" app
-
-## [Beginner looks for resources and tips](https://old.reddit.com/r/ChineseLanguage/comments/1tgarhp/beginner_looks_for_resources_and_tips/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 10
-- created: 2026-05-18T03:35:10.000Z
-- matched query: resource
 
 ## [How can I learn chinese?(Self study) Complete beginning I only know nihao](https://old.reddit.com/r/ChineseLanguage/comments/1tfq0vf/how_can_i_learn_chineseself_study_complete/)
 - subreddit: r/ChineseLanguage

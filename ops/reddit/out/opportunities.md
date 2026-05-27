@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-27T14:42:51.735Z
+Generated: 2026-05-27T17:46:26.347Z
 
 ## [Apps or podcasts for learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tp3iqf/apps_or_podcasts_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 4
+- comments: 5
 - created: 2026-05-27T12:04:10.000Z
 - matched query: "learn chinese" app
 
@@ -54,7 +54,7 @@ Generated: 2026-05-27T14:42:51.735Z
 ## [700 Characters. What's next?](https://old.reddit.com/r/ChineseLanguage/comments/1toy52w/700_characters_whats_next/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 44
+- comments: 45
 - created: 2026-05-27T07:19:00.000Z
 - matched query: flashcard app
 

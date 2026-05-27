@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-27T19:52:03.767Z
+Generated: 2026-05-27T21:48:59.625Z
 
 ## [Apps or podcasts for learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tp3iqf/apps_or_podcasts_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -16,18 +16,18 @@ Generated: 2026-05-27T19:52:03.767Z
 - created: 2026-05-21T12:35:45.000Z
 - matched query: "learn chinese" app
 
-## [methods/resources for learning chinese with limited understanding? especially for politics/news](https://old.reddit.com/r/ChineseLanguage/comments/1tiyot4/methodsresources_for_learning_chinese_with/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 7
-- created: 2026-05-20T20:54:22.000Z
-- matched query: resource
-
 ## [gathering hsk 1 resources for free](https://old.reddit.com/r/ChineseLanguage/comments/1tndfnq/gathering_hsk_1_resources_for_free/)
 - subreddit: r/ChineseLanguage
 - score: 6
 - comments: 8
 - created: 2026-05-25T16:01:12.000Z
+- matched query: resource
+
+## [methods/resources for learning chinese with limited understanding? especially for politics/news](https://old.reddit.com/r/ChineseLanguage/comments/1tiyot4/methodsresources_for_learning_chinese_with/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 7
+- created: 2026-05-20T20:54:22.000Z
 - matched query: resource
 
 ## [pinyin camera https://apps.apple.com/app/id6766483875](https://old.reddit.com/r/ChineseLanguage/comments/1tc1swl/pinyin_camera_httpsappsapplecomappid6766483875/)
@@ -44,6 +44,13 @@ Generated: 2026-05-27T19:52:03.767Z
 - created: 2026-05-01T11:01:33.000Z
 - matched query: "learn chinese" app
 
+## [Is an ipad required or a nice-to-have for learning](https://old.reddit.com/r/ChineseLanguage/comments/1tpgt5x/is_an_ipad_required_or_a_nicetohave_for_learning/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 4
+- created: 2026-05-27T19:59:34.000Z
+- matched query: app OR website pinyin hanzi
+
 ## [How to find a native Chinese speaker to teach me](https://old.reddit.com/r/ChineseLanguage/comments/1tozy5o/how_to_find_a_native_chinese_speaker_to_teach_me/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -54,7 +61,7 @@ Generated: 2026-05-27T19:52:03.767Z
 ## [700 Characters. What's next?](https://old.reddit.com/r/ChineseLanguage/comments/1toy52w/700_characters_whats_next/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 51
+- comments: 54
 - created: 2026-05-27T07:19:00.000Z
 - matched query: flashcard app
 
@@ -99,13 +106,6 @@ Generated: 2026-05-27T19:52:03.767Z
 - comments: 63
 - created: 2026-05-25T22:46:52.000Z
 - matched query: app OR website pinyin hanzi
-
-## [Learning veterinary/medical mandarin/cantonese](https://old.reddit.com/r/ChineseLanguage/comments/1tmny99/learning_veterinarymedical_mandarincantonese/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 2
-- created: 2026-05-24T20:54:14.000Z
-- matched query: resource
 
 ## [How to reach reading automaticity in Chinese and is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1thyod6/how_to_reach_reading_automaticity_in_chinese_and/)
 - subreddit: r/ChineseLanguage

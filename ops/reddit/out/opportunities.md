@@ -1,6 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-27T11:34:47.395Z
+Generated: 2026-05-27T14:42:51.735Z
+
+## [Apps or podcasts for learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tp3iqf/apps_or_podcasts_for_learning_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 4
+- created: 2026-05-27T12:04:10.000Z
+- matched query: "learn chinese" app
 
 ## [Dictionary App/Web Similar to Jisho?](https://old.reddit.com/r/ChineseLanguage/comments/1tjj6jz/dictionary_appweb_similar_to_jisho/)
 - subreddit: r/ChineseLanguage
@@ -47,7 +54,7 @@ Generated: 2026-05-27T11:34:47.395Z
 ## [700 Characters. What's next?](https://old.reddit.com/r/ChineseLanguage/comments/1toy52w/700_characters_whats_next/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 42
+- comments: 44
 - created: 2026-05-27T07:19:00.000Z
 - matched query: flashcard app
 
@@ -133,12 +140,5 @@ Generated: 2026-05-27T11:34:47.395Z
 - score: 4
 - comments: 5
 - created: 2026-05-13T10:43:22.000Z
-- matched query: "learn chinese" app
-
-## [Learning hanzi with Hellochinese](https://old.reddit.com/r/ChineseLanguage/comments/1t676kp/learning_hanzi_with_hellochinese/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 5
-- created: 2026-05-07T11:03:25.000Z
 - matched query: "learn chinese" app
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-27T17:46:26.347Z
+Generated: 2026-05-27T19:52:03.767Z
 
 ## [Apps or podcasts for learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tp3iqf/apps_or_podcasts_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -54,7 +54,7 @@ Generated: 2026-05-27T17:46:26.347Z
 ## [700 Characters. What's next?](https://old.reddit.com/r/ChineseLanguage/comments/1toy52w/700_characters_whats_next/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 45
+- comments: 51
 - created: 2026-05-27T07:19:00.000Z
 - matched query: flashcard app
 

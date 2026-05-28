@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-28T16:24:35.395Z
+Generated: 2026-05-28T19:11:44.789Z
 
 ## [What resources do you recommend?](https://old.reddit.com/r/ChineseLanguage/comments/1tplbf6/what_resources_do_you_recommend/)
 - subreddit: r/ChineseLanguage
@@ -15,6 +15,13 @@ Generated: 2026-05-28T16:24:35.395Z
 - comments: 5
 - created: 2026-05-28T10:02:37.000Z
 - matched query: "learn chinese" app
+
+## [Teaching pinyin at anime con](https://old.reddit.com/r/ChineseLanguage/comments/1tqak9x/teaching_pinyin_at_anime_con/)
+- subreddit: r/ChineseLanguage
+- score: 8
+- comments: 0
+- created: 2026-05-28T17:37:22.000Z
+- matched query: resource
 
 ## [Apps or podcasts for learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tp3iqf/apps_or_podcasts_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -82,7 +89,7 @@ Generated: 2026-05-28T16:24:35.395Z
 ## [700 Characters. What's next?](https://old.reddit.com/r/ChineseLanguage/comments/1toy52w/700_characters_whats_next/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 59
+- comments: 60
 - created: 2026-05-27T07:19:00.000Z
 - matched query: flashcard app
 
@@ -133,12 +140,5 @@ Generated: 2026-05-28T16:24:35.395Z
 - score: 4
 - comments: 11
 - created: 2026-05-13T11:16:16.000Z
-- matched query: "learn chinese" app
-
-## [Anyone else do this to learn chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tbvw53/anyone_else_do_this_to_learn_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 5
-- created: 2026-05-13T10:43:22.000Z
 - matched query: "learn chinese" app
 

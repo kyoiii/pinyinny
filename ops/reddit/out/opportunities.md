@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-28T00:12:36.991Z
+Generated: 2026-05-28T04:43:23.249Z
 
 ## [What resources do you recommend?](https://old.reddit.com/r/ChineseLanguage/comments/1tplbf6/what_resources_do_you_recommend/)
 - subreddit: r/ChineseLanguage
-- score: 12
-- comments: 0
+- score: 11
+- comments: 4
 - created: 2026-05-27T22:47:55.000Z
 - matched query: flashcard app
 
@@ -47,21 +47,21 @@ Generated: 2026-05-28T00:12:36.991Z
 ## [Is an ipad required or a nice-to-have for learning](https://old.reddit.com/r/ChineseLanguage/comments/1tpgt5x/is_an_ipad_required_or_a_nicetohave_for_learning/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 5
+- comments: 10
 - created: 2026-05-27T19:59:34.000Z
 - matched query: app OR website pinyin hanzi
 
 ## [How to find a native Chinese speaker to teach me](https://old.reddit.com/r/ChineseLanguage/comments/1tozy5o/how_to_find_a_native_chinese_speaker_to_teach_me/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 4
+- comments: 5
 - created: 2026-05-27T09:01:50.000Z
 - matched query: "learn chinese" app
 
 ## [700 Characters. What's next?](https://old.reddit.com/r/ChineseLanguage/comments/1toy52w/700_characters_whats_next/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 54
+- comments: 58
 - created: 2026-05-27T07:19:00.000Z
 - matched query: flashcard app
 

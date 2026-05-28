@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-27T23:05:57.223Z
+Generated: 2026-05-28T00:12:36.991Z
 
 ## [What resources do you recommend?](https://old.reddit.com/r/ChineseLanguage/comments/1tplbf6/what_resources_do_you_recommend/)
 - subreddit: r/ChineseLanguage
@@ -30,13 +30,6 @@ Generated: 2026-05-27T23:05:57.223Z
 - created: 2026-05-25T16:01:12.000Z
 - matched query: resource
 
-## [methods/resources for learning chinese with limited understanding? especially for politics/news](https://old.reddit.com/r/ChineseLanguage/comments/1tiyot4/methodsresources_for_learning_chinese_with/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 7
-- created: 2026-05-20T20:54:22.000Z
-- matched query: resource
-
 ## [pinyin camera https://apps.apple.com/app/id6766483875](https://old.reddit.com/r/ChineseLanguage/comments/1tc1swl/pinyin_camera_httpsappsapplecomappid6766483875/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -54,7 +47,7 @@ Generated: 2026-05-27T23:05:57.223Z
 ## [Is an ipad required or a nice-to-have for learning](https://old.reddit.com/r/ChineseLanguage/comments/1tpgt5x/is_an_ipad_required_or_a_nicetohave_for_learning/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 4
+- comments: 5
 - created: 2026-05-27T19:59:34.000Z
 - matched query: app OR website pinyin hanzi
 
@@ -110,7 +103,7 @@ Generated: 2026-05-27T23:05:57.223Z
 ## [How does native learn hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1tnog9b/how_does_native_learn_hanzi/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 63
+- comments: 64
 - created: 2026-05-25T22:46:52.000Z
 - matched query: app OR website pinyin hanzi
 
@@ -140,5 +133,12 @@ Generated: 2026-05-27T23:05:57.223Z
 - score: 4
 - comments: 11
 - created: 2026-05-13T11:16:16.000Z
+- matched query: "learn chinese" app
+
+## [Anyone else do this to learn chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tbvw53/anyone_else_do_this_to_learn_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 5
+- created: 2026-05-13T10:43:22.000Z
 - matched query: "learn chinese" app
 

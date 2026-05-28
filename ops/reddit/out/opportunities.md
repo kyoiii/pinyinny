@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-28T08:34:32.419Z
+Generated: 2026-05-28T12:02:48.165Z
 
 ## [What resources do you recommend?](https://old.reddit.com/r/ChineseLanguage/comments/1tplbf6/what_resources_do_you_recommend/)
 - subreddit: r/ChineseLanguage
@@ -8,6 +8,13 @@ Generated: 2026-05-28T08:34:32.419Z
 - comments: 5
 - created: 2026-05-27T22:47:55.000Z
 - matched query: flashcard app
+
+## [What do you think are the best apps for learning Chinese, listed by category?](https://old.reddit.com/r/ChineseLanguage/comments/1tpz3wq/what_do_you_think_are_the_best_apps_for_learning/)
+- subreddit: r/ChineseLanguage
+- score: 9
+- comments: 2
+- created: 2026-05-28T10:02:37.000Z
+- matched query: "learn chinese" app
 
 ## [Apps or podcasts for learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tp3iqf/apps_or_podcasts_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -47,16 +54,9 @@ Generated: 2026-05-28T08:34:32.419Z
 ## [Is an ipad required or a nice-to-have for learning](https://old.reddit.com/r/ChineseLanguage/comments/1tpgt5x/is_an_ipad_required_or_a_nicetohave_for_learning/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 11
+- comments: 12
 - created: 2026-05-27T19:59:34.000Z
 - matched query: app OR website pinyin hanzi
-
-## [How to find a native Chinese speaker to teach me](https://old.reddit.com/r/ChineseLanguage/comments/1tozy5o/how_to_find_a_native_chinese_speaker_to_teach_me/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 5
-- created: 2026-05-27T09:01:50.000Z
-- matched query: "learn chinese" app
 
 ## [How do you learn ???](https://old.reddit.com/r/ChineseLanguage/comments/1tllldv/how_do_you_learn/)
 - subreddit: r/ChineseLanguage
@@ -72,11 +72,11 @@ Generated: 2026-05-28T08:34:32.419Z
 - created: 2026-05-23T15:34:13.000Z
 - matched query: resource
 
-## [I want to design an app to learn chinese cantonese](https://old.reddit.com/r/ChineseLanguage/comments/1sxulkq/i_want_to_design_an_app_to_learn_chinese_cantonese/)
+## [How to find a native Chinese speaker to teach me](https://old.reddit.com/r/ChineseLanguage/comments/1tozy5o/how_to_find_a_native_chinese_speaker_to_teach_me/)
 - subreddit: r/ChineseLanguage
-- score: 5
-- comments: 0
-- created: 2026-04-28T07:43:11.000Z
+- score: 4
+- comments: 5
+- created: 2026-05-27T09:01:50.000Z
 - matched query: "learn chinese" app
 
 ## [700 Characters. What's next?](https://old.reddit.com/r/ChineseLanguage/comments/1toy52w/700_characters_whats_next/)

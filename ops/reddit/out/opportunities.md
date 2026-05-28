@@ -1,41 +1,34 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-28T12:02:48.165Z
+Generated: 2026-05-28T16:24:35.395Z
 
 ## [What resources do you recommend?](https://old.reddit.com/r/ChineseLanguage/comments/1tplbf6/what_resources_do_you_recommend/)
 - subreddit: r/ChineseLanguage
 - score: 11
-- comments: 5
+- comments: 6
 - created: 2026-05-27T22:47:55.000Z
 - matched query: flashcard app
 
 ## [What do you think are the best apps for learning Chinese, listed by category?](https://old.reddit.com/r/ChineseLanguage/comments/1tpz3wq/what_do_you_think_are_the_best_apps_for_learning/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 2
+- comments: 5
 - created: 2026-05-28T10:02:37.000Z
 - matched query: "learn chinese" app
 
 ## [Apps or podcasts for learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tp3iqf/apps_or_podcasts_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
-- score: 7
-- comments: 5
+- score: 6
+- comments: 6
 - created: 2026-05-27T12:04:10.000Z
 - matched query: "learn chinese" app
 
 ## [Dictionary App/Web Similar to Jisho?](https://old.reddit.com/r/ChineseLanguage/comments/1tjj6jz/dictionary_appweb_similar_to_jisho/)
 - subreddit: r/ChineseLanguage
-- score: 7
+- score: 6
 - comments: 6
 - created: 2026-05-21T12:35:45.000Z
 - matched query: "learn chinese" app
-
-## [gathering hsk 1 resources for free](https://old.reddit.com/r/ChineseLanguage/comments/1tndfnq/gathering_hsk_1_resources_for_free/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 8
-- created: 2026-05-25T16:01:12.000Z
-- matched query: resource
 
 ## [pinyin camera https://apps.apple.com/app/id6766483875](https://old.reddit.com/r/ChineseLanguage/comments/1tc1swl/pinyin_camera_httpsappsapplecomappid6766483875/)
 - subreddit: r/ChineseLanguage
@@ -54,9 +47,16 @@ Generated: 2026-05-28T12:02:48.165Z
 ## [Is an ipad required or a nice-to-have for learning](https://old.reddit.com/r/ChineseLanguage/comments/1tpgt5x/is_an_ipad_required_or_a_nicetohave_for_learning/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 12
+- comments: 11
 - created: 2026-05-27T19:59:34.000Z
 - matched query: app OR website pinyin hanzi
+
+## [gathering hsk 1 resources for free](https://old.reddit.com/r/ChineseLanguage/comments/1tndfnq/gathering_hsk_1_resources_for_free/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 8
+- created: 2026-05-25T16:01:12.000Z
+- matched query: resource
 
 ## [How do you learn ???](https://old.reddit.com/r/ChineseLanguage/comments/1tllldv/how_do_you_learn/)
 - subreddit: r/ChineseLanguage
@@ -82,7 +82,7 @@ Generated: 2026-05-28T12:02:48.165Z
 ## [700 Characters. What's next?](https://old.reddit.com/r/ChineseLanguage/comments/1toy52w/700_characters_whats_next/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 58
+- comments: 59
 - created: 2026-05-27T07:19:00.000Z
 - matched query: flashcard app
 
@@ -96,7 +96,7 @@ Generated: 2026-05-28T12:02:48.165Z
 ## [Zhong Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tnp9v1/zhong_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 3
+- comments: 4
 - created: 2026-05-25T23:21:17.000Z
 - matched query: resource
 

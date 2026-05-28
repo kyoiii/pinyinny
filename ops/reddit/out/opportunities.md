@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-28T04:43:23.249Z
+Generated: 2026-05-28T08:34:32.419Z
 
 ## [What resources do you recommend?](https://old.reddit.com/r/ChineseLanguage/comments/1tplbf6/what_resources_do_you_recommend/)
 - subreddit: r/ChineseLanguage
 - score: 11
-- comments: 4
+- comments: 5
 - created: 2026-05-27T22:47:55.000Z
 - matched query: flashcard app
 
@@ -47,7 +47,7 @@ Generated: 2026-05-28T04:43:23.249Z
 ## [Is an ipad required or a nice-to-have for learning](https://old.reddit.com/r/ChineseLanguage/comments/1tpgt5x/is_an_ipad_required_or_a_nicetohave_for_learning/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 10
+- comments: 11
 - created: 2026-05-27T19:59:34.000Z
 - matched query: app OR website pinyin hanzi
 
@@ -57,13 +57,6 @@ Generated: 2026-05-28T04:43:23.249Z
 - comments: 5
 - created: 2026-05-27T09:01:50.000Z
 - matched query: "learn chinese" app
-
-## [700 Characters. What's next?](https://old.reddit.com/r/ChineseLanguage/comments/1toy52w/700_characters_whats_next/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 58
-- created: 2026-05-27T07:19:00.000Z
-- matched query: flashcard app
 
 ## [How do you learn ???](https://old.reddit.com/r/ChineseLanguage/comments/1tllldv/how_do_you_learn/)
 - subreddit: r/ChineseLanguage
@@ -86,6 +79,13 @@ Generated: 2026-05-28T04:43:23.249Z
 - created: 2026-04-28T07:43:11.000Z
 - matched query: "learn chinese" app
 
+## [700 Characters. What's next?](https://old.reddit.com/r/ChineseLanguage/comments/1toy52w/700_characters_whats_next/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 58
+- created: 2026-05-27T07:19:00.000Z
+- matched query: flashcard app
+
 ## [FRUSTRATED BUT STILL WALKING（水滴石穿）](https://old.reddit.com/r/ChineseLanguage/comments/1tns9s9/frustrated_but_still_walking水滴石穿/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -103,7 +103,7 @@ Generated: 2026-05-28T04:43:23.249Z
 ## [How does native learn hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1tnog9b/how_does_native_learn_hanzi/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 64
+- comments: 65
 - created: 2026-05-25T22:46:52.000Z
 - matched query: app OR website pinyin hanzi
 

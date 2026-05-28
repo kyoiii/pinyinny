@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-28T19:11:44.789Z
+Generated: 2026-05-28T21:22:08.956Z
 
 ## [What resources do you recommend?](https://old.reddit.com/r/ChineseLanguage/comments/1tplbf6/what_resources_do_you_recommend/)
 - subreddit: r/ChineseLanguage
@@ -51,13 +51,6 @@ Generated: 2026-05-28T19:11:44.789Z
 - created: 2026-05-01T11:01:33.000Z
 - matched query: "learn chinese" app
 
-## [Is an ipad required or a nice-to-have for learning](https://old.reddit.com/r/ChineseLanguage/comments/1tpgt5x/is_an_ipad_required_or_a_nicetohave_for_learning/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 11
-- created: 2026-05-27T19:59:34.000Z
-- matched query: app OR website pinyin hanzi
-
 ## [gathering hsk 1 resources for free](https://old.reddit.com/r/ChineseLanguage/comments/1tndfnq/gathering_hsk_1_resources_for_free/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -78,6 +71,13 @@ Generated: 2026-05-28T19:11:44.789Z
 - comments: 6
 - created: 2026-05-23T15:34:13.000Z
 - matched query: resource
+
+## [Is an ipad required or a nice-to-have for learning](https://old.reddit.com/r/ChineseLanguage/comments/1tpgt5x/is_an_ipad_required_or_a_nicetohave_for_learning/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 11
+- created: 2026-05-27T19:59:34.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [How to find a native Chinese speaker to teach me](https://old.reddit.com/r/ChineseLanguage/comments/1tozy5o/how_to_find_a_native_chinese_speaker_to_teach_me/)
 - subreddit: r/ChineseLanguage

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-29T00:05:56.318Z
+Generated: 2026-05-29T04:40:41.676Z
 
 ## [What resources do you recommend?](https://old.reddit.com/r/ChineseLanguage/comments/1tplbf6/what_resources_do_you_recommend/)
 - subreddit: r/ChineseLanguage
@@ -93,13 +93,6 @@ Generated: 2026-05-29T00:05:56.318Z
 - created: 2026-05-27T07:19:00.000Z
 - matched query: flashcard app
 
-## [FRUSTRATED BUT STILL WALKING（水滴石穿）](https://old.reddit.com/r/ChineseLanguage/comments/1tns9s9/frustrated_but_still_walking水滴石穿/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 12
-- created: 2026-05-26T01:31:06.000Z
-- matched query: resource
-
 ## [How to reach reading automaticity in Chinese and is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1thyod6/how_to_reach_reading_automaticity_in_chinese_and/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -141,4 +134,11 @@ Generated: 2026-05-29T00:05:56.318Z
 - comments: 5
 - created: 2026-05-07T11:03:25.000Z
 - matched query: "learn chinese" app
+
+## [Looking for a simple Anki deck for extremely basic Chinese for travel phrases (pinyin & audio)](https://old.reddit.com/r/ChineseLanguage/comments/1t3vcre/looking_for_a_simple_anki_deck_for_extremely/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 3
+- created: 2026-05-04T21:28:54.000Z
+- matched query: app OR website pinyin hanzi
 

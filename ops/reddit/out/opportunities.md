@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-28T22:51:44.842Z
+Generated: 2026-05-29T00:05:56.318Z
 
 ## [What resources do you recommend?](https://old.reddit.com/r/ChineseLanguage/comments/1tplbf6/what_resources_do_you_recommend/)
 - subreddit: r/ChineseLanguage
@@ -18,8 +18,8 @@ Generated: 2026-05-28T22:51:44.842Z
 
 ## [Teaching pinyin at anime con](https://old.reddit.com/r/ChineseLanguage/comments/1tqak9x/teaching_pinyin_at_anime_con/)
 - subreddit: r/ChineseLanguage
-- score: 8
-- comments: 0
+- score: 7
+- comments: 1
 - created: 2026-05-28T17:37:22.000Z
 - matched query: resource
 
@@ -82,7 +82,7 @@ Generated: 2026-05-28T22:51:44.842Z
 ## [How to find a native Chinese speaker to teach me](https://old.reddit.com/r/ChineseLanguage/comments/1tozy5o/how_to_find_a_native_chinese_speaker_to_teach_me/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 5
+- comments: 6
 - created: 2026-05-27T09:01:50.000Z
 - matched query: "learn chinese" app
 
@@ -98,13 +98,6 @@ Generated: 2026-05-28T22:51:44.842Z
 - score: 4
 - comments: 12
 - created: 2026-05-26T01:31:06.000Z
-- matched query: resource
-
-## [Zhong Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tnp9v1/zhong_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 4
-- created: 2026-05-25T23:21:17.000Z
 - matched query: resource
 
 ## [How to reach reading automaticity in Chinese and is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1thyod6/how_to_reach_reading_automaticity_in_chinese_and/)
@@ -140,5 +133,12 @@ Generated: 2026-05-28T22:51:44.842Z
 - score: 4
 - comments: 5
 - created: 2026-05-13T10:43:22.000Z
+- matched query: "learn chinese" app
+
+## [Learning hanzi with Hellochinese](https://old.reddit.com/r/ChineseLanguage/comments/1t676kp/learning_hanzi_with_hellochinese/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 5
+- created: 2026-05-07T11:03:25.000Z
 - matched query: "learn chinese" app
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-29T22:19:51.383Z
+Generated: 2026-05-29T23:46:43.976Z
 
 ## [What resources do you recommend?](https://old.reddit.com/r/ChineseLanguage/comments/1tplbf6/what_resources_do_you_recommend/)
 - subreddit: r/ChineseLanguage
@@ -19,7 +19,7 @@ Generated: 2026-05-29T22:19:51.383Z
 ## [What’s the quickest way to learn how to read Chinese characters?](https://old.reddit.com/r/ChineseLanguage/comments/1trdtnh/whats_the_quickest_way_to_learn_how_to_read/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 7
+- comments: 8
 - created: 2026-05-29T19:59:23.000Z
 - matched query: resource
 
@@ -96,7 +96,7 @@ Generated: 2026-05-29T22:19:51.383Z
 ## [How to find a native Chinese speaker to teach me](https://old.reddit.com/r/ChineseLanguage/comments/1tozy5o/how_to_find_a_native_chinese_speaker_to_teach_me/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 7
+- comments: 8
 - created: 2026-05-27T09:01:50.000Z
 - matched query: "learn chinese" app
 

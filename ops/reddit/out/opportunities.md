@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-30T08:07:32.959Z
+Generated: 2026-05-30T10:16:34.090Z
 
 ## [What resources do you recommend?](https://old.reddit.com/r/ChineseLanguage/comments/1tplbf6/what_resources_do_you_recommend/)
 - subreddit: r/ChineseLanguage
@@ -68,7 +68,7 @@ Generated: 2026-05-30T08:07:32.959Z
 ## [Requesting advice on learning Chinese from the very beginning](https://old.reddit.com/r/ChineseLanguage/comments/1trplz6/requesting_advice_on_learning_chinese_from_the/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 5
+- comments: 6
 - created: 2026-05-30T04:24:02.000Z
 - matched query: resource
 
@@ -107,13 +107,6 @@ Generated: 2026-05-30T08:07:32.959Z
 - created: 2026-05-27T19:59:34.000Z
 - matched query: app OR website pinyin hanzi
 
-## [How to find a native Chinese speaker to teach me](https://old.reddit.com/r/ChineseLanguage/comments/1tozy5o/how_to_find_a_native_chinese_speaker_to_teach_me/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 8
-- created: 2026-05-27T09:01:50.000Z
-- matched query: "learn chinese" app
-
 ## [How to reach reading automaticity in Chinese and is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1thyod6/how_to_reach_reading_automaticity_in_chinese_and/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -140,5 +133,12 @@ Generated: 2026-05-30T08:07:32.959Z
 - score: 4
 - comments: 11
 - created: 2026-05-13T11:16:16.000Z
+- matched query: "learn chinese" app
+
+## [Anyone else do this to learn chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tbvw53/anyone_else_do_this_to_learn_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 5
+- created: 2026-05-13T10:43:22.000Z
 - matched query: "learn chinese" app
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-30T05:36:43.128Z
+Generated: 2026-05-30T08:07:32.959Z
 
 ## [What resources do you recommend?](https://old.reddit.com/r/ChineseLanguage/comments/1tplbf6/what_resources_do_you_recommend/)
 - subreddit: r/ChineseLanguage
@@ -26,7 +26,7 @@ Generated: 2026-05-30T05:36:43.128Z
 ## [best chinese media/motivations to learn chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tr9gkz/best_chinese_mediamotivations_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 4
+- comments: 5
 - created: 2026-05-29T17:39:20.000Z
 - matched query: resource
 
@@ -68,7 +68,7 @@ Generated: 2026-05-30T05:36:43.128Z
 ## [Requesting advice on learning Chinese from the very beginning](https://old.reddit.com/r/ChineseLanguage/comments/1trplz6/requesting_advice_on_learning_chinese_from_the/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 4
+- comments: 5
 - created: 2026-05-30T04:24:02.000Z
 - matched query: resource
 
@@ -114,13 +114,6 @@ Generated: 2026-05-30T05:36:43.128Z
 - created: 2026-05-27T09:01:50.000Z
 - matched query: "learn chinese" app
 
-## [700 Characters. What's next?](https://old.reddit.com/r/ChineseLanguage/comments/1toy52w/700_characters_whats_next/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 62
-- created: 2026-05-27T07:19:00.000Z
-- matched query: flashcard app
-
 ## [How to reach reading automaticity in Chinese and is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1thyod6/how_to_reach_reading_automaticity_in_chinese_and/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -140,5 +133,12 @@ Generated: 2026-05-30T05:36:43.128Z
 - score: 4
 - comments: 2
 - created: 2026-05-17T13:46:51.000Z
+- matched query: "learn chinese" app
+
+## [Best app for learning](https://old.reddit.com/r/ChineseLanguage/comments/1tbwk45/best_app_for_learning/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 11
+- created: 2026-05-13T11:16:16.000Z
 - matched query: "learn chinese" app
 

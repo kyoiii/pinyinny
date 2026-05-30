@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-30T15:53:19.372Z
+Generated: 2026-05-30T17:01:17.915Z
 
 ## [What resources do you recommend?](https://old.reddit.com/r/ChineseLanguage/comments/1tplbf6/what_resources_do_you_recommend/)
 - subreddit: r/ChineseLanguage
@@ -86,19 +86,19 @@ Generated: 2026-05-30T15:53:19.372Z
 - created: 2026-05-25T16:01:12.000Z
 - matched query: resource
 
-## [How do you learn ???](https://old.reddit.com/r/ChineseLanguage/comments/1tllldv/how_do_you_learn/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 6
-- created: 2026-05-23T16:48:05.000Z
-- matched query: "learn chinese" app
-
 ## [Is an ipad required or a nice-to-have for learning](https://old.reddit.com/r/ChineseLanguage/comments/1tpgt5x/is_an_ipad_required_or_a_nicetohave_for_learning/)
 - subreddit: r/ChineseLanguage
 - score: 4
 - comments: 11
 - created: 2026-05-27T19:59:34.000Z
 - matched query: app OR website pinyin hanzi
+
+## [How do you learn ???](https://old.reddit.com/r/ChineseLanguage/comments/1tllldv/how_do_you_learn/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 6
+- created: 2026-05-23T16:48:05.000Z
+- matched query: "learn chinese" app
 
 ## [Resources for advanced learners](https://old.reddit.com/r/ChineseLanguage/comments/1tljo38/resources_for_advanced_learners/)
 - subreddit: r/ChineseLanguage

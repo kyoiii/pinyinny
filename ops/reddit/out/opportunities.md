@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-30T01:45:27.499Z
+Generated: 2026-05-30T05:36:43.128Z
 
 ## [What resources do you recommend?](https://old.reddit.com/r/ChineseLanguage/comments/1tplbf6/what_resources_do_you_recommend/)
 - subreddit: r/ChineseLanguage
@@ -19,14 +19,14 @@ Generated: 2026-05-30T01:45:27.499Z
 ## [What’s the quickest way to learn how to read Chinese characters?](https://old.reddit.com/r/ChineseLanguage/comments/1trdtnh/whats_the_quickest_way_to_learn_how_to_read/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 9
+- comments: 10
 - created: 2026-05-29T19:59:23.000Z
 - matched query: resource
 
 ## [best chinese media/motivations to learn chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tr9gkz/best_chinese_mediamotivations_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 3
+- comments: 4
 - created: 2026-05-29T17:39:20.000Z
 - matched query: resource
 
@@ -64,6 +64,13 @@ Generated: 2026-05-30T01:45:27.499Z
 - comments: 20
 - created: 2026-05-01T11:01:33.000Z
 - matched query: "learn chinese" app
+
+## [Requesting advice on learning Chinese from the very beginning](https://old.reddit.com/r/ChineseLanguage/comments/1trplz6/requesting_advice_on_learning_chinese_from_the/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 4
+- created: 2026-05-30T04:24:02.000Z
+- matched query: resource
 
 ## [Learning to read/type](https://old.reddit.com/r/ChineseLanguage/comments/1trk899/learning_to_readtype/)
 - subreddit: r/ChineseLanguage
@@ -133,12 +140,5 @@ Generated: 2026-05-30T01:45:27.499Z
 - score: 4
 - comments: 2
 - created: 2026-05-17T13:46:51.000Z
-- matched query: "learn chinese" app
-
-## [Best app for learning](https://old.reddit.com/r/ChineseLanguage/comments/1tbwk45/best_app_for_learning/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 11
-- created: 2026-05-13T11:16:16.000Z
 - matched query: "learn chinese" app
 

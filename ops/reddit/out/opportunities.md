@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-30T17:01:17.915Z
+Generated: 2026-05-30T18:12:25.077Z
 
 ## [What resources do you recommend?](https://old.reddit.com/r/ChineseLanguage/comments/1tplbf6/what_resources_do_you_recommend/)
 - subreddit: r/ChineseLanguage
@@ -25,7 +25,7 @@ Generated: 2026-05-30T17:01:17.915Z
 
 ## [best chinese media/motivations to learn chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tr9gkz/best_chinese_mediamotivations_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
-- score: 7
+- score: 6
 - comments: 7
 - created: 2026-05-29T17:39:20.000Z
 - matched query: resource

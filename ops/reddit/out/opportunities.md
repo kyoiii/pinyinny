@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-05-30T23:43:43.398Z
+Generated: 2026-05-31T01:54:44.687Z
 
 ## [What resources do you recommend?](https://old.reddit.com/r/ChineseLanguage/comments/1tplbf6/what_resources_do_you_recommend/)
 - subreddit: r/ChineseLanguage
@@ -65,13 +65,6 @@ Generated: 2026-05-30T23:43:43.398Z
 - created: 2026-05-30T04:24:02.000Z
 - matched query: resource
 
-## [Learning to read/type](https://old.reddit.com/r/ChineseLanguage/comments/1trk899/learning_to_readtype/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 3
-- created: 2026-05-30T00:10:45.000Z
-- matched query: resource
-
 ## [Apps or podcasts for learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tp3iqf/apps_or_podcasts_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -86,19 +79,19 @@ Generated: 2026-05-30T23:43:43.398Z
 - created: 2026-05-25T16:01:12.000Z
 - matched query: resource
 
+## [Learning to read/type](https://old.reddit.com/r/ChineseLanguage/comments/1trk899/learning_to_readtype/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 3
+- created: 2026-05-30T00:10:45.000Z
+- matched query: resource
+
 ## [How do you learn ???](https://old.reddit.com/r/ChineseLanguage/comments/1tllldv/how_do_you_learn/)
 - subreddit: r/ChineseLanguage
 - score: 4
 - comments: 6
 - created: 2026-05-23T16:48:05.000Z
 - matched query: "learn chinese" app
-
-## [Resources for advanced learners](https://old.reddit.com/r/ChineseLanguage/comments/1tljo38/resources_for_advanced_learners/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 6
-- created: 2026-05-23T15:34:13.000Z
-- matched query: resource
 
 ## [How to reach reading automaticity in Chinese and is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1thyod6/how_to_reach_reading_automaticity_in_chinese_and/)
 - subreddit: r/ChineseLanguage
@@ -141,4 +134,11 @@ Generated: 2026-05-30T23:43:43.398Z
 - comments: 5
 - created: 2026-05-07T11:03:25.000Z
 - matched query: "learn chinese" app
+
+## [Looking for a simple Anki deck for extremely basic Chinese for travel phrases (pinyin & audio)](https://old.reddit.com/r/ChineseLanguage/comments/1t3vcre/looking_for_a_simple_anki_deck_for_extremely/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 3
+- created: 2026-05-04T21:28:54.000Z
+- matched query: app OR website pinyin hanzi
 

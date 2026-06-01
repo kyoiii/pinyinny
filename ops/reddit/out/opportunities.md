@@ -1,13 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-01T18:51:11.883Z
-
-## [Recommend the best resources for a beginner](https://old.reddit.com/r/ChineseLanguage/comments/1tt6he4/recommend_the_best_resources_for_a_beginner/)
-- subreddit: r/ChineseLanguage
-- score: 9
-- comments: 6
-- created: 2026-05-31T20:28:21.000Z
-- matched query: resource
+Generated: 2026-06-01T21:57:24.702Z
 
 ## [What resources do you recommend?](https://old.reddit.com/r/ChineseLanguage/comments/1tplbf6/what_resources_do_you_recommend/)
 - subreddit: r/ChineseLanguage
@@ -16,26 +9,26 @@ Generated: 2026-06-01T18:51:11.883Z
 - created: 2026-05-27T22:47:55.000Z
 - matched query: flashcard app
 
+## [Recommended Courses for toddlers and parents](https://old.reddit.com/r/ChineseLanguage/comments/1tu6bpj/recommended_courses_for_toddlers_and_parents/)
+- subreddit: r/ChineseLanguage
+- score: 8
+- comments: 0
+- created: 2026-06-01T21:25:01.000Z
+- matched query: "learn chinese" app
+
+## [Recommend the best resources for a beginner](https://old.reddit.com/r/ChineseLanguage/comments/1tt6he4/recommend_the_best_resources_for_a_beginner/)
+- subreddit: r/ChineseLanguage
+- score: 8
+- comments: 6
+- created: 2026-05-31T20:28:21.000Z
+- matched query: resource
+
 ## [What do you think are the best apps for learning Chinese, listed by category?](https://old.reddit.com/r/ChineseLanguage/comments/1tpz3wq/what_do_you_think_are_the_best_apps_for_learning/)
 - subreddit: r/ChineseLanguage
 - score: 7
 - comments: 5
 - created: 2026-05-28T10:02:37.000Z
 - matched query: "learn chinese" app
-
-## [Help identifying my family’s generation name.](https://old.reddit.com/r/ChineseLanguage/comments/1ttz6ev/help_identifying_my_familys_generation_name/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-06-01T17:24:11.000Z
-- matched query: resource
-
-## [What’s the quickest way to learn how to read Chinese characters?](https://old.reddit.com/r/ChineseLanguage/comments/1trdtnh/whats_the_quickest_way_to_learn_how_to_read/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 13
-- created: 2026-05-29T19:59:23.000Z
-- matched query: resource
 
 ## [Dictionary App/Web Similar to Jisho?](https://old.reddit.com/r/ChineseLanguage/comments/1tjj6jz/dictionary_appweb_similar_to_jisho/)
 - subreddit: r/ChineseLanguage
@@ -57,6 +50,20 @@ Generated: 2026-06-01T18:51:11.883Z
 - comments: 20
 - created: 2026-05-01T11:01:33.000Z
 - matched query: "learn chinese" app
+
+## [Help identifying my family’s generation name.](https://old.reddit.com/r/ChineseLanguage/comments/1ttz6ev/help_identifying_my_familys_generation_name/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 1
+- created: 2026-06-01T17:24:11.000Z
+- matched query: resource
+
+## [What’s the quickest way to learn how to read Chinese characters?](https://old.reddit.com/r/ChineseLanguage/comments/1trdtnh/whats_the_quickest_way_to_learn_how_to_read/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 13
+- created: 2026-05-29T19:59:23.000Z
+- matched query: resource
 
 ## [best chinese media/motivations to learn chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tr9gkz/best_chinese_mediamotivations_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -133,12 +140,5 @@ Generated: 2026-06-01T18:51:11.883Z
 - score: 4
 - comments: 11
 - created: 2026-05-13T11:16:16.000Z
-- matched query: "learn chinese" app
-
-## [Anyone else do this to learn chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tbvw53/anyone_else_do_this_to_learn_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 5
-- created: 2026-05-13T10:43:22.000Z
 - matched query: "learn chinese" app
 

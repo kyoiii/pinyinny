@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-01T13:08:44.132Z
+Generated: 2026-06-01T18:51:11.883Z
 
 ## [Recommend the best resources for a beginner](https://old.reddit.com/r/ChineseLanguage/comments/1tt6he4/recommend_the_best_resources_for_a_beginner/)
 - subreddit: r/ChineseLanguage
@@ -23,18 +23,18 @@ Generated: 2026-06-01T13:08:44.132Z
 - created: 2026-05-28T10:02:37.000Z
 - matched query: "learn chinese" app
 
+## [Help identifying my family’s generation name.](https://old.reddit.com/r/ChineseLanguage/comments/1ttz6ev/help_identifying_my_familys_generation_name/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 0
+- created: 2026-06-01T17:24:11.000Z
+- matched query: resource
+
 ## [What’s the quickest way to learn how to read Chinese characters?](https://old.reddit.com/r/ChineseLanguage/comments/1trdtnh/whats_the_quickest_way_to_learn_how_to_read/)
 - subreddit: r/ChineseLanguage
 - score: 6
 - comments: 13
 - created: 2026-05-29T19:59:23.000Z
-- matched query: resource
-
-## [best chinese media/motivations to learn chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tr9gkz/best_chinese_mediamotivations_to_learn_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 7
-- created: 2026-05-29T17:39:20.000Z
 - matched query: resource
 
 ## [Dictionary App/Web Similar to Jisho?](https://old.reddit.com/r/ChineseLanguage/comments/1tjj6jz/dictionary_appweb_similar_to_jisho/)
@@ -58,6 +58,13 @@ Generated: 2026-06-01T13:08:44.132Z
 - created: 2026-05-01T11:01:33.000Z
 - matched query: "learn chinese" app
 
+## [best chinese media/motivations to learn chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tr9gkz/best_chinese_mediamotivations_to_learn_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 7
+- created: 2026-05-29T17:39:20.000Z
+- matched query: resource
+
 ## [Teaching pinyin at anime con](https://old.reddit.com/r/ChineseLanguage/comments/1tqak9x/teaching_pinyin_at_anime_con/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -72,17 +79,10 @@ Generated: 2026-06-01T13:08:44.132Z
 - created: 2026-05-27T12:04:10.000Z
 - matched query: "learn chinese" app
 
-## [gathering hsk 1 resources for free](https://old.reddit.com/r/ChineseLanguage/comments/1tndfnq/gathering_hsk_1_resources_for_free/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 8
-- created: 2026-05-25T16:01:12.000Z
-- matched query: resource
-
 ## [Requesting advice on learning Chinese from the very beginning](https://old.reddit.com/r/ChineseLanguage/comments/1trplz6/requesting_advice_on_learning_chinese_from_the/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 14
+- comments: 12
 - created: 2026-05-30T04:24:02.000Z
 - matched query: resource
 
@@ -91,6 +91,13 @@ Generated: 2026-06-01T13:08:44.132Z
 - score: 4
 - comments: 3
 - created: 2026-05-30T00:10:45.000Z
+- matched query: resource
+
+## [gathering hsk 1 resources for free](https://old.reddit.com/r/ChineseLanguage/comments/1tndfnq/gathering_hsk_1_resources_for_free/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 8
+- created: 2026-05-25T16:01:12.000Z
 - matched query: resource
 
 ## [How do you learn ???](https://old.reddit.com/r/ChineseLanguage/comments/1tllldv/how_do_you_learn/)
@@ -133,12 +140,5 @@ Generated: 2026-06-01T13:08:44.132Z
 - score: 4
 - comments: 5
 - created: 2026-05-13T10:43:22.000Z
-- matched query: "learn chinese" app
-
-## [Learning hanzi with Hellochinese](https://old.reddit.com/r/ChineseLanguage/comments/1t676kp/learning_hanzi_with_hellochinese/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 5
-- created: 2026-05-07T11:03:25.000Z
 - matched query: "learn chinese" app
 

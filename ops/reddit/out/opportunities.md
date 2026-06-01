@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-01T02:05:27.827Z
+Generated: 2026-06-01T07:21:23.500Z
 
 ## [Recommend the best resources for a beginner](https://old.reddit.com/r/ChineseLanguage/comments/1tt6he4/recommend_the_best_resources_for_a_beginner/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 3
+- comments: 5
 - created: 2026-05-31T20:28:21.000Z
 - matched query: resource
 

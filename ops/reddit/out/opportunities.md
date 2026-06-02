@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-02T18:57:24.461Z
+Generated: 2026-06-02T21:55:32.562Z
 
 ## [Is Merry Mandarin a good app to learn Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tuow5s/is_merry_mandarin_a_good_app_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 2
+- comments: 3
 - created: 2026-06-02T12:04:15.000Z
 - matched query: "learn chinese" app
 
@@ -23,18 +23,18 @@ Generated: 2026-06-02T18:57:24.461Z
 - created: 2026-05-31T20:28:21.000Z
 - matched query: resource
 
-## [Recommended Courses for toddlers and parents](https://old.reddit.com/r/ChineseLanguage/comments/1tu6bpj/recommended_courses_for_toddlers_and_parents/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 3
-- created: 2026-06-01T21:25:01.000Z
-- matched query: "learn chinese" app
-
 ## [What do you think are the best apps for learning Chinese, listed by category?](https://old.reddit.com/r/ChineseLanguage/comments/1tpz3wq/what_do_you_think_are_the_best_apps_for_learning/)
 - subreddit: r/ChineseLanguage
 - score: 7
 - comments: 5
 - created: 2026-05-28T10:02:37.000Z
+- matched query: "learn chinese" app
+
+## [Recommended Courses for toddlers and parents](https://old.reddit.com/r/ChineseLanguage/comments/1tu6bpj/recommended_courses_for_toddlers_and_parents/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 3
+- created: 2026-06-01T21:25:01.000Z
 - matched query: "learn chinese" app
 
 ## [Dictionary App/Web Similar to Jisho?](https://old.reddit.com/r/ChineseLanguage/comments/1tjj6jz/dictionary_appweb_similar_to_jisho/)

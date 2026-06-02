@@ -1,6 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-02T11:16:51.556Z
+Generated: 2026-06-02T15:14:49.764Z
+
+## [Is Merry Mandarin a good app to learn Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tuow5s/is_merry_mandarin_a_good_app_to_learn_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 9
+- comments: 2
+- created: 2026-06-02T12:04:15.000Z
+- matched query: "learn chinese" app
 
 ## [What resources do you recommend?](https://old.reddit.com/r/ChineseLanguage/comments/1tplbf6/what_resources_do_you_recommend/)
 - subreddit: r/ChineseLanguage
@@ -19,7 +26,7 @@ Generated: 2026-06-02T11:16:51.556Z
 ## [Recommended Courses for toddlers and parents](https://old.reddit.com/r/ChineseLanguage/comments/1tu6bpj/recommended_courses_for_toddlers_and_parents/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 1
+- comments: 3
 - created: 2026-06-01T21:25:01.000Z
 - matched query: "learn chinese" app
 
@@ -134,11 +141,4 @@ Generated: 2026-06-02T11:16:51.556Z
 - comments: 3
 - created: 2026-05-04T21:28:54.000Z
 - matched query: app OR website pinyin hanzi
-
-## [What is the best way to learn Chinese language?](https://old.reddit.com/r/ChineseLanguage/comments/1t27gtb/what_is_the_best_way_to_learn_chinese_language/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 4
-- created: 2026-05-03T01:14:37.000Z
-- matched query: "learn chinese" app
 

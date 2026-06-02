@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-02T15:14:49.764Z
+Generated: 2026-06-02T18:57:24.461Z
 
 ## [Is Merry Mandarin a good app to learn Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tuow5s/is_merry_mandarin_a_good_app_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -51,13 +51,6 @@ Generated: 2026-06-02T15:14:49.764Z
 - created: 2026-05-13T14:45:45.000Z
 - matched query: app OR website pinyin hanzi
 
-## [Help identifying my family’s generation name.](https://old.reddit.com/r/ChineseLanguage/comments/1ttz6ev/help_identifying_my_familys_generation_name/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 8
-- created: 2026-06-01T17:24:11.000Z
-- matched query: resource
-
 ## [What’s the quickest way to learn how to read Chinese characters?](https://old.reddit.com/r/ChineseLanguage/comments/1trdtnh/whats_the_quickest_way_to_learn_how_to_read/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -85,6 +78,13 @@ Generated: 2026-06-02T15:14:49.764Z
 - comments: 7
 - created: 2026-05-27T12:04:10.000Z
 - matched query: "learn chinese" app
+
+## [Help identifying my family’s generation name.](https://old.reddit.com/r/ChineseLanguage/comments/1ttz6ev/help_identifying_my_familys_generation_name/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 10
+- created: 2026-06-01T17:24:11.000Z
+- matched query: resource
 
 ## [How do you learn ???](https://old.reddit.com/r/ChineseLanguage/comments/1tllldv/how_do_you_learn/)
 - subreddit: r/ChineseLanguage

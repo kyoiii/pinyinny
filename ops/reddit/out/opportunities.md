@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-02T06:53:45.495Z
+Generated: 2026-06-02T11:16:51.556Z
 
 ## [What resources do you recommend?](https://old.reddit.com/r/ChineseLanguage/comments/1tplbf6/what_resources_do_you_recommend/)
 - subreddit: r/ChineseLanguage
@@ -12,7 +12,7 @@ Generated: 2026-06-02T06:53:45.495Z
 ## [Recommend the best resources for a beginner](https://old.reddit.com/r/ChineseLanguage/comments/1tt6he4/recommend_the_best_resources_for_a_beginner/)
 - subreddit: r/ChineseLanguage
 - score: 8
-- comments: 6
+- comments: 7
 - created: 2026-05-31T20:28:21.000Z
 - matched query: resource
 
@@ -47,7 +47,7 @@ Generated: 2026-06-02T06:53:45.495Z
 ## [Help identifying my family’s generation name.](https://old.reddit.com/r/ChineseLanguage/comments/1ttz6ev/help_identifying_my_familys_generation_name/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 5
+- comments: 8
 - created: 2026-06-01T17:24:11.000Z
 - matched query: resource
 

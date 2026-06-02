@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-02T21:55:32.562Z
+Generated: 2026-06-02T23:48:58.265Z
 
 ## [Is Merry Mandarin a good app to learn Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tuow5s/is_merry_mandarin_a_good_app_to_learn_chinese/)
 - subreddit: r/ChineseLanguage

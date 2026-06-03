@@ -1,13 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-03T20:36:00.420Z
-
-## [What resources do you recommend?](https://old.reddit.com/r/ChineseLanguage/comments/1tplbf6/what_resources_do_you_recommend/)
-- subreddit: r/ChineseLanguage
-- score: 9
-- comments: 6
-- created: 2026-05-27T22:47:55.000Z
-- matched query: flashcard app
+Generated: 2026-06-03T22:52:16.400Z
 
 ## [Is Merry Mandarin a good app to learn Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tuow5s/is_merry_mandarin_a_good_app_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -15,6 +8,13 @@ Generated: 2026-06-03T20:36:00.420Z
 - comments: 7
 - created: 2026-06-02T12:04:15.000Z
 - matched query: "learn chinese" app
+
+## [What resources do you recommend?](https://old.reddit.com/r/ChineseLanguage/comments/1tplbf6/what_resources_do_you_recommend/)
+- subreddit: r/ChineseLanguage
+- score: 8
+- comments: 6
+- created: 2026-05-27T22:47:55.000Z
+- matched query: flashcard app
 
 ## [I'm getting back into learning Chinese. Looking for beta testers for a new Chinese reading app I'm building](https://old.reddit.com/r/ChineseLanguage/comments/1tvj643/im_getting_back_into_learning_chinese_looking_for/)
 - subreddit: r/ChineseLanguage
@@ -82,7 +82,7 @@ Generated: 2026-06-03T20:36:00.420Z
 ## [Teaching pinyin at anime con](https://old.reddit.com/r/ChineseLanguage/comments/1tqak9x/teaching_pinyin_at_anime_con/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 5
+- comments: 6
 - created: 2026-05-28T17:37:22.000Z
 - matched query: resource
 

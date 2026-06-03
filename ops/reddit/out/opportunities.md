@@ -1,13 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-03T07:17:43.341Z
-
-## [Is Merry Mandarin a good app to learn Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tuow5s/is_merry_mandarin_a_good_app_to_learn_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 9
-- comments: 3
-- created: 2026-06-02T12:04:15.000Z
-- matched query: "learn chinese" app
+Generated: 2026-06-03T12:16:05.907Z
 
 ## [What resources do you recommend?](https://old.reddit.com/r/ChineseLanguage/comments/1tplbf6/what_resources_do_you_recommend/)
 - subreddit: r/ChineseLanguage
@@ -16,12 +9,26 @@ Generated: 2026-06-03T07:17:43.341Z
 - created: 2026-05-27T22:47:55.000Z
 - matched query: flashcard app
 
+## [Is Merry Mandarin a good app to learn Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tuow5s/is_merry_mandarin_a_good_app_to_learn_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 8
+- comments: 4
+- created: 2026-06-02T12:04:15.000Z
+- matched query: "learn chinese" app
+
 ## [Recommend the best resources for a beginner](https://old.reddit.com/r/ChineseLanguage/comments/1tt6he4/recommend_the_best_resources_for_a_beginner/)
 - subreddit: r/ChineseLanguage
 - score: 8
 - comments: 7
 - created: 2026-05-31T20:28:21.000Z
 - matched query: resource
+
+## [I'm getting back into learning Chinese. Looking for beta testers for a new Chinese reading app I'm building](https://old.reddit.com/r/ChineseLanguage/comments/1tvj643/im_getting_back_into_learning_chinese_looking_for/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 5
+- created: 2026-06-03T08:32:34.000Z
+- matched query: "learn chinese" app
 
 ## [What do you think are the best apps for learning Chinese, listed by category?](https://old.reddit.com/r/ChineseLanguage/comments/1tpz3wq/what_do_you_think_are_the_best_apps_for_learning/)
 - subreddit: r/ChineseLanguage
@@ -72,19 +79,19 @@ Generated: 2026-06-03T07:17:43.341Z
 - created: 2026-05-28T17:37:22.000Z
 - matched query: resource
 
-## [Apps or podcasts for learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tp3iqf/apps_or_podcasts_for_learning_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 7
-- created: 2026-05-27T12:04:10.000Z
-- matched query: "learn chinese" app
-
 ## [Help identifying my family’s generation name.](https://old.reddit.com/r/ChineseLanguage/comments/1ttz6ev/help_identifying_my_familys_generation_name/)
 - subreddit: r/ChineseLanguage
 - score: 4
 - comments: 11
 - created: 2026-06-01T17:24:11.000Z
 - matched query: resource
+
+## [Apps or podcasts for learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tp3iqf/apps_or_podcasts_for_learning_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 7
+- created: 2026-05-27T12:04:10.000Z
+- matched query: "learn chinese" app
 
 ## [How do you learn ???](https://old.reddit.com/r/ChineseLanguage/comments/1tllldv/how_do_you_learn/)
 - subreddit: r/ChineseLanguage
@@ -134,11 +141,4 @@ Generated: 2026-06-03T07:17:43.341Z
 - comments: 5
 - created: 2026-05-07T11:03:25.000Z
 - matched query: "learn chinese" app
-
-## [Looking for a simple Anki deck for extremely basic Chinese for travel phrases (pinyin & audio)](https://old.reddit.com/r/ChineseLanguage/comments/1t3vcre/looking_for_a_simple_anki_deck_for_extremely/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 3
-- created: 2026-05-04T21:28:54.000Z
-- matched query: app OR website pinyin hanzi
 

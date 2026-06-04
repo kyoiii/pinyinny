@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-04T18:24:22.190Z
+Generated: 2026-06-04T20:31:48.738Z
 
 ## [Ai tools to learn the language ?](https://old.reddit.com/r/ChineseLanguage/comments/1twhqga/ai_tools_to_learn_the_language/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 2
+- comments: 3
 - created: 2026-06-04T08:42:22.000Z
 - matched query: "learn chinese" app
 
@@ -23,10 +23,17 @@ Generated: 2026-06-04T18:24:22.190Z
 - created: 2026-05-27T22:47:55.000Z
 - matched query: flashcard app
 
+## [best way to learn Chinese quickly?](https://old.reddit.com/r/ChineseLanguage/comments/1twx5za/best_way_to_learn_chinese_quickly/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 1
+- created: 2026-06-04T19:02:18.000Z
+- matched query: resource
+
 ## [Should I learn all the radicals?](https://old.reddit.com/r/ChineseLanguage/comments/1twrbg6/should_i_learn_all_the_radicals/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 6
+- comments: 9
 - created: 2026-06-04T15:39:41.000Z
 - matched query: resource
 
@@ -133,12 +140,5 @@ Generated: 2026-06-04T18:24:22.190Z
 - score: 4
 - comments: 11
 - created: 2026-05-13T11:16:16.000Z
-- matched query: "learn chinese" app
-
-## [Anyone else do this to learn chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tbvw53/anyone_else_do_this_to_learn_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 5
-- created: 2026-05-13T10:43:22.000Z
 - matched query: "learn chinese" app
 

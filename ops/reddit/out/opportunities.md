@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-04T15:56:28.472Z
+Generated: 2026-06-04T18:24:22.190Z
 
 ## [Ai tools to learn the language ?](https://old.reddit.com/r/ChineseLanguage/comments/1twhqga/ai_tools_to_learn_the_language/)
 - subreddit: r/ChineseLanguage
@@ -26,7 +26,7 @@ Generated: 2026-06-04T15:56:28.472Z
 ## [Should I learn all the radicals?](https://old.reddit.com/r/ChineseLanguage/comments/1twrbg6/should_i_learn_all_the_radicals/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 1
+- comments: 6
 - created: 2026-06-04T15:39:41.000Z
 - matched query: resource
 
@@ -79,13 +79,6 @@ Generated: 2026-06-04T15:56:28.472Z
 - created: 2026-05-29T17:39:20.000Z
 - matched query: resource
 
-## [Teaching pinyin at anime con](https://old.reddit.com/r/ChineseLanguage/comments/1tqak9x/teaching_pinyin_at_anime_con/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 6
-- created: 2026-05-28T17:37:22.000Z
-- matched query: resource
-
 ## [Learn Real Life Mandarin: 5 Essential Terms from Surviving Children's Day in Shanghai (B2-C1)](https://old.reddit.com/r/ChineseLanguage/comments/1tvoy7q/learn_real_life_mandarin_5_essential_terms_from/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -93,11 +86,11 @@ Generated: 2026-06-04T15:56:28.472Z
 - created: 2026-06-03T13:11:55.000Z
 - matched query: resource
 
-## [Help identifying my family’s generation name.](https://old.reddit.com/r/ChineseLanguage/comments/1ttz6ev/help_identifying_my_familys_generation_name/)
+## [Teaching pinyin at anime con](https://old.reddit.com/r/ChineseLanguage/comments/1tqak9x/teaching_pinyin_at_anime_con/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 11
-- created: 2026-06-01T17:24:11.000Z
+- comments: 6
+- created: 2026-05-28T17:37:22.000Z
 - matched query: resource
 
 ## [Apps or podcasts for learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tp3iqf/apps_or_podcasts_for_learning_chinese/)
@@ -140,5 +133,12 @@ Generated: 2026-06-04T15:56:28.472Z
 - score: 4
 - comments: 11
 - created: 2026-05-13T11:16:16.000Z
+- matched query: "learn chinese" app
+
+## [Anyone else do this to learn chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tbvw53/anyone_else_do_this_to_learn_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 5
+- created: 2026-05-13T10:43:22.000Z
 - matched query: "learn chinese" app
 

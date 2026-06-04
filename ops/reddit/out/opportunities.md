@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-04T20:31:48.738Z
+Generated: 2026-06-04T22:08:59.846Z
 
 ## [Ai tools to learn the language ?](https://old.reddit.com/r/ChineseLanguage/comments/1twhqga/ai_tools_to_learn_the_language/)
 - subreddit: r/ChineseLanguage
@@ -26,7 +26,7 @@ Generated: 2026-06-04T20:31:48.738Z
 ## [best way to learn Chinese quickly?](https://old.reddit.com/r/ChineseLanguage/comments/1twx5za/best_way_to_learn_chinese_quickly/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 1
+- comments: 5
 - created: 2026-06-04T19:02:18.000Z
 - matched query: resource
 
@@ -43,13 +43,6 @@ Generated: 2026-06-04T20:31:48.738Z
 - comments: 7
 - created: 2026-05-31T20:28:21.000Z
 - matched query: resource
-
-## [Recommended Courses for toddlers and parents](https://old.reddit.com/r/ChineseLanguage/comments/1tu6bpj/recommended_courses_for_toddlers_and_parents/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 4
-- created: 2026-06-01T21:25:01.000Z
-- matched query: "learn chinese" app
 
 ## [What do you think are the best apps for learning Chinese, listed by category?](https://old.reddit.com/r/ChineseLanguage/comments/1tpz3wq/what_do_you_think_are_the_best_apps_for_learning/)
 - subreddit: r/ChineseLanguage
@@ -71,6 +64,13 @@ Generated: 2026-06-04T20:31:48.738Z
 - comments: 1
 - created: 2026-05-13T14:45:45.000Z
 - matched query: app OR website pinyin hanzi
+
+## [Recommended Courses for toddlers and parents](https://old.reddit.com/r/ChineseLanguage/comments/1tu6bpj/recommended_courses_for_toddlers_and_parents/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 4
+- created: 2026-06-01T21:25:01.000Z
+- matched query: "learn chinese" app
 
 ## [What’s the quickest way to learn how to read Chinese characters?](https://old.reddit.com/r/ChineseLanguage/comments/1trdtnh/whats_the_quickest_way_to_learn_how_to_read/)
 - subreddit: r/ChineseLanguage

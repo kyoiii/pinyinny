@@ -1,6 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-04T05:25:17.688Z
+Generated: 2026-06-04T09:12:28.877Z
+
+## [Ai tools to learn the language ?](https://old.reddit.com/r/ChineseLanguage/comments/1twhqga/ai_tools_to_learn_the_language/)
+- subreddit: r/ChineseLanguage
+- score: 9
+- comments: 1
+- created: 2026-06-04T08:42:22.000Z
+- matched query: "learn chinese" app
 
 ## [Is Merry Mandarin a good app to learn Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tuow5s/is_merry_mandarin_a_good_app_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
@@ -15,13 +22,6 @@ Generated: 2026-06-04T05:25:17.688Z
 - comments: 6
 - created: 2026-05-27T22:47:55.000Z
 - matched query: flashcard app
-
-## [I'm getting back into learning Chinese. Looking for beta testers for a new Chinese reading app I'm building](https://old.reddit.com/r/ChineseLanguage/comments/1tvj643/im_getting_back_into_learning_chinese_looking_for/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 5
-- created: 2026-06-03T08:32:34.000Z
-- matched query: "learn chinese" app
 
 ## [Recommend the best resources for a beginner](https://old.reddit.com/r/ChineseLanguage/comments/1tt6he4/recommend_the_best_resources_for_a_beginner/)
 - subreddit: r/ChineseLanguage

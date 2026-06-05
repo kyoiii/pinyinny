@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-05T18:17:56.568Z
+Generated: 2026-06-05T20:19:06.307Z
 
 ## [Hi, I built free app for people who want to learn Chinese through Vlogs, Podcasts...](https://old.reddit.com/r/ChineseLanguage/comments/1txbqvv/hi_i_built_free_app_for_people_who_want_to_learn/)
 - subreddit: r/ChineseLanguage
@@ -30,18 +30,18 @@ Generated: 2026-06-05T18:17:56.568Z
 - created: 2026-06-05T13:30:09.000Z
 - matched query: "learn chinese" app
 
-## [best way to learn Chinese quickly?](https://old.reddit.com/r/ChineseLanguage/comments/1twx5za/best_way_to_learn_chinese_quickly/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 8
-- created: 2026-06-04T19:02:18.000Z
-- matched query: resource
-
 ## [Recommend the best resources for a beginner](https://old.reddit.com/r/ChineseLanguage/comments/1tt6he4/recommend_the_best_resources_for_a_beginner/)
 - subreddit: r/ChineseLanguage
 - score: 7
 - comments: 7
 - created: 2026-05-31T20:28:21.000Z
+- matched query: resource
+
+## [best way to learn Chinese quickly?](https://old.reddit.com/r/ChineseLanguage/comments/1twx5za/best_way_to_learn_chinese_quickly/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 8
+- created: 2026-06-04T19:02:18.000Z
 - matched query: resource
 
 ## [Should I learn all the radicals?](https://old.reddit.com/r/ChineseLanguage/comments/1twrbg6/should_i_learn_all_the_radicals/)
@@ -79,18 +79,18 @@ Generated: 2026-06-05T18:17:56.568Z
 - created: 2026-06-01T21:25:01.000Z
 - matched query: "learn chinese" app
 
-## [What’s the quickest way to learn how to read Chinese characters?](https://old.reddit.com/r/ChineseLanguage/comments/1trdtnh/whats_the_quickest_way_to_learn_how_to_read/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 13
-- created: 2026-05-29T19:59:23.000Z
-- matched query: resource
-
 ## [Learn Real Life Mandarin: 5 Essential Terms from Surviving Children's Day in Shanghai (B2-C1)](https://old.reddit.com/r/ChineseLanguage/comments/1tvoy7q/learn_real_life_mandarin_5_essential_terms_from/)
 - subreddit: r/ChineseLanguage
 - score: 4
 - comments: 5
 - created: 2026-06-03T13:11:55.000Z
+- matched query: resource
+
+## [What’s the quickest way to learn how to read Chinese characters?](https://old.reddit.com/r/ChineseLanguage/comments/1trdtnh/whats_the_quickest_way_to_learn_how_to_read/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 13
+- created: 2026-05-29T19:59:23.000Z
 - matched query: resource
 
 ## [best chinese media/motivations to learn chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tr9gkz/best_chinese_mediamotivations_to_learn_chinese/)

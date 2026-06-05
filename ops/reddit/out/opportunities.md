@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-05T10:28:40.288Z
+Generated: 2026-06-05T13:38:51.913Z
 
 ## [Hi, I built free app for people who want to learn Chinese through Vlogs, Podcasts...](https://old.reddit.com/r/ChineseLanguage/comments/1txbqvv/hi_i_built_free_app_for_people_who_want_to_learn/)
 - subreddit: r/ChineseLanguage
@@ -16,13 +16,6 @@ Generated: 2026-06-05T10:28:40.288Z
 - created: 2026-06-04T08:42:22.000Z
 - matched query: "learn chinese" app
 
-## [Is Merry Mandarin a good app to learn Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tuow5s/is_merry_mandarin_a_good_app_to_learn_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 9
-- created: 2026-06-02T12:04:15.000Z
-- matched query: "learn chinese" app
-
 ## [What resources do you recommend?](https://old.reddit.com/r/ChineseLanguage/comments/1tplbf6/what_resources_do_you_recommend/)
 - subreddit: r/ChineseLanguage
 - score: 8
@@ -30,17 +23,24 @@ Generated: 2026-06-05T10:28:40.288Z
 - created: 2026-05-27T22:47:55.000Z
 - matched query: flashcard app
 
+## [Looking for learning advice as someone with few resources.](https://old.reddit.com/r/ChineseLanguage/comments/1txl1nk/looking_for_learning_advice_as_someone_with_few/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 1
+- created: 2026-06-05T13:30:09.000Z
+- matched query: "learn chinese" app
+
 ## [best way to learn Chinese quickly?](https://old.reddit.com/r/ChineseLanguage/comments/1twx5za/best_way_to_learn_chinese_quickly/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 7
+- comments: 8
 - created: 2026-06-04T19:02:18.000Z
 - matched query: resource
 
 ## [Should I learn all the radicals?](https://old.reddit.com/r/ChineseLanguage/comments/1twrbg6/should_i_learn_all_the_radicals/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 10
+- comments: 11
 - created: 2026-06-04T15:39:41.000Z
 - matched query: resource
 

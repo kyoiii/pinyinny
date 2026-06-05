@@ -1,12 +1,19 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-05T01:52:45.892Z
+Generated: 2026-06-05T06:18:32.571Z
 
 ## [Ai tools to learn the language ?](https://old.reddit.com/r/ChineseLanguage/comments/1twhqga/ai_tools_to_learn_the_language/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 3
+- comments: 4
 - created: 2026-06-04T08:42:22.000Z
+- matched query: "learn chinese" app
+
+## [Hi, I built free app for people who want to learn Chinese through Vlogs, Podcasts...](https://old.reddit.com/r/ChineseLanguage/comments/1txbqvv/hi_i_built_free_app_for_people_who_want_to_learn/)
+- subreddit: r/ChineseLanguage
+- score: 8
+- comments: 0
+- created: 2026-06-05T05:28:45.000Z
 - matched query: "learn chinese" app
 
 ## [Is Merry Mandarin a good app to learn Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tuow5s/is_merry_mandarin_a_good_app_to_learn_chinese/)
@@ -33,7 +40,7 @@ Generated: 2026-06-05T01:52:45.892Z
 ## [Should I learn all the radicals?](https://old.reddit.com/r/ChineseLanguage/comments/1twrbg6/should_i_learn_all_the_radicals/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 9
+- comments: 10
 - created: 2026-06-04T15:39:41.000Z
 - matched query: resource
 
@@ -133,12 +140,5 @@ Generated: 2026-06-05T01:52:45.892Z
 - score: 4
 - comments: 11
 - created: 2026-05-13T11:16:16.000Z
-- matched query: "learn chinese" app
-
-## [Anyone else do this to learn chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tbvw53/anyone_else_do_this_to_learn_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 5
-- created: 2026-05-13T10:43:22.000Z
 - matched query: "learn chinese" app
 

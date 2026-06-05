@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-05T13:38:51.913Z
+Generated: 2026-06-05T16:18:12.638Z
 
 ## [Hi, I built free app for people who want to learn Chinese through Vlogs, Podcasts...](https://old.reddit.com/r/ChineseLanguage/comments/1txbqvv/hi_i_built_free_app_for_people_who_want_to_learn/)
 - subreddit: r/ChineseLanguage
@@ -26,7 +26,7 @@ Generated: 2026-06-05T13:38:51.913Z
 ## [Looking for learning advice as someone with few resources.](https://old.reddit.com/r/ChineseLanguage/comments/1txl1nk/looking_for_learning_advice_as_someone_with_few/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 1
+- comments: 3
 - created: 2026-06-05T13:30:09.000Z
 - matched query: "learn chinese" app
 
@@ -37,18 +37,18 @@ Generated: 2026-06-05T13:38:51.913Z
 - created: 2026-06-04T19:02:18.000Z
 - matched query: resource
 
-## [Should I learn all the radicals?](https://old.reddit.com/r/ChineseLanguage/comments/1twrbg6/should_i_learn_all_the_radicals/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 11
-- created: 2026-06-04T15:39:41.000Z
-- matched query: resource
-
 ## [Recommend the best resources for a beginner](https://old.reddit.com/r/ChineseLanguage/comments/1tt6he4/recommend_the_best_resources_for_a_beginner/)
 - subreddit: r/ChineseLanguage
 - score: 7
 - comments: 7
 - created: 2026-05-31T20:28:21.000Z
+- matched query: resource
+
+## [Should I learn all the radicals?](https://old.reddit.com/r/ChineseLanguage/comments/1twrbg6/should_i_learn_all_the_radicals/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 11
+- created: 2026-06-04T15:39:41.000Z
 - matched query: resource
 
 ## [What do you think are the best apps for learning Chinese, listed by category?](https://old.reddit.com/r/ChineseLanguage/comments/1tpz3wq/what_do_you_think_are_the_best_apps_for_learning/)

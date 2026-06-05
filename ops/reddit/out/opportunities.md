@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-05T16:18:12.638Z
+Generated: 2026-06-05T18:17:56.568Z
 
 ## [Hi, I built free app for people who want to learn Chinese through Vlogs, Podcasts...](https://old.reddit.com/r/ChineseLanguage/comments/1txbqvv/hi_i_built_free_app_for_people_who_want_to_learn/)
 - subreddit: r/ChineseLanguage
@@ -86,18 +86,18 @@ Generated: 2026-06-05T16:18:12.638Z
 - created: 2026-05-29T19:59:23.000Z
 - matched query: resource
 
-## [best chinese media/motivations to learn chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tr9gkz/best_chinese_mediamotivations_to_learn_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 7
-- created: 2026-05-29T17:39:20.000Z
-- matched query: resource
-
 ## [Learn Real Life Mandarin: 5 Essential Terms from Surviving Children's Day in Shanghai (B2-C1)](https://old.reddit.com/r/ChineseLanguage/comments/1tvoy7q/learn_real_life_mandarin_5_essential_terms_from/)
 - subreddit: r/ChineseLanguage
 - score: 4
 - comments: 5
 - created: 2026-06-03T13:11:55.000Z
+- matched query: resource
+
+## [best chinese media/motivations to learn chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tr9gkz/best_chinese_mediamotivations_to_learn_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 7
+- created: 2026-05-29T17:39:20.000Z
 - matched query: resource
 
 ## [Apps or podcasts for learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tp3iqf/apps_or_podcasts_for_learning_chinese/)

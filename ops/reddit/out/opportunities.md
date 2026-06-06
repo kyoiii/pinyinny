@@ -1,6 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-06T00:16:35.264Z
+Generated: 2026-06-06T04:32:16.571Z
+
+## [Hainanese Language Resources 文昌话 琼语](https://old.reddit.com/r/ChineseLanguage/comments/1ty3mj2/hainanese_language_resources_文昌话_琼语/)
+- subreddit: r/ChineseLanguage
+- score: 8
+- comments: 0
+- created: 2026-06-06T01:28:21.000Z
+- matched query: resource
 
 ## [Hi, I built free app for people who want to learn Chinese through Vlogs, Podcasts...](https://old.reddit.com/r/ChineseLanguage/comments/1txbqvv/hi_i_built_free_app_for_people_who_want_to_learn/)
 - subreddit: r/ChineseLanguage
@@ -23,10 +30,17 @@ Generated: 2026-06-06T00:16:35.264Z
 - created: 2026-05-27T22:47:55.000Z
 - matched query: flashcard app
 
+## [Understanding the double-edged sword of Chinese social intelligence: What does "会来事儿" mean to a native speaker?](https://old.reddit.com/r/ChineseLanguage/comments/1ty37j3/understanding_the_doubleedged_sword_of_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 1
+- created: 2026-06-06T01:08:41.000Z
+- matched query: resource
+
 ## [Looking for learning advice as someone with few resources.](https://old.reddit.com/r/ChineseLanguage/comments/1txl1nk/looking_for_learning_advice_as_someone_with_few/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 3
+- comments: 5
 - created: 2026-06-05T13:30:09.000Z
 - matched query: "learn chinese" app
 
@@ -126,19 +140,5 @@ Generated: 2026-06-06T00:16:35.264Z
 - score: 4
 - comments: 11
 - created: 2026-05-13T11:16:16.000Z
-- matched query: "learn chinese" app
-
-## [Anyone else do this to learn chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tbvw53/anyone_else_do_this_to_learn_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 5
-- created: 2026-05-13T10:43:22.000Z
-- matched query: "learn chinese" app
-
-## [Learning hanzi with Hellochinese](https://old.reddit.com/r/ChineseLanguage/comments/1t676kp/learning_hanzi_with_hellochinese/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 5
-- created: 2026-05-07T11:03:25.000Z
 - matched query: "learn chinese" app
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-06T20:48:41.760Z
+Generated: 2026-06-06T21:52:00.763Z
 
 ## [Hainanese Language Resources 文昌话 琼语](https://old.reddit.com/r/ChineseLanguage/comments/1ty3mj2/hainanese_language_resources_文昌话_琼语/)
 - subreddit: r/ChineseLanguage
@@ -89,7 +89,7 @@ Generated: 2026-06-06T20:48:41.760Z
 ## [Usage of 可](https://old.reddit.com/r/ChineseLanguage/comments/1tycprs/usage_of_可/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 7
+- comments: 8
 - created: 2026-06-06T09:32:45.000Z
 - matched query: resource
 

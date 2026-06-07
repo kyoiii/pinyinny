@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-07T22:16:47.475Z
+Generated: 2026-06-07T23:33:43.820Z
 
 ## [What resources do you recommend?](https://old.reddit.com/r/ChineseLanguage/comments/1tplbf6/what_resources_do_you_recommend/)
 - subreddit: r/ChineseLanguage
@@ -93,13 +93,6 @@ Generated: 2026-06-07T22:16:47.475Z
 - created: 2026-06-01T21:25:01.000Z
 - matched query: "learn chinese" app
 
-## [Found a website with AI translated Chinese show](https://old.reddit.com/r/ChineseLanguage/comments/1tyv7z1/found_a_website_with_ai_translated_chinese_show/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 0
-- created: 2026-06-06T22:48:17.000Z
-- matched query: resource
-
 ## [Usage of 可](https://old.reddit.com/r/ChineseLanguage/comments/1tycprs/usage_of_可/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -140,5 +133,12 @@ Generated: 2026-06-07T22:16:47.475Z
 - score: 4
 - comments: 2
 - created: 2026-05-17T13:46:51.000Z
+- matched query: "learn chinese" app
+
+## [Best app for learning](https://old.reddit.com/r/ChineseLanguage/comments/1tbwk45/best_app_for_learning/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 11
+- created: 2026-05-13T11:16:16.000Z
 - matched query: "learn chinese" app
 

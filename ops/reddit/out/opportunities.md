@@ -1,13 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-07T08:28:20.918Z
-
-## [Ai tools to learn the language ?](https://old.reddit.com/r/ChineseLanguage/comments/1twhqga/ai_tools_to_learn_the_language/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 4
-- created: 2026-06-04T08:42:22.000Z
-- matched query: "learn chinese" app
+Generated: 2026-06-07T10:53:34.554Z
 
 ## [What resources do you recommend?](https://old.reddit.com/r/ChineseLanguage/comments/1tplbf6/what_resources_do_you_recommend/)
 - subreddit: r/ChineseLanguage
@@ -28,6 +21,13 @@ Generated: 2026-06-07T08:28:20.918Z
 - score: 7
 - comments: 0
 - created: 2026-06-05T05:28:45.000Z
+- matched query: "learn chinese" app
+
+## [Ai tools to learn the language ?](https://old.reddit.com/r/ChineseLanguage/comments/1twhqga/ai_tools_to_learn_the_language/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 4
+- created: 2026-06-04T08:42:22.000Z
 - matched query: "learn chinese" app
 
 ## [Recommend the best resources for a beginner](https://old.reddit.com/r/ChineseLanguage/comments/1tt6he4/recommend_the_best_resources_for_a_beginner/)
@@ -86,13 +86,6 @@ Generated: 2026-06-07T08:28:20.918Z
 - created: 2026-05-13T14:45:45.000Z
 - matched query: app OR website pinyin hanzi
 
-## [Usage of 可](https://old.reddit.com/r/ChineseLanguage/comments/1tycprs/usage_of_可/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 8
-- created: 2026-06-06T09:32:45.000Z
-- matched query: resource
-
 ## [Recommended Courses for toddlers and parents](https://old.reddit.com/r/ChineseLanguage/comments/1tu6bpj/recommended_courses_for_toddlers_and_parents/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -105,6 +98,13 @@ Generated: 2026-06-07T08:28:20.918Z
 - score: 4
 - comments: 0
 - created: 2026-06-06T22:48:17.000Z
+- matched query: resource
+
+## [Usage of 可](https://old.reddit.com/r/ChineseLanguage/comments/1tycprs/usage_of_可/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 8
+- created: 2026-06-06T09:32:45.000Z
 - matched query: resource
 
 ## [Apps or podcasts for learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tp3iqf/apps_or_podcasts_for_learning_chinese/)

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-08T12:01:17.720Z
+Generated: 2026-06-08T16:14:29.306Z
 
 ## [What are the best resources for an English speaker to learn Mandarin Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tzw5i9/what_are_the_best_resources_for_an_english/)
 - subreddit: r/ChineseLanguage
@@ -15,6 +15,13 @@ Generated: 2026-06-08T12:01:17.720Z
 - comments: 6
 - created: 2026-05-27T22:47:55.000Z
 - matched query: flashcard app
+
+## [How do I teach people a language?](https://old.reddit.com/r/languagelearning/comments/1tzvnev/how_do_i_teach_people_a_language/)
+- subreddit: r/languagelearning
+- score: 7
+- comments: 5
+- created: 2026-06-08T02:47:02.000Z
+- matched query: "Chinese" resource
 
 ## [Hainanese Language Resources 文昌话 琼语](https://old.reddit.com/r/ChineseLanguage/comments/1ty3mj2/hainanese_language_resources_文昌话_琼语/)
 - subreddit: r/ChineseLanguage
@@ -36,13 +43,6 @@ Generated: 2026-06-08T12:01:17.720Z
 - comments: 1
 - created: 2026-06-06T01:08:41.000Z
 - matched query: resource
-
-## [Looking for learning advice as someone with few resources.](https://old.reddit.com/r/ChineseLanguage/comments/1txl1nk/looking_for_learning_advice_as_someone_with_few/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 5
-- created: 2026-06-05T13:30:09.000Z
-- matched query: "learn chinese" app
 
 ## [Hi, I built free app for people who want to learn Chinese through Vlogs, Podcasts...](https://old.reddit.com/r/ChineseLanguage/comments/1txbqvv/hi_i_built_free_app_for_people_who_want_to_learn/)
 - subreddit: r/ChineseLanguage
@@ -71,6 +71,13 @@ Generated: 2026-06-08T12:01:17.720Z
 - comments: 1
 - created: 2026-05-13T14:45:45.000Z
 - matched query: app OR website pinyin hanzi
+
+## [Looking for learning advice as someone with few resources.](https://old.reddit.com/r/ChineseLanguage/comments/1txl1nk/looking_for_learning_advice_as_someone_with_few/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 5
+- created: 2026-06-05T13:30:09.000Z
+- matched query: "learn chinese" app
 
 ## [best way to learn Chinese quickly?](https://old.reddit.com/r/ChineseLanguage/comments/1twx5za/best_way_to_learn_chinese_quickly/)
 - subreddit: r/ChineseLanguage
@@ -133,12 +140,5 @@ Generated: 2026-06-08T12:01:17.720Z
 - score: 4
 - comments: 2
 - created: 2026-05-17T13:46:51.000Z
-- matched query: "learn chinese" app
-
-## [Best app for learning](https://old.reddit.com/r/ChineseLanguage/comments/1tbwk45/best_app_for_learning/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 11
-- created: 2026-05-13T11:16:16.000Z
 - matched query: "learn chinese" app
 

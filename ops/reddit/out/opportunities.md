@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-08T16:14:29.306Z
+Generated: 2026-06-08T18:38:45.726Z
 
 ## [What are the best resources for an English speaker to learn Mandarin Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tzw5i9/what_are_the_best_resources_for_an_english/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 1
+- comments: 2
 - created: 2026-06-08T03:11:31.000Z
 - matched query: resource
 
@@ -19,7 +19,7 @@ Generated: 2026-06-08T16:14:29.306Z
 ## [How do I teach people a language?](https://old.reddit.com/r/languagelearning/comments/1tzvnev/how_do_i_teach_people_a_language/)
 - subreddit: r/languagelearning
 - score: 7
-- comments: 5
+- comments: 6
 - created: 2026-06-08T02:47:02.000Z
 - matched query: "Chinese" resource
 

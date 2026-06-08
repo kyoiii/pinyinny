@@ -1,6 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-08T01:57:45.427Z
+Generated: 2026-06-08T06:55:50.410Z
+
+## [What are the best resources for an English speaker to learn Mandarin Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tzw5i9/what_are_the_best_resources_for_an_english/)
+- subreddit: r/ChineseLanguage
+- score: 9
+- comments: 1
+- created: 2026-06-08T03:11:31.000Z
+- matched query: resource
 
 ## [What resources do you recommend?](https://old.reddit.com/r/ChineseLanguage/comments/1tplbf6/what_resources_do_you_recommend/)
 - subreddit: r/ChineseLanguage
@@ -16,17 +23,10 @@ Generated: 2026-06-08T01:57:45.427Z
 - created: 2026-06-06T01:28:21.000Z
 - matched query: resource
 
-## [Hi, I built free app for people who want to learn Chinese through Vlogs, Podcasts...](https://old.reddit.com/r/ChineseLanguage/comments/1txbqvv/hi_i_built_free_app_for_people_who_want_to_learn/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 0
-- created: 2026-06-05T05:28:45.000Z
-- matched query: "learn chinese" app
-
 ## [Ai tools to learn the language ?](https://old.reddit.com/r/ChineseLanguage/comments/1twhqga/ai_tools_to_learn_the_language/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 5
+- comments: 6
 - created: 2026-06-04T08:42:22.000Z
 - matched query: "learn chinese" app
 
@@ -42,6 +42,13 @@ Generated: 2026-06-08T01:57:45.427Z
 - score: 6
 - comments: 5
 - created: 2026-06-05T13:30:09.000Z
+- matched query: "learn chinese" app
+
+## [Hi, I built free app for people who want to learn Chinese through Vlogs, Podcasts...](https://old.reddit.com/r/ChineseLanguage/comments/1txbqvv/hi_i_built_free_app_for_people_who_want_to_learn/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 0
+- created: 2026-06-05T05:28:45.000Z
 - matched query: "learn chinese" app
 
 ## [What do you think are the best apps for learning Chinese, listed by category?](https://old.reddit.com/r/ChineseLanguage/comments/1tpz3wq/what_do_you_think_are_the_best_apps_for_learning/)
@@ -133,12 +140,5 @@ Generated: 2026-06-08T01:57:45.427Z
 - score: 4
 - comments: 11
 - created: 2026-05-13T11:16:16.000Z
-- matched query: "learn chinese" app
-
-## [Anyone else do this to learn chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tbvw53/anyone_else_do_this_to_learn_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 5
-- created: 2026-05-13T10:43:22.000Z
 - matched query: "learn chinese" app
 

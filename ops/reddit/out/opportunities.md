@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-08T21:07:20.701Z
+Generated: 2026-06-08T22:49:30.095Z
 
 ## [What are the best resources for an English speaker to learn Mandarin Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tzw5i9/what_are_the_best_resources_for_an_english/)
 - subreddit: r/ChineseLanguage
@@ -93,19 +93,19 @@ Generated: 2026-06-08T21:07:20.701Z
 - created: 2026-06-04T15:39:41.000Z
 - matched query: resource
 
-## [Recommended Courses for toddlers and parents](https://old.reddit.com/r/ChineseLanguage/comments/1tu6bpj/recommended_courses_for_toddlers_and_parents/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 4
-- created: 2026-06-01T21:25:01.000Z
-- matched query: "learn chinese" app
-
 ## [Usage of 可](https://old.reddit.com/r/ChineseLanguage/comments/1tycprs/usage_of_可/)
 - subreddit: r/ChineseLanguage
 - score: 4
 - comments: 8
 - created: 2026-06-06T09:32:45.000Z
 - matched query: resource
+
+## [Recommended Courses for toddlers and parents](https://old.reddit.com/r/ChineseLanguage/comments/1tu6bpj/recommended_courses_for_toddlers_and_parents/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 4
+- created: 2026-06-01T21:25:01.000Z
+- matched query: "learn chinese" app
 
 ## [Apps or podcasts for learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tp3iqf/apps_or_podcasts_for_learning_chinese/)
 - subreddit: r/ChineseLanguage

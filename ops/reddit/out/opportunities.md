@@ -1,6 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-09T03:53:17.260Z
+Generated: 2026-06-09T07:44:08.305Z
+
+## [Resources for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1u0u8kt/resources_for_learning_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 9
+- comments: 7
+- created: 2026-06-09T03:57:54.000Z
+- matched query: resource
 
 ## [What are the best resources for an English speaker to learn Mandarin Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tzw5i9/what_are_the_best_resources_for_an_english/)
 - subreddit: r/ChineseLanguage
@@ -29,6 +36,20 @@ Generated: 2026-06-09T03:53:17.260Z
 - comments: 7
 - created: 2026-06-08T02:47:02.000Z
 - matched query: "Chinese" resource
+
+## [Should I learn Cantonese or Mandarin?](https://old.reddit.com/r/ChineseLanguage/comments/1tzgnvf/should_i_learn_cantonese_or_mandarin/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 3
+- created: 2026-06-07T16:26:06.000Z
+- matched query: resource
+
+## [Native Chinese speaker thinking of teaching Mandarin — how should I start?](https://old.reddit.com/r/ChineseLanguage/comments/1tz2dy9/native_chinese_speaker_thinking_of_teaching/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 5
+- created: 2026-06-07T04:35:33.000Z
+- matched query: resource
 
 ## [Hainanese Language Resources 文昌话 琼语](https://old.reddit.com/r/ChineseLanguage/comments/1ty3mj2/hainanese_language_resources_文昌话_琼语/)
 - subreddit: r/ChineseLanguage
@@ -119,26 +140,5 @@ Generated: 2026-06-09T03:53:17.260Z
 - score: 4
 - comments: 6
 - created: 2026-05-23T16:48:05.000Z
-- matched query: "learn chinese" app
-
-## [How to reach reading automaticity in Chinese and is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1thyod6/how_to_reach_reading_automaticity_in_chinese_and/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 9
-- created: 2026-05-19T20:06:48.000Z
-- matched query: "learn chinese" app
-
-## [Best App to Learn Chinese.](https://old.reddit.com/r/ChineseLanguage/comments/1th3ay0/best_app_to_learn_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 13
-- created: 2026-05-18T22:16:19.000Z
-- matched query: "learn chinese" app
-
-## [How can I learn chinese?(Self study) Complete beginning I only know nihao](https://old.reddit.com/r/ChineseLanguage/comments/1tfq0vf/how_can_i_learn_chineseself_study_complete/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 2
-- created: 2026-05-17T13:46:51.000Z
 - matched query: "learn chinese" app
 

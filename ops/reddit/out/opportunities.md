@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-09T07:44:08.305Z
+Generated: 2026-06-09T10:49:19.906Z
 
 ## [Resources for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1u0u8kt/resources_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 7
+- comments: 8
 - created: 2026-06-09T03:57:54.000Z
 - matched query: resource
 
@@ -40,14 +40,14 @@ Generated: 2026-06-09T07:44:08.305Z
 ## [Should I learn Cantonese or Mandarin?](https://old.reddit.com/r/ChineseLanguage/comments/1tzgnvf/should_i_learn_cantonese_or_mandarin/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 3
+- comments: 4
 - created: 2026-06-07T16:26:06.000Z
 - matched query: resource
 
 ## [Native Chinese speaker thinking of teaching Mandarin — how should I start?](https://old.reddit.com/r/ChineseLanguage/comments/1tz2dy9/native_chinese_speaker_thinking_of_teaching/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 5
+- comments: 6
 - created: 2026-06-07T04:35:33.000Z
 - matched query: resource
 
@@ -114,13 +114,6 @@ Generated: 2026-06-09T07:44:08.305Z
 - created: 2026-06-04T15:39:41.000Z
 - matched query: resource
 
-## [Usage of 可](https://old.reddit.com/r/ChineseLanguage/comments/1tycprs/usage_of_可/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 8
-- created: 2026-06-06T09:32:45.000Z
-- matched query: resource
-
 ## [Recommended Courses for toddlers and parents](https://old.reddit.com/r/ChineseLanguage/comments/1tu6bpj/recommended_courses_for_toddlers_and_parents/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -140,5 +133,12 @@ Generated: 2026-06-09T07:44:08.305Z
 - score: 4
 - comments: 6
 - created: 2026-05-23T16:48:05.000Z
+- matched query: "learn chinese" app
+
+## [How to reach reading automaticity in Chinese and is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1thyod6/how_to_reach_reading_automaticity_in_chinese_and/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 9
+- created: 2026-05-19T20:06:48.000Z
 - matched query: "learn chinese" app
 

@@ -1,10 +1,10 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-08T23:55:44.363Z
+Generated: 2026-06-09T03:53:17.260Z
 
 ## [What are the best resources for an English speaker to learn Mandarin Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tzw5i9/what_are_the_best_resources_for_an_english/)
 - subreddit: r/ChineseLanguage
-- score: 9
+- score: 8
 - comments: 2
 - created: 2026-06-08T03:11:31.000Z
 - matched query: resource
@@ -16,20 +16,6 @@ Generated: 2026-06-08T23:55:44.363Z
 - created: 2026-05-27T22:47:55.000Z
 - matched query: flashcard app
 
-## [How do I teach people a language?](https://old.reddit.com/r/languagelearning/comments/1tzvnev/how_do_i_teach_people_a_language/)
-- subreddit: r/languagelearning
-- score: 7
-- comments: 6
-- created: 2026-06-08T02:47:02.000Z
-- matched query: "Chinese" resource
-
-## [Hainanese Language Resources 文昌话 琼语](https://old.reddit.com/r/ChineseLanguage/comments/1ty3mj2/hainanese_language_resources_文昌话_琼语/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 0
-- created: 2026-06-06T01:28:21.000Z
-- matched query: resource
-
 ## [Ai tools to learn the language ?](https://old.reddit.com/r/ChineseLanguage/comments/1twhqga/ai_tools_to_learn_the_language/)
 - subreddit: r/ChineseLanguage
 - score: 7
@@ -37,11 +23,18 @@ Generated: 2026-06-08T23:55:44.363Z
 - created: 2026-06-04T08:42:22.000Z
 - matched query: "learn chinese" app
 
-## [Understanding the double-edged sword of Chinese social intelligence: What does "会来事儿" mean to a native speaker?](https://old.reddit.com/r/ChineseLanguage/comments/1ty37j3/understanding_the_doubleedged_sword_of_chinese/)
+## [How do I teach people a language?](https://old.reddit.com/r/languagelearning/comments/1tzvnev/how_do_i_teach_people_a_language/)
+- subreddit: r/languagelearning
+- score: 6
+- comments: 7
+- created: 2026-06-08T02:47:02.000Z
+- matched query: "Chinese" resource
+
+## [Hainanese Language Resources 文昌话 琼语](https://old.reddit.com/r/ChineseLanguage/comments/1ty3mj2/hainanese_language_resources_文昌话_琼语/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 1
-- created: 2026-06-06T01:08:41.000Z
+- comments: 0
+- created: 2026-06-06T01:28:21.000Z
 - matched query: resource
 
 ## [Hi, I built free app for people who want to learn Chinese through Vlogs, Podcasts...](https://old.reddit.com/r/ChineseLanguage/comments/1txbqvv/hi_i_built_free_app_for_people_who_want_to_learn/)
@@ -71,6 +64,13 @@ Generated: 2026-06-08T23:55:44.363Z
 - comments: 1
 - created: 2026-05-13T14:45:45.000Z
 - matched query: app OR website pinyin hanzi
+
+## [Understanding the double-edged sword of Chinese social intelligence: What does "会来事儿" mean to a native speaker?](https://old.reddit.com/r/ChineseLanguage/comments/1ty37j3/understanding_the_doubleedged_sword_of_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 1
+- created: 2026-06-06T01:08:41.000Z
+- matched query: resource
 
 ## [Looking for learning advice as someone with few resources.](https://old.reddit.com/r/ChineseLanguage/comments/1txl1nk/looking_for_learning_advice_as_someone_with_few/)
 - subreddit: r/ChineseLanguage

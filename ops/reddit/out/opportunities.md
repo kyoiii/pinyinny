@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-09T22:12:31.821Z
+Generated: 2026-06-09T23:45:09.565Z
 
 ## [Resources for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1u0u8kt/resources_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 12
+- comments: 20
 - created: 2026-06-09T03:57:54.000Z
 - matched query: resource
 
@@ -22,6 +22,13 @@ Generated: 2026-06-09T22:12:31.821Z
 - comments: 6
 - created: 2026-05-27T22:47:55.000Z
 - matched query: flashcard app
+
+## [complete beginner to learning chinese, where to start?](https://old.reddit.com/r/ChineseLanguage/comments/1u1k15v/complete_beginner_to_learning_chinese_where_to/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 2
+- created: 2026-06-09T22:29:22.000Z
+- matched query: resource
 
 ## [What’s your setup for passive + active Chinese listening at beginner/intermediate level?](https://old.reddit.com/r/ChineseLanguage/comments/1u13u23/whats_your_setup_for_passive_active_chinese/)
 - subreddit: r/ChineseLanguage
@@ -133,12 +140,5 @@ Generated: 2026-06-09T22:12:31.821Z
 - score: 4
 - comments: 4
 - created: 2026-06-01T21:25:01.000Z
-- matched query: "learn chinese" app
-
-## [Apps or podcasts for learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tp3iqf/apps_or_podcasts_for_learning_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 7
-- created: 2026-05-27T12:04:10.000Z
 - matched query: "learn chinese" app
 

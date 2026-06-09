@@ -1,20 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-09T13:35:27.552Z
+Generated: 2026-06-09T16:20:17.310Z
 
 ## [Resources for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1u0u8kt/resources_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 8
+- comments: 11
 - created: 2026-06-09T03:57:54.000Z
 - matched query: resource
-
-## [What’s your setup for passive + active Chinese listening at beginner/intermediate level?](https://old.reddit.com/r/ChineseLanguage/comments/1u13u23/whats_your_setup_for_passive_active_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 0
-- created: 2026-06-09T12:40:15.000Z
-- matched query: "learn chinese" app
 
 ## [What are the best resources for an English speaker to learn Mandarin Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tzw5i9/what_are_the_best_resources_for_an_english/)
 - subreddit: r/ChineseLanguage
@@ -29,6 +22,13 @@ Generated: 2026-06-09T13:35:27.552Z
 - comments: 6
 - created: 2026-05-27T22:47:55.000Z
 - matched query: flashcard app
+
+## [What’s your setup for passive + active Chinese listening at beginner/intermediate level?](https://old.reddit.com/r/ChineseLanguage/comments/1u13u23/whats_your_setup_for_passive_active_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 3
+- created: 2026-06-09T12:40:15.000Z
+- matched query: "learn chinese" app
 
 ## [Ai tools to learn the language ?](https://old.reddit.com/r/ChineseLanguage/comments/1twhqga/ai_tools_to_learn_the_language/)
 - subreddit: r/ChineseLanguage
@@ -54,7 +54,7 @@ Generated: 2026-06-09T13:35:27.552Z
 ## [Native Chinese speaker thinking of teaching Mandarin — how should I start?](https://old.reddit.com/r/ChineseLanguage/comments/1tz2dy9/native_chinese_speaker_thinking_of_teaching/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 6
+- comments: 8
 - created: 2026-06-07T04:35:33.000Z
 - matched query: resource
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-09T10:49:19.906Z
+Generated: 2026-06-09T13:35:27.552Z
 
 ## [Resources for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1u0u8kt/resources_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -8,6 +8,13 @@ Generated: 2026-06-09T10:49:19.906Z
 - comments: 8
 - created: 2026-06-09T03:57:54.000Z
 - matched query: resource
+
+## [What’s your setup for passive + active Chinese listening at beginner/intermediate level?](https://old.reddit.com/r/ChineseLanguage/comments/1u13u23/whats_your_setup_for_passive_active_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 8
+- comments: 0
+- created: 2026-06-09T12:40:15.000Z
+- matched query: "learn chinese" app
 
 ## [What are the best resources for an English speaker to learn Mandarin Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tzw5i9/what_are_the_best_resources_for_an_english/)
 - subreddit: r/ChineseLanguage
@@ -133,12 +140,5 @@ Generated: 2026-06-09T10:49:19.906Z
 - score: 4
 - comments: 6
 - created: 2026-05-23T16:48:05.000Z
-- matched query: "learn chinese" app
-
-## [How to reach reading automaticity in Chinese and is it worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1thyod6/how_to_reach_reading_automaticity_in_chinese_and/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 9
-- created: 2026-05-19T20:06:48.000Z
 - matched query: "learn chinese" app
 

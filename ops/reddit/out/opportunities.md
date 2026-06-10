@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-09T23:45:09.565Z
+Generated: 2026-06-10T01:55:19.404Z
 
 ## [Resources for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1u0u8kt/resources_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -26,14 +26,14 @@ Generated: 2026-06-09T23:45:09.565Z
 ## [complete beginner to learning chinese, where to start?](https://old.reddit.com/r/ChineseLanguage/comments/1u1k15v/complete_beginner_to_learning_chinese_where_to/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 2
+- comments: 6
 - created: 2026-06-09T22:29:22.000Z
 - matched query: resource
 
 ## [What’s your setup for passive + active Chinese listening at beginner/intermediate level?](https://old.reddit.com/r/ChineseLanguage/comments/1u13u23/whats_your_setup_for_passive_active_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 3
+- comments: 4
 - created: 2026-06-09T12:40:15.000Z
 - matched query: "learn chinese" app
 
@@ -100,10 +100,17 @@ Generated: 2026-06-09T23:45:09.565Z
 - created: 2026-05-13T14:45:45.000Z
 - matched query: app OR website pinyin hanzi
 
+## [Tips for new Chinese learners](https://old.reddit.com/r/ChineseLanguage/comments/1u1nsuo/tips_for_new_chinese_learners/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 2
+- created: 2026-06-10T01:13:00.000Z
+- matched query: "learn chinese" app
+
 ## [chinese american learning chinese again](https://old.reddit.com/r/ChineseLanguage/comments/1u1esnn/chinese_american_learning_chinese_again/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 12
+- comments: 13
 - created: 2026-06-09T19:15:21.000Z
 - matched query: "learn chinese" app
 
@@ -134,11 +141,4 @@ Generated: 2026-06-09T23:45:09.565Z
 - comments: 11
 - created: 2026-06-04T15:39:41.000Z
 - matched query: resource
-
-## [Recommended Courses for toddlers and parents](https://old.reddit.com/r/ChineseLanguage/comments/1tu6bpj/recommended_courses_for_toddlers_and_parents/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 4
-- created: 2026-06-01T21:25:01.000Z
-- matched query: "learn chinese" app
 

@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-10T06:27:13.885Z
+Generated: 2026-06-10T10:42:03.889Z
 
 ## [Resources for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1u0u8kt/resources_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 8
-- comments: 22
+- comments: 24
 - created: 2026-06-09T03:57:54.000Z
 - matched query: resource
 
@@ -26,14 +26,14 @@ Generated: 2026-06-10T06:27:13.885Z
 ## [complete beginner to learning chinese, where to start?](https://old.reddit.com/r/ChineseLanguage/comments/1u1k15v/complete_beginner_to_learning_chinese_where_to/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 6
+- comments: 8
 - created: 2026-06-09T22:29:22.000Z
 - matched query: resource
 
 ## [What’s your setup for passive + active Chinese listening at beginner/intermediate level?](https://old.reddit.com/r/ChineseLanguage/comments/1u13u23/whats_your_setup_for_passive_active_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 5
+- comments: 6
 - created: 2026-06-09T12:40:15.000Z
 - matched query: "learn chinese" app
 
@@ -54,7 +54,7 @@ Generated: 2026-06-10T06:27:13.885Z
 ## [Should I learn Cantonese or Mandarin?](https://old.reddit.com/r/ChineseLanguage/comments/1tzgnvf/should_i_learn_cantonese_or_mandarin/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 4
+- comments: 5
 - created: 2026-06-07T16:26:06.000Z
 - matched query: resource
 
@@ -103,7 +103,7 @@ Generated: 2026-06-10T06:27:13.885Z
 ## [chinese american learning chinese again](https://old.reddit.com/r/ChineseLanguage/comments/1u1esnn/chinese_american_learning_chinese_again/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 18
+- comments: 19
 - created: 2026-06-09T19:15:21.000Z
 - matched query: "learn chinese" app
 

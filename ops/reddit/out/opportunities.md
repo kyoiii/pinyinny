@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-10T22:08:34.896Z
+Generated: 2026-06-10T23:50:30.176Z
 
 ## [Anki Deck with Pinyin at the Front ?](https://old.reddit.com/r/ChineseLanguage/comments/1u23klk/anki_deck_with_pinyin_at_the_front/)
 - subreddit: r/ChineseLanguage
@@ -40,15 +40,8 @@ Generated: 2026-06-10T22:08:34.896Z
 ## [I was a beginner Chinese learner. I wish I'd had more audio resources. So I made them with a Chinese friend to help other learners](https://old.reddit.com/r/ChineseLanguage/comments/1u2en8o/i_was_a_beginner_chinese_learner_i_wish_id_had/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 2
+- comments: 4
 - created: 2026-06-10T20:55:43.000Z
-- matched query: resource
-
-## [complete beginner to learning chinese, where to start?](https://old.reddit.com/r/ChineseLanguage/comments/1u1k15v/complete_beginner_to_learning_chinese_where_to/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 9
-- created: 2026-06-09T22:29:22.000Z
 - matched query: resource
 
 ## [Ai tools to learn the language ?](https://old.reddit.com/r/ChineseLanguage/comments/1twhqga/ai_tools_to_learn_the_language/)
@@ -57,6 +50,13 @@ Generated: 2026-06-10T22:08:34.896Z
 - comments: 7
 - created: 2026-06-04T08:42:22.000Z
 - matched query: "learn chinese" app
+
+## [complete beginner to learning chinese, where to start?](https://old.reddit.com/r/ChineseLanguage/comments/1u1k15v/complete_beginner_to_learning_chinese_where_to/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 9
+- created: 2026-06-09T22:29:22.000Z
+- matched query: resource
 
 ## [What’s your setup for passive + active Chinese listening at beginner/intermediate level?](https://old.reddit.com/r/ChineseLanguage/comments/1u13u23/whats_your_setup_for_passive_active_chinese/)
 - subreddit: r/ChineseLanguage

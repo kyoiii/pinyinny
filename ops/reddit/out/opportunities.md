@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-10T01:55:19.404Z
+Generated: 2026-06-10T06:27:13.885Z
 
 ## [Resources for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1u0u8kt/resources_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
-- score: 9
-- comments: 20
+- score: 8
+- comments: 22
 - created: 2026-06-09T03:57:54.000Z
 - matched query: resource
 
@@ -33,7 +33,7 @@ Generated: 2026-06-10T01:55:19.404Z
 ## [What’s your setup for passive + active Chinese listening at beginner/intermediate level?](https://old.reddit.com/r/ChineseLanguage/comments/1u13u23/whats_your_setup_for_passive_active_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 4
+- comments: 5
 - created: 2026-06-09T12:40:15.000Z
 - matched query: "learn chinese" app
 
@@ -56,13 +56,6 @@ Generated: 2026-06-10T01:55:19.404Z
 - score: 6
 - comments: 4
 - created: 2026-06-07T16:26:06.000Z
-- matched query: resource
-
-## [Native Chinese speaker thinking of teaching Mandarin — how should I start?](https://old.reddit.com/r/ChineseLanguage/comments/1tz2dy9/native_chinese_speaker_thinking_of_teaching/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 8
-- created: 2026-06-07T04:35:33.000Z
 - matched query: resource
 
 ## [Hainanese Language Resources 文昌话 琼语](https://old.reddit.com/r/ChineseLanguage/comments/1ty3mj2/hainanese_language_resources_文昌话_琼语/)
@@ -103,16 +96,23 @@ Generated: 2026-06-10T01:55:19.404Z
 ## [Tips for new Chinese learners](https://old.reddit.com/r/ChineseLanguage/comments/1u1nsuo/tips_for_new_chinese_learners/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 2
+- comments: 7
 - created: 2026-06-10T01:13:00.000Z
 - matched query: "learn chinese" app
 
 ## [chinese american learning chinese again](https://old.reddit.com/r/ChineseLanguage/comments/1u1esnn/chinese_american_learning_chinese_again/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 13
+- comments: 18
 - created: 2026-06-09T19:15:21.000Z
 - matched query: "learn chinese" app
+
+## [Native Chinese speaker thinking of teaching Mandarin — how should I start?](https://old.reddit.com/r/ChineseLanguage/comments/1tz2dy9/native_chinese_speaker_thinking_of_teaching/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 8
+- created: 2026-06-07T04:35:33.000Z
+- matched query: resource
 
 ## [Understanding the double-edged sword of Chinese social intelligence: What does "会来事儿" mean to a native speaker?](https://old.reddit.com/r/ChineseLanguage/comments/1ty37j3/understanding_the_doubleedged_sword_of_chinese/)
 - subreddit: r/ChineseLanguage

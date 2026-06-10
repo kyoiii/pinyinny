@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-10T17:33:12.709Z
+Generated: 2026-06-10T19:56:17.348Z
 
 ## [Anki Deck with Pinyin at the Front ?](https://old.reddit.com/r/ChineseLanguage/comments/1u23klk/anki_deck_with_pinyin_at_the_front/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 2
+- comments: 3
 - created: 2026-06-10T14:20:07.000Z
 - matched query: app OR website pinyin hanzi
 
@@ -103,7 +103,7 @@ Generated: 2026-06-10T17:33:12.709Z
 ## [Self-study](https://old.reddit.com/r/ChineseLanguage/comments/1u27ayv/selfstudy/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 2
+- comments: 4
 - created: 2026-06-10T16:33:47.000Z
 - matched query: resource
 
@@ -121,13 +121,6 @@ Generated: 2026-06-10T17:33:12.709Z
 - created: 2026-06-10T01:13:00.000Z
 - matched query: "learn chinese" app
 
-## [chinese american learning chinese again](https://old.reddit.com/r/ChineseLanguage/comments/1u1esnn/chinese_american_learning_chinese_again/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 20
-- created: 2026-06-09T19:15:21.000Z
-- matched query: "learn chinese" app
-
 ## [Should I learn Cantonese or Mandarin?](https://old.reddit.com/r/ChineseLanguage/comments/1tzgnvf/should_i_learn_cantonese_or_mandarin/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -140,5 +133,12 @@ Generated: 2026-06-10T17:33:12.709Z
 - score: 5
 - comments: 8
 - created: 2026-06-07T04:35:33.000Z
+- matched query: resource
+
+## [Understanding the double-edged sword of Chinese social intelligence: What does "会来事儿" mean to a native speaker?](https://old.reddit.com/r/ChineseLanguage/comments/1ty37j3/understanding_the_doubleedged_sword_of_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 1
+- created: 2026-06-06T01:08:41.000Z
 - matched query: resource
 

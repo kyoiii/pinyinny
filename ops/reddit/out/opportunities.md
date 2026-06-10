@@ -1,6 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-10T10:42:03.889Z
+Generated: 2026-06-10T14:03:34.825Z
+
+## [Srs flashcards and Immersion](https://old.reddit.com/r/ChineseLanguage/comments/1u1z27m/srs_flashcards_and_immersion/)
+- subreddit: r/ChineseLanguage
+- score: 8
+- comments: 0
+- created: 2026-06-10T11:08:10.000Z
+- matched query: flashcard app
 
 ## [Resources for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1u0u8kt/resources_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -26,22 +33,22 @@ Generated: 2026-06-10T10:42:03.889Z
 ## [complete beginner to learning chinese, where to start?](https://old.reddit.com/r/ChineseLanguage/comments/1u1k15v/complete_beginner_to_learning_chinese_where_to/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 8
+- comments: 9
 - created: 2026-06-09T22:29:22.000Z
 - matched query: resource
-
-## [What’s your setup for passive + active Chinese listening at beginner/intermediate level?](https://old.reddit.com/r/ChineseLanguage/comments/1u13u23/whats_your_setup_for_passive_active_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 6
-- created: 2026-06-09T12:40:15.000Z
-- matched query: "learn chinese" app
 
 ## [Ai tools to learn the language ?](https://old.reddit.com/r/ChineseLanguage/comments/1twhqga/ai_tools_to_learn_the_language/)
 - subreddit: r/ChineseLanguage
 - score: 7
 - comments: 7
 - created: 2026-06-04T08:42:22.000Z
+- matched query: "learn chinese" app
+
+## [What’s your setup for passive + active Chinese listening at beginner/intermediate level?](https://old.reddit.com/r/ChineseLanguage/comments/1u13u23/whats_your_setup_for_passive_active_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 6
+- created: 2026-06-09T12:40:15.000Z
 - matched query: "learn chinese" app
 
 ## [How do I teach people a language?](https://old.reddit.com/r/languagelearning/comments/1tzvnev/how_do_i_teach_people_a_language/)
@@ -96,7 +103,7 @@ Generated: 2026-06-10T10:42:03.889Z
 ## [Tips for new Chinese learners](https://old.reddit.com/r/ChineseLanguage/comments/1u1nsuo/tips_for_new_chinese_learners/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 7
+- comments: 8
 - created: 2026-06-10T01:13:00.000Z
 - matched query: "learn chinese" app
 
@@ -133,12 +140,5 @@ Generated: 2026-06-10T10:42:03.889Z
 - score: 5
 - comments: 8
 - created: 2026-06-04T19:02:18.000Z
-- matched query: resource
-
-## [Should I learn all the radicals?](https://old.reddit.com/r/ChineseLanguage/comments/1twrbg6/should_i_learn_all_the_radicals/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 11
-- created: 2026-06-04T15:39:41.000Z
 - matched query: resource
 

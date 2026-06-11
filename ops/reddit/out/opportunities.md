@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-10T23:50:30.176Z
+Generated: 2026-06-11T02:32:36.870Z
 
 ## [Anki Deck with Pinyin at the Front ?](https://old.reddit.com/r/ChineseLanguage/comments/1u23klk/anki_deck_with_pinyin_at_the_front/)
 - subreddit: r/ChineseLanguage
@@ -19,14 +19,14 @@ Generated: 2026-06-10T23:50:30.176Z
 ## [Resources for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1u0u8kt/resources_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 8
-- comments: 26
+- comments: 27
 - created: 2026-06-09T03:57:54.000Z
 - matched query: resource
 
 ## [What are the best resources for an English speaker to learn Mandarin Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tzw5i9/what_are_the_best_resources_for_an_english/)
 - subreddit: r/ChineseLanguage
 - score: 8
-- comments: 3
+- comments: 4
 - created: 2026-06-08T03:11:31.000Z
 - matched query: resource
 
@@ -121,13 +121,6 @@ Generated: 2026-06-10T23:50:30.176Z
 - created: 2026-06-10T14:27:24.000Z
 - matched query: resource
 
-## [Tips for new Chinese learners](https://old.reddit.com/r/ChineseLanguage/comments/1u1nsuo/tips_for_new_chinese_learners/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 8
-- created: 2026-06-10T01:13:00.000Z
-- matched query: "learn chinese" app
-
 ## [Should I learn Cantonese or Mandarin?](https://old.reddit.com/r/ChineseLanguage/comments/1tzgnvf/should_i_learn_cantonese_or_mandarin/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -140,5 +133,12 @@ Generated: 2026-06-10T23:50:30.176Z
 - score: 5
 - comments: 8
 - created: 2026-06-07T04:35:33.000Z
+- matched query: resource
+
+## [Understanding the double-edged sword of Chinese social intelligence: What does "会来事儿" mean to a native speaker?](https://old.reddit.com/r/ChineseLanguage/comments/1ty37j3/understanding_the_doubleedged_sword_of_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 1
+- created: 2026-06-06T01:08:41.000Z
 - matched query: resource
 

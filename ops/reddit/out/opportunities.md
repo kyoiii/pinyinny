@@ -1,10 +1,10 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-11T11:51:45.869Z
+Generated: 2026-06-11T15:39:58.450Z
 
 ## [Anki Deck with Pinyin at the Front ?](https://old.reddit.com/r/ChineseLanguage/comments/1u23klk/anki_deck_with_pinyin_at_the_front/)
 - subreddit: r/ChineseLanguage
-- score: 9
+- score: 8
 - comments: 4
 - created: 2026-06-10T14:20:07.000Z
 - matched query: app OR website pinyin hanzi
@@ -22,6 +22,13 @@ Generated: 2026-06-11T11:51:45.869Z
 - comments: 6
 - created: 2026-05-27T22:47:55.000Z
 - matched query: flashcard app
+
+## [How are learners handling the HSK 2.0 → 3.0 transition in 2026?](https://old.reddit.com/r/ChineseLanguage/comments/1u311bd/how_are_learners_handling_the_hsk_20_30/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 2
+- created: 2026-06-11T14:43:25.000Z
+- matched query: resource
 
 ## [I was a beginner Chinese learner. I wish I'd had more audio resources. So I made them with a Chinese friend to help other learners](https://old.reddit.com/r/ChineseLanguage/comments/1u2en8o/i_was_a_beginner_chinese_learner_i_wish_id_had/)
 - subreddit: r/ChineseLanguage
@@ -107,13 +114,6 @@ Generated: 2026-06-11T11:51:45.869Z
 - created: 2026-06-10T16:33:47.000Z
 - matched query: resource
 
-## [Self-study chinese](https://old.reddit.com/r/ChineseLanguage/comments/1u23rou/selfstudy_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 1
-- created: 2026-06-10T14:27:24.000Z
-- matched query: resource
-
 ## [How do I teach people a language?](https://old.reddit.com/r/languagelearning/comments/1tzvnev/how_do_i_teach_people_a_language/)
 - subreddit: r/languagelearning
 - score: 5
@@ -131,7 +131,7 @@ Generated: 2026-06-11T11:51:45.869Z
 ## [Native Chinese speaker thinking of teaching Mandarin — how should I start?](https://old.reddit.com/r/ChineseLanguage/comments/1tz2dy9/native_chinese_speaker_thinking_of_teaching/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 10
+- comments: 12
 - created: 2026-06-07T04:35:33.000Z
 - matched query: resource
 

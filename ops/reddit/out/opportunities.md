@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-12T05:13:59.138Z
+Generated: 2026-06-12T09:15:13.485Z
 
 ## [Any app, website or resource to dub Mandarin videos and practice speaking?](https://old.reddit.com/r/ChineseLanguage/comments/1u3d4qt/any_app_website_or_resource_to_dub_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -47,7 +47,7 @@ Generated: 2026-06-12T05:13:59.138Z
 ## [Resources for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1u0u8kt/resources_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 28
+- comments: 29
 - created: 2026-06-09T03:57:54.000Z
 - matched query: resource
 
@@ -68,7 +68,7 @@ Generated: 2026-06-12T05:13:59.138Z
 ## [complete beginner to learning chinese, where to start?](https://old.reddit.com/r/ChineseLanguage/comments/1u1k15v/complete_beginner_to_learning_chinese_where_to/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 10
+- comments: 11
 - created: 2026-06-09T22:29:22.000Z
 - matched query: resource
 
@@ -85,13 +85,6 @@ Generated: 2026-06-12T05:13:59.138Z
 - comments: 0
 - created: 2026-06-06T01:28:21.000Z
 - matched query: resource
-
-## [Hi, I built free app for people who want to learn Chinese through Vlogs, Podcasts...](https://old.reddit.com/r/ChineseLanguage/comments/1txbqvv/hi_i_built_free_app_for_people_who_want_to_learn/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-06-05T05:28:45.000Z
-- matched query: "learn chinese" app
 
 ## [Ai tools to learn the language ?](https://old.reddit.com/r/ChineseLanguage/comments/1twhqga/ai_tools_to_learn_the_language/)
 - subreddit: r/ChineseLanguage
@@ -140,5 +133,12 @@ Generated: 2026-06-12T05:13:59.138Z
 - score: 5
 - comments: 12
 - created: 2026-06-07T04:35:33.000Z
+- matched query: resource
+
+## [Understanding the double-edged sword of Chinese social intelligence: What does "会来事儿" mean to a native speaker?](https://old.reddit.com/r/ChineseLanguage/comments/1ty37j3/understanding_the_doubleedged_sword_of_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 1
+- created: 2026-06-06T01:08:41.000Z
 - matched query: resource
 

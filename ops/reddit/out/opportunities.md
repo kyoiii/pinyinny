@@ -1,18 +1,18 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-12T00:23:30.475Z
+Generated: 2026-06-12T05:13:59.138Z
 
 ## [Any app, website or resource to dub Mandarin videos and practice speaking?](https://old.reddit.com/r/ChineseLanguage/comments/1u3d4qt/any_app_website_or_resource_to_dub_mandarin/)
 - subreddit: r/ChineseLanguage
-- score: 16
-- comments: 0
+- score: 15
+- comments: 1
 - created: 2026-06-11T22:10:47.000Z
 - matched query: resource
 
 ## [Is there apps for sentence pronunciation training?](https://old.reddit.com/r/ChineseLanguage/comments/1u3cgj5/is_there_apps_for_sentence_pronunciation_training/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 5
+- comments: 8
 - created: 2026-06-11T21:44:21.000Z
 - matched query: resource
 
@@ -22,13 +22,6 @@ Generated: 2026-06-12T00:23:30.475Z
 - comments: 4
 - created: 2026-06-10T14:20:07.000Z
 - matched query: app OR website pinyin hanzi
-
-## [Resources for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1u0u8kt/resources_for_learning_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 28
-- created: 2026-06-09T03:57:54.000Z
-- matched query: resource
 
 ## [What resources do you recommend?](https://old.reddit.com/r/ChineseLanguage/comments/1tplbf6/what_resources_do_you_recommend/)
 - subreddit: r/ChineseLanguage
@@ -40,7 +33,7 @@ Generated: 2026-06-12T00:23:30.475Z
 ## [How are learners handling the HSK 2.0 → 3.0 transition in 2026?](https://old.reddit.com/r/ChineseLanguage/comments/1u311bd/how_are_learners_handling_the_hsk_20_30/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 5
+- comments: 8
 - created: 2026-06-11T14:43:25.000Z
 - matched query: resource
 
@@ -50,6 +43,13 @@ Generated: 2026-06-12T00:23:30.475Z
 - comments: 0
 - created: 2026-06-10T11:08:10.000Z
 - matched query: flashcard app
+
+## [Resources for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1u0u8kt/resources_for_learning_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 28
+- created: 2026-06-09T03:57:54.000Z
+- matched query: resource
 
 ## [What are the best resources for an English speaker to learn Mandarin Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tzw5i9/what_are_the_best_resources_for_an_english/)
 - subreddit: r/ChineseLanguage

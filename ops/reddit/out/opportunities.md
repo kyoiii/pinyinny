@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-12T09:15:13.485Z
+Generated: 2026-06-12T12:36:21.768Z
 
 ## [Any app, website or resource to dub Mandarin videos and practice speaking?](https://old.reddit.com/r/ChineseLanguage/comments/1u3d4qt/any_app_website_or_resource_to_dub_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -12,7 +12,7 @@ Generated: 2026-06-12T09:15:13.485Z
 ## [Is there apps for sentence pronunciation training?](https://old.reddit.com/r/ChineseLanguage/comments/1u3cgj5/is_there_apps_for_sentence_pronunciation_training/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 8
+- comments: 9
 - created: 2026-06-11T21:44:21.000Z
 - matched query: resource
 
@@ -61,7 +61,7 @@ Generated: 2026-06-12T09:15:13.485Z
 ## [I was a beginner Chinese learner. I wish I'd had more audio resources. So I made them with a Chinese friend to help other learners](https://old.reddit.com/r/ChineseLanguage/comments/1u2en8o/i_was_a_beginner_chinese_learner_i_wish_id_had/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 9
+- comments: 11
 - created: 2026-06-10T20:55:43.000Z
 - matched query: resource
 

@@ -1,10 +1,10 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-12T22:07:08.103Z
+Generated: 2026-06-12T23:48:04.058Z
 
 ## [Any app, website or resource to dub Mandarin videos and practice speaking?](https://old.reddit.com/r/ChineseLanguage/comments/1u3d4qt/any_app_website_or_resource_to_dub_mandarin/)
 - subreddit: r/ChineseLanguage
-- score: 15
+- score: 14
 - comments: 1
 - created: 2026-06-11T22:10:47.000Z
 - matched query: resource
@@ -63,13 +63,6 @@ Generated: 2026-06-12T22:07:08.103Z
 - score: 6
 - comments: 13
 - created: 2026-06-10T20:55:43.000Z
-- matched query: resource
-
-## [complete beginner to learning chinese, where to start?](https://old.reddit.com/r/ChineseLanguage/comments/1u1k15v/complete_beginner_to_learning_chinese_where_to/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 11
-- created: 2026-06-09T22:29:22.000Z
 - matched query: resource
 
 ## [Hainanese Language Resources 文昌话 琼语](https://old.reddit.com/r/ChineseLanguage/comments/1ty3mj2/hainanese_language_resources_文昌话_琼语/)
@@ -141,4 +134,11 @@ Generated: 2026-06-12T22:07:08.103Z
 - comments: 1
 - created: 2026-06-06T01:08:41.000Z
 - matched query: resource
+
+## [Hi, I built free app for people who want to learn Chinese through Vlogs, Podcasts...](https://old.reddit.com/r/ChineseLanguage/comments/1txbqvv/hi_i_built_free_app_for_people_who_want_to_learn/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 0
+- created: 2026-06-05T05:28:45.000Z
+- matched query: "learn chinese" app
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-13T01:56:06.577Z
+Generated: 2026-06-13T06:21:54.060Z
 
 ## [Any app, website or resource to dub Mandarin videos and practice speaking?](https://old.reddit.com/r/ChineseLanguage/comments/1u3d4qt/any_app_website_or_resource_to_dub_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -40,7 +40,7 @@ Generated: 2026-06-13T01:56:06.577Z
 ## [Resources for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1u0u8kt/resources_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 29
+- comments: 30
 - created: 2026-06-09T03:57:54.000Z
 - matched query: resource
 
@@ -93,6 +93,20 @@ Generated: 2026-06-13T01:56:06.577Z
 - created: 2026-05-13T14:45:45.000Z
 - matched query: app OR website pinyin hanzi
 
+## [Gamified Language Learning](https://old.reddit.com/r/ChineseLanguage/comments/1u4gdpb/gamified_language_learning/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 1
+- created: 2026-06-13T03:44:36.000Z
+- matched query: flashcard app
+
+## [Frustrated because even though I write every day, my fluency is not noticably improving](https://old.reddit.com/r/ChineseLanguage/comments/1u4fnt7/frustrated_because_even_though_i_write_every_day/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 7
+- created: 2026-06-13T03:07:57.000Z
+- matched query: flashcard app
+
 ## [What’s your setup for passive + active Chinese listening at beginner/intermediate level?](https://old.reddit.com/r/ChineseLanguage/comments/1u13u23/whats_your_setup_for_passive_active_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -126,19 +140,5 @@ Generated: 2026-06-13T01:56:06.577Z
 - score: 5
 - comments: 0
 - created: 2026-06-06T01:28:21.000Z
-- matched query: resource
-
-## [Hi, I built free app for people who want to learn Chinese through Vlogs, Podcasts...](https://old.reddit.com/r/ChineseLanguage/comments/1txbqvv/hi_i_built_free_app_for_people_who_want_to_learn/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 0
-- created: 2026-06-05T05:28:45.000Z
-- matched query: "learn chinese" app
-
-## [Self-study](https://old.reddit.com/r/ChineseLanguage/comments/1u27ayv/selfstudy/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 8
-- created: 2026-06-10T16:33:47.000Z
 - matched query: resource
 

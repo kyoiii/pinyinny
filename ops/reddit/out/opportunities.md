@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-13T15:12:51.034Z
+Generated: 2026-06-13T16:50:24.134Z
 
 ## [Any app, website or resource to dub Mandarin videos and practice speaking?](https://old.reddit.com/r/ChineseLanguage/comments/1u3d4qt/any_app_website_or_resource_to_dub_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -100,6 +100,13 @@ Generated: 2026-06-13T15:12:51.034Z
 - created: 2026-05-13T14:45:45.000Z
 - matched query: app OR website pinyin hanzi
 
+## [Learn Chinese with World Cup](https://old.reddit.com/r/ChineseLanguage/comments/1u4tgrn/learn_chinese_with_world_cup/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 2
+- created: 2026-06-13T15:12:48.000Z
+- matched query: "learn chinese" app
+
 ## [Gamified Language Learning](https://old.reddit.com/r/ChineseLanguage/comments/1u4gdpb/gamified_language_learning/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -133,12 +140,5 @@ Generated: 2026-06-13T15:12:51.034Z
 - score: 5
 - comments: 5
 - created: 2026-06-07T16:26:06.000Z
-- matched query: resource
-
-## [Native Chinese speaker thinking of teaching Mandarin — how should I start?](https://old.reddit.com/r/ChineseLanguage/comments/1tz2dy9/native_chinese_speaker_thinking_of_teaching/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 12
-- created: 2026-06-07T04:35:33.000Z
 - matched query: resource
 

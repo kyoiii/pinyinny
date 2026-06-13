@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-13T22:16:32.939Z
+Generated: 2026-06-13T23:36:48.419Z
 
 ## [Any app, website or resource to dub Mandarin videos and practice speaking?](https://old.reddit.com/r/ChineseLanguage/comments/1u3d4qt/any_app_website_or_resource_to_dub_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -93,6 +93,13 @@ Generated: 2026-06-13T22:16:32.939Z
 - created: 2026-05-13T14:45:45.000Z
 - matched query: app OR website pinyin hanzi
 
+## [There's mention of a new HSK 3.0 textbook 《HSK 3.0综合教程》 to be launched 4 July 2026](https://old.reddit.com/r/ChineseLanguage/comments/1u558g2/theres_mention_of_a_new_hsk_30_textbook_hsk/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 4
+- created: 2026-06-13T23:23:46.000Z
+- matched query: resource
+
 ## [Learn Chinese with World Cup](https://old.reddit.com/r/ChineseLanguage/comments/1u4tgrn/learn_chinese_with_world_cup/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -134,11 +141,4 @@ Generated: 2026-06-13T22:16:32.939Z
 - comments: 11
 - created: 2026-06-08T02:47:02.000Z
 - matched query: "Chinese" resource
-
-## [Should I learn Cantonese or Mandarin?](https://old.reddit.com/r/ChineseLanguage/comments/1tzgnvf/should_i_learn_cantonese_or_mandarin/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 5
-- created: 2026-06-07T16:26:06.000Z
-- matched query: resource
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-12T23:48:04.058Z
+Generated: 2026-06-13T01:56:06.577Z
 
 ## [Any app, website or resource to dub Mandarin videos and practice speaking?](https://old.reddit.com/r/ChineseLanguage/comments/1u3d4qt/any_app_website_or_resource_to_dub_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -12,7 +12,7 @@ Generated: 2026-06-12T23:48:04.058Z
 ## [Is there apps for sentence pronunciation training?](https://old.reddit.com/r/ChineseLanguage/comments/1u3cgj5/is_there_apps_for_sentence_pronunciation_training/)
 - subreddit: r/ChineseLanguage
 - score: 8
-- comments: 10
+- comments: 11
 - created: 2026-06-11T21:44:21.000Z
 - matched query: resource
 
@@ -65,13 +65,6 @@ Generated: 2026-06-12T23:48:04.058Z
 - created: 2026-06-10T20:55:43.000Z
 - matched query: resource
 
-## [Hainanese Language Resources 文昌话 琼语](https://old.reddit.com/r/ChineseLanguage/comments/1ty3mj2/hainanese_language_resources_文昌话_琼语/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-06-06T01:28:21.000Z
-- matched query: resource
-
 ## [Ai tools to learn the language ?](https://old.reddit.com/r/ChineseLanguage/comments/1twhqga/ai_tools_to_learn_the_language/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -103,7 +96,7 @@ Generated: 2026-06-12T23:48:04.058Z
 ## [What’s your setup for passive + active Chinese listening at beginner/intermediate level?](https://old.reddit.com/r/ChineseLanguage/comments/1u13u23/whats_your_setup_for_passive_active_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 7
+- comments: 8
 - created: 2026-06-09T12:40:15.000Z
 - matched query: "learn chinese" app
 
@@ -128,11 +121,11 @@ Generated: 2026-06-12T23:48:04.058Z
 - created: 2026-06-07T04:35:33.000Z
 - matched query: resource
 
-## [Understanding the double-edged sword of Chinese social intelligence: What does "会来事儿" mean to a native speaker?](https://old.reddit.com/r/ChineseLanguage/comments/1ty37j3/understanding_the_doubleedged_sword_of_chinese/)
+## [Hainanese Language Resources 文昌话 琼语](https://old.reddit.com/r/ChineseLanguage/comments/1ty3mj2/hainanese_language_resources_文昌话_琼语/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 1
-- created: 2026-06-06T01:08:41.000Z
+- comments: 0
+- created: 2026-06-06T01:28:21.000Z
 - matched query: resource
 
 ## [Hi, I built free app for people who want to learn Chinese through Vlogs, Podcasts...](https://old.reddit.com/r/ChineseLanguage/comments/1txbqvv/hi_i_built_free_app_for_people_who_want_to_learn/)
@@ -141,4 +134,11 @@ Generated: 2026-06-12T23:48:04.058Z
 - comments: 0
 - created: 2026-06-05T05:28:45.000Z
 - matched query: "learn chinese" app
+
+## [Self-study](https://old.reddit.com/r/ChineseLanguage/comments/1u27ayv/selfstudy/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 8
+- created: 2026-06-10T16:33:47.000Z
+- matched query: resource
 

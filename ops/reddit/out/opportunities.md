@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-14T20:41:40.959Z
+Generated: 2026-06-14T21:58:44.459Z
 
 ## [Any app, website or resource to dub Mandarin videos and practice speaking?](https://old.reddit.com/r/ChineseLanguage/comments/1u3d4qt/any_app_website_or_resource_to_dub_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -9,26 +9,19 @@ Generated: 2026-06-14T20:41:40.959Z
 - created: 2026-06-11T22:10:47.000Z
 - matched query: resource
 
-## [Found a GREAT 100% free flashcard app](https://old.reddit.com/r/ChineseLanguage/comments/1u5umy9/found_a_great_100_free_flashcard_app/)
-- subreddit: r/ChineseLanguage
-- score: 10
-- comments: 0
-- created: 2026-06-14T19:41:44.000Z
-- matched query: flashcard app
-
-## [Is there apps for sentence pronunciation training?](https://old.reddit.com/r/ChineseLanguage/comments/1u3cgj5/is_there_apps_for_sentence_pronunciation_training/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 11
-- created: 2026-06-11T21:44:21.000Z
-- matched query: resource
-
 ## [What resources do you recommend?](https://old.reddit.com/r/ChineseLanguage/comments/1tplbf6/what_resources_do_you_recommend/)
 - subreddit: r/ChineseLanguage
 - score: 8
 - comments: 6
 - created: 2026-05-27T22:47:55.000Z
 - matched query: flashcard app
+
+## [Is there apps for sentence pronunciation training?](https://old.reddit.com/r/ChineseLanguage/comments/1u3cgj5/is_there_apps_for_sentence_pronunciation_training/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 11
+- created: 2026-06-11T21:44:21.000Z
+- matched query: resource
 
 ## [Anki Deck with Pinyin at the Front ?](https://old.reddit.com/r/ChineseLanguage/comments/1u23klk/anki_deck_with_pinyin_at_the_front/)
 - subreddit: r/ChineseLanguage
@@ -96,7 +89,7 @@ Generated: 2026-06-14T20:41:40.959Z
 ## [How are learners handling the HSK 2.0 → 3.0 transition in 2026?](https://old.reddit.com/r/ChineseLanguage/comments/1u311bd/how_are_learners_handling_the_hsk_20_30/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 9
+- comments: 10
 - created: 2026-06-11T14:43:25.000Z
 - matched query: resource
 
@@ -140,5 +133,12 @@ Generated: 2026-06-14T20:41:40.959Z
 - score: 4
 - comments: 1
 - created: 2026-06-13T03:44:36.000Z
+- matched query: flashcard app
+
+## [Frustrated because even though I write every day, my fluency is not noticably improving](https://old.reddit.com/r/ChineseLanguage/comments/1u4fnt7/frustrated_because_even_though_i_write_every_day/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 10
+- created: 2026-06-13T03:07:57.000Z
 - matched query: flashcard app
 

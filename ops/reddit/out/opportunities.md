@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-14T14:38:46.149Z
+Generated: 2026-06-14T16:12:34.651Z
 
 ## [Any app, website or resource to dub Mandarin videos and practice speaking?](https://old.reddit.com/r/ChineseLanguage/comments/1u3d4qt/any_app_website_or_resource_to_dub_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -51,13 +51,6 @@ Generated: 2026-06-14T14:38:46.149Z
 - created: 2026-06-13T13:37:27.000Z
 - matched query: resource
 
-## [How are learners handling the HSK 2.0 → 3.0 transition in 2026?](https://old.reddit.com/r/ChineseLanguage/comments/1u311bd/how_are_learners_handling_the_hsk_20_30/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 8
-- created: 2026-06-11T14:43:25.000Z
-- matched query: resource
-
 ## [Srs flashcards and Immersion](https://old.reddit.com/r/ChineseLanguage/comments/1u1z27m/srs_flashcards_and_immersion/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -93,12 +86,12 @@ Generated: 2026-06-14T14:38:46.149Z
 - created: 2026-06-13T23:23:46.000Z
 - matched query: resource
 
-## [Learn Chinese with World Cup](https://old.reddit.com/r/ChineseLanguage/comments/1u4tgrn/learn_chinese_with_world_cup/)
+## [How are learners handling the HSK 2.0 → 3.0 transition in 2026?](https://old.reddit.com/r/ChineseLanguage/comments/1u311bd/how_are_learners_handling_the_hsk_20_30/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 4
-- created: 2026-06-13T15:12:48.000Z
-- matched query: "learn chinese" app
+- comments: 8
+- created: 2026-06-11T14:43:25.000Z
+- matched query: resource
 
 ## [I was a beginner Chinese learner. I wish I'd had more audio resources. So I made them with a Chinese friend to help other learners](https://old.reddit.com/r/ChineseLanguage/comments/1u2en8o/i_was_a_beginner_chinese_learner_i_wish_id_had/)
 - subreddit: r/ChineseLanguage
@@ -133,6 +126,13 @@ Generated: 2026-06-14T14:38:46.149Z
 - score: 5
 - comments: 0
 - created: 2026-06-05T05:28:45.000Z
+- matched query: "learn chinese" app
+
+## [Learn Chinese with World Cup](https://old.reddit.com/r/ChineseLanguage/comments/1u4tgrn/learn_chinese_with_world_cup/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 4
+- created: 2026-06-13T15:12:48.000Z
 - matched query: "learn chinese" app
 
 ## [Gamified Language Learning](https://old.reddit.com/r/ChineseLanguage/comments/1u4gdpb/gamified_language_learning/)

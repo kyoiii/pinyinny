@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-14T16:12:34.651Z
+Generated: 2026-06-14T17:51:13.672Z
 
 ## [Any app, website or resource to dub Mandarin videos and practice speaking?](https://old.reddit.com/r/ChineseLanguage/comments/1u3d4qt/any_app_website_or_resource_to_dub_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -114,13 +114,6 @@ Generated: 2026-06-14T16:12:34.651Z
 - created: 2026-06-08T02:47:02.000Z
 - matched query: "Chinese" resource
 
-## [Should I learn Cantonese or Mandarin?](https://old.reddit.com/r/ChineseLanguage/comments/1tzgnvf/should_i_learn_cantonese_or_mandarin/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 5
-- created: 2026-06-07T16:26:06.000Z
-- matched query: resource
-
 ## [Hi, I built free app for people who want to learn Chinese through Vlogs, Podcasts...](https://old.reddit.com/r/ChineseLanguage/comments/1txbqvv/hi_i_built_free_app_for_people_who_want_to_learn/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -140,5 +133,12 @@ Generated: 2026-06-14T16:12:34.651Z
 - score: 4
 - comments: 1
 - created: 2026-06-13T03:44:36.000Z
+- matched query: flashcard app
+
+## [Frustrated because even though I write every day, my fluency is not noticably improving](https://old.reddit.com/r/ChineseLanguage/comments/1u4fnt7/frustrated_because_even_though_i_write_every_day/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 10
+- created: 2026-06-13T03:07:57.000Z
 - matched query: flashcard app
 

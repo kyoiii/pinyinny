@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-14T12:22:32.689Z
+Generated: 2026-06-14T14:38:46.149Z
 
 ## [Any app, website or resource to dub Mandarin videos and practice speaking?](https://old.reddit.com/r/ChineseLanguage/comments/1u3d4qt/any_app_website_or_resource_to_dub_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -23,13 +23,6 @@ Generated: 2026-06-14T12:22:32.689Z
 - created: 2026-05-27T22:47:55.000Z
 - matched query: flashcard app
 
-## [Chinese Learning: Class vs Tutor?](https://old.reddit.com/r/ChineseLanguage/comments/1u4r7im/chinese_learning_class_vs_tutor/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 6
-- created: 2026-06-13T13:37:27.000Z
-- matched query: resource
-
 ## [Anki Deck with Pinyin at the Front ?](https://old.reddit.com/r/ChineseLanguage/comments/1u23klk/anki_deck_with_pinyin_at_the_front/)
 - subreddit: r/ChineseLanguage
 - score: 7
@@ -49,6 +42,13 @@ Generated: 2026-06-14T12:22:32.689Z
 - score: 7
 - comments: 4
 - created: 2026-06-08T03:11:31.000Z
+- matched query: resource
+
+## [Chinese Learning: Class vs Tutor?](https://old.reddit.com/r/ChineseLanguage/comments/1u4r7im/chinese_learning_class_vs_tutor/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 6
+- created: 2026-06-13T13:37:27.000Z
 - matched query: resource
 
 ## [How are learners handling the HSK 2.0 → 3.0 transition in 2026?](https://old.reddit.com/r/ChineseLanguage/comments/1u311bd/how_are_learners_handling_the_hsk_20_30/)

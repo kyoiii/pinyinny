@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-14T23:21:01.443Z
+Generated: 2026-06-15T01:44:44.839Z
 
 ## [Any app, website or resource to dub Mandarin videos and practice speaking?](https://old.reddit.com/r/ChineseLanguage/comments/1u3d4qt/any_app_website_or_resource_to_dub_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -79,13 +79,6 @@ Generated: 2026-06-14T23:21:01.443Z
 - created: 2026-05-21T12:35:45.000Z
 - matched query: "learn chinese" app
 
-## [There's mention of a new HSK 3.0 textbook 《HSK 3.0综合教程》 to be launched 4 July 2026](https://old.reddit.com/r/ChineseLanguage/comments/1u558g2/theres_mention_of_a_new_hsk_30_textbook_hsk/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 4
-- created: 2026-06-13T23:23:46.000Z
-- matched query: resource
-
 ## [How are learners handling the HSK 2.0 → 3.0 transition in 2026?](https://old.reddit.com/r/ChineseLanguage/comments/1u311bd/how_are_learners_handling_the_hsk_20_30/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -121,6 +114,13 @@ Generated: 2026-06-14T23:21:01.443Z
 - created: 2026-06-05T05:28:45.000Z
 - matched query: "learn chinese" app
 
+## [There's mention of a new HSK 3.0 textbook 《HSK 3.0综合教程》 to be launched 4 July 2026](https://old.reddit.com/r/ChineseLanguage/comments/1u558g2/theres_mention_of_a_new_hsk_30_textbook_hsk/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 4
+- created: 2026-06-13T23:23:46.000Z
+- matched query: resource
+
 ## [Learn Chinese with World Cup](https://old.reddit.com/r/ChineseLanguage/comments/1u4tgrn/learn_chinese_with_world_cup/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -138,7 +138,7 @@ Generated: 2026-06-14T23:21:01.443Z
 ## [Frustrated because even though I write every day, my fluency is not noticably improving](https://old.reddit.com/r/ChineseLanguage/comments/1u4fnt7/frustrated_because_even_though_i_write_every_day/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 10
+- comments: 11
 - created: 2026-06-13T03:07:57.000Z
 - matched query: flashcard app
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-15T07:03:02.791Z
+Generated: 2026-06-15T13:25:06.567Z
 
 ## [Any app, website or resource to dub Mandarin videos and practice speaking?](https://old.reddit.com/r/ChineseLanguage/comments/1u3d4qt/any_app_website_or_resource_to_dub_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -15,6 +15,13 @@ Generated: 2026-06-15T07:03:02.791Z
 - comments: 6
 - created: 2026-05-27T22:47:55.000Z
 - matched query: flashcard app
+
+## [Best app for learning chinese characters](https://old.reddit.com/r/ChineseLanguage/comments/1u6e1kn/best_app_for_learning_chinese_characters/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 13
+- created: 2026-06-15T11:36:39.000Z
+- matched query: "learn chinese" app
 
 ## [Is there apps for sentence pronunciation training?](https://old.reddit.com/r/ChineseLanguage/comments/1u3cgj5/is_there_apps_for_sentence_pronunciation_training/)
 - subreddit: r/ChineseLanguage
@@ -134,11 +141,4 @@ Generated: 2026-06-15T07:03:02.791Z
 - comments: 11
 - created: 2026-06-13T03:07:57.000Z
 - matched query: flashcard app
-
-## [How do I teach people a language?](https://old.reddit.com/r/languagelearning/comments/1tzvnev/how_do_i_teach_people_a_language/)
-- subreddit: r/languagelearning
-- score: 4
-- comments: 12
-- created: 2026-06-08T02:47:02.000Z
-- matched query: "Chinese" resource
 

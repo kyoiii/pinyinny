@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-15T01:44:44.839Z
+Generated: 2026-06-15T07:03:02.791Z
 
 ## [Any app, website or resource to dub Mandarin videos and practice speaking?](https://old.reddit.com/r/ChineseLanguage/comments/1u3d4qt/any_app_website_or_resource_to_dub_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -37,13 +37,6 @@ Generated: 2026-06-15T01:44:44.839Z
 - created: 2026-06-09T03:57:54.000Z
 - matched query: resource
 
-## [What are the best resources for an English speaker to learn Mandarin Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tzw5i9/what_are_the_best_resources_for_an_english/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 4
-- created: 2026-06-08T03:11:31.000Z
-- matched query: resource
-
 ## [Chinese Learning: Class vs Tutor?](https://old.reddit.com/r/ChineseLanguage/comments/1u4r7im/chinese_learning_class_vs_tutor/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -57,6 +50,13 @@ Generated: 2026-06-15T01:44:44.839Z
 - comments: 0
 - created: 2026-06-10T11:08:10.000Z
 - matched query: flashcard app
+
+## [What are the best resources for an English speaker to learn Mandarin Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tzw5i9/what_are_the_best_resources_for_an_english/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 4
+- created: 2026-06-08T03:11:31.000Z
+- matched query: resource
 
 ## [Ai tools to learn the language ?](https://old.reddit.com/r/ChineseLanguage/comments/1twhqga/ai_tools_to_learn_the_language/)
 - subreddit: r/ChineseLanguage
@@ -100,13 +100,6 @@ Generated: 2026-06-15T01:44:44.839Z
 - created: 2026-06-09T12:40:15.000Z
 - matched query: "learn chinese" app
 
-## [How do I teach people a language?](https://old.reddit.com/r/languagelearning/comments/1tzvnev/how_do_i_teach_people_a_language/)
-- subreddit: r/languagelearning
-- score: 5
-- comments: 12
-- created: 2026-06-08T02:47:02.000Z
-- matched query: "Chinese" resource
-
 ## [Hi, I built free app for people who want to learn Chinese through Vlogs, Podcasts...](https://old.reddit.com/r/ChineseLanguage/comments/1txbqvv/hi_i_built_free_app_for_people_who_want_to_learn/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -141,4 +134,11 @@ Generated: 2026-06-15T01:44:44.839Z
 - comments: 11
 - created: 2026-06-13T03:07:57.000Z
 - matched query: flashcard app
+
+## [How do I teach people a language?](https://old.reddit.com/r/languagelearning/comments/1tzvnev/how_do_i_teach_people_a_language/)
+- subreddit: r/languagelearning
+- score: 4
+- comments: 12
+- created: 2026-06-08T02:47:02.000Z
+- matched query: "Chinese" resource
 

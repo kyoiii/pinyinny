@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-16T12:29:46.934Z
+Generated: 2026-06-16T17:36:01.832Z
 
 ## [Any app, website or resource to dub Mandarin videos and practice speaking?](https://old.reddit.com/r/ChineseLanguage/comments/1u3d4qt/any_app_website_or_resource_to_dub_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -44,13 +44,6 @@ Generated: 2026-06-16T12:29:46.934Z
 - created: 2026-06-15T11:36:39.000Z
 - matched query: "learn chinese" app
 
-## [Chinese Learning: Class vs Tutor?](https://old.reddit.com/r/ChineseLanguage/comments/1u4r7im/chinese_learning_class_vs_tutor/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 6
-- created: 2026-06-13T13:37:27.000Z
-- matched query: resource
-
 ## [Srs flashcards and Immersion](https://old.reddit.com/r/ChineseLanguage/comments/1u1z27m/srs_flashcards_and_immersion/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -89,15 +82,22 @@ Generated: 2026-06-16T12:29:46.934Z
 ## [New to mandarin learning](https://old.reddit.com/r/ChineseLanguage/comments/1u77b9e/new_to_mandarin_learning/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 5
+- comments: 8
 - created: 2026-06-16T08:09:03.000Z
 - matched query: resource
 
 ## [Learning basic Chinese for a year](https://old.reddit.com/r/ChineseLanguage/comments/1u72pbg/learning_basic_chinese_for_a_year/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 12
+- comments: 13
 - created: 2026-06-16T03:52:06.000Z
+- matched query: resource
+
+## [Chinese Learning: Class vs Tutor?](https://old.reddit.com/r/ChineseLanguage/comments/1u4r7im/chinese_learning_class_vs_tutor/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 6
+- created: 2026-06-13T13:37:27.000Z
 - matched query: resource
 
 ## [How are learners handling the HSK 2.0 → 3.0 transition in 2026?](https://old.reddit.com/r/ChineseLanguage/comments/1u311bd/how_are_learners_handling_the_hsk_20_30/)
@@ -114,13 +114,6 @@ Generated: 2026-06-16T12:29:46.934Z
 - created: 2026-06-10T20:55:43.000Z
 - matched query: resource
 
-## [What’s your setup for passive + active Chinese listening at beginner/intermediate level?](https://old.reddit.com/r/ChineseLanguage/comments/1u13u23/whats_your_setup_for_passive_active_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 8
-- created: 2026-06-09T12:40:15.000Z
-- matched query: "learn chinese" app
-
 ## [Hi, I built free app for people who want to learn Chinese through Vlogs, Podcasts...](https://old.reddit.com/r/ChineseLanguage/comments/1txbqvv/hi_i_built_free_app_for_people_who_want_to_learn/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -135,10 +128,17 @@ Generated: 2026-06-16T12:29:46.934Z
 - created: 2026-06-13T23:23:46.000Z
 - matched query: resource
 
-## [Learn Chinese with World Cup](https://old.reddit.com/r/ChineseLanguage/comments/1u4tgrn/learn_chinese_with_world_cup/)
+## [What’s your setup for passive + active Chinese listening at beginner/intermediate level?](https://old.reddit.com/r/ChineseLanguage/comments/1u13u23/whats_your_setup_for_passive_active_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 4
-- created: 2026-06-13T15:12:48.000Z
+- comments: 8
+- created: 2026-06-09T12:40:15.000Z
+- matched query: "learn chinese" app
+
+## [Looking for learning advice as someone with few resources.](https://old.reddit.com/r/ChineseLanguage/comments/1txl1nk/looking_for_learning_advice_as_someone_with_few/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 5
+- created: 2026-06-05T13:30:09.000Z
 - matched query: "learn chinese" app
 

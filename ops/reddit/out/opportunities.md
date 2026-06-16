@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-16T02:02:02.998Z
+Generated: 2026-06-16T07:38:15.214Z
 
 ## [Any app, website or resource to dub Mandarin videos and practice speaking?](https://old.reddit.com/r/ChineseLanguage/comments/1u3d4qt/any_app_website_or_resource_to_dub_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -19,7 +19,7 @@ Generated: 2026-06-16T02:02:02.998Z
 ## [Best app for learning chinese characters](https://old.reddit.com/r/ChineseLanguage/comments/1u6e1kn/best_app_for_learning_chinese_characters/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 17
+- comments: 18
 - created: 2026-06-15T11:36:39.000Z
 - matched query: "learn chinese" app
 
@@ -37,13 +37,6 @@ Generated: 2026-06-16T02:02:02.998Z
 - created: 2026-06-10T14:20:07.000Z
 - matched query: app OR website pinyin hanzi
 
-## [Resources for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1u0u8kt/resources_for_learning_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 30
-- created: 2026-06-09T03:57:54.000Z
-- matched query: resource
-
 ## [Chinese Learning: Class vs Tutor?](https://old.reddit.com/r/ChineseLanguage/comments/1u4r7im/chinese_learning_class_vs_tutor/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -57,6 +50,13 @@ Generated: 2026-06-16T02:02:02.998Z
 - comments: 0
 - created: 2026-06-10T11:08:10.000Z
 - matched query: flashcard app
+
+## [Resources for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1u0u8kt/resources_for_learning_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 30
+- created: 2026-06-09T03:57:54.000Z
+- matched query: resource
 
 ## [Ai tools to learn the language ?](https://old.reddit.com/r/ChineseLanguage/comments/1twhqga/ai_tools_to_learn_the_language/)
 - subreddit: r/ChineseLanguage
@@ -78,6 +78,13 @@ Generated: 2026-06-16T02:02:02.998Z
 - comments: 6
 - created: 2026-05-21T12:35:45.000Z
 - matched query: "learn chinese" app
+
+## [Learning basic Chinese for a year](https://old.reddit.com/r/ChineseLanguage/comments/1u72pbg/learning_basic_chinese_for_a_year/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 10
+- created: 2026-06-16T03:52:06.000Z
+- matched query: resource
 
 ## [How are learners handling the HSK 2.0 → 3.0 transition in 2026?](https://old.reddit.com/r/ChineseLanguage/comments/1u311bd/how_are_learners_handling_the_hsk_20_30/)
 - subreddit: r/ChineseLanguage
@@ -121,24 +128,17 @@ Generated: 2026-06-16T02:02:02.998Z
 - created: 2026-06-13T15:12:48.000Z
 - matched query: "learn chinese" app
 
-## [Gamified Language Learning](https://old.reddit.com/r/ChineseLanguage/comments/1u4gdpb/gamified_language_learning/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 1
-- created: 2026-06-13T03:44:36.000Z
-- matched query: flashcard app
-
-## [Frustrated because even though I write every day, my fluency is not noticably improving](https://old.reddit.com/r/ChineseLanguage/comments/1u4fnt7/frustrated_because_even_though_i_write_every_day/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 11
-- created: 2026-06-13T03:07:57.000Z
-- matched query: flashcard app
-
 ## [Looking for learning advice as someone with few resources.](https://old.reddit.com/r/ChineseLanguage/comments/1txl1nk/looking_for_learning_advice_as_someone_with_few/)
 - subreddit: r/ChineseLanguage
 - score: 4
 - comments: 5
 - created: 2026-06-05T13:30:09.000Z
+- matched query: "learn chinese" app
+
+## [Recommended Courses for toddlers and parents](https://old.reddit.com/r/ChineseLanguage/comments/1tu6bpj/recommended_courses_for_toddlers_and_parents/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 4
+- created: 2026-06-01T21:25:01.000Z
 - matched query: "learn chinese" app
 

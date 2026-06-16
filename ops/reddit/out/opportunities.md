@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-15T23:15:49.110Z
+Generated: 2026-06-16T02:02:02.998Z
 
 ## [Any app, website or resource to dub Mandarin videos and practice speaking?](https://old.reddit.com/r/ChineseLanguage/comments/1u3d4qt/any_app_website_or_resource_to_dub_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -57,13 +57,6 @@ Generated: 2026-06-15T23:15:49.110Z
 - comments: 0
 - created: 2026-06-10T11:08:10.000Z
 - matched query: flashcard app
-
-## [What are the best resources for an English speaker to learn Mandarin Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1tzw5i9/what_are_the_best_resources_for_an_english/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 4
-- created: 2026-06-08T03:11:31.000Z
-- matched query: resource
 
 ## [Ai tools to learn the language ?](https://old.reddit.com/r/ChineseLanguage/comments/1twhqga/ai_tools_to_learn_the_language/)
 - subreddit: r/ChineseLanguage
@@ -141,4 +134,11 @@ Generated: 2026-06-15T23:15:49.110Z
 - comments: 11
 - created: 2026-06-13T03:07:57.000Z
 - matched query: flashcard app
+
+## [Looking for learning advice as someone with few resources.](https://old.reddit.com/r/ChineseLanguage/comments/1txl1nk/looking_for_learning_advice_as_someone_with_few/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 5
+- created: 2026-06-05T13:30:09.000Z
+- matched query: "learn chinese" app
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-16T07:38:15.214Z
+Generated: 2026-06-16T12:29:46.934Z
 
 ## [Any app, website or resource to dub Mandarin videos and practice speaking?](https://old.reddit.com/r/ChineseLanguage/comments/1u3d4qt/any_app_website_or_resource_to_dub_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -16,12 +16,12 @@ Generated: 2026-06-16T07:38:15.214Z
 - created: 2026-05-27T22:47:55.000Z
 - matched query: flashcard app
 
-## [Best app for learning chinese characters](https://old.reddit.com/r/ChineseLanguage/comments/1u6e1kn/best_app_for_learning_chinese_characters/)
+## [Where to get Chinese ebooks?](https://old.reddit.com/r/ChineseLanguage/comments/1u784na/where_to_get_chinese_ebooks/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 18
-- created: 2026-06-15T11:36:39.000Z
-- matched query: "learn chinese" app
+- comments: 7
+- created: 2026-06-16T08:58:55.000Z
+- matched query: resource
 
 ## [Is there apps for sentence pronunciation training?](https://old.reddit.com/r/ChineseLanguage/comments/1u3cgj5/is_there_apps_for_sentence_pronunciation_training/)
 - subreddit: r/ChineseLanguage
@@ -36,6 +36,13 @@ Generated: 2026-06-16T07:38:15.214Z
 - comments: 4
 - created: 2026-06-10T14:20:07.000Z
 - matched query: app OR website pinyin hanzi
+
+## [Best app for learning chinese characters](https://old.reddit.com/r/ChineseLanguage/comments/1u6e1kn/best_app_for_learning_chinese_characters/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 19
+- created: 2026-06-15T11:36:39.000Z
+- matched query: "learn chinese" app
 
 ## [Chinese Learning: Class vs Tutor?](https://old.reddit.com/r/ChineseLanguage/comments/1u4r7im/chinese_learning_class_vs_tutor/)
 - subreddit: r/ChineseLanguage
@@ -79,10 +86,17 @@ Generated: 2026-06-16T07:38:15.214Z
 - created: 2026-05-21T12:35:45.000Z
 - matched query: "learn chinese" app
 
+## [New to mandarin learning](https://old.reddit.com/r/ChineseLanguage/comments/1u77b9e/new_to_mandarin_learning/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 5
+- created: 2026-06-16T08:09:03.000Z
+- matched query: resource
+
 ## [Learning basic Chinese for a year](https://old.reddit.com/r/ChineseLanguage/comments/1u72pbg/learning_basic_chinese_for_a_year/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 10
+- comments: 12
 - created: 2026-06-16T03:52:06.000Z
 - matched query: resource
 
@@ -126,19 +140,5 @@ Generated: 2026-06-16T07:38:15.214Z
 - score: 4
 - comments: 4
 - created: 2026-06-13T15:12:48.000Z
-- matched query: "learn chinese" app
-
-## [Looking for learning advice as someone with few resources.](https://old.reddit.com/r/ChineseLanguage/comments/1txl1nk/looking_for_learning_advice_as_someone_with_few/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 5
-- created: 2026-06-05T13:30:09.000Z
-- matched query: "learn chinese" app
-
-## [Recommended Courses for toddlers and parents](https://old.reddit.com/r/ChineseLanguage/comments/1tu6bpj/recommended_courses_for_toddlers_and_parents/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 4
-- created: 2026-06-01T21:25:01.000Z
 - matched query: "learn chinese" app
 

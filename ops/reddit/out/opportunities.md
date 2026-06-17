@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-17T21:30:59.737Z
+Generated: 2026-06-17T23:05:10.222Z
 
 ## [Any app, website or resource to dub Mandarin videos and practice speaking?](https://old.reddit.com/r/ChineseLanguage/comments/1u3d4qt/any_app_website_or_resource_to_dub_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -19,7 +19,7 @@ Generated: 2026-06-17T21:30:59.737Z
 ## [How do I get proper guide for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1u7zmd8/how_do_i_get_proper_guide_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 12
+- comments: 13
 - created: 2026-06-17T04:02:17.000Z
 - matched query: "learn chinese" app
 
@@ -70,6 +70,13 @@ Generated: 2026-06-17T21:30:59.737Z
 - score: 6
 - comments: 6
 - created: 2026-05-21T12:35:45.000Z
+- matched query: "learn chinese" app
+
+## [Beginning](https://old.reddit.com/r/ChineseLanguage/comments/1u8p7jq/beginning/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 1
+- created: 2026-06-17T22:48:15.000Z
 - matched query: "learn chinese" app
 
 ## [Drug related slang terms in Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1u8k8jd/drug_related_slang_terms_in_chinese/)
@@ -133,12 +140,5 @@ Generated: 2026-06-17T21:30:59.737Z
 - score: 4
 - comments: 8
 - created: 2026-06-09T12:40:15.000Z
-- matched query: "learn chinese" app
-
-## [Looking for learning advice as someone with few resources.](https://old.reddit.com/r/ChineseLanguage/comments/1txl1nk/looking_for_learning_advice_as_someone_with_few/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 5
-- created: 2026-06-05T13:30:09.000Z
 - matched query: "learn chinese" app
 

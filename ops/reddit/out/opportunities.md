@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-16T22:33:20.625Z
+Generated: 2026-06-17T00:02:26.284Z
 
 ## [Any app, website or resource to dub Mandarin videos and practice speaking?](https://old.reddit.com/r/ChineseLanguage/comments/1u3d4qt/any_app_website_or_resource_to_dub_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -50,13 +50,6 @@ Generated: 2026-06-16T22:33:20.625Z
 - comments: 0
 - created: 2026-06-10T11:08:10.000Z
 - matched query: flashcard app
-
-## [Resources for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1u0u8kt/resources_for_learning_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 30
-- created: 2026-06-09T03:57:54.000Z
-- matched query: resource
 
 ## [Ai tools to learn the language ?](https://old.reddit.com/r/ChineseLanguage/comments/1twhqga/ai_tools_to_learn_the_language/)
 - subreddit: r/ChineseLanguage
@@ -121,13 +114,6 @@ Generated: 2026-06-16T22:33:20.625Z
 - created: 2026-06-05T05:28:45.000Z
 - matched query: "learn chinese" app
 
-## [There's mention of a new HSK 3.0 textbook 《HSK 3.0综合教程》 to be launched 4 July 2026](https://old.reddit.com/r/ChineseLanguage/comments/1u558g2/theres_mention_of_a_new_hsk_30_textbook_hsk/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 4
-- created: 2026-06-13T23:23:46.000Z
-- matched query: resource
-
 ## [What’s your setup for passive + active Chinese listening at beginner/intermediate level?](https://old.reddit.com/r/ChineseLanguage/comments/1u13u23/whats_your_setup_for_passive_active_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -140,5 +126,19 @@ Generated: 2026-06-16T22:33:20.625Z
 - score: 4
 - comments: 5
 - created: 2026-06-05T13:30:09.000Z
+- matched query: "learn chinese" app
+
+## [Recommended Courses for toddlers and parents](https://old.reddit.com/r/ChineseLanguage/comments/1tu6bpj/recommended_courses_for_toddlers_and_parents/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 4
+- created: 2026-06-01T21:25:01.000Z
+- matched query: "learn chinese" app
+
+## [Apps or podcasts for learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tp3iqf/apps_or_podcasts_for_learning_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 7
+- created: 2026-05-27T12:04:10.000Z
 - matched query: "learn chinese" app
 

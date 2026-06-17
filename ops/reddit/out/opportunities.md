@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-17T00:02:26.284Z
+Generated: 2026-06-17T05:08:21.906Z
 
 ## [Any app, website or resource to dub Mandarin videos and practice speaking?](https://old.reddit.com/r/ChineseLanguage/comments/1u3d4qt/any_app_website_or_resource_to_dub_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -15,6 +15,13 @@ Generated: 2026-06-17T00:02:26.284Z
 - comments: 6
 - created: 2026-05-27T22:47:55.000Z
 - matched query: flashcard app
+
+## [How do I get proper guide for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1u7zmd8/how_do_i_get_proper_guide_for_learning_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 8
+- created: 2026-06-17T04:02:17.000Z
+- matched query: "learn chinese" app
 
 ## [Where to get Chinese ebooks?](https://old.reddit.com/r/ChineseLanguage/comments/1u784na/where_to_get_chinese_ebooks/)
 - subreddit: r/ChineseLanguage
@@ -79,13 +86,6 @@ Generated: 2026-06-17T00:02:26.284Z
 - created: 2026-06-16T08:09:03.000Z
 - matched query: resource
 
-## [Learning basic Chinese for a year](https://old.reddit.com/r/ChineseLanguage/comments/1u72pbg/learning_basic_chinese_for_a_year/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 14
-- created: 2026-06-16T03:52:06.000Z
-- matched query: resource
-
 ## [Chinese Learning: Class vs Tutor?](https://old.reddit.com/r/ChineseLanguage/comments/1u4r7im/chinese_learning_class_vs_tutor/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -114,6 +114,13 @@ Generated: 2026-06-17T00:02:26.284Z
 - created: 2026-06-05T05:28:45.000Z
 - matched query: "learn chinese" app
 
+## [Learning basic Chinese for a year](https://old.reddit.com/r/ChineseLanguage/comments/1u72pbg/learning_basic_chinese_for_a_year/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 14
+- created: 2026-06-16T03:52:06.000Z
+- matched query: resource
+
 ## [What’s your setup for passive + active Chinese listening at beginner/intermediate level?](https://old.reddit.com/r/ChineseLanguage/comments/1u13u23/whats_your_setup_for_passive_active_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -133,12 +140,5 @@ Generated: 2026-06-17T00:02:26.284Z
 - score: 4
 - comments: 4
 - created: 2026-06-01T21:25:01.000Z
-- matched query: "learn chinese" app
-
-## [Apps or podcasts for learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1tp3iqf/apps_or_podcasts_for_learning_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 7
-- created: 2026-05-27T12:04:10.000Z
 - matched query: "learn chinese" app
 

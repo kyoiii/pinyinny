@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-17T10:03:02.464Z
+Generated: 2026-06-17T13:56:29.936Z
 
 ## [Any app, website or resource to dub Mandarin videos and practice speaking?](https://old.reddit.com/r/ChineseLanguage/comments/1u3d4qt/any_app_website_or_resource_to_dub_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -19,7 +19,7 @@ Generated: 2026-06-17T10:03:02.464Z
 ## [How do I get proper guide for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1u7zmd8/how_do_i_get_proper_guide_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 10
+- comments: 11
 - created: 2026-06-17T04:02:17.000Z
 - matched query: "learn chinese" app
 
@@ -50,13 +50,6 @@ Generated: 2026-06-17T10:03:02.464Z
 - comments: 19
 - created: 2026-06-15T11:36:39.000Z
 - matched query: "learn chinese" app
-
-## [Srs flashcards and Immersion](https://old.reddit.com/r/ChineseLanguage/comments/1u1z27m/srs_flashcards_and_immersion/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-06-10T11:08:10.000Z
-- matched query: flashcard app
 
 ## [Ai tools to learn the language ?](https://old.reddit.com/r/ChineseLanguage/comments/1twhqga/ai_tools_to_learn_the_language/)
 - subreddit: r/ChineseLanguage
@@ -100,6 +93,13 @@ Generated: 2026-06-17T10:03:02.464Z
 - created: 2026-06-10T20:55:43.000Z
 - matched query: resource
 
+## [Srs flashcards and Immersion](https://old.reddit.com/r/ChineseLanguage/comments/1u1z27m/srs_flashcards_and_immersion/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 0
+- created: 2026-06-10T11:08:10.000Z
+- matched query: flashcard app
+
 ## [Hi, I built free app for people who want to learn Chinese through Vlogs, Podcasts...](https://old.reddit.com/r/ChineseLanguage/comments/1txbqvv/hi_i_built_free_app_for_people_who_want_to_learn/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -117,7 +117,7 @@ Generated: 2026-06-17T10:03:02.464Z
 ## [Learning basic Chinese for a year](https://old.reddit.com/r/ChineseLanguage/comments/1u72pbg/learning_basic_chinese_for_a_year/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 15
+- comments: 17
 - created: 2026-06-16T03:52:06.000Z
 - matched query: resource
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-17T13:56:29.936Z
+Generated: 2026-06-17T16:57:25.621Z
 
 ## [Any app, website or resource to dub Mandarin videos and practice speaking?](https://old.reddit.com/r/ChineseLanguage/comments/1u3d4qt/any_app_website_or_resource_to_dub_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -26,16 +26,9 @@ Generated: 2026-06-17T13:56:29.936Z
 ## [Is there apps for sentence pronunciation training?](https://old.reddit.com/r/ChineseLanguage/comments/1u3cgj5/is_there_apps_for_sentence_pronunciation_training/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 11
+- comments: 12
 - created: 2026-06-11T21:44:21.000Z
 - matched query: resource
-
-## [Anki Deck with Pinyin at the Front ?](https://old.reddit.com/r/ChineseLanguage/comments/1u23klk/anki_deck_with_pinyin_at_the_front/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 4
-- created: 2026-06-10T14:20:07.000Z
-- matched query: app OR website pinyin hanzi
 
 ## [Where to get Chinese ebooks?](https://old.reddit.com/r/ChineseLanguage/comments/1u784na/where_to_get_chinese_ebooks/)
 - subreddit: r/ChineseLanguage
@@ -50,6 +43,13 @@ Generated: 2026-06-17T13:56:29.936Z
 - comments: 19
 - created: 2026-06-15T11:36:39.000Z
 - matched query: "learn chinese" app
+
+## [Anki Deck with Pinyin at the Front ?](https://old.reddit.com/r/ChineseLanguage/comments/1u23klk/anki_deck_with_pinyin_at_the_front/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 4
+- created: 2026-06-10T14:20:07.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [Ai tools to learn the language ?](https://old.reddit.com/r/ChineseLanguage/comments/1twhqga/ai_tools_to_learn_the_language/)
 - subreddit: r/ChineseLanguage

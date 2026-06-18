@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-18T06:28:11.791Z
+Generated: 2026-06-18T10:57:16.168Z
 
 ## [Any app, website or resource to dub Mandarin videos and practice speaking?](https://old.reddit.com/r/ChineseLanguage/comments/1u3d4qt/any_app_website_or_resource_to_dub_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -19,7 +19,7 @@ Generated: 2026-06-18T06:28:11.791Z
 ## [Learning radicals?](https://old.reddit.com/r/ChineseLanguage/comments/1u8pt7a/learning_radicals/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 5
+- comments: 6
 - created: 2026-06-17T23:13:42.000Z
 - matched query: resource
 
@@ -89,7 +89,7 @@ Generated: 2026-06-18T06:28:11.791Z
 ## [Drug related slang terms in Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1u8k8jd/drug_related_slang_terms_in_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 2
+- comments: 3
 - created: 2026-06-17T19:36:14.000Z
 - matched query: resource
 

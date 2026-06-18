@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-18T10:57:16.168Z
+Generated: 2026-06-18T14:15:27.911Z
 
 ## [Any app, website or resource to dub Mandarin videos and practice speaking?](https://old.reddit.com/r/ChineseLanguage/comments/1u3d4qt/any_app_website_or_resource_to_dub_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -44,13 +44,6 @@ Generated: 2026-06-18T10:57:16.168Z
 - created: 2026-06-16T08:58:55.000Z
 - matched query: resource
 
-## [Best app for learning chinese characters](https://old.reddit.com/r/ChineseLanguage/comments/1u6e1kn/best_app_for_learning_chinese_characters/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 19
-- created: 2026-06-15T11:36:39.000Z
-- matched query: "learn chinese" app
-
 ## [Anki Deck with Pinyin at the Front ?](https://old.reddit.com/r/ChineseLanguage/comments/1u23klk/anki_deck_with_pinyin_at_the_front/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -92,6 +85,13 @@ Generated: 2026-06-18T10:57:16.168Z
 - comments: 3
 - created: 2026-06-17T19:36:14.000Z
 - matched query: resource
+
+## [Best app for learning chinese characters](https://old.reddit.com/r/ChineseLanguage/comments/1u6e1kn/best_app_for_learning_chinese_characters/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 19
+- created: 2026-06-15T11:36:39.000Z
+- matched query: "learn chinese" app
 
 ## [Chinese Learning: Class vs Tutor?](https://old.reddit.com/r/ChineseLanguage/comments/1u4r7im/chinese_learning_class_vs_tutor/)
 - subreddit: r/ChineseLanguage

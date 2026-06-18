@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-17T23:05:10.222Z
+Generated: 2026-06-18T01:38:39.373Z
 
 ## [Any app, website or resource to dub Mandarin videos and practice speaking?](https://old.reddit.com/r/ChineseLanguage/comments/1u3d4qt/any_app_website_or_resource_to_dub_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -15,6 +15,13 @@ Generated: 2026-06-17T23:05:10.222Z
 - comments: 6
 - created: 2026-05-27T22:47:55.000Z
 - matched query: flashcard app
+
+## [Learning radicals?](https://old.reddit.com/r/ChineseLanguage/comments/1u8pt7a/learning_radicals/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 3
+- created: 2026-06-17T23:13:42.000Z
+- matched query: resource
 
 ## [How do I get proper guide for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1u7zmd8/how_do_i_get_proper_guide_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -75,7 +82,7 @@ Generated: 2026-06-17T23:05:10.222Z
 ## [Beginning](https://old.reddit.com/r/ChineseLanguage/comments/1u8p7jq/beginning/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 1
+- comments: 2
 - created: 2026-06-17T22:48:15.000Z
 - matched query: "learn chinese" app
 
@@ -126,13 +133,6 @@ Generated: 2026-06-17T23:05:10.222Z
 - score: 4
 - comments: 17
 - created: 2026-06-16T03:52:06.000Z
-- matched query: resource
-
-## [I was a beginner Chinese learner. I wish I'd had more audio resources. So I made them with a Chinese friend to help other learners](https://old.reddit.com/r/ChineseLanguage/comments/1u2en8o/i_was_a_beginner_chinese_learner_i_wish_id_had/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 13
-- created: 2026-06-10T20:55:43.000Z
 - matched query: resource
 
 ## [What’s your setup for passive + active Chinese listening at beginner/intermediate level?](https://old.reddit.com/r/ChineseLanguage/comments/1u13u23/whats_your_setup_for_passive_active_chinese/)

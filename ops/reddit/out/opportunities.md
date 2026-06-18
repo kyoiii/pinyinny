@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-18T01:38:39.373Z
+Generated: 2026-06-18T06:28:11.791Z
 
 ## [Any app, website or resource to dub Mandarin videos and practice speaking?](https://old.reddit.com/r/ChineseLanguage/comments/1u3d4qt/any_app_website_or_resource_to_dub_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -19,16 +19,9 @@ Generated: 2026-06-18T01:38:39.373Z
 ## [Learning radicals?](https://old.reddit.com/r/ChineseLanguage/comments/1u8pt7a/learning_radicals/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 3
+- comments: 5
 - created: 2026-06-17T23:13:42.000Z
 - matched query: resource
-
-## [How do I get proper guide for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1u7zmd8/how_do_i_get_proper_guide_for_learning_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 13
-- created: 2026-06-17T04:02:17.000Z
-- matched query: "learn chinese" app
 
 ## [Is there apps for sentence pronunciation training?](https://old.reddit.com/r/ChineseLanguage/comments/1u3cgj5/is_there_apps_for_sentence_pronunciation_training/)
 - subreddit: r/ChineseLanguage
@@ -37,10 +30,17 @@ Generated: 2026-06-18T01:38:39.373Z
 - created: 2026-06-11T21:44:21.000Z
 - matched query: resource
 
+## [How do I get proper guide for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1u7zmd8/how_do_i_get_proper_guide_for_learning_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 14
+- created: 2026-06-17T04:02:17.000Z
+- matched query: "learn chinese" app
+
 ## [Where to get Chinese ebooks?](https://old.reddit.com/r/ChineseLanguage/comments/1u784na/where_to_get_chinese_ebooks/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 7
+- comments: 8
 - created: 2026-06-16T08:58:55.000Z
 - matched query: resource
 

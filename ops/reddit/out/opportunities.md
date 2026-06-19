@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-19T16:21:17.414Z
+Generated: 2026-06-19T18:14:09.848Z
 
 ## [Are there any kinda HSK books with their instructions including pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1u9s0jz/are_there_any_kinda_hsk_books_with_their/)
 - subreddit: r/ChineseLanguage
@@ -22,13 +22,6 @@ Generated: 2026-06-19T16:21:17.414Z
 - comments: 1
 - created: 2026-06-19T04:02:44.000Z
 - matched query: flashcard app
-
-## [ChineseSkill releases a free early-release Hong Kong Cantonese course and we’d love learner feedback](https://old.reddit.com/r/ChineseLanguage/comments/1u9d8i6/chineseskill_releases_a_free_earlyrelease_hong/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-06-18T17:50:51.000Z
-- matched query: resource
 
 ## [Learning radicals?](https://old.reddit.com/r/ChineseLanguage/comments/1u8pt7a/learning_radicals/)
 - subreddit: r/ChineseLanguage
@@ -71,6 +64,13 @@ Generated: 2026-06-19T16:21:17.414Z
 - comments: 6
 - created: 2026-05-21T12:35:45.000Z
 - matched query: "learn chinese" app
+
+## [ChineseSkill releases a free early-release Hong Kong Cantonese course and we’d love learner feedback](https://old.reddit.com/r/ChineseLanguage/comments/1u9d8i6/chineseskill_releases_a_free_earlyrelease_hong/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 0
+- created: 2026-06-18T17:50:51.000Z
+- matched query: resource
 
 ## [Where to get Chinese ebooks?](https://old.reddit.com/r/ChineseLanguage/comments/1u784na/where_to_get_chinese_ebooks/)
 - subreddit: r/ChineseLanguage

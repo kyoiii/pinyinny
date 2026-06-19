@@ -1,13 +1,20 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-18T23:59:41.417Z
+Generated: 2026-06-19T05:18:57.919Z
 
-## [Any app, website or resource to dub Mandarin videos and practice speaking?](https://old.reddit.com/r/ChineseLanguage/comments/1u3d4qt/any_app_website_or_resource_to_dub_mandarin/)
+## [Are there any kinda HSK books with their instructions including pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1u9s0jz/are_there_any_kinda_hsk_books_with_their/)
 - subreddit: r/ChineseLanguage
-- score: 12
+- score: 9
 - comments: 1
-- created: 2026-06-11T22:10:47.000Z
-- matched query: resource
+- created: 2026-06-19T04:24:57.000Z
+- matched query: app OR website pinyin hanzi
+
+## [Any tips for a beginner?](https://old.reddit.com/r/ChineseLanguage/comments/1u9rkyf/any_tips_for_a_beginner/)
+- subreddit: r/ChineseLanguage
+- score: 8
+- comments: 0
+- created: 2026-06-19T04:02:44.000Z
+- matched query: flashcard app
 
 ## [What resources do you recommend?](https://old.reddit.com/r/ChineseLanguage/comments/1tplbf6/what_resources_do_you_recommend/)
 - subreddit: r/ChineseLanguage
@@ -26,7 +33,7 @@ Generated: 2026-06-18T23:59:41.417Z
 ## [Learning radicals?](https://old.reddit.com/r/ChineseLanguage/comments/1u8pt7a/learning_radicals/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 12
+- comments: 13
 - created: 2026-06-17T23:13:42.000Z
 - matched query: resource
 
@@ -42,13 +49,6 @@ Generated: 2026-06-18T23:59:41.417Z
 - score: 6
 - comments: 8
 - created: 2026-06-16T08:58:55.000Z
-- matched query: resource
-
-## [Is there apps for sentence pronunciation training?](https://old.reddit.com/r/ChineseLanguage/comments/1u3cgj5/is_there_apps_for_sentence_pronunciation_training/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 13
-- created: 2026-06-11T21:44:21.000Z
 - matched query: resource
 
 ## [Anki Deck with Pinyin at the Front ?](https://old.reddit.com/r/ChineseLanguage/comments/1u23klk/anki_deck_with_pinyin_at_the_front/)
@@ -128,17 +128,17 @@ Generated: 2026-06-18T23:59:41.417Z
 - created: 2026-06-16T08:09:03.000Z
 - matched query: resource
 
-## [Learning basic Chinese for a year](https://old.reddit.com/r/ChineseLanguage/comments/1u72pbg/learning_basic_chinese_for_a_year/)
+## [What’s your setup for passive + active Chinese listening at beginner/intermediate level?](https://old.reddit.com/r/ChineseLanguage/comments/1u13u23/whats_your_setup_for_passive_active_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 17
-- created: 2026-06-16T03:52:06.000Z
-- matched query: resource
+- comments: 8
+- created: 2026-06-09T12:40:15.000Z
+- matched query: "learn chinese" app
 
-## [How are learners handling the HSK 2.0 → 3.0 transition in 2026?](https://old.reddit.com/r/ChineseLanguage/comments/1u311bd/how_are_learners_handling_the_hsk_20_30/)
+## [Looking for learning advice as someone with few resources.](https://old.reddit.com/r/ChineseLanguage/comments/1txl1nk/looking_for_learning_advice_as_someone_with_few/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 10
-- created: 2026-06-11T14:43:25.000Z
-- matched query: resource
+- comments: 5
+- created: 2026-06-05T13:30:09.000Z
+- matched query: "learn chinese" app
 

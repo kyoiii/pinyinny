@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-19T18:14:09.848Z
+Generated: 2026-06-19T20:07:12.915Z
 
 ## [Are there any kinda HSK books with their instructions including pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1u9s0jz/are_there_any_kinda_hsk_books_with_their/)
 - subreddit: r/ChineseLanguage
@@ -19,7 +19,7 @@ Generated: 2026-06-19T18:14:09.848Z
 ## [Any tips for a beginner?](https://old.reddit.com/r/ChineseLanguage/comments/1u9rkyf/any_tips_for_a_beginner/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 1
+- comments: 2
 - created: 2026-06-19T04:02:44.000Z
 - matched query: flashcard app
 

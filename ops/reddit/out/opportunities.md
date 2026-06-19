@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-19T22:29:42.550Z
+Generated: 2026-06-19T23:42:32.529Z
 
 ## [Are there any kinda HSK books with their instructions including pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1u9s0jz/are_there_any_kinda_hsk_books_with_their/)
 - subreddit: r/ChineseLanguage
@@ -117,7 +117,7 @@ Generated: 2026-06-19T22:29:42.550Z
 ## [Drug related slang terms in Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1u8k8jd/drug_related_slang_terms_in_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 3
+- comments: 4
 - created: 2026-06-17T19:36:14.000Z
 - matched query: resource
 

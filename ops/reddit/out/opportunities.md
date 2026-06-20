@@ -1,10 +1,10 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-20T01:54:02.379Z
+Generated: 2026-06-20T06:20:53.485Z
 
 ## [Are there any kinda HSK books with their instructions including pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1u9s0jz/are_there_any_kinda_hsk_books_with_their/)
 - subreddit: r/ChineseLanguage
-- score: 9
+- score: 8
 - comments: 3
 - created: 2026-06-19T04:24:57.000Z
 - matched query: app OR website pinyin hanzi
@@ -18,8 +18,8 @@ Generated: 2026-06-20T01:54:02.379Z
 
 ## [Any tips for a beginner?](https://old.reddit.com/r/ChineseLanguage/comments/1u9rkyf/any_tips_for_a_beginner/)
 - subreddit: r/ChineseLanguage
-- score: 7
-- comments: 2
+- score: 6
+- comments: 4
 - created: 2026-06-19T04:02:44.000Z
 - matched query: flashcard app
 
@@ -29,13 +29,6 @@ Generated: 2026-06-20T01:54:02.379Z
 - comments: 13
 - created: 2026-06-17T23:13:42.000Z
 - matched query: resource
-
-## [How do I get proper guide for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1u7zmd8/how_do_i_get_proper_guide_for_learning_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 18
-- created: 2026-06-17T04:02:17.000Z
-- matched query: "learn chinese" app
 
 ## [Anki Deck with Pinyin at the Front ?](https://old.reddit.com/r/ChineseLanguage/comments/1u23klk/anki_deck_with_pinyin_at_the_front/)
 - subreddit: r/ChineseLanguage
@@ -71,6 +64,13 @@ Generated: 2026-06-20T01:54:02.379Z
 - comments: 0
 - created: 2026-06-18T17:50:51.000Z
 - matched query: resource
+
+## [How do I get proper guide for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1u7zmd8/how_do_i_get_proper_guide_for_learning_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 18
+- created: 2026-06-17T04:02:17.000Z
+- matched query: "learn chinese" app
 
 ## [Where to get Chinese ebooks?](https://old.reddit.com/r/ChineseLanguage/comments/1u784na/where_to_get_chinese_ebooks/)
 - subreddit: r/ChineseLanguage

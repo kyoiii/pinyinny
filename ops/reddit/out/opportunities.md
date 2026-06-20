@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-20T21:37:25.537Z
+Generated: 2026-06-20T22:48:51.735Z
 
 ## [Are there any kinda HSK books with their instructions including pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1u9s0jz/are_there_any_kinda_hsk_books_with_their/)
 - subreddit: r/ChineseLanguage
@@ -19,7 +19,7 @@ Generated: 2026-06-20T21:37:25.537Z
 ## [Don't wanna pay for Hello Chinese. Any other options?](https://old.reddit.com/r/ChineseLanguage/comments/1ub6u3s/dont_wanna_pay_for_hello_chinese_any_other_options/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 5
+- comments: 6
 - created: 2026-06-20T20:35:58.000Z
 - matched query: "learn chinese" app
 
@@ -121,13 +121,6 @@ Generated: 2026-06-20T21:37:25.537Z
 - created: 2026-06-05T05:28:45.000Z
 - matched query: "learn chinese" app
 
-## [Beginning](https://old.reddit.com/r/ChineseLanguage/comments/1u8p7jq/beginning/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 4
-- created: 2026-06-17T22:48:15.000Z
-- matched query: "learn chinese" app
-
 ## [Chinese Learning: Class vs Tutor?](https://old.reddit.com/r/ChineseLanguage/comments/1u4r7im/chinese_learning_class_vs_tutor/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -140,5 +133,12 @@ Generated: 2026-06-20T21:37:25.537Z
 - score: 4
 - comments: 8
 - created: 2026-06-09T12:40:15.000Z
+- matched query: "learn chinese" app
+
+## [Looking for learning advice as someone with few resources.](https://old.reddit.com/r/ChineseLanguage/comments/1txl1nk/looking_for_learning_advice_as_someone_with_few/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 5
+- created: 2026-06-05T13:30:09.000Z
 - matched query: "learn chinese" app
 

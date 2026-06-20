@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-20T09:47:47.918Z
+Generated: 2026-06-20T13:16:58.585Z
 
 ## [Are there any kinda HSK books with their instructions including pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1u9s0jz/are_there_any_kinda_hsk_books_with_their/)
 - subreddit: r/ChineseLanguage
@@ -57,6 +57,13 @@ Generated: 2026-06-20T09:47:47.918Z
 - comments: 6
 - created: 2026-05-21T12:35:45.000Z
 - matched query: "learn chinese" app
+
+## [Detailed Review: "Heroes of Ancient China" Graded Readers (Imagin8 Press)](https://old.reddit.com/r/ChineseLanguage/comments/1uavdyy/detailed_review_heroes_of_ancient_china_graded/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 3
+- created: 2026-06-20T12:27:32.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [ChineseSkill releases a free early-release Hong Kong Cantonese course and we’d love learner feedback](https://old.reddit.com/r/ChineseLanguage/comments/1u9d8i6/chineseskill_releases_a_free_earlyrelease_hong/)
 - subreddit: r/ChineseLanguage
@@ -133,12 +140,5 @@ Generated: 2026-06-20T09:47:47.918Z
 - score: 4
 - comments: 5
 - created: 2026-06-05T13:30:09.000Z
-- matched query: "learn chinese" app
-
-## [Recommended Courses for toddlers and parents](https://old.reddit.com/r/ChineseLanguage/comments/1tu6bpj/recommended_courses_for_toddlers_and_parents/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 4
-- created: 2026-06-01T21:25:01.000Z
 - matched query: "learn chinese" app
 

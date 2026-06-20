@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-20T18:19:50.941Z
+Generated: 2026-06-20T20:00:34.842Z
 
 ## [Are there any kinda HSK books with their instructions including pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1u9s0jz/are_there_any_kinda_hsk_books_with_their/)
 - subreddit: r/ChineseLanguage
@@ -15,6 +15,13 @@ Generated: 2026-06-20T18:19:50.941Z
 - comments: 6
 - created: 2026-05-27T22:47:55.000Z
 - matched query: flashcard app
+
+## [Want to learn chinese](https://old.reddit.com/r/ChineseLanguage/comments/1ub52jc/want_to_learn_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 0
+- created: 2026-06-20T19:21:51.000Z
+- matched query: "learn chinese" app
 
 ## [Any tips for a beginner?](https://old.reddit.com/r/ChineseLanguage/comments/1u9rkyf/any_tips_for_a_beginner/)
 - subreddit: r/ChineseLanguage
@@ -113,13 +120,6 @@ Generated: 2026-06-20T18:19:50.941Z
 - comments: 4
 - created: 2026-06-17T22:48:15.000Z
 - matched query: "learn chinese" app
-
-## [Drug related slang terms in Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1u8k8jd/drug_related_slang_terms_in_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 4
-- created: 2026-06-17T19:36:14.000Z
-- matched query: resource
 
 ## [Chinese Learning: Class vs Tutor?](https://old.reddit.com/r/ChineseLanguage/comments/1u4r7im/chinese_learning_class_vs_tutor/)
 - subreddit: r/ChineseLanguage

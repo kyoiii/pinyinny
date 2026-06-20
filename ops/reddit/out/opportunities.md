@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-20T13:16:58.585Z
+Generated: 2026-06-20T15:18:42.797Z
 
 ## [Are there any kinda HSK books with their instructions including pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1u9s0jz/are_there_any_kinda_hsk_books_with_their/)
 - subreddit: r/ChineseLanguage
@@ -61,7 +61,7 @@ Generated: 2026-06-20T13:16:58.585Z
 ## [Detailed Review: "Heroes of Ancient China" Graded Readers (Imagin8 Press)](https://old.reddit.com/r/ChineseLanguage/comments/1uavdyy/detailed_review_heroes_of_ancient_china_graded/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 3
+- comments: 5
 - created: 2026-06-20T12:27:32.000Z
 - matched query: app OR website pinyin hanzi
 
@@ -93,13 +93,6 @@ Generated: 2026-06-20T13:16:58.585Z
 - created: 2026-06-15T11:36:39.000Z
 - matched query: "learn chinese" app
 
-## [Chinese Learning: Class vs Tutor?](https://old.reddit.com/r/ChineseLanguage/comments/1u4r7im/chinese_learning_class_vs_tutor/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 6
-- created: 2026-06-13T13:37:27.000Z
-- matched query: resource
-
 ## [Srs flashcards and Immersion](https://old.reddit.com/r/ChineseLanguage/comments/1u1z27m/srs_flashcards_and_immersion/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -126,6 +119,13 @@ Generated: 2026-06-20T13:16:58.585Z
 - score: 4
 - comments: 4
 - created: 2026-06-17T19:36:14.000Z
+- matched query: resource
+
+## [Chinese Learning: Class vs Tutor?](https://old.reddit.com/r/ChineseLanguage/comments/1u4r7im/chinese_learning_class_vs_tutor/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 6
+- created: 2026-06-13T13:37:27.000Z
 - matched query: resource
 
 ## [What’s your setup for passive + active Chinese listening at beginner/intermediate level?](https://old.reddit.com/r/ChineseLanguage/comments/1u13u23/whats_your_setup_for_passive_active_chinese/)

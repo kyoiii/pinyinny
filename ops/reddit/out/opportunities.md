@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-20T22:48:51.735Z
+Generated: 2026-06-20T23:55:19.465Z
 
 ## [Are there any kinda HSK books with their instructions including pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1u9s0jz/are_there_any_kinda_hsk_books_with_their/)
 - subreddit: r/ChineseLanguage
@@ -19,7 +19,7 @@ Generated: 2026-06-20T22:48:51.735Z
 ## [Don't wanna pay for Hello Chinese. Any other options?](https://old.reddit.com/r/ChineseLanguage/comments/1ub6u3s/dont_wanna_pay_for_hello_chinese_any_other_options/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 6
+- comments: 9
 - created: 2026-06-20T20:35:58.000Z
 - matched query: "learn chinese" app
 
@@ -36,13 +36,6 @@ Generated: 2026-06-20T22:48:51.735Z
 - comments: 4
 - created: 2026-06-19T04:02:44.000Z
 - matched query: flashcard app
-
-## [Learning radicals?](https://old.reddit.com/r/ChineseLanguage/comments/1u8pt7a/learning_radicals/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 13
-- created: 2026-06-17T23:13:42.000Z
-- matched query: resource
 
 ## [Anki Deck with Pinyin at the Front ?](https://old.reddit.com/r/ChineseLanguage/comments/1u23klk/anki_deck_with_pinyin_at_the_front/)
 - subreddit: r/ChineseLanguage
@@ -75,7 +68,7 @@ Generated: 2026-06-20T22:48:51.735Z
 ## [Detailed Review: "Heroes of Ancient China" Graded Readers (Imagin8 Press)](https://old.reddit.com/r/ChineseLanguage/comments/1uavdyy/detailed_review_heroes_of_ancient_china_graded/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 8
+- comments: 9
 - created: 2026-06-20T12:27:32.000Z
 - matched query: app OR website pinyin hanzi
 
@@ -84,6 +77,13 @@ Generated: 2026-06-20T22:48:51.735Z
 - score: 5
 - comments: 0
 - created: 2026-06-18T17:50:51.000Z
+- matched query: resource
+
+## [Learning radicals?](https://old.reddit.com/r/ChineseLanguage/comments/1u8pt7a/learning_radicals/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 13
+- created: 2026-06-17T23:13:42.000Z
 - matched query: resource
 
 ## [How do I get proper guide for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1u7zmd8/how_do_i_get_proper_guide_for_learning_chinese/)

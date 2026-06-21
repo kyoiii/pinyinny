@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-21T11:36:39.697Z
+Generated: 2026-06-21T13:25:33.678Z
 
 ## [Are there any kinda HSK books with their instructions including pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1u9s0jz/are_there_any_kinda_hsk_books_with_their/)
 - subreddit: r/ChineseLanguage
@@ -51,10 +51,17 @@ Generated: 2026-06-21T11:36:39.697Z
 - created: 2026-05-21T12:35:45.000Z
 - matched query: "learn chinese" app
 
+## [Typing nü on Android keyboard](https://old.reddit.com/r/ChineseLanguage/comments/1ubp2ha/typing_nü_on_android_keyboard/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 6
+- created: 2026-06-21T12:40:57.000Z
+- matched query: app OR website pinyin hanzi
+
 ## [Don't wanna pay for Hello Chinese. Any other options?](https://old.reddit.com/r/ChineseLanguage/comments/1ub6u3s/dont_wanna_pay_for_hello_chinese_any_other_options/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 33
+- comments: 35
 - created: 2026-06-20T20:35:58.000Z
 - matched query: "learn chinese" app
 
@@ -64,13 +71,6 @@ Generated: 2026-06-21T11:36:39.697Z
 - comments: 3
 - created: 2026-06-20T19:21:51.000Z
 - matched query: "learn chinese" app
-
-## [Detailed Review: "Heroes of Ancient China" Graded Readers (Imagin8 Press)](https://old.reddit.com/r/ChineseLanguage/comments/1uavdyy/detailed_review_heroes_of_ancient_china_graded/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 13
-- created: 2026-06-20T12:27:32.000Z
-- matched query: app OR website pinyin hanzi
 
 ## [ChineseSkill releases a free early-release Hong Kong Cantonese course and we’d love learner feedback](https://old.reddit.com/r/ChineseLanguage/comments/1u9d8i6/chineseskill_releases_a_free_earlyrelease_hong/)
 - subreddit: r/ChineseLanguage
@@ -121,6 +121,13 @@ Generated: 2026-06-21T11:36:39.697Z
 - created: 2026-06-05T05:28:45.000Z
 - matched query: "learn chinese" app
 
+## [Detailed Review: "Heroes of Ancient China" Graded Readers (Imagin8 Press)](https://old.reddit.com/r/ChineseLanguage/comments/1uavdyy/detailed_review_heroes_of_ancient_china_graded/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 17
+- created: 2026-06-20T12:27:32.000Z
+- matched query: app OR website pinyin hanzi
+
 ## [What’s your setup for passive + active Chinese listening at beginner/intermediate level?](https://old.reddit.com/r/ChineseLanguage/comments/1u13u23/whats_your_setup_for_passive_active_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -133,12 +140,5 @@ Generated: 2026-06-21T11:36:39.697Z
 - score: 4
 - comments: 5
 - created: 2026-06-05T13:30:09.000Z
-- matched query: "learn chinese" app
-
-## [Recommended Courses for toddlers and parents](https://old.reddit.com/r/ChineseLanguage/comments/1tu6bpj/recommended_courses_for_toddlers_and_parents/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 4
-- created: 2026-06-01T21:25:01.000Z
 - matched query: "learn chinese" app
 

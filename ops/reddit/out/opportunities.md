@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-20T23:55:19.465Z
+Generated: 2026-06-21T04:27:49.968Z
 
 ## [Are there any kinda HSK books with their instructions including pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1u9s0jz/are_there_any_kinda_hsk_books_with_their/)
 - subreddit: r/ChineseLanguage
@@ -19,21 +19,14 @@ Generated: 2026-06-20T23:55:19.465Z
 ## [Don't wanna pay for Hello Chinese. Any other options?](https://old.reddit.com/r/ChineseLanguage/comments/1ub6u3s/dont_wanna_pay_for_hello_chinese_any_other_options/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 9
+- comments: 17
 - created: 2026-06-20T20:35:58.000Z
-- matched query: "learn chinese" app
-
-## [Want to learn chinese](https://old.reddit.com/r/ChineseLanguage/comments/1ub52jc/want_to_learn_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-06-20T19:21:51.000Z
 - matched query: "learn chinese" app
 
 ## [Any tips for a beginner?](https://old.reddit.com/r/ChineseLanguage/comments/1u9rkyf/any_tips_for_a_beginner/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 4
+- comments: 5
 - created: 2026-06-19T04:02:44.000Z
 - matched query: flashcard app
 
@@ -65,10 +58,17 @@ Generated: 2026-06-20T23:55:19.465Z
 - created: 2026-05-21T12:35:45.000Z
 - matched query: "learn chinese" app
 
+## [Want to learn chinese](https://old.reddit.com/r/ChineseLanguage/comments/1ub52jc/want_to_learn_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 1
+- created: 2026-06-20T19:21:51.000Z
+- matched query: "learn chinese" app
+
 ## [Detailed Review: "Heroes of Ancient China" Graded Readers (Imagin8 Press)](https://old.reddit.com/r/ChineseLanguage/comments/1uavdyy/detailed_review_heroes_of_ancient_china_graded/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 9
+- comments: 10
 - created: 2026-06-20T12:27:32.000Z
 - matched query: app OR website pinyin hanzi
 
@@ -82,7 +82,7 @@ Generated: 2026-06-20T23:55:19.465Z
 ## [Learning radicals?](https://old.reddit.com/r/ChineseLanguage/comments/1u8pt7a/learning_radicals/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 13
+- comments: 14
 - created: 2026-06-17T23:13:42.000Z
 - matched query: resource
 
@@ -121,13 +121,6 @@ Generated: 2026-06-20T23:55:19.465Z
 - created: 2026-06-05T05:28:45.000Z
 - matched query: "learn chinese" app
 
-## [Chinese Learning: Class vs Tutor?](https://old.reddit.com/r/ChineseLanguage/comments/1u4r7im/chinese_learning_class_vs_tutor/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 6
-- created: 2026-06-13T13:37:27.000Z
-- matched query: resource
-
 ## [What’s your setup for passive + active Chinese listening at beginner/intermediate level?](https://old.reddit.com/r/ChineseLanguage/comments/1u13u23/whats_your_setup_for_passive_active_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -140,5 +133,12 @@ Generated: 2026-06-20T23:55:19.465Z
 - score: 4
 - comments: 5
 - created: 2026-06-05T13:30:09.000Z
+- matched query: "learn chinese" app
+
+## [Recommended Courses for toddlers and parents](https://old.reddit.com/r/ChineseLanguage/comments/1tu6bpj/recommended_courses_for_toddlers_and_parents/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 4
+- created: 2026-06-01T21:25:01.000Z
 - matched query: "learn chinese" app
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-21T13:25:33.678Z
+Generated: 2026-06-21T15:27:43.505Z
 
 ## [Are there any kinda HSK books with their instructions including pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1u9s0jz/are_there_any_kinda_hsk_books_with_their/)
 - subreddit: r/ChineseLanguage
@@ -54,14 +54,14 @@ Generated: 2026-06-21T13:25:33.678Z
 ## [Typing nü on Android keyboard](https://old.reddit.com/r/ChineseLanguage/comments/1ubp2ha/typing_nü_on_android_keyboard/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 6
+- comments: 16
 - created: 2026-06-21T12:40:57.000Z
 - matched query: app OR website pinyin hanzi
 
 ## [Don't wanna pay for Hello Chinese. Any other options?](https://old.reddit.com/r/ChineseLanguage/comments/1ub6u3s/dont_wanna_pay_for_hello_chinese_any_other_options/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 35
+- comments: 34
 - created: 2026-06-20T20:35:58.000Z
 - matched query: "learn chinese" app
 
@@ -124,7 +124,7 @@ Generated: 2026-06-21T13:25:33.678Z
 ## [Detailed Review: "Heroes of Ancient China" Graded Readers (Imagin8 Press)](https://old.reddit.com/r/ChineseLanguage/comments/1uavdyy/detailed_review_heroes_of_ancient_china_graded/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 17
+- comments: 19
 - created: 2026-06-20T12:27:32.000Z
 - matched query: app OR website pinyin hanzi
 

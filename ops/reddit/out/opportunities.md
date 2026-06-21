@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-21T18:50:17.984Z
+Generated: 2026-06-21T20:19:57.538Z
 
 ## [Are there any kinda HSK books with their instructions including pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1u9s0jz/are_there_any_kinda_hsk_books_with_their/)
 - subreddit: r/ChineseLanguage
@@ -79,13 +79,6 @@ Generated: 2026-06-21T18:50:17.984Z
 - created: 2026-06-20T20:35:58.000Z
 - matched query: "learn chinese" app
 
-## [Want to learn chinese](https://old.reddit.com/r/ChineseLanguage/comments/1ub52jc/want_to_learn_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 3
-- created: 2026-06-20T19:21:51.000Z
-- matched query: "learn chinese" app
-
 ## [Learning radicals?](https://old.reddit.com/r/ChineseLanguage/comments/1u8pt7a/learning_radicals/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -126,6 +119,13 @@ Generated: 2026-06-21T18:50:17.984Z
 - score: 5
 - comments: 0
 - created: 2026-06-05T05:28:45.000Z
+- matched query: "learn chinese" app
+
+## [Want to learn chinese](https://old.reddit.com/r/ChineseLanguage/comments/1ub52jc/want_to_learn_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 4
+- created: 2026-06-20T19:21:51.000Z
 - matched query: "learn chinese" app
 
 ## [Detailed Review: "Heroes of Ancient China" Graded Readers (Imagin8 Press)](https://old.reddit.com/r/ChineseLanguage/comments/1uavdyy/detailed_review_heroes_of_ancient_china_graded/)

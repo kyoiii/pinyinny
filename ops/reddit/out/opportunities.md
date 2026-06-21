@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-21T17:08:05.104Z
+Generated: 2026-06-21T18:50:17.984Z
 
 ## [Are there any kinda HSK books with their instructions including pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1u9s0jz/are_there_any_kinda_hsk_books_with_their/)
 - subreddit: r/ChineseLanguage
@@ -15,13 +15,6 @@ Generated: 2026-06-21T17:08:05.104Z
 - comments: 6
 - created: 2026-05-27T22:47:55.000Z
 - matched query: flashcard app
-
-## [From zero (or very basic) to a level at which I can communicate easily](https://old.reddit.com/r/ChineseLanguage/comments/1ubvcem/from_zero_or_very_basic_to_a_level_at_which_i_can/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-06-21T17:07:14.000Z
-- matched query: resource
 
 ## [A question about HSKK Primary..](https://old.reddit.com/r/ChineseLanguage/comments/1ubu44f/a_question_about_hskk_primary/)
 - subreddit: r/ChineseLanguage
@@ -65,10 +58,17 @@ Generated: 2026-06-21T17:08:05.104Z
 - created: 2026-05-21T12:35:45.000Z
 - matched query: "learn chinese" app
 
+## [From zero (or very basic) to a level at which I can communicate easily](https://old.reddit.com/r/ChineseLanguage/comments/1ubvcem/from_zero_or_very_basic_to_a_level_at_which_i_can/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 1
+- created: 2026-06-21T17:07:14.000Z
+- matched query: resource
+
 ## [Typing nü on Android keyboard](https://old.reddit.com/r/ChineseLanguage/comments/1ubp2ha/typing_nü_on_android_keyboard/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 16
+- comments: 17
 - created: 2026-06-21T12:40:57.000Z
 - matched query: app OR website pinyin hanzi
 
@@ -85,13 +85,6 @@ Generated: 2026-06-21T17:08:05.104Z
 - comments: 3
 - created: 2026-06-20T19:21:51.000Z
 - matched query: "learn chinese" app
-
-## [ChineseSkill releases a free early-release Hong Kong Cantonese course and we’d love learner feedback](https://old.reddit.com/r/ChineseLanguage/comments/1u9d8i6/chineseskill_releases_a_free_earlyrelease_hong/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 0
-- created: 2026-06-18T17:50:51.000Z
-- matched query: resource
 
 ## [Learning radicals?](https://old.reddit.com/r/ChineseLanguage/comments/1u8pt7a/learning_radicals/)
 - subreddit: r/ChineseLanguage
@@ -138,7 +131,14 @@ Generated: 2026-06-21T17:08:05.104Z
 ## [Detailed Review: "Heroes of Ancient China" Graded Readers (Imagin8 Press)](https://old.reddit.com/r/ChineseLanguage/comments/1uavdyy/detailed_review_heroes_of_ancient_china_graded/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 19
+- comments: 18
 - created: 2026-06-20T12:27:32.000Z
 - matched query: app OR website pinyin hanzi
+
+## [ChineseSkill releases a free early-release Hong Kong Cantonese course and we’d love learner feedback](https://old.reddit.com/r/ChineseLanguage/comments/1u9d8i6/chineseskill_releases_a_free_earlyrelease_hong/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 0
+- created: 2026-06-18T17:50:51.000Z
+- matched query: resource
 

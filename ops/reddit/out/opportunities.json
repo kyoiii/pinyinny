@@ -23,17 +23,6 @@
   },
   {
     "subreddit": "ChineseLanguage",
-    "query": "resource",
-    "title": "From zero (or very basic) to a level at which I can communicate easily",
-    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1ubvcem/from_zero_or_very_basic_to_a_level_at_which_i_can/",
-    "created_utc": 1782061634,
-    "created_at": "2026-06-21T17:07:14.000Z",
-    "num_comments": 0,
-    "author": "Via-des710",
-    "score": 6
-  },
-  {
-    "subreddit": "ChineseLanguage",
     "query": "app OR website pinyin hanzi",
     "title": "A question about HSKK Primary..",
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1ubu44f/a_question_about_hskk_primary/",
@@ -100,12 +89,23 @@
   },
   {
     "subreddit": "ChineseLanguage",
+    "query": "resource",
+    "title": "From zero (or very basic) to a level at which I can communicate easily",
+    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1ubvcem/from_zero_or_very_basic_to_a_level_at_which_i_can/",
+    "created_utc": 1782061634,
+    "created_at": "2026-06-21T17:07:14.000Z",
+    "num_comments": 1,
+    "author": "Via-des710",
+    "score": 5
+  },
+  {
+    "subreddit": "ChineseLanguage",
     "query": "app OR website pinyin hanzi",
     "title": "Typing nü on Android keyboard",
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1ubp2ha/typing_nü_on_android_keyboard/",
     "created_utc": 1782045657,
     "created_at": "2026-06-21T12:40:57.000Z",
-    "num_comments": 16,
+    "num_comments": 17,
     "author": "hastobeapoint",
     "score": 5
   },
@@ -129,17 +129,6 @@
     "created_at": "2026-06-20T19:21:51.000Z",
     "num_comments": 3,
     "author": "Shakir_ob",
-    "score": 5
-  },
-  {
-    "subreddit": "ChineseLanguage",
-    "query": "resource",
-    "title": "ChineseSkill releases a free early-release Hong Kong Cantonese course and we’d love learner feedback",
-    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1u9d8i6/chineseskill_releases_a_free_earlyrelease_hong/",
-    "created_utc": 1781805051,
-    "created_at": "2026-06-18T17:50:51.000Z",
-    "num_comments": 0,
-    "author": "ChiefWontonOfficer",
     "score": 5
   },
   {
@@ -215,8 +204,19 @@
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1uavdyy/detailed_review_heroes_of_ancient_china_graded/",
     "created_utc": 1781958452,
     "created_at": "2026-06-20T12:27:32.000Z",
-    "num_comments": 19,
+    "num_comments": 18,
     "author": "lockpickling",
+    "score": 4
+  },
+  {
+    "subreddit": "ChineseLanguage",
+    "query": "resource",
+    "title": "ChineseSkill releases a free early-release Hong Kong Cantonese course and we’d love learner feedback",
+    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1u9d8i6/chineseskill_releases_a_free_earlyrelease_hong/",
+    "created_utc": 1781805051,
+    "created_at": "2026-06-18T17:50:51.000Z",
+    "num_comments": 0,
+    "author": "ChiefWontonOfficer",
     "score": 4
   }
 ]

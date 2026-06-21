@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-21T21:50:27.376Z
+Generated: 2026-06-21T22:56:22.189Z
 
 ## [Are there any kinda HSK books with their instructions including pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1u9s0jz/are_there_any_kinda_hsk_books_with_their/)
 - subreddit: r/ChineseLanguage
@@ -61,14 +61,14 @@ Generated: 2026-06-21T21:50:27.376Z
 ## [From zero (or very basic) to a level at which I can communicate easily](https://old.reddit.com/r/ChineseLanguage/comments/1ubvcem/from_zero_or_very_basic_to_a_level_at_which_i_can/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 1
+- comments: 2
 - created: 2026-06-21T17:07:14.000Z
 - matched query: resource
 
 ## [Typing nü on Android keyboard](https://old.reddit.com/r/ChineseLanguage/comments/1ubp2ha/typing_nü_on_android_keyboard/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 17
+- comments: 18
 - created: 2026-06-21T12:40:57.000Z
 - matched query: app OR website pinyin hanzi
 
@@ -117,7 +117,7 @@ Generated: 2026-06-21T21:50:27.376Z
 ## [Don't wanna pay for Hello Chinese. Any other options?](https://old.reddit.com/r/ChineseLanguage/comments/1ub6u3s/dont_wanna_pay_for_hello_chinese_any_other_options/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 42
+- comments: 43
 - created: 2026-06-20T20:35:58.000Z
 - matched query: "learn chinese" app
 

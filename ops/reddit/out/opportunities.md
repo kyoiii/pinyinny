@@ -1,10 +1,10 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-22T21:52:35.658Z
+Generated: 2026-06-22T23:15:24.728Z
 
 ## [What features do you actually want in a Mandarin learning app?](https://old.reddit.com/r/ChineseLanguage/comments/1uc3w9m/what_features_do_you_actually_want_in_a_mandarin/)
 - subreddit: r/ChineseLanguage
-- score: 9
+- score: 8
 - comments: 3
 - created: 2026-06-21T23:01:05.000Z
 - matched query: resource
@@ -23,19 +23,19 @@ Generated: 2026-06-22T21:52:35.658Z
 - created: 2026-06-22T09:28:56.000Z
 - matched query: "learn chinese" app
 
-## [Where to learn spoken Old Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1uc4784/where_to_learn_spoken_old_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 14
-- created: 2026-06-21T23:15:02.000Z
-- matched query: resource
-
 ## [Are there any kinda HSK books with their instructions including pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1u9s0jz/are_there_any_kinda_hsk_books_with_their/)
 - subreddit: r/ChineseLanguage
 - score: 7
 - comments: 3
 - created: 2026-06-19T04:24:57.000Z
 - matched query: app OR website pinyin hanzi
+
+## [Where to learn spoken Old Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1uc4784/where_to_learn_spoken_old_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 14
+- created: 2026-06-21T23:15:02.000Z
+- matched query: resource
 
 ## [Anki Deck with Pinyin at the Front ?](https://old.reddit.com/r/ChineseLanguage/comments/1u23klk/anki_deck_with_pinyin_at_the_front/)
 - subreddit: r/ChineseLanguage

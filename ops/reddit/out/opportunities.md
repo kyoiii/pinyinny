@@ -1,6 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-21T22:56:22.189Z
+Generated: 2026-06-22T00:16:48.875Z
+
+## [What features do you actually want in a Mandarin learning app?](https://old.reddit.com/r/ChineseLanguage/comments/1uc3w9m/what_features_do_you_actually_want_in_a_mandarin/)
+- subreddit: r/ChineseLanguage
+- score: 9
+- comments: 1
+- created: 2026-06-21T23:01:05.000Z
+- matched query: resource
 
 ## [Are there any kinda HSK books with their instructions including pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1u9s0jz/are_there_any_kinda_hsk_books_with_their/)
 - subreddit: r/ChineseLanguage
@@ -15,6 +22,13 @@ Generated: 2026-06-21T22:56:22.189Z
 - comments: 6
 - created: 2026-05-27T22:47:55.000Z
 - matched query: flashcard app
+
+## [Where to learn spoken Old Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1uc4784/where_to_learn_spoken_old_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 4
+- created: 2026-06-21T23:15:02.000Z
+- matched query: resource
 
 ## [A question about HSKK Primary..](https://old.reddit.com/r/ChineseLanguage/comments/1ubu44f/a_question_about_hskk_primary/)
 - subreddit: r/ChineseLanguage
@@ -49,13 +63,6 @@ Generated: 2026-06-21T22:56:22.189Z
 - score: 6
 - comments: 5
 - created: 2026-05-28T10:02:37.000Z
-- matched query: "learn chinese" app
-
-## [Dictionary App/Web Similar to Jisho?](https://old.reddit.com/r/ChineseLanguage/comments/1tjj6jz/dictionary_appweb_similar_to_jisho/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 6
-- created: 2026-05-21T12:35:45.000Z
 - matched query: "learn chinese" app
 
 ## [From zero (or very basic) to a level at which I can communicate easily](https://old.reddit.com/r/ChineseLanguage/comments/1ubvcem/from_zero_or_very_basic_to_a_level_at_which_i_can/)
@@ -134,11 +141,4 @@ Generated: 2026-06-21T22:56:22.189Z
 - comments: 18
 - created: 2026-06-20T12:27:32.000Z
 - matched query: app OR website pinyin hanzi
-
-## [ChineseSkill releases a free early-release Hong Kong Cantonese course and we’d love learner feedback](https://old.reddit.com/r/ChineseLanguage/comments/1u9d8i6/chineseskill_releases_a_free_earlyrelease_hong/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 0
-- created: 2026-06-18T17:50:51.000Z
-- matched query: resource
 

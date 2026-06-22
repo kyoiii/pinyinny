@@ -6,7 +6,7 @@
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1uc3w9m/what_features_do_you_actually_want_in_a_mandarin/",
     "created_utc": 1782082865,
     "created_at": "2026-06-21T23:01:05.000Z",
-    "num_comments": 2,
+    "num_comments": 3,
     "author": "ashafizullah",
     "score": 9
   },
@@ -23,12 +23,23 @@
   },
   {
     "subreddit": "ChineseLanguage",
+    "query": "\"learn chinese\" app",
+    "title": "Hello, I will start to learn chinese, any advices?",
+    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1ucftml/hello_i_will_start_to_learn_chinese_any_advices/",
+    "created_utc": 1782120536,
+    "created_at": "2026-06-22T09:28:56.000Z",
+    "num_comments": 2,
+    "author": "eva-gho20",
+    "score": 7
+  },
+  {
+    "subreddit": "ChineseLanguage",
     "query": "resource",
     "title": "Where to learn spoken Old Chinese?",
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1uc4784/where_to_learn_spoken_old_chinese/",
     "created_utc": 1782083702,
     "created_at": "2026-06-21T23:15:02.000Z",
-    "num_comments": 8,
+    "num_comments": 13,
     "author": "Puffification",
     "score": 7
   },
@@ -42,17 +53,6 @@
     "num_comments": 3,
     "author": "zRoyalStar",
     "score": 7
-  },
-  {
-    "subreddit": "ChineseLanguage",
-    "query": "app OR website pinyin hanzi",
-    "title": "A question about HSKK Primary..",
-    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1ubu44f/a_question_about_hskk_primary/",
-    "created_utc": 1782058688,
-    "created_at": "2026-06-21T16:18:08.000Z",
-    "num_comments": 0,
-    "author": "historically_frogs",
-    "score": 6
   },
   {
     "subreddit": "ChineseLanguage",
@@ -94,8 +94,19 @@
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1ubvcem/from_zero_or_very_basic_to_a_level_at_which_i_can/",
     "created_utc": 1782061634,
     "created_at": "2026-06-21T17:07:14.000Z",
-    "num_comments": 3,
+    "num_comments": 6,
     "author": "Via-des710",
+    "score": 5
+  },
+  {
+    "subreddit": "ChineseLanguage",
+    "query": "app OR website pinyin hanzi",
+    "title": "A question about HSKK Primary..",
+    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1ubu44f/a_question_about_hskk_primary/",
+    "created_utc": 1782058688,
+    "created_at": "2026-06-21T16:18:08.000Z",
+    "num_comments": 1,
+    "author": "historically_frogs",
     "score": 5
   },
   {
@@ -105,7 +116,7 @@
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1ubp2ha/typing_nü_on_android_keyboard/",
     "created_utc": 1782045657,
     "created_at": "2026-06-21T12:40:57.000Z",
-    "num_comments": 18,
+    "num_comments": 21,
     "author": "hastobeapoint",
     "score": 5
   },
@@ -193,7 +204,7 @@
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1ub6u3s/dont_wanna_pay_for_hello_chinese_any_other_options/",
     "created_utc": 1781987758,
     "created_at": "2026-06-20T20:35:58.000Z",
-    "num_comments": 45,
+    "num_comments": 49,
     "author": "StomachLonely9788",
     "score": 4
   },
@@ -206,17 +217,6 @@
     "created_at": "2026-06-20T19:21:51.000Z",
     "num_comments": 4,
     "author": "Shakir_ob",
-    "score": 4
-  },
-  {
-    "subreddit": "ChineseLanguage",
-    "query": "app OR website pinyin hanzi",
-    "title": "Detailed Review: \"Heroes of Ancient China\" Graded Readers (Imagin8 Press)",
-    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1uavdyy/detailed_review_heroes_of_ancient_china_graded/",
-    "created_utc": 1781958452,
-    "created_at": "2026-06-20T12:27:32.000Z",
-    "num_comments": 18,
-    "author": "lockpickling",
     "score": 4
   }
 ]

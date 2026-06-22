@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-22T05:36:03.193Z
+Generated: 2026-06-22T11:20:49.494Z
 
 ## [What features do you actually want in a Mandarin learning app?](https://old.reddit.com/r/ChineseLanguage/comments/1uc3w9m/what_features_do_you_actually_want_in_a_mandarin/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 2
+- comments: 3
 - created: 2026-06-21T23:01:05.000Z
 - matched query: resource
 
@@ -16,10 +16,17 @@ Generated: 2026-06-22T05:36:03.193Z
 - created: 2026-05-27T22:47:55.000Z
 - matched query: flashcard app
 
+## [Hello, I will start to learn chinese, any advices?](https://old.reddit.com/r/ChineseLanguage/comments/1ucftml/hello_i_will_start_to_learn_chinese_any_advices/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 2
+- created: 2026-06-22T09:28:56.000Z
+- matched query: "learn chinese" app
+
 ## [Where to learn spoken Old Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1uc4784/where_to_learn_spoken_old_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 8
+- comments: 13
 - created: 2026-06-21T23:15:02.000Z
 - matched query: resource
 
@@ -28,13 +35,6 @@ Generated: 2026-06-22T05:36:03.193Z
 - score: 7
 - comments: 3
 - created: 2026-06-19T04:24:57.000Z
-- matched query: app OR website pinyin hanzi
-
-## [A question about HSKK Primary..](https://old.reddit.com/r/ChineseLanguage/comments/1ubu44f/a_question_about_hskk_primary/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-06-21T16:18:08.000Z
 - matched query: app OR website pinyin hanzi
 
 ## [Anki Deck with Pinyin at the Front ?](https://old.reddit.com/r/ChineseLanguage/comments/1u23klk/anki_deck_with_pinyin_at_the_front/)
@@ -61,14 +61,21 @@ Generated: 2026-06-22T05:36:03.193Z
 ## [From zero (or very basic) to a level at which I can communicate easily](https://old.reddit.com/r/ChineseLanguage/comments/1ubvcem/from_zero_or_very_basic_to_a_level_at_which_i_can/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 3
+- comments: 6
 - created: 2026-06-21T17:07:14.000Z
 - matched query: resource
+
+## [A question about HSKK Primary..](https://old.reddit.com/r/ChineseLanguage/comments/1ubu44f/a_question_about_hskk_primary/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 1
+- created: 2026-06-21T16:18:08.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [Typing nü on Android keyboard](https://old.reddit.com/r/ChineseLanguage/comments/1ubp2ha/typing_nü_on_android_keyboard/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 18
+- comments: 21
 - created: 2026-06-21T12:40:57.000Z
 - matched query: app OR website pinyin hanzi
 
@@ -124,7 +131,7 @@ Generated: 2026-06-22T05:36:03.193Z
 ## [Don't wanna pay for Hello Chinese. Any other options?](https://old.reddit.com/r/ChineseLanguage/comments/1ub6u3s/dont_wanna_pay_for_hello_chinese_any_other_options/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 45
+- comments: 49
 - created: 2026-06-20T20:35:58.000Z
 - matched query: "learn chinese" app
 
@@ -134,11 +141,4 @@ Generated: 2026-06-22T05:36:03.193Z
 - comments: 4
 - created: 2026-06-20T19:21:51.000Z
 - matched query: "learn chinese" app
-
-## [Detailed Review: "Heroes of Ancient China" Graded Readers (Imagin8 Press)](https://old.reddit.com/r/ChineseLanguage/comments/1uavdyy/detailed_review_heroes_of_ancient_china_graded/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 18
-- created: 2026-06-20T12:27:32.000Z
-- matched query: app OR website pinyin hanzi
 

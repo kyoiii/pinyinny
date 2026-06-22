@@ -28,7 +28,7 @@
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1ucftml/hello_i_will_start_to_learn_chinese_any_advices/",
     "created_utc": 1782120536,
     "created_at": "2026-06-22T09:28:56.000Z",
-    "num_comments": 2,
+    "num_comments": 5,
     "author": "eva-gho20",
     "score": 7
   },
@@ -39,7 +39,7 @@
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1uc4784/where_to_learn_spoken_old_chinese/",
     "created_utc": 1782083702,
     "created_at": "2026-06-21T23:15:02.000Z",
-    "num_comments": 13,
+    "num_comments": 14,
     "author": "Puffification",
     "score": 7
   },
@@ -90,6 +90,17 @@
   {
     "subreddit": "ChineseLanguage",
     "query": "resource",
+    "title": "Complete beginner (0 knowledge) looking for a roadmap to become fluent in Mandarin Chinese",
+    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1ucjftb/complete_beginner_0_knowledge_looking_for_a/",
+    "created_utc": 1782131915,
+    "created_at": "2026-06-22T12:38:35.000Z",
+    "num_comments": 10,
+    "author": "robosparks_",
+    "score": 5
+  },
+  {
+    "subreddit": "ChineseLanguage",
+    "query": "resource",
     "title": "From zero (or very basic) to a level at which I can communicate easily",
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1ubvcem/from_zero_or_very_basic_to_a_level_at_which_i_can/",
     "created_utc": 1782061634,
@@ -107,17 +118,6 @@
     "created_at": "2026-06-21T16:18:08.000Z",
     "num_comments": 1,
     "author": "historically_frogs",
-    "score": 5
-  },
-  {
-    "subreddit": "ChineseLanguage",
-    "query": "app OR website pinyin hanzi",
-    "title": "Typing nü on Android keyboard",
-    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1ubp2ha/typing_nü_on_android_keyboard/",
-    "created_utc": 1782045657,
-    "created_at": "2026-06-21T12:40:57.000Z",
-    "num_comments": 21,
-    "author": "hastobeapoint",
     "score": 5
   },
   {
@@ -166,17 +166,6 @@
   },
   {
     "subreddit": "ChineseLanguage",
-    "query": "\"learn chinese\" app",
-    "title": "Best app for learning chinese characters",
-    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1u6e1kn/best_app_for_learning_chinese_characters/",
-    "created_utc": 1781523399,
-    "created_at": "2026-06-15T11:36:39.000Z",
-    "num_comments": 21,
-    "author": "Queasy_Confidence468",
-    "score": 5
-  },
-  {
-    "subreddit": "ChineseLanguage",
     "query": "flashcard app",
     "title": "Srs flashcards and Immersion",
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1u1z27m/srs_flashcards_and_immersion/",
@@ -199,12 +188,23 @@
   },
   {
     "subreddit": "ChineseLanguage",
+    "query": "app OR website pinyin hanzi",
+    "title": "Typing nü on Android keyboard",
+    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1ubp2ha/typing_nü_on_android_keyboard/",
+    "created_utc": 1782045657,
+    "created_at": "2026-06-21T12:40:57.000Z",
+    "num_comments": 21,
+    "author": "hastobeapoint",
+    "score": 4
+  },
+  {
+    "subreddit": "ChineseLanguage",
     "query": "\"learn chinese\" app",
     "title": "Don't wanna pay for Hello Chinese. Any other options?",
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1ub6u3s/dont_wanna_pay_for_hello_chinese_any_other_options/",
     "created_utc": 1781987758,
     "created_at": "2026-06-20T20:35:58.000Z",
-    "num_comments": 49,
+    "num_comments": 51,
     "author": "StomachLonely9788",
     "score": 4
   },

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-23T08:50:29.000Z
+Generated: 2026-06-23T11:52:00.976Z
 
 ## [What features do you actually want in a Mandarin learning app?](https://old.reddit.com/r/ChineseLanguage/comments/1uc3w9m/what_features_do_you_actually_want_in_a_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -22,6 +22,13 @@ Generated: 2026-06-23T08:50:29.000Z
 - comments: 3
 - created: 2026-06-19T04:24:57.000Z
 - matched query: app OR website pinyin hanzi
+
+## [need help i am in taiwan and interested in learning traditional mandarin](https://old.reddit.com/r/ChineseLanguage/comments/1udeuav/need_help_i_am_in_taiwan_and_interested_in/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 0
+- created: 2026-06-23T11:44:30.000Z
+- matched query: resource
 
 ## [Where to learn spoken Old Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1uc4784/where_to_learn_spoken_old_chinese/)
 - subreddit: r/ChineseLanguage
@@ -54,7 +61,7 @@ Generated: 2026-06-23T08:50:29.000Z
 ## [Complete beginner (0 knowledge) looking for a roadmap to become fluent in Mandarin Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1ucjftb/complete_beginner_0_knowledge_looking_for_a/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 24
+- comments: 25
 - created: 2026-06-22T12:38:35.000Z
 - matched query: resource
 
@@ -78,13 +85,6 @@ Generated: 2026-06-23T08:50:29.000Z
 - comments: 19
 - created: 2026-06-17T04:02:17.000Z
 - matched query: "learn chinese" app
-
-## [Where to get Chinese ebooks?](https://old.reddit.com/r/ChineseLanguage/comments/1u784na/where_to_get_chinese_ebooks/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 8
-- created: 2026-06-16T08:58:55.000Z
-- matched query: resource
 
 ## [Srs flashcards and Immersion](https://old.reddit.com/r/ChineseLanguage/comments/1u1z27m/srs_flashcards_and_immersion/)
 - subreddit: r/ChineseLanguage

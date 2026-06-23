@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-23T11:52:00.976Z
+Generated: 2026-06-23T14:35:13.789Z
 
 ## [What features do you actually want in a Mandarin learning app?](https://old.reddit.com/r/ChineseLanguage/comments/1uc3w9m/what_features_do_you_actually_want_in_a_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -22,13 +22,6 @@ Generated: 2026-06-23T11:52:00.976Z
 - comments: 3
 - created: 2026-06-19T04:24:57.000Z
 - matched query: app OR website pinyin hanzi
-
-## [need help i am in taiwan and interested in learning traditional mandarin](https://old.reddit.com/r/ChineseLanguage/comments/1udeuav/need_help_i_am_in_taiwan_and_interested_in/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-06-23T11:44:30.000Z
-- matched query: resource
 
 ## [Where to learn spoken Old Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1uc4784/where_to_learn_spoken_old_chinese/)
 - subreddit: r/ChineseLanguage
@@ -58,11 +51,11 @@ Generated: 2026-06-23T11:52:00.976Z
 - created: 2026-05-28T10:02:37.000Z
 - matched query: "learn chinese" app
 
-## [Complete beginner (0 knowledge) looking for a roadmap to become fluent in Mandarin Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1ucjftb/complete_beginner_0_knowledge_looking_for_a/)
+## [need help i am in taiwan and interested in learning traditional mandarin](https://old.reddit.com/r/ChineseLanguage/comments/1udeuav/need_help_i_am_in_taiwan_and_interested_in/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 25
-- created: 2026-06-22T12:38:35.000Z
+- comments: 2
+- created: 2026-06-23T11:44:30.000Z
 - matched query: resource
 
 ## [Any tips for a beginner?](https://old.reddit.com/r/ChineseLanguage/comments/1u9rkyf/any_tips_for_a_beginner/)
@@ -100,6 +93,13 @@ Generated: 2026-06-23T11:52:00.976Z
 - created: 2026-06-05T05:28:45.000Z
 - matched query: "learn chinese" app
 
+## [Complete beginner (0 knowledge) looking for a roadmap to become fluent in Mandarin Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1ucjftb/complete_beginner_0_knowledge_looking_for_a/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 25
+- created: 2026-06-22T12:38:35.000Z
+- matched query: resource
+
 ## [From zero (or very basic) to a level at which I can communicate easily](https://old.reddit.com/r/ChineseLanguage/comments/1ubvcem/from_zero_or_very_basic_to_a_level_at_which_i_can/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -135,10 +135,10 @@ Generated: 2026-06-23T11:52:00.976Z
 - created: 2026-06-20T19:21:51.000Z
 - matched query: "learn chinese" app
 
-## [Detailed Review: "Heroes of Ancient China" Graded Readers (Imagin8 Press)](https://old.reddit.com/r/ChineseLanguage/comments/1uavdyy/detailed_review_heroes_of_ancient_china_graded/)
+## [ChineseSkill releases a free early-release Hong Kong Cantonese course and we’d love learner feedback](https://old.reddit.com/r/ChineseLanguage/comments/1u9d8i6/chineseskill_releases_a_free_earlyrelease_hong/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 18
-- created: 2026-06-20T12:27:32.000Z
-- matched query: app OR website pinyin hanzi
+- comments: 0
+- created: 2026-06-18T17:50:51.000Z
+- matched query: resource
 

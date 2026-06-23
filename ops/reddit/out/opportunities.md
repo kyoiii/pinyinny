@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-23T01:26:13.975Z
+Generated: 2026-06-23T05:44:35.749Z
 
 ## [What features do you actually want in a Mandarin learning app?](https://old.reddit.com/r/ChineseLanguage/comments/1uc3w9m/what_features_do_you_actually_want_in_a_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -61,7 +61,7 @@ Generated: 2026-06-23T01:26:13.975Z
 ## [Complete beginner (0 knowledge) looking for a roadmap to become fluent in Mandarin Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1ucjftb/complete_beginner_0_knowledge_looking_for_a/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 13
+- comments: 24
 - created: 2026-06-22T12:38:35.000Z
 - matched query: resource
 

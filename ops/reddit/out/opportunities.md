@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-23T19:16:57.103Z
+Generated: 2026-06-23T21:09:32.540Z
 
 ## [What features do you actually want in a Mandarin learning app?](https://old.reddit.com/r/ChineseLanguage/comments/1uc3w9m/what_features_do_you_actually_want_in_a_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -50,6 +50,13 @@ Generated: 2026-06-23T19:16:57.103Z
 - comments: 5
 - created: 2026-05-28T10:02:37.000Z
 - matched query: "learn chinese" app
+
+## [Acquiring vocab](https://old.reddit.com/r/ChineseLanguage/comments/1udsa11/acquiring_vocab/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 5
+- created: 2026-06-23T20:18:24.000Z
+- matched query: resource
 
 ## [need help i am in taiwan and interested in learning traditional mandarin](https://old.reddit.com/r/ChineseLanguage/comments/1udeuav/need_help_i_am_in_taiwan_and_interested_in/)
 - subreddit: r/ChineseLanguage
@@ -121,24 +128,17 @@ Generated: 2026-06-23T19:16:57.103Z
 - created: 2026-06-21T12:40:57.000Z
 - matched query: app OR website pinyin hanzi
 
-## [Don't wanna pay for Hello Chinese. Any other options?](https://old.reddit.com/r/ChineseLanguage/comments/1ub6u3s/dont_wanna_pay_for_hello_chinese_any_other_options/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 51
-- created: 2026-06-20T20:35:58.000Z
-- matched query: "learn chinese" app
-
-## [Want to learn chinese](https://old.reddit.com/r/ChineseLanguage/comments/1ub52jc/want_to_learn_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 4
-- created: 2026-06-20T19:21:51.000Z
-- matched query: "learn chinese" app
-
 ## [ChineseSkill releases a free early-release Hong Kong Cantonese course and we’d love learner feedback](https://old.reddit.com/r/ChineseLanguage/comments/1u9d8i6/chineseskill_releases_a_free_earlyrelease_hong/)
 - subreddit: r/ChineseLanguage
 - score: 4
 - comments: 0
 - created: 2026-06-18T17:50:51.000Z
+- matched query: resource
+
+## [Where to get Chinese ebooks?](https://old.reddit.com/r/ChineseLanguage/comments/1u784na/where_to_get_chinese_ebooks/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 8
+- created: 2026-06-16T08:58:55.000Z
 - matched query: resource
 

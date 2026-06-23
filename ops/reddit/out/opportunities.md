@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-23T05:44:35.749Z
+Generated: 2026-06-23T08:50:29.000Z
 
 ## [What features do you actually want in a Mandarin learning app?](https://old.reddit.com/r/ChineseLanguage/comments/1uc3w9m/what_features_do_you_actually_want_in_a_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -15,13 +15,6 @@ Generated: 2026-06-23T05:44:35.749Z
 - comments: 6
 - created: 2026-05-27T22:47:55.000Z
 - matched query: flashcard app
-
-## [Hello, I will start to learn chinese, any advices?](https://old.reddit.com/r/ChineseLanguage/comments/1ucftml/hello_i_will_start_to_learn_chinese_any_advices/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 7
-- created: 2026-06-22T09:28:56.000Z
-- matched query: "learn chinese" app
 
 ## [Are there any kinda HSK books with their instructions including pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1u9s0jz/are_there_any_kinda_hsk_books_with_their/)
 - subreddit: r/ChineseLanguage
@@ -141,4 +134,11 @@ Generated: 2026-06-23T05:44:35.749Z
 - comments: 4
 - created: 2026-06-20T19:21:51.000Z
 - matched query: "learn chinese" app
+
+## [Detailed Review: "Heroes of Ancient China" Graded Readers (Imagin8 Press)](https://old.reddit.com/r/ChineseLanguage/comments/1uavdyy/detailed_review_heroes_of_ancient_china_graded/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 18
+- created: 2026-06-20T12:27:32.000Z
+- matched query: app OR website pinyin hanzi
 

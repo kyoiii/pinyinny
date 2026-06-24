@@ -1,6 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-24T08:47:17.459Z
+Generated: 2026-06-24T11:34:36.940Z
+
+## [Which tools help you to actually speak?](https://old.reddit.com/r/ChineseLanguage/comments/1ue98fm/which_tools_help_you_to_actually_speak/)
+- subreddit: r/ChineseLanguage
+- score: 9
+- comments: 4
+- created: 2026-06-24T10:00:57.000Z
+- matched query: flashcard app
 
 ## [Is this App good for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1udyxxp/is_this_app_good_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -29,13 +36,6 @@ Generated: 2026-06-24T08:47:17.459Z
 - comments: 3
 - created: 2026-06-19T04:24:57.000Z
 - matched query: app OR website pinyin hanzi
-
-## [I'm looking to learn Chinese calligraphy!](https://old.reddit.com/r/ChineseLanguage/comments/1udu3jg/im_looking_to_learn_chinese_calligraphy/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-06-23T21:27:57.000Z
-- matched query: resource
 
 ## [Where to learn spoken Old Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1uc4784/where_to_learn_spoken_old_chinese/)
 - subreddit: r/ChineseLanguage
@@ -68,7 +68,7 @@ Generated: 2026-06-24T08:47:17.459Z
 ## [I am donghua lover and I am tired of reading subtitles. That's why I want to learn Chinese. Please guide me](https://old.reddit.com/r/ChineseLanguage/comments/1ue5zmy/i_am_donghua_lover_and_i_am_tired_of_reading/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 5
+- comments: 10
 - created: 2026-06-24T06:46:57.000Z
 - matched query: "learn chinese" app
 
@@ -78,6 +78,13 @@ Generated: 2026-06-24T08:47:17.459Z
 - comments: 1
 - created: 2026-06-24T02:51:36.000Z
 - matched query: "learn chinese" app
+
+## [I'm looking to learn Chinese calligraphy!](https://old.reddit.com/r/ChineseLanguage/comments/1udu3jg/im_looking_to_learn_chinese_calligraphy/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 1
+- created: 2026-06-23T21:27:57.000Z
+- matched query: resource
 
 ## [Acquiring vocab](https://old.reddit.com/r/ChineseLanguage/comments/1udsa11/acquiring_vocab/)
 - subreddit: r/ChineseLanguage
@@ -124,21 +131,14 @@ Generated: 2026-06-24T08:47:17.459Z
 ## [Complete beginner (0 knowledge) looking for a roadmap to become fluent in Mandarin Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1ucjftb/complete_beginner_0_knowledge_looking_for_a/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 25
+- comments: 26
 - created: 2026-06-22T12:38:35.000Z
 - matched query: resource
 
 ## [From zero (or very basic) to a level at which I can communicate easily](https://old.reddit.com/r/ChineseLanguage/comments/1ubvcem/from_zero_or_very_basic_to_a_level_at_which_i_can/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 6
+- comments: 8
 - created: 2026-06-21T17:07:14.000Z
 - matched query: resource
-
-## [A question about HSKK Primary..](https://old.reddit.com/r/ChineseLanguage/comments/1ubu44f/a_question_about_hskk_primary/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 1
-- created: 2026-06-21T16:18:08.000Z
-- matched query: app OR website pinyin hanzi
 

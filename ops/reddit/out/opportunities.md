@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-24T18:12:34.325Z
+Generated: 2026-06-24T20:12:18.141Z
 
 ## [I built a Pinyin-only Mandarin app for people who want to learn to speak mandarin without learning Chinese characters. Help me to beta test it in exchange for a free lifetime subscription!](https://old.reddit.com/r/ChineseLanguage/comments/1ueedmd/i_built_a_pinyinonly_mandarin_app_for_people_who/)
 - subreddit: r/ChineseLanguage
@@ -29,6 +29,13 @@ Generated: 2026-06-24T18:12:34.325Z
 - comments: 6
 - created: 2026-05-27T22:47:55.000Z
 - matched query: flashcard app
+
+## [I am new to learning chinese. I want an advice. What is the best app where I can learn chinese for free and how can I learn the fastest. My goal is hsk3 by the end of the summer. Any advice helps.](https://old.reddit.com/r/ChineseLanguage/comments/1uemrij/i_am_new_to_learning_chinese_i_want_an_advice/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 4
+- created: 2026-06-24T19:07:34.000Z
+- matched query: "learn chinese" app
 
 ## [Are there any kinda HSK books with their instructions including pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1u9s0jz/are_there_any_kinda_hsk_books_with_their/)
 - subreddit: r/ChineseLanguage
@@ -68,7 +75,7 @@ Generated: 2026-06-24T18:12:34.325Z
 ## [Need to learn Chinese!!](https://old.reddit.com/r/ChineseLanguage/comments/1uejlpw/need_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 7
+- comments: 8
 - created: 2026-06-24T17:13:50.000Z
 - matched query: resource
 
@@ -133,12 +140,5 @@ Generated: 2026-06-24T18:12:34.325Z
 - score: 4
 - comments: 6
 - created: 2026-06-23T11:44:30.000Z
-- matched query: resource
-
-## [Complete beginner (0 knowledge) looking for a roadmap to become fluent in Mandarin Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1ucjftb/complete_beginner_0_knowledge_looking_for_a/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 27
-- created: 2026-06-22T12:38:35.000Z
 - matched query: resource
 

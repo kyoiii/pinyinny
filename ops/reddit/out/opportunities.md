@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-24T05:48:30.653Z
+Generated: 2026-06-24T08:47:17.459Z
 
 ## [Is this App good for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1udyxxp/is_this_app_good_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 5
+- comments: 7
 - created: 2026-06-24T00:51:58.000Z
 - matched query: "learn chinese" app
 
@@ -29,13 +29,6 @@ Generated: 2026-06-24T05:48:30.653Z
 - comments: 3
 - created: 2026-06-19T04:24:57.000Z
 - matched query: app OR website pinyin hanzi
-
-## [Learn Chinese through History & Artifacts](https://old.reddit.com/r/ChineseLanguage/comments/1ue1huw/learn_chinese_through_history_artifacts/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-06-24T02:51:36.000Z
-- matched query: "learn chinese" app
 
 ## [I'm looking to learn Chinese calligraphy!](https://old.reddit.com/r/ChineseLanguage/comments/1udu3jg/im_looking_to_learn_chinese_calligraphy/)
 - subreddit: r/ChineseLanguage
@@ -72,17 +65,31 @@ Generated: 2026-06-24T05:48:30.653Z
 - created: 2026-05-28T10:02:37.000Z
 - matched query: "learn chinese" app
 
+## [I am donghua lover and I am tired of reading subtitles. That's why I want to learn Chinese. Please guide me](https://old.reddit.com/r/ChineseLanguage/comments/1ue5zmy/i_am_donghua_lover_and_i_am_tired_of_reading/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 5
+- created: 2026-06-24T06:46:57.000Z
+- matched query: "learn chinese" app
+
+## [Learn Chinese through History & Artifacts](https://old.reddit.com/r/ChineseLanguage/comments/1ue1huw/learn_chinese_through_history_artifacts/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 1
+- created: 2026-06-24T02:51:36.000Z
+- matched query: "learn chinese" app
+
 ## [Acquiring vocab](https://old.reddit.com/r/ChineseLanguage/comments/1udsa11/acquiring_vocab/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 6
+- comments: 7
 - created: 2026-06-23T20:18:24.000Z
 - matched query: resource
 
 ## [need help i am in taiwan and interested in learning traditional mandarin](https://old.reddit.com/r/ChineseLanguage/comments/1udeuav/need_help_i_am_in_taiwan_and_interested_in/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 4
+- comments: 5
 - created: 2026-06-23T11:44:30.000Z
 - matched query: resource
 
@@ -133,12 +140,5 @@ Generated: 2026-06-24T05:48:30.653Z
 - score: 4
 - comments: 1
 - created: 2026-06-21T16:18:08.000Z
-- matched query: app OR website pinyin hanzi
-
-## [Typing nü on Android keyboard](https://old.reddit.com/r/ChineseLanguage/comments/1ubp2ha/typing_nü_on_android_keyboard/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 21
-- created: 2026-06-21T12:40:57.000Z
 - matched query: app OR website pinyin hanzi
 

@@ -1,18 +1,18 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-24T16:11:45.131Z
+Generated: 2026-06-24T18:12:34.325Z
 
 ## [I built a Pinyin-only Mandarin app for people who want to learn to speak mandarin without learning Chinese characters. Help me to beta test it in exchange for a free lifetime subscription!](https://old.reddit.com/r/ChineseLanguage/comments/1ueedmd/i_built_a_pinyinonly_mandarin_app_for_people_who/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 15
+- comments: 16
 - created: 2026-06-24T14:01:41.000Z
 - matched query: app OR website pinyin hanzi
 
 ## [Is this App good for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1udyxxp/is_this_app_good_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 7
+- comments: 8
 - created: 2026-06-24T00:51:58.000Z
 - matched query: "learn chinese" app
 
@@ -40,7 +40,7 @@ Generated: 2026-06-24T16:11:45.131Z
 ## [Where to learn spoken Old Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1uc4784/where_to_learn_spoken_old_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 14
+- comments: 15
 - created: 2026-06-21T23:15:02.000Z
 - matched query: resource
 
@@ -65,6 +65,13 @@ Generated: 2026-06-24T16:11:45.131Z
 - created: 2026-05-28T10:02:37.000Z
 - matched query: "learn chinese" app
 
+## [Need to learn Chinese!!](https://old.reddit.com/r/ChineseLanguage/comments/1uejlpw/need_to_learn_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 7
+- created: 2026-06-24T17:13:50.000Z
+- matched query: resource
+
 ## [I am donghua lover and I am tired of reading subtitles. That's why I want to learn Chinese. Please guide me](https://old.reddit.com/r/ChineseLanguage/comments/1ue5zmy/i_am_donghua_lover_and_i_am_tired_of_reading/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -82,7 +89,7 @@ Generated: 2026-06-24T16:11:45.131Z
 ## [I'm looking to learn Chinese calligraphy!](https://old.reddit.com/r/ChineseLanguage/comments/1udu3jg/im_looking_to_learn_chinese_calligraphy/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 1
+- comments: 3
 - created: 2026-06-23T21:27:57.000Z
 - matched query: resource
 
@@ -133,12 +140,5 @@ Generated: 2026-06-24T16:11:45.131Z
 - score: 4
 - comments: 27
 - created: 2026-06-22T12:38:35.000Z
-- matched query: resource
-
-## [From zero (or very basic) to a level at which I can communicate easily](https://old.reddit.com/r/ChineseLanguage/comments/1ubvcem/from_zero_or_very_basic_to_a_level_at_which_i_can/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 8
-- created: 2026-06-21T17:07:14.000Z
 - matched query: resource
 

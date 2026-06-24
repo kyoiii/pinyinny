@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-24T21:48:57.575Z
+Generated: 2026-06-24T22:57:03.125Z
 
 ## [I built a Pinyin-only Mandarin app for people who want to learn to speak mandarin without learning Chinese characters. Help me to beta test it in exchange for a free lifetime subscription!](https://old.reddit.com/r/ChineseLanguage/comments/1ueedmd/i_built_a_pinyinonly_mandarin_app_for_people_who/)
 - subreddit: r/ChineseLanguage
@@ -33,7 +33,7 @@ Generated: 2026-06-24T21:48:57.575Z
 ## [I am new to learning chinese. I want an advice. What is the best app where I can learn chinese for free and how can I learn the fastest. My goal is hsk3 by the end of the summer. Any advice helps.](https://old.reddit.com/r/ChineseLanguage/comments/1uemrij/i_am_new_to_learning_chinese_i_want_an_advice/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 12
+- comments: 13
 - created: 2026-06-24T19:07:34.000Z
 - matched query: "learn chinese" app
 

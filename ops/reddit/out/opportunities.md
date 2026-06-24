@@ -1,13 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-24T13:51:46.720Z
+Generated: 2026-06-24T16:11:45.131Z
 
-## [Which tools help you to actually speak?](https://old.reddit.com/r/ChineseLanguage/comments/1ue98fm/which_tools_help_you_to_actually_speak/)
+## [I built a Pinyin-only Mandarin app for people who want to learn to speak mandarin without learning Chinese characters. Help me to beta test it in exchange for a free lifetime subscription!](https://old.reddit.com/r/ChineseLanguage/comments/1ueedmd/i_built_a_pinyinonly_mandarin_app_for_people_who/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 5
-- created: 2026-06-24T10:00:57.000Z
-- matched query: flashcard app
+- comments: 15
+- created: 2026-06-24T14:01:41.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [Is this App good for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1udyxxp/is_this_app_good_for_learning_chinese/)
 - subreddit: r/ChineseLanguage

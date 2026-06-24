@@ -1,6 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-23T23:41:27.875Z
+Generated: 2026-06-24T01:33:50.556Z
+
+## [Is this App good for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1udyxxp/is_this_app_good_for_learning_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 9
+- comments: 3
+- created: 2026-06-24T00:51:58.000Z
+- matched query: "learn chinese" app
 
 ## [What features do you actually want in a Mandarin learning app?](https://old.reddit.com/r/ChineseLanguage/comments/1uc3w9m/what_features_do_you_actually_want_in_a_mandarin/)
 - subreddit: r/ChineseLanguage
@@ -61,7 +68,7 @@ Generated: 2026-06-23T23:41:27.875Z
 ## [Acquiring vocab](https://old.reddit.com/r/ChineseLanguage/comments/1udsa11/acquiring_vocab/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 5
+- comments: 6
 - created: 2026-06-23T20:18:24.000Z
 - matched query: resource
 
@@ -134,11 +141,4 @@ Generated: 2026-06-23T23:41:27.875Z
 - comments: 21
 - created: 2026-06-21T12:40:57.000Z
 - matched query: app OR website pinyin hanzi
-
-## [ChineseSkill releases a free early-release Hong Kong Cantonese course and we’d love learner feedback](https://old.reddit.com/r/ChineseLanguage/comments/1u9d8i6/chineseskill_releases_a_free_earlyrelease_hong/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 0
-- created: 2026-06-18T17:50:51.000Z
-- matched query: resource
 

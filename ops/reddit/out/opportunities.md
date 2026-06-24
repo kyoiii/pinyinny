@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-24T11:34:36.940Z
+Generated: 2026-06-24T13:51:46.720Z
 
 ## [Which tools help you to actually speak?](https://old.reddit.com/r/ChineseLanguage/comments/1ue98fm/which_tools_help_you_to_actually_speak/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 4
+- comments: 5
 - created: 2026-06-24T10:00:57.000Z
 - matched query: flashcard app
 
@@ -68,7 +68,7 @@ Generated: 2026-06-24T11:34:36.940Z
 ## [I am donghua lover and I am tired of reading subtitles. That's why I want to learn Chinese. Please guide me](https://old.reddit.com/r/ChineseLanguage/comments/1ue5zmy/i_am_donghua_lover_and_i_am_tired_of_reading/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 10
+- comments: 12
 - created: 2026-06-24T06:46:57.000Z
 - matched query: "learn chinese" app
 
@@ -91,13 +91,6 @@ Generated: 2026-06-24T11:34:36.940Z
 - score: 5
 - comments: 7
 - created: 2026-06-23T20:18:24.000Z
-- matched query: resource
-
-## [need help i am in taiwan and interested in learning traditional mandarin](https://old.reddit.com/r/ChineseLanguage/comments/1udeuav/need_help_i_am_in_taiwan_and_interested_in/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 5
-- created: 2026-06-23T11:44:30.000Z
 - matched query: resource
 
 ## [Any tips for a beginner?](https://old.reddit.com/r/ChineseLanguage/comments/1u9rkyf/any_tips_for_a_beginner/)
@@ -128,10 +121,17 @@ Generated: 2026-06-24T11:34:36.940Z
 - created: 2026-06-05T05:28:45.000Z
 - matched query: "learn chinese" app
 
+## [need help i am in taiwan and interested in learning traditional mandarin](https://old.reddit.com/r/ChineseLanguage/comments/1udeuav/need_help_i_am_in_taiwan_and_interested_in/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 6
+- created: 2026-06-23T11:44:30.000Z
+- matched query: resource
+
 ## [Complete beginner (0 knowledge) looking for a roadmap to become fluent in Mandarin Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1ucjftb/complete_beginner_0_knowledge_looking_for_a/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 26
+- comments: 27
 - created: 2026-06-22T12:38:35.000Z
 - matched query: resource
 

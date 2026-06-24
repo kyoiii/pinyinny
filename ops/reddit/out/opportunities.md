@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-24T01:33:50.556Z
+Generated: 2026-06-24T05:48:30.653Z
 
 ## [Is this App good for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1udyxxp/is_this_app_good_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 3
+- comments: 5
 - created: 2026-06-24T00:51:58.000Z
 - matched query: "learn chinese" app
 
@@ -29,6 +29,13 @@ Generated: 2026-06-24T01:33:50.556Z
 - comments: 3
 - created: 2026-06-19T04:24:57.000Z
 - matched query: app OR website pinyin hanzi
+
+## [Learn Chinese through History & Artifacts](https://old.reddit.com/r/ChineseLanguage/comments/1ue1huw/learn_chinese_through_history_artifacts/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 0
+- created: 2026-06-24T02:51:36.000Z
+- matched query: "learn chinese" app
 
 ## [I'm looking to learn Chinese calligraphy!](https://old.reddit.com/r/ChineseLanguage/comments/1udu3jg/im_looking_to_learn_chinese_calligraphy/)
 - subreddit: r/ChineseLanguage
@@ -75,7 +82,7 @@ Generated: 2026-06-24T01:33:50.556Z
 ## [need help i am in taiwan and interested in learning traditional mandarin](https://old.reddit.com/r/ChineseLanguage/comments/1udeuav/need_help_i_am_in_taiwan_and_interested_in/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 3
+- comments: 4
 - created: 2026-06-23T11:44:30.000Z
 - matched query: resource
 
@@ -92,13 +99,6 @@ Generated: 2026-06-24T01:33:50.556Z
 - comments: 14
 - created: 2026-06-17T23:13:42.000Z
 - matched query: resource
-
-## [How do I get proper guide for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1u7zmd8/how_do_i_get_proper_guide_for_learning_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 19
-- created: 2026-06-17T04:02:17.000Z
-- matched query: "learn chinese" app
 
 ## [Srs flashcards and Immersion](https://old.reddit.com/r/ChineseLanguage/comments/1u1z27m/srs_flashcards_and_immersion/)
 - subreddit: r/ChineseLanguage

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-25T00:19:02.186Z
+Generated: 2026-06-25T04:39:01.539Z
 
 ## [I built a Pinyin-only Mandarin app for people who want to learn to speak mandarin without learning Chinese characters. Help me to beta test it in exchange for a free lifetime subscription!](https://old.reddit.com/r/ChineseLanguage/comments/1ueedmd/i_built_a_pinyinonly_mandarin_app_for_people_who/)
 - subreddit: r/ChineseLanguage
@@ -11,7 +11,7 @@ Generated: 2026-06-25T00:19:02.186Z
 
 ## [Is this App good for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1udyxxp/is_this_app_good_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
-- score: 9
+- score: 8
 - comments: 11
 - created: 2026-06-24T00:51:58.000Z
 - matched query: "learn chinese" app
@@ -26,7 +26,7 @@ Generated: 2026-06-25T00:19:02.186Z
 ## [I am new to learning chinese. I want an advice. What is the best app where I can learn chinese for free and how can I learn the fastest. My goal is hsk3 by the end of the summer. Any advice helps.](https://old.reddit.com/r/ChineseLanguage/comments/1uemrij/i_am_new_to_learning_chinese_i_want_an_advice/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 13
+- comments: 14
 - created: 2026-06-24T19:07:34.000Z
 - matched query: "learn chinese" app
 
@@ -70,13 +70,6 @@ Generated: 2026-06-25T00:19:02.186Z
 - score: 5
 - comments: 12
 - created: 2026-06-24T06:46:57.000Z
-- matched query: "learn chinese" app
-
-## [Learn Chinese through History & Artifacts](https://old.reddit.com/r/ChineseLanguage/comments/1ue1huw/learn_chinese_through_history_artifacts/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 1
-- created: 2026-06-24T02:51:36.000Z
 - matched query: "learn chinese" app
 
 ## [Where to learn spoken Old Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1uc4784/where_to_learn_spoken_old_chinese/)
@@ -124,9 +117,16 @@ Generated: 2026-06-25T00:19:02.186Z
 ## [need help i am in taiwan and interested in learning traditional mandarin](https://old.reddit.com/r/ChineseLanguage/comments/1udeuav/need_help_i_am_in_taiwan_and_interested_in/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 6
+- comments: 14
 - created: 2026-06-23T11:44:30.000Z
 - matched query: resource
+
+## [Chinese friends](https://old.reddit.com/r/ChineseLanguage/comments/1ud4v0l/chinese_friends/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 1
+- created: 2026-06-23T02:38:51.000Z
+- matched query: "learn chinese" app
 
 ## [Complete beginner (0 knowledge) looking for a roadmap to become fluent in Mandarin Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1ucjftb/complete_beginner_0_knowledge_looking_for_a/)
 - subreddit: r/ChineseLanguage

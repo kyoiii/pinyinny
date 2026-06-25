@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-25T10:52:24.839Z
+Generated: 2026-06-25T13:13:19.298Z
 
 ## [Resources for learning Mandarin with my toddler (2yo)? Looking for apps/books/websites for absolute beginners + kids.](https://old.reddit.com/r/ChineseLanguage/comments/1uf0578/resources_for_learning_mandarin_with_my_toddler/)
 - subreddit: r/ChineseLanguage
@@ -33,7 +33,7 @@ Generated: 2026-06-25T10:52:24.839Z
 ## [I am new to learning chinese. I want an advice. What is the best app where I can learn chinese for free and how can I learn the fastest. My goal is hsk3 by the end of the summer. Any advice helps.](https://old.reddit.com/r/ChineseLanguage/comments/1uemrij/i_am_new_to_learning_chinese_i_want_an_advice/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 19
+- comments: 27
 - created: 2026-06-24T19:07:34.000Z
 - matched query: "learn chinese" app
 
@@ -103,7 +103,7 @@ Generated: 2026-06-25T10:52:24.839Z
 ## [I am donghua lover and I am tired of reading subtitles. That's why I want to learn Chinese. Please guide me](https://old.reddit.com/r/ChineseLanguage/comments/1ue5zmy/i_am_donghua_lover_and_i_am_tired_of_reading/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 14
+- comments: 15
 - created: 2026-06-24T06:46:57.000Z
 - matched query: "learn chinese" app
 
@@ -135,10 +135,10 @@ Generated: 2026-06-25T10:52:24.839Z
 - created: 2026-06-23T02:38:51.000Z
 - matched query: "learn chinese" app
 
-## [Complete beginner (0 knowledge) looking for a roadmap to become fluent in Mandarin Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1ucjftb/complete_beginner_0_knowledge_looking_for_a/)
+## [ChineseSkill releases a free early-release Hong Kong Cantonese course and we’d love learner feedback](https://old.reddit.com/r/ChineseLanguage/comments/1u9d8i6/chineseskill_releases_a_free_earlyrelease_hong/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 27
-- created: 2026-06-22T12:38:35.000Z
+- comments: 0
+- created: 2026-06-18T17:50:51.000Z
 - matched query: resource
 

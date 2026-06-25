@@ -1,6 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-25T04:39:01.539Z
+Generated: 2026-06-25T08:04:35.927Z
+
+## [Resources for learning Mandarin with my toddler (2yo)? Looking for apps/books/websites for absolute beginners + kids.](https://old.reddit.com/r/ChineseLanguage/comments/1uf0578/resources_for_learning_mandarin_with_my_toddler/)
+- subreddit: r/ChineseLanguage
+- score: 13
+- comments: 2
+- created: 2026-06-25T04:39:08.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [I built a Pinyin-only Mandarin app for people who want to learn to speak mandarin without learning Chinese characters. Help me to beta test it in exchange for a free lifetime subscription!](https://old.reddit.com/r/ChineseLanguage/comments/1ueedmd/i_built_a_pinyinonly_mandarin_app_for_people_who/)
 - subreddit: r/ChineseLanguage
@@ -26,7 +33,7 @@ Generated: 2026-06-25T04:39:01.539Z
 ## [I am new to learning chinese. I want an advice. What is the best app where I can learn chinese for free and how can I learn the fastest. My goal is hsk3 by the end of the summer. Any advice helps.](https://old.reddit.com/r/ChineseLanguage/comments/1uemrij/i_am_new_to_learning_chinese_i_want_an_advice/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 14
+- comments: 19
 - created: 2026-06-24T19:07:34.000Z
 - matched query: "learn chinese" app
 
@@ -65,13 +72,6 @@ Generated: 2026-06-25T04:39:01.539Z
 - created: 2026-06-24T17:13:50.000Z
 - matched query: resource
 
-## [I am donghua lover and I am tired of reading subtitles. That's why I want to learn Chinese. Please guide me](https://old.reddit.com/r/ChineseLanguage/comments/1ue5zmy/i_am_donghua_lover_and_i_am_tired_of_reading/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 12
-- created: 2026-06-24T06:46:57.000Z
-- matched query: "learn chinese" app
-
 ## [Where to learn spoken Old Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1uc4784/where_to_learn_spoken_old_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -100,6 +100,13 @@ Generated: 2026-06-25T04:39:01.539Z
 - created: 2026-06-05T05:28:45.000Z
 - matched query: "learn chinese" app
 
+## [I am donghua lover and I am tired of reading subtitles. That's why I want to learn Chinese. Please guide me](https://old.reddit.com/r/ChineseLanguage/comments/1ue5zmy/i_am_donghua_lover_and_i_am_tired_of_reading/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 12
+- created: 2026-06-24T06:46:57.000Z
+- matched query: "learn chinese" app
+
 ## [I'm looking to learn Chinese calligraphy!](https://old.reddit.com/r/ChineseLanguage/comments/1udu3jg/im_looking_to_learn_chinese_calligraphy/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -117,14 +124,14 @@ Generated: 2026-06-25T04:39:01.539Z
 ## [need help i am in taiwan and interested in learning traditional mandarin](https://old.reddit.com/r/ChineseLanguage/comments/1udeuav/need_help_i_am_in_taiwan_and_interested_in/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 14
+- comments: 18
 - created: 2026-06-23T11:44:30.000Z
 - matched query: resource
 
 ## [Chinese friends](https://old.reddit.com/r/ChineseLanguage/comments/1ud4v0l/chinese_friends/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 1
+- comments: 2
 - created: 2026-06-23T02:38:51.000Z
 - matched query: "learn chinese" app
 
@@ -133,12 +140,5 @@ Generated: 2026-06-25T04:39:01.539Z
 - score: 4
 - comments: 27
 - created: 2026-06-22T12:38:35.000Z
-- matched query: resource
-
-## [ChineseSkill releases a free early-release Hong Kong Cantonese course and we’d love learner feedback](https://old.reddit.com/r/ChineseLanguage/comments/1u9d8i6/chineseskill_releases_a_free_earlyrelease_hong/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 0
-- created: 2026-06-18T17:50:51.000Z
 - matched query: resource
 

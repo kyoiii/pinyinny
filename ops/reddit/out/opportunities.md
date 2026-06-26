@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-26T09:30:04.525Z
+Generated: 2026-06-26T12:00:06.257Z
 
 ## [Resources for learning Mandarin with my toddler (2yo)? Looking for apps/books/websites for absolute beginners + kids.](https://old.reddit.com/r/ChineseLanguage/comments/1uf0578/resources_for_learning_mandarin_with_my_toddler/)
 - subreddit: r/ChineseLanguage
@@ -68,7 +68,7 @@ Generated: 2026-06-26T09:30:04.525Z
 ## [HelloChinese looking for alternatives](https://old.reddit.com/r/ChineseLanguage/comments/1ufkazy/hellochinese_looking_for_alternatives/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 17
+- comments: 18
 - created: 2026-06-25T19:41:04.000Z
 - matched query: resource
 
@@ -103,7 +103,7 @@ Generated: 2026-06-26T09:30:04.525Z
 ## [Need to learn Chinese!!](https://old.reddit.com/r/ChineseLanguage/comments/1uejlpw/need_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 13
+- comments: 15
 - created: 2026-06-24T17:13:50.000Z
 - matched query: resource
 
@@ -128,17 +128,17 @@ Generated: 2026-06-26T09:30:04.525Z
 - created: 2026-06-23T20:18:24.000Z
 - matched query: resource
 
-## [need help i am in taiwan and interested in learning traditional mandarin](https://old.reddit.com/r/ChineseLanguage/comments/1udeuav/need_help_i_am_in_taiwan_and_interested_in/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 18
-- created: 2026-06-23T11:44:30.000Z
-- matched query: resource
-
 ## [Any tips for a beginner?](https://old.reddit.com/r/ChineseLanguage/comments/1u9rkyf/any_tips_for_a_beginner/)
 - subreddit: r/ChineseLanguage
 - score: 4
 - comments: 6
 - created: 2026-06-19T04:02:44.000Z
 - matched query: flashcard app
+
+## [How do I get proper guide for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1u7zmd8/how_do_i_get_proper_guide_for_learning_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 19
+- created: 2026-06-17T04:02:17.000Z
+- matched query: "learn chinese" app
 

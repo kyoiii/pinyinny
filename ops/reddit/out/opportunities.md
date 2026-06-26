@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-26T18:29:16.189Z
+Generated: 2026-06-26T20:21:10.747Z
 
 ## [Resources for learning Mandarin with my toddler (2yo)? Looking for apps/books/websites for absolute beginners + kids.](https://old.reddit.com/r/ChineseLanguage/comments/1uf0578/resources_for_learning_mandarin_with_my_toddler/)
 - subreddit: r/ChineseLanguage
@@ -65,13 +65,6 @@ Generated: 2026-06-26T18:29:16.189Z
 - created: 2026-05-28T10:02:37.000Z
 - matched query: "learn chinese" app
 
-## [HelloChinese looking for alternatives](https://old.reddit.com/r/ChineseLanguage/comments/1ufkazy/hellochinese_looking_for_alternatives/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 23
-- created: 2026-06-25T19:41:04.000Z
-- matched query: resource
-
 ## [Where to learn spoken Old Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1uc4784/where_to_learn_spoken_old_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -92,6 +85,13 @@ Generated: 2026-06-26T18:29:16.189Z
 - comments: 0
 - created: 2026-06-05T05:28:45.000Z
 - matched query: "learn chinese" app
+
+## [HelloChinese looking for alternatives](https://old.reddit.com/r/ChineseLanguage/comments/1ufkazy/hellochinese_looking_for_alternatives/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 23
+- created: 2026-06-25T19:41:04.000Z
+- matched query: resource
 
 ## [I am new to learning chinese. I want an advice. What is the best app where I can learn chinese for free and how can I learn the fastest. My goal is hsk3 by the end of the summer. Any advice helps.](https://old.reddit.com/r/ChineseLanguage/comments/1uemrij/i_am_new_to_learning_chinese_i_want_an_advice/)
 - subreddit: r/ChineseLanguage
@@ -121,13 +121,6 @@ Generated: 2026-06-26T18:29:16.189Z
 - created: 2026-06-23T21:27:57.000Z
 - matched query: resource
 
-## [Acquiring vocab](https://old.reddit.com/r/ChineseLanguage/comments/1udsa11/acquiring_vocab/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 7
-- created: 2026-06-23T20:18:24.000Z
-- matched query: resource
-
 ## [Any tips for a beginner?](https://old.reddit.com/r/ChineseLanguage/comments/1u9rkyf/any_tips_for_a_beginner/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -140,5 +133,12 @@ Generated: 2026-06-26T18:29:16.189Z
 - score: 4
 - comments: 19
 - created: 2026-06-17T04:02:17.000Z
+- matched query: "learn chinese" app
+
+## [Best app for learning chinese characters](https://old.reddit.com/r/ChineseLanguage/comments/1u6e1kn/best_app_for_learning_chinese_characters/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 21
+- created: 2026-06-15T11:36:39.000Z
 - matched query: "learn chinese" app
 

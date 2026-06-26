@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-26T20:21:10.747Z
+Generated: 2026-06-26T21:46:11.753Z
 
 ## [Resources for learning Mandarin with my toddler (2yo)? Looking for apps/books/websites for absolute beginners + kids.](https://old.reddit.com/r/ChineseLanguage/comments/1uf0578/resources_for_learning_mandarin_with_my_toddler/)
 - subreddit: r/ChineseLanguage
@@ -32,7 +32,7 @@ Generated: 2026-06-26T20:21:10.747Z
 
 ## [Resources for Fuzhou dialect 福州话](https://old.reddit.com/r/ChineseLanguage/comments/1uflppf/resources_for_fuzhou_dialect_福州话/)
 - subreddit: r/ChineseLanguage
-- score: 7
+- score: 6
 - comments: 1
 - created: 2026-06-25T20:33:44.000Z
 - matched query: resource
@@ -103,7 +103,7 @@ Generated: 2026-06-26T20:21:10.747Z
 ## [Need to learn Chinese!!](https://old.reddit.com/r/ChineseLanguage/comments/1uejlpw/need_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 15
+- comments: 16
 - created: 2026-06-24T17:13:50.000Z
 - matched query: resource
 
@@ -113,13 +113,6 @@ Generated: 2026-06-26T20:21:10.747Z
 - comments: 15
 - created: 2026-06-24T06:46:57.000Z
 - matched query: "learn chinese" app
-
-## [I'm looking to learn Chinese calligraphy!](https://old.reddit.com/r/ChineseLanguage/comments/1udu3jg/im_looking_to_learn_chinese_calligraphy/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 3
-- created: 2026-06-23T21:27:57.000Z
-- matched query: resource
 
 ## [Any tips for a beginner?](https://old.reddit.com/r/ChineseLanguage/comments/1u9rkyf/any_tips_for_a_beginner/)
 - subreddit: r/ChineseLanguage
@@ -140,5 +133,12 @@ Generated: 2026-06-26T20:21:10.747Z
 - score: 4
 - comments: 21
 - created: 2026-06-15T11:36:39.000Z
+- matched query: "learn chinese" app
+
+## [What’s your setup for passive + active Chinese listening at beginner/intermediate level?](https://old.reddit.com/r/ChineseLanguage/comments/1u13u23/whats_your_setup_for_passive_active_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 8
+- created: 2026-06-09T12:40:15.000Z
 - matched query: "learn chinese" app
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-26T14:42:49.669Z
+Generated: 2026-06-26T16:52:58.304Z
 
 ## [Resources for learning Mandarin with my toddler (2yo)? Looking for apps/books/websites for absolute beginners + kids.](https://old.reddit.com/r/ChineseLanguage/comments/1uf0578/resources_for_learning_mandarin_with_my_toddler/)
 - subreddit: r/ChineseLanguage
@@ -68,7 +68,7 @@ Generated: 2026-06-26T14:42:49.669Z
 ## [HelloChinese looking for alternatives](https://old.reddit.com/r/ChineseLanguage/comments/1ufkazy/hellochinese_looking_for_alternatives/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 21
+- comments: 23
 - created: 2026-06-25T19:41:04.000Z
 - matched query: resource
 
@@ -131,7 +131,7 @@ Generated: 2026-06-26T14:42:49.669Z
 ## [Any tips for a beginner?](https://old.reddit.com/r/ChineseLanguage/comments/1u9rkyf/any_tips_for_a_beginner/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 6
+- comments: 7
 - created: 2026-06-19T04:02:44.000Z
 - matched query: flashcard app
 

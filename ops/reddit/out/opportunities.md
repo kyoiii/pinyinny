@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-27T22:45:24.273Z
+Generated: 2026-06-27T23:45:50.907Z
 
 ## [Resources for learning Mandarin with my toddler (2yo)? Looking for apps/books/websites for absolute beginners + kids.](https://old.reddit.com/r/ChineseLanguage/comments/1uf0578/resources_for_learning_mandarin_with_my_toddler/)
 - subreddit: r/ChineseLanguage
@@ -9,19 +9,19 @@ Generated: 2026-06-27T22:45:24.273Z
 - created: 2026-06-25T04:39:08.000Z
 - matched query: app OR website pinyin hanzi
 
-## [Advanced Chinese learners: when did you realize textbook Chinese wasn't enough anymore?](https://old.reddit.com/r/ChineseLanguage/comments/1uhg1au/advanced_chinese_learners_when_did_you_realize/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 0
-- created: 2026-06-27T22:33:39.000Z
-- matched query: resource
-
 ## [What resources do you recommend?](https://old.reddit.com/r/ChineseLanguage/comments/1tplbf6/what_resources_do_you_recommend/)
 - subreddit: r/ChineseLanguage
 - score: 8
 - comments: 6
 - created: 2026-05-27T22:47:55.000Z
 - matched query: flashcard app
+
+## [Advanced Chinese learners: when did you realize textbook Chinese wasn't enough anymore?](https://old.reddit.com/r/ChineseLanguage/comments/1uhg1au/advanced_chinese_learners_when_did_you_realize/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 7
+- created: 2026-06-27T22:33:39.000Z
+- matched query: resource
 
 ## [I'm having to spend several hours everyday listening to Chinese. How can I use this to learn the language properly?](https://old.reddit.com/r/ChineseLanguage/comments/1uh0cum/im_having_to_spend_several_hours_everyday/)
 - subreddit: r/ChineseLanguage

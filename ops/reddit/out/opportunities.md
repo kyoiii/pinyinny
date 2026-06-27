@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-27T16:49:27.340Z
+Generated: 2026-06-27T17:52:58.627Z
 
 ## [Resources for learning Mandarin with my toddler (2yo)? Looking for apps/books/websites for absolute beginners + kids.](https://old.reddit.com/r/ChineseLanguage/comments/1uf0578/resources_for_learning_mandarin_with_my_toddler/)
 - subreddit: r/ChineseLanguage
@@ -114,13 +114,6 @@ Generated: 2026-06-27T16:49:27.340Z
 - created: 2026-06-24T19:07:34.000Z
 - matched query: "learn chinese" app
 
-## [Need to learn Chinese!!](https://old.reddit.com/r/ChineseLanguage/comments/1uejlpw/need_to_learn_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 16
-- created: 2026-06-24T17:13:50.000Z
-- matched query: resource
-
 ## [Any tips for a beginner?](https://old.reddit.com/r/ChineseLanguage/comments/1u9rkyf/any_tips_for_a_beginner/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -140,5 +133,12 @@ Generated: 2026-06-27T16:49:27.340Z
 - score: 4
 - comments: 21
 - created: 2026-06-15T11:36:39.000Z
+- matched query: "learn chinese" app
+
+## [What’s your setup for passive + active Chinese listening at beginner/intermediate level?](https://old.reddit.com/r/ChineseLanguage/comments/1u13u23/whats_your_setup_for_passive_active_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 8
+- created: 2026-06-09T12:40:15.000Z
 - matched query: "learn chinese" app
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-27T00:12:19.372Z
+Generated: 2026-06-27T04:18:31.503Z
 
 ## [Resources for learning Mandarin with my toddler (2yo)? Looking for apps/books/websites for absolute beginners + kids.](https://old.reddit.com/r/ChineseLanguage/comments/1uf0578/resources_for_learning_mandarin_with_my_toddler/)
 - subreddit: r/ChineseLanguage
@@ -16,19 +16,19 @@ Generated: 2026-06-27T00:12:19.372Z
 - created: 2026-06-24T14:01:41.000Z
 - matched query: app OR website pinyin hanzi
 
-## [Is this App good for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1udyxxp/is_this_app_good_for_learning_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 11
-- created: 2026-06-24T00:51:58.000Z
-- matched query: "learn chinese" app
-
 ## [What resources do you recommend?](https://old.reddit.com/r/ChineseLanguage/comments/1tplbf6/what_resources_do_you_recommend/)
 - subreddit: r/ChineseLanguage
 - score: 8
 - comments: 6
 - created: 2026-05-27T22:47:55.000Z
 - matched query: flashcard app
+
+## [Is this App good for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1udyxxp/is_this_app_good_for_learning_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 11
+- created: 2026-06-24T00:51:58.000Z
+- matched query: "learn chinese" app
 
 ## [Resources for Fuzhou dialect 福州话](https://old.reddit.com/r/ChineseLanguage/comments/1uflppf/resources_for_fuzhou_dialect_福州话/)
 - subreddit: r/ChineseLanguage

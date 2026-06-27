@@ -1,19 +1,12 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-27T12:46:53.198Z
+Generated: 2026-06-27T14:19:33.687Z
 
 ## [Resources for learning Mandarin with my toddler (2yo)? Looking for apps/books/websites for absolute beginners + kids.](https://old.reddit.com/r/ChineseLanguage/comments/1uf0578/resources_for_learning_mandarin_with_my_toddler/)
 - subreddit: r/ChineseLanguage
 - score: 12
 - comments: 2
 - created: 2026-06-25T04:39:08.000Z
-- matched query: app OR website pinyin hanzi
-
-## [I built a Pinyin-only Mandarin app for people who want to learn to speak mandarin without learning Chinese characters. Help me to beta test it in exchange for a free lifetime subscription!](https://old.reddit.com/r/ChineseLanguage/comments/1ueedmd/i_built_a_pinyinonly_mandarin_app_for_people_who/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 16
-- created: 2026-06-24T14:01:41.000Z
 - matched query: app OR website pinyin hanzi
 
 ## [What resources do you recommend?](https://old.reddit.com/r/ChineseLanguage/comments/1tplbf6/what_resources_do_you_recommend/)
@@ -26,9 +19,16 @@ Generated: 2026-06-27T12:46:53.198Z
 ## [I'm having to spend several hours everyday listening to Chinese. How can I use this to learn the language properly?](https://old.reddit.com/r/ChineseLanguage/comments/1uh0cum/im_having_to_spend_several_hours_everyday/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 3
+- comments: 4
 - created: 2026-06-27T11:29:36.000Z
 - matched query: resource
+
+## [I built a Pinyin-only Mandarin app for people who want to learn to speak mandarin without learning Chinese characters. Help me to beta test it in exchange for a free lifetime subscription!](https://old.reddit.com/r/ChineseLanguage/comments/1ueedmd/i_built_a_pinyinonly_mandarin_app_for_people_who/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 16
+- created: 2026-06-24T14:01:41.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [Is this App good for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1udyxxp/is_this_app_good_for_learning_chinese/)
 - subreddit: r/ChineseLanguage

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-27T04:18:31.503Z
+Generated: 2026-06-27T07:30:58.322Z
 
 ## [Resources for learning Mandarin with my toddler (2yo)? Looking for apps/books/websites for absolute beginners + kids.](https://old.reddit.com/r/ChineseLanguage/comments/1uf0578/resources_for_learning_mandarin_with_my_toddler/)
 - subreddit: r/ChineseLanguage
@@ -107,13 +107,6 @@ Generated: 2026-06-27T04:18:31.503Z
 - created: 2026-06-24T17:13:50.000Z
 - matched query: resource
 
-## [I am donghua lover and I am tired of reading subtitles. That's why I want to learn Chinese. Please guide me](https://old.reddit.com/r/ChineseLanguage/comments/1ue5zmy/i_am_donghua_lover_and_i_am_tired_of_reading/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 15
-- created: 2026-06-24T06:46:57.000Z
-- matched query: "learn chinese" app
-
 ## [Any tips for a beginner?](https://old.reddit.com/r/ChineseLanguage/comments/1u9rkyf/any_tips_for_a_beginner/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -140,5 +133,12 @@ Generated: 2026-06-27T04:18:31.503Z
 - score: 4
 - comments: 8
 - created: 2026-06-09T12:40:15.000Z
+- matched query: "learn chinese" app
+
+## [Looking for learning advice as someone with few resources.](https://old.reddit.com/r/ChineseLanguage/comments/1txl1nk/looking_for_learning_advice_as_someone_with_few/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 5
+- created: 2026-06-05T13:30:09.000Z
 - matched query: "learn chinese" app
 

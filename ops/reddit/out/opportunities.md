@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-29T16:08:16.279Z
+Generated: 2026-06-29T18:22:51.250Z
 
 ## [Resources for learning Mandarin with my toddler (2yo)? Looking for apps/books/websites for absolute beginners + kids.](https://old.reddit.com/r/ChineseLanguage/comments/1uf0578/resources_for_learning_mandarin_with_my_toddler/)
 - subreddit: r/ChineseLanguage
@@ -12,7 +12,7 @@ Generated: 2026-06-29T16:08:16.279Z
 ## [Is the Du Chinese app worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1uiwlud/is_the_du_chinese_app_worth_it/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 2
+- comments: 17
 - created: 2026-06-29T16:01:14.000Z
 - matched query: "learn chinese" app
 

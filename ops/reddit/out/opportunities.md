@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-29T01:57:12.488Z
+Generated: 2026-06-29T06:59:19.410Z
 
 ## [Resources for learning Mandarin with my toddler (2yo)? Looking for apps/books/websites for absolute beginners + kids.](https://old.reddit.com/r/ChineseLanguage/comments/1uf0578/resources_for_learning_mandarin_with_my_toddler/)
 - subreddit: r/ChineseLanguage
@@ -26,7 +26,7 @@ Generated: 2026-06-29T01:57:12.488Z
 ## [I'm having to spend several hours everyday listening to Chinese. How can I use this to learn the language properly?](https://old.reddit.com/r/ChineseLanguage/comments/1uh0cum/im_having_to_spend_several_hours_everyday/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 8
+- comments: 9
 - created: 2026-06-27T11:29:36.000Z
 - matched query: resource
 
@@ -89,7 +89,7 @@ Generated: 2026-06-29T01:57:12.488Z
 ## [Advanced Chinese learners: when did you realize textbook Chinese wasn't enough anymore?](https://old.reddit.com/r/ChineseLanguage/comments/1uhg1au/advanced_chinese_learners_when_did_you_realize/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 41
+- comments: 44
 - created: 2026-06-27T22:33:39.000Z
 - matched query: resource
 

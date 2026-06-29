@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-29T12:05:29.317Z
+Generated: 2026-06-29T16:08:16.279Z
 
 ## [Resources for learning Mandarin with my toddler (2yo)? Looking for apps/books/websites for absolute beginners + kids.](https://old.reddit.com/r/ChineseLanguage/comments/1uf0578/resources_for_learning_mandarin_with_my_toddler/)
 - subreddit: r/ChineseLanguage
@@ -8,6 +8,20 @@ Generated: 2026-06-29T12:05:29.317Z
 - comments: 2
 - created: 2026-06-25T04:39:08.000Z
 - matched query: app OR website pinyin hanzi
+
+## [Is the Du Chinese app worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1uiwlud/is_the_du_chinese_app_worth_it/)
+- subreddit: r/ChineseLanguage
+- score: 9
+- comments: 2
+- created: 2026-06-29T16:01:14.000Z
+- matched query: "learn chinese" app
+
+## [Non-ai app for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1uiu7xl/nonai_app_for_learning_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 9
+- comments: 3
+- created: 2026-06-29T14:34:18.000Z
+- matched query: "learn chinese" app
 
 ## [I built a Pinyin-only Mandarin app for people who want to learn to speak mandarin without learning Chinese characters. Help me to beta test it in exchange for a free lifetime subscription!](https://old.reddit.com/r/ChineseLanguage/comments/1ueedmd/i_built_a_pinyinonly_mandarin_app_for_people_who/)
 - subreddit: r/ChineseLanguage
@@ -51,13 +65,6 @@ Generated: 2026-06-29T12:05:29.317Z
 - created: 2026-06-04T08:42:22.000Z
 - matched query: "learn chinese" app
 
-## [Looking for (Italian) communities to study for HSK2](https://old.reddit.com/r/ChineseLanguage/comments/1uhxkaj/looking_for_italian_communities_to_study_for_hsk2/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 12
-- created: 2026-06-28T13:39:23.000Z
-- matched query: resource
-
 ## [Learning Chinese feedback](https://old.reddit.com/r/ChineseLanguage/comments/1uh172h/learning_chinese_feedback/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -86,10 +93,17 @@ Generated: 2026-06-29T12:05:29.317Z
 - created: 2026-06-05T05:28:45.000Z
 - matched query: "learn chinese" app
 
+## [Looking for (Italian) communities to study for HSK2](https://old.reddit.com/r/ChineseLanguage/comments/1uhxkaj/looking_for_italian_communities_to_study_for_hsk2/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 12
+- created: 2026-06-28T13:39:23.000Z
+- matched query: resource
+
 ## [Advanced Chinese learners: when did you realize textbook Chinese wasn't enough anymore?](https://old.reddit.com/r/ChineseLanguage/comments/1uhg1au/advanced_chinese_learners_when_did_you_realize/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 44
+- comments: 46
 - created: 2026-06-27T22:33:39.000Z
 - matched query: resource
 
@@ -126,12 +140,5 @@ Generated: 2026-06-29T12:05:29.317Z
 - score: 4
 - comments: 5
 - created: 2026-06-05T13:30:09.000Z
-- matched query: "learn chinese" app
-
-## [Recommended Courses for toddlers and parents](https://old.reddit.com/r/ChineseLanguage/comments/1tu6bpj/recommended_courses_for_toddlers_and_parents/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 4
-- created: 2026-06-01T21:25:01.000Z
 - matched query: "learn chinese" app
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-06-30T01:53:47.404Z
+Generated: 2026-06-30T06:11:02.297Z
 
 ## [Resources for learning Mandarin with my toddler (2yo)? Looking for apps/books/websites for absolute beginners + kids.](https://old.reddit.com/r/ChineseLanguage/comments/1uf0578/resources_for_learning_mandarin_with_my_toddler/)
 - subreddit: r/ChineseLanguage
@@ -19,7 +19,7 @@ Generated: 2026-06-30T01:53:47.404Z
 ## [Non-ai app for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1uiu7xl/nonai_app_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 23
+- comments: 27
 - created: 2026-06-29T14:34:18.000Z
 - matched query: "learn chinese" app
 

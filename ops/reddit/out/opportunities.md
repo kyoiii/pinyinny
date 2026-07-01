@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-01T10:35:01.733Z
+Generated: 2026-07-01T13:22:02.404Z
 
 ## [Resources for learning Mandarin with my toddler (2yo)? Looking for apps/books/websites for absolute beginners + kids.](https://old.reddit.com/r/ChineseLanguage/comments/1uf0578/resources_for_learning_mandarin_with_my_toddler/)
 - subreddit: r/ChineseLanguage
@@ -22,6 +22,13 @@ Generated: 2026-07-01T10:35:01.733Z
 - comments: 16
 - created: 2026-06-24T14:01:41.000Z
 - matched query: app OR website pinyin hanzi
+
+## [I will made a telegram group for learning chinese (mandarin|)](https://old.reddit.com/r/ChineseLanguage/comments/1uklfln/i_will_made_a_telegram_group_for_learning_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 0
+- created: 2026-07-01T13:16:21.000Z
+- matched query: resource
 
 ## [Is the Du Chinese app worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1uiwlud/is_the_du_chinese_app_worth_it/)
 - subreddit: r/ChineseLanguage
@@ -61,7 +68,7 @@ Generated: 2026-07-01T10:35:01.733Z
 ## [Looking for fun way to learn Chinese!](https://old.reddit.com/r/ChineseLanguage/comments/1ukhgyn/looking_for_fun_way_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 3
+- comments: 10
 - created: 2026-07-01T10:06:48.000Z
 - matched query: "learn chinese" app
 
@@ -133,12 +140,5 @@ Generated: 2026-07-01T10:35:01.733Z
 - score: 4
 - comments: 8
 - created: 2026-06-09T12:40:15.000Z
-- matched query: "learn chinese" app
-
-## [Looking for learning advice as someone with few resources.](https://old.reddit.com/r/ChineseLanguage/comments/1txl1nk/looking_for_learning_advice_as_someone_with_few/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 5
-- created: 2026-06-05T13:30:09.000Z
 - matched query: "learn chinese" app
 

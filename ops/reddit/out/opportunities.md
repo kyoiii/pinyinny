@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-01T02:04:03.110Z
+Generated: 2026-07-01T06:43:30.795Z
 
 ## [Resources for learning Mandarin with my toddler (2yo)? Looking for apps/books/websites for absolute beginners + kids.](https://old.reddit.com/r/ChineseLanguage/comments/1uf0578/resources_for_learning_mandarin_with_my_toddler/)
 - subreddit: r/ChineseLanguage
@@ -89,7 +89,7 @@ Generated: 2026-07-01T02:04:03.110Z
 ## [Looking for (Italian) communities to study for HSK2](https://old.reddit.com/r/ChineseLanguage/comments/1uhxkaj/looking_for_italian_communities_to_study_for_hsk2/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 13
+- comments: 14
 - created: 2026-06-28T13:39:23.000Z
 - matched query: resource
 

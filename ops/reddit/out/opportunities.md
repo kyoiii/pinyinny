@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-02T22:43:41.323Z
+Generated: 2026-07-02T23:47:47.521Z
 
 ## [What's the trusted online resource for dictionary and to check for Pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1uljpmm/whats_the_trusted_online_resource_for_dictionary/)
 - subreddit: r/ChineseLanguage
 - score: 11
-- comments: 6
+- comments: 8
 - created: 2026-07-02T14:23:28.000Z
 - matched query: resource
 
@@ -18,7 +18,7 @@ Generated: 2026-07-02T22:43:41.323Z
 
 ## [Hanzi apps](https://old.reddit.com/r/ChineseLanguage/comments/1ul22mi/hanzi_apps/)
 - subreddit: r/ChineseLanguage
-- score: 9
+- score: 8
 - comments: 3
 - created: 2026-07-01T23:47:20.000Z
 - matched query: resource

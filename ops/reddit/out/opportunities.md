@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-05T17:21:42.065Z
+Generated: 2026-07-05T18:35:27.007Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -35,13 +35,6 @@ Generated: 2026-07-05T17:21:42.065Z
 - score: 7
 - comments: 30
 - created: 2026-06-29T14:34:18.000Z
-- matched query: "learn chinese" app
-
-## [FAM I NEED HELP FROM DA REAL CHINESE LEARNERS](https://old.reddit.com/r/ChineseLanguage/comments/1uo43v2/fam_i_need_help_from_da_real_chinese_learners/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-07-05T14:50:23.000Z
 - matched query: "learn chinese" app
 
 ## [Resources and strategies to improve understanding](https://old.reddit.com/r/ChineseLanguage/comments/1un35pw/resources_and_strategies_to_improve_understanding/)
@@ -84,6 +77,13 @@ Generated: 2026-07-05T17:21:42.065Z
 - score: 6
 - comments: 7
 - created: 2026-06-04T08:42:22.000Z
+- matched query: "learn chinese" app
+
+## [FAM I NEED HELP FROM DA REAL CHINESE LEARNERS](https://old.reddit.com/r/ChineseLanguage/comments/1uo43v2/fam_i_need_help_from_da_real_chinese_learners/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 1
+- created: 2026-07-05T14:50:23.000Z
 - matched query: "learn chinese" app
 
 ## [Is the Du Chinese app worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1uiwlud/is_the_du_chinese_app_worth_it/)

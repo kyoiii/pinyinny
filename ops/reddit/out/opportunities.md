@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-07T05:10:33.620Z
+Generated: 2026-07-07T08:44:06.153Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -28,13 +28,6 @@ Generated: 2026-07-07T05:10:33.620Z
 - score: 7
 - comments: 4
 - created: 2026-07-01T23:47:20.000Z
-- matched query: resource
-
-## [Resources and strategies to improve understanding](https://old.reddit.com/r/ChineseLanguage/comments/1un35pw/resources_and_strategies_to_improve_understanding/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 4
-- created: 2026-07-04T07:57:56.000Z
 - matched query: resource
 
 ## [Non-ai app for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1uiu7xl/nonai_app_for_learning_chinese/)
@@ -71,6 +64,13 @@ Generated: 2026-07-07T05:10:33.620Z
 - comments: 4
 - created: 2026-06-10T14:20:07.000Z
 - matched query: app OR website pinyin hanzi
+
+## [Resources and strategies to improve understanding](https://old.reddit.com/r/ChineseLanguage/comments/1un35pw/resources_and_strategies_to_improve_understanding/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 4
+- created: 2026-07-04T07:57:56.000Z
+- matched query: resource
 
 ## [Srs flashcards and Immersion](https://old.reddit.com/r/ChineseLanguage/comments/1u1z27m/srs_flashcards_and_immersion/)
 - subreddit: r/ChineseLanguage

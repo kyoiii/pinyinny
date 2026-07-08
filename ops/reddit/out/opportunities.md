@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-08T16:56:18.693Z
+Generated: 2026-07-08T18:22:01.666Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -18,8 +18,8 @@ Generated: 2026-07-08T16:56:18.693Z
 
 ## [Would you find idioms 成语 useful when learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1uqyaex/would_you_find_idioms_成语_useful_when_learning/)
 - subreddit: r/ChineseLanguage
-- score: 8
-- comments: 0
+- score: 7
+- comments: 2
 - created: 2026-07-08T16:48:32.000Z
 - matched query: "learn chinese" app
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-10T05:11:33.269Z
+Generated: 2026-07-10T08:43:22.118Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -19,7 +19,7 @@ Generated: 2026-07-10T05:11:33.269Z
 ## [just a free resource](https://old.reddit.com/r/ChineseLanguage/comments/1us8pfw/just_a_free_resource/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 8
+- comments: 9
 - created: 2026-07-10T00:51:15.000Z
 - matched query: resource
 
@@ -89,7 +89,7 @@ Generated: 2026-07-10T05:11:33.269Z
 ## [The textbook and workbook we use in class for learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1urerme/the_textbook_and_workbook_we_use_in_class_for/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 6
+- comments: 7
 - created: 2026-07-09T03:35:08.000Z
 - matched query: resource
 

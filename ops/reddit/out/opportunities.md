@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-10T19:45:21.352Z
+Generated: 2026-07-10T20:55:56.630Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -30,19 +30,19 @@ Generated: 2026-07-10T19:45:21.352Z
 - created: 2026-07-10T00:51:15.000Z
 - matched query: resource
 
-## [Is there an app that trains you to write Chinese characters from memory (which is not Skritter)](https://old.reddit.com/r/ChineseLanguage/comments/1us27my/is_there_an_app_that_trains_you_to_write_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 9
-- created: 2026-07-09T20:34:22.000Z
-- matched query: flashcard app
-
 ## [I heard that Chinese has no grammar or verbs conjugation so I got excited to study it, anyone who did give me your experiences and which resources are good?](https://old.reddit.com/r/ChineseLanguage/comments/1un6ylj/i_heard_that_chinese_has_no_grammar_or_verbs/)
 - subreddit: r/ChineseLanguage
 - score: 7
 - comments: 23
 - created: 2026-07-04T11:44:15.000Z
 - matched query: resource
+
+## [Is there an app that trains you to write Chinese characters from memory (which is not Skritter)](https://old.reddit.com/r/ChineseLanguage/comments/1us27my/is_there_an_app_that_trains_you_to_write_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 9
+- created: 2026-07-09T20:34:22.000Z
+- matched query: flashcard app
 
 ## [Non-ai app for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1uiu7xl/nonai_app_for_learning_chinese/)
 - subreddit: r/ChineseLanguage

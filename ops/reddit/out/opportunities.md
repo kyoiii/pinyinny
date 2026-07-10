@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-10T01:14:45.681Z
+Generated: 2026-07-10T05:11:33.269Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -19,14 +19,14 @@ Generated: 2026-07-10T01:14:45.681Z
 ## [just a free resource](https://old.reddit.com/r/ChineseLanguage/comments/1us8pfw/just_a_free_resource/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 2
+- comments: 8
 - created: 2026-07-10T00:51:15.000Z
 - matched query: resource
 
 ## [Is there an app that trains you to write Chinese characters from memory (which is not Skritter)](https://old.reddit.com/r/ChineseLanguage/comments/1us27my/is_there_an_app_that_trains_you_to_write_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 4
+- comments: 5
 - created: 2026-07-09T20:34:22.000Z
 - matched query: flashcard app
 
@@ -72,13 +72,6 @@ Generated: 2026-07-10T01:14:45.681Z
 - created: 2026-06-10T14:20:07.000Z
 - matched query: app OR website pinyin hanzi
 
-## [The textbook and workbook we use in class for learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1urerme/the_textbook_and_workbook_we_use_in_class_for/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 2
-- created: 2026-07-09T03:35:08.000Z
-- matched query: resource
-
 ## [Resources and strategies to improve understanding](https://old.reddit.com/r/ChineseLanguage/comments/1un35pw/resources_and_strategies_to_improve_understanding/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -93,10 +86,17 @@ Generated: 2026-07-10T01:14:45.681Z
 - created: 2026-06-10T11:08:10.000Z
 - matched query: flashcard app
 
+## [The textbook and workbook we use in class for learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1urerme/the_textbook_and_workbook_we_use_in_class_for/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 6
+- created: 2026-07-09T03:35:08.000Z
+- matched query: resource
+
 ## [Inside Ancient China's Exam System: The essential hierarchy & mind verbs textbooks usually miss](https://old.reddit.com/r/ChineseLanguage/comments/1ur9x0s/inside_ancient_chinas_exam_system_the_essential/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 3
+- comments: 5
 - created: 2026-07-08T23:53:48.000Z
 - matched query: resource
 

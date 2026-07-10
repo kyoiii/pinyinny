@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-10T11:36:12.804Z
+Generated: 2026-07-10T13:34:02.108Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -16,6 +16,13 @@ Generated: 2026-07-10T11:36:12.804Z
 - created: 2026-06-25T04:39:08.000Z
 - matched query: app OR website pinyin hanzi
 
+## [How to reach HSK 5 in 3-4 years from 0?](https://old.reddit.com/r/ChineseLanguage/comments/1usn4dv/how_to_reach_hsk_5_in_34_years_from_0/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 5
+- created: 2026-07-10T13:04:05.000Z
+- matched query: resource
+
 ## [just a free resource](https://old.reddit.com/r/ChineseLanguage/comments/1us8pfw/just_a_free_resource/)
 - subreddit: r/ChineseLanguage
 - score: 7
@@ -26,7 +33,7 @@ Generated: 2026-07-10T11:36:12.804Z
 ## [Is there an app that trains you to write Chinese characters from memory (which is not Skritter)](https://old.reddit.com/r/ChineseLanguage/comments/1us27my/is_there_an_app_that_trains_you_to_write_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 5
+- comments: 7
 - created: 2026-07-09T20:34:22.000Z
 - matched query: flashcard app
 
@@ -133,12 +140,5 @@ Generated: 2026-07-10T11:36:12.804Z
 - score: 4
 - comments: 23
 - created: 2026-06-15T11:36:39.000Z
-- matched query: "learn chinese" app
-
-## [What’s your setup for passive + active Chinese listening at beginner/intermediate level?](https://old.reddit.com/r/ChineseLanguage/comments/1u13u23/whats_your_setup_for_passive_active_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 8
-- created: 2026-06-09T12:40:15.000Z
 - matched query: "learn chinese" app
 

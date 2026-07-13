@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-13T21:39:46.469Z
+Generated: 2026-07-13T22:39:22.667Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -47,7 +47,7 @@ Generated: 2026-07-13T21:39:46.469Z
 ## [Anyone use GraphChinese and VerticalChinese? Any reviews?](https://old.reddit.com/r/ChineseLanguage/comments/1uuznv1/anyone_use_graphchinese_and_verticalchinese_any/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 4
+- comments: 6
 - created: 2026-07-13T03:04:50.000Z
 - matched query: resource
 

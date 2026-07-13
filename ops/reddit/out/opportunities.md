@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-13T13:34:01.384Z
+Generated: 2026-07-13T16:10:01.938Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -16,18 +16,18 @@ Generated: 2026-07-13T13:34:01.384Z
 - created: 2026-06-25T04:39:08.000Z
 - matched query: app OR website pinyin hanzi
 
-## [Resources for chinese](https://old.reddit.com/r/ChineseLanguage/comments/1uv8zjh/resources_for_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 0
-- created: 2026-07-13T11:33:50.000Z
-- matched query: resource
-
 ## [Is this a good way to immerse myself in Chinese?? + looking for grammar resources](https://old.reddit.com/r/ChineseLanguage/comments/1utp6h1/is_this_a_good_way_to_immerse_myself_in_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 8
 - comments: 30
 - created: 2026-07-11T16:50:44.000Z
+- matched query: resource
+
+## [Resources for chinese](https://old.reddit.com/r/ChineseLanguage/comments/1uv8zjh/resources_for_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 2
+- created: 2026-07-13T11:33:50.000Z
 - matched query: resource
 
 ## [Anyone use GraphChinese and VerticalChinese? Any reviews?](https://old.reddit.com/r/ChineseLanguage/comments/1uuznv1/anyone_use_graphchinese_and_verticalchinese_any/)

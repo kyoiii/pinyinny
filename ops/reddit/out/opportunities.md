@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-13T07:58:39.057Z
+Generated: 2026-07-13T11:24:23.613Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -64,6 +64,13 @@ Generated: 2026-07-13T07:58:39.057Z
 - comments: 3
 - created: 2026-06-19T04:24:57.000Z
 - matched query: app OR website pinyin hanzi
+
+## [Learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1uv8mx4/learning_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 2
+- created: 2026-07-13T11:16:13.000Z
+- matched query: "learn chinese" app
 
 ## [i studied 4 hours a day for 5 months and got to HSK4 from scratch - studying abroad in the spring AMA](https://old.reddit.com/r/ChineseLanguage/comments/1uut8ud/i_studied_4_hours_a_day_for_5_months_and_got_to/)
 - subreddit: r/ChineseLanguage

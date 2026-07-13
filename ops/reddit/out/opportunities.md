@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-13T11:24:23.613Z
+Generated: 2026-07-13T13:34:01.384Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -16,10 +16,17 @@ Generated: 2026-07-13T11:24:23.613Z
 - created: 2026-06-25T04:39:08.000Z
 - matched query: app OR website pinyin hanzi
 
+## [Resources for chinese](https://old.reddit.com/r/ChineseLanguage/comments/1uv8zjh/resources_for_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 8
+- comments: 0
+- created: 2026-07-13T11:33:50.000Z
+- matched query: resource
+
 ## [Is this a good way to immerse myself in Chinese?? + looking for grammar resources](https://old.reddit.com/r/ChineseLanguage/comments/1utp6h1/is_this_a_good_way_to_immerse_myself_in_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 8
-- comments: 28
+- comments: 30
 - created: 2026-07-11T16:50:44.000Z
 - matched query: resource
 
@@ -28,13 +35,6 @@ Generated: 2026-07-13T11:24:23.613Z
 - score: 7
 - comments: 3
 - created: 2026-07-13T03:04:50.000Z
-- matched query: resource
-
-## [How to reach HSK 5 in 3-4 years from 0?](https://old.reddit.com/r/ChineseLanguage/comments/1usn4dv/how_to_reach_hsk_5_in_34_years_from_0/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 13
-- created: 2026-07-10T13:04:05.000Z
 - matched query: resource
 
 ## [Non-ai app for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1uiu7xl/nonai_app_for_learning_chinese/)
@@ -68,15 +68,15 @@ Generated: 2026-07-13T11:24:23.613Z
 ## [Learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1uv8mx4/learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 2
+- comments: 6
 - created: 2026-07-13T11:16:13.000Z
 - matched query: "learn chinese" app
 
-## [i studied 4 hours a day for 5 months and got to HSK4 from scratch - studying abroad in the spring AMA](https://old.reddit.com/r/ChineseLanguage/comments/1uut8ud/i_studied_4_hours_a_day_for_5_months_and_got_to/)
+## [How to reach HSK 5 in 3-4 years from 0?](https://old.reddit.com/r/ChineseLanguage/comments/1usn4dv/how_to_reach_hsk_5_in_34_years_from_0/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 25
-- created: 2026-07-12T22:15:08.000Z
+- comments: 13
+- created: 2026-07-10T13:04:05.000Z
 - matched query: resource
 
 ## [Is there an app that trains you to write Chinese characters from memory (which is not Skritter)](https://old.reddit.com/r/ChineseLanguage/comments/1us27my/is_there_an_app_that_trains_you_to_write_chinese/)

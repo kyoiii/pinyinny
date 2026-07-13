@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-13T01:11:58.609Z
+Generated: 2026-07-13T04:47:33.073Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -19,8 +19,15 @@ Generated: 2026-07-13T01:11:58.609Z
 ## [Is this a good way to immerse myself in Chinese?? + looking for grammar resources](https://old.reddit.com/r/ChineseLanguage/comments/1utp6h1/is_this_a_good_way_to_immerse_myself_in_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 8
-- comments: 27
+- comments: 28
 - created: 2026-07-11T16:50:44.000Z
+- matched query: resource
+
+## [Anyone use GraphChinese and VerticalChinese? Any reviews?](https://old.reddit.com/r/ChineseLanguage/comments/1uuznv1/anyone_use_graphchinese_and_verticalchinese_any/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 1
+- created: 2026-07-13T03:04:50.000Z
 - matched query: resource
 
 ## [How to reach HSK 5 in 3-4 years from 0?](https://old.reddit.com/r/ChineseLanguage/comments/1usn4dv/how_to_reach_hsk_5_in_34_years_from_0/)
@@ -61,7 +68,7 @@ Generated: 2026-07-13T01:11:58.609Z
 ## [i studied 4 hours a day for 5 months and got to HSK4 from scratch - studying abroad in the spring AMA](https://old.reddit.com/r/ChineseLanguage/comments/1uut8ud/i_studied_4_hours_a_day_for_5_months_and_got_to/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 6
+- comments: 19
 - created: 2026-07-12T22:15:08.000Z
 - matched query: resource
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-14T21:17:06.280Z
+Generated: 2026-07-14T22:26:49.807Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -21,6 +21,13 @@ Generated: 2026-07-14T21:17:06.280Z
 - score: 8
 - comments: 5
 - created: 2026-07-13T16:40:45.000Z
+- matched query: resource
+
+## [Looking for good resources to learn Mandarin as a Spanish-speaking person](https://old.reddit.com/r/ChineseLanguage/comments/1uwlyjn/looking_for_good_resources_to_learn_mandarin_as_a/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 1
+- created: 2026-07-14T21:30:30.000Z
 - matched query: resource
 
 ## [Beginner ABC here, What books should I read?](https://old.reddit.com/r/ChineseLanguage/comments/1uvhtg0/beginner_abc_here_what_books_should_i_read/)

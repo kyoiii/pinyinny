@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-15T21:42:16.463Z
+Generated: 2026-07-15T22:42:14.773Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -19,7 +19,7 @@ Generated: 2026-07-15T21:42:16.463Z
 ## [Apps/resources for learning essential phrases](https://old.reddit.com/r/ChineseLanguage/comments/1uxfszt/appsresources_for_learning_essential_phrases/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 3
+- comments: 4
 - created: 2026-07-15T19:25:05.000Z
 - matched query: resource
 

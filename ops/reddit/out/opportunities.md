@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-15T22:42:14.773Z
+Generated: 2026-07-15T23:42:57.392Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -96,7 +96,7 @@ Generated: 2026-07-15T22:42:14.773Z
 ## [self-studying chinese ^_^](https://old.reddit.com/r/ChineseLanguage/comments/1uxf4my/selfstudying_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 3
+- comments: 4
 - created: 2026-07-15T18:58:52.000Z
 - matched query: resource
 

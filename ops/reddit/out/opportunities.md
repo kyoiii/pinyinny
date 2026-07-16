@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-16T22:26:25.405Z
+Generated: 2026-07-16T23:27:12.107Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -44,13 +44,6 @@ Generated: 2026-07-16T22:26:25.405Z
 - created: 2026-07-13T16:40:45.000Z
 - matched query: resource
 
-## [100 hour progress report](https://old.reddit.com/r/ChineseLanguage/comments/1uyffum/100_hour_progress_report/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-07-16T21:10:32.000Z
-- matched query: "learn chinese" app
-
 ## [Looking for good resources to learn Mandarin as a Spanish-speaking person](https://old.reddit.com/r/ChineseLanguage/comments/1uwlyjn/looking_for_good_resources_to_learn_mandarin_as_a/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -85,6 +78,13 @@ Generated: 2026-07-16T22:26:25.405Z
 - comments: 3
 - created: 2026-06-19T04:24:57.000Z
 - matched query: app OR website pinyin hanzi
+
+## [100 hour progress report](https://old.reddit.com/r/ChineseLanguage/comments/1uyffum/100_hour_progress_report/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 1
+- created: 2026-07-16T21:10:32.000Z
+- matched query: "learn chinese" app
 
 ## [Beginner ABC here, What books should I read?](https://old.reddit.com/r/ChineseLanguage/comments/1uvhtg0/beginner_abc_here_what_books_should_i_read/)
 - subreddit: r/ChineseLanguage

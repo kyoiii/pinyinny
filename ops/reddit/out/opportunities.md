@@ -1,6 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-16T23:27:12.107Z
+Generated: 2026-07-17T01:05:54.248Z
+
+## [Is chat GPT a reliable resource for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1uyl4tm/is_chat_gpt_a_reliable_resource_for_learning/)
+- subreddit: r/ChineseLanguage
+- score: 10
+- comments: 0
+- created: 2026-07-17T01:04:01.000Z
+- matched query: resource
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -82,7 +89,7 @@ Generated: 2026-07-16T23:27:12.107Z
 ## [100 hour progress report](https://old.reddit.com/r/ChineseLanguage/comments/1uyffum/100_hour_progress_report/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 1
+- comments: 3
 - created: 2026-07-16T21:10:32.000Z
 - matched query: "learn chinese" app
 
@@ -133,12 +140,5 @@ Generated: 2026-07-16T23:27:12.107Z
 - score: 4
 - comments: 7
 - created: 2026-07-15T12:53:09.000Z
-- matched query: resource
-
-## [Getting Started](https://old.reddit.com/r/ChineseLanguage/comments/1uw6v1c/getting_started/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 5
-- created: 2026-07-14T12:09:30.000Z
 - matched query: resource
 

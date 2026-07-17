@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-17T20:49:20.596Z
+Generated: 2026-07-17T21:37:55.928Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -51,13 +51,6 @@ Generated: 2026-07-17T20:49:20.596Z
 - created: 2026-07-13T16:40:45.000Z
 - matched query: resource
 
-## [Looking for good resources to learn Mandarin as a Spanish-speaking person](https://old.reddit.com/r/ChineseLanguage/comments/1uwlyjn/looking_for_good_resources_to_learn_mandarin_as_a/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 8
-- created: 2026-07-14T21:30:30.000Z
-- matched query: resource
-
 ## [Non-ai app for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1uiu7xl/nonai_app_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -86,12 +79,12 @@ Generated: 2026-07-17T20:49:20.596Z
 - created: 2026-06-19T04:24:57.000Z
 - matched query: app OR website pinyin hanzi
 
-## [100 hour progress report](https://old.reddit.com/r/ChineseLanguage/comments/1uyffum/100_hour_progress_report/)
+## [Looking for good resources to learn Mandarin as a Spanish-speaking person](https://old.reddit.com/r/ChineseLanguage/comments/1uwlyjn/looking_for_good_resources_to_learn_mandarin_as_a/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 10
-- created: 2026-07-16T21:10:32.000Z
-- matched query: "learn chinese" app
+- comments: 8
+- created: 2026-07-14T21:30:30.000Z
+- matched query: resource
 
 ## [Beginner ABC here, What books should I read?](https://old.reddit.com/r/ChineseLanguage/comments/1uvhtg0/beginner_abc_here_what_books_should_i_read/)
 - subreddit: r/ChineseLanguage
@@ -120,6 +113,13 @@ Generated: 2026-07-17T20:49:20.596Z
 - comments: 33
 - created: 2026-07-11T16:50:44.000Z
 - matched query: resource
+
+## [100 hour progress report](https://old.reddit.com/r/ChineseLanguage/comments/1uyffum/100_hour_progress_report/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 10
+- created: 2026-07-16T21:10:32.000Z
+- matched query: "learn chinese" app
 
 ## [self-studying chinese ^_^](https://old.reddit.com/r/ChineseLanguage/comments/1uxf4my/selfstudying_chinese/)
 - subreddit: r/ChineseLanguage

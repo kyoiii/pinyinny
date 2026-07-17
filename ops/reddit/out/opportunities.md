@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-17T12:00:54.490Z
+Generated: 2026-07-17T13:58:55.519Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -25,7 +25,7 @@ Generated: 2026-07-17T12:00:54.490Z
 
 ## [I need (FUN) chinese studying resources please?](https://old.reddit.com/r/ChineseLanguage/comments/1uy36dv/i_need_fun_chinese_studying_resources_please/)
 - subreddit: r/ChineseLanguage
-- score: 9
+- score: 8
 - comments: 7
 - created: 2026-07-16T13:39:13.000Z
 - matched query: "learn chinese" app
@@ -89,7 +89,7 @@ Generated: 2026-07-17T12:00:54.490Z
 ## [100 hour progress report](https://old.reddit.com/r/ChineseLanguage/comments/1uyffum/100_hour_progress_report/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 7
+- comments: 10
 - created: 2026-07-16T21:10:32.000Z
 - matched query: "learn chinese" app
 
@@ -121,17 +121,10 @@ Generated: 2026-07-17T12:00:54.490Z
 - created: 2026-07-11T16:50:44.000Z
 - matched query: resource
 
-## [How to reach HSK 5 in 3-4 years from 0?](https://old.reddit.com/r/ChineseLanguage/comments/1usn4dv/how_to_reach_hsk_5_in_34_years_from_0/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 13
-- created: 2026-07-10T13:04:05.000Z
-- matched query: resource
-
 ## [self-studying chinese ^_^](https://old.reddit.com/r/ChineseLanguage/comments/1uxf4my/selfstudying_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 7
+- comments: 8
 - created: 2026-07-15T18:58:52.000Z
 - matched query: resource
 
@@ -140,5 +133,12 @@ Generated: 2026-07-17T12:00:54.490Z
 - score: 4
 - comments: 8
 - created: 2026-07-15T12:53:09.000Z
+- matched query: resource
+
+## [How to reach HSK 5 in 3-4 years from 0?](https://old.reddit.com/r/ChineseLanguage/comments/1usn4dv/how_to_reach_hsk_5_in_34_years_from_0/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 13
+- created: 2026-07-10T13:04:05.000Z
 - matched query: resource
 

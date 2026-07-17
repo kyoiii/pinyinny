@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-17T06:35:21.155Z
+Generated: 2026-07-17T08:54:44.559Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -89,7 +89,7 @@ Generated: 2026-07-17T06:35:21.155Z
 ## [100 hour progress report](https://old.reddit.com/r/ChineseLanguage/comments/1uyffum/100_hour_progress_report/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 6
+- comments: 7
 - created: 2026-07-16T21:10:32.000Z
 - matched query: "learn chinese" app
 
@@ -138,7 +138,7 @@ Generated: 2026-07-17T06:35:21.155Z
 ## [Relearning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1ux50u3/relearning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 7
+- comments: 8
 - created: 2026-07-15T12:53:09.000Z
 - matched query: resource
 

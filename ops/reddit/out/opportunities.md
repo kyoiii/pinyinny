@@ -1,6 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-18T19:49:06.475Z
+Generated: 2026-07-18T20:34:04.122Z
+
+## [Best FREE way to learn Chinese? - Free Chinese learning app](https://old.reddit.com/r/ChineseLanguage/comments/1v06k4s/best_free_way_to_learn_chinese_free_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 10
+- comments: 0
+- created: 2026-07-18T20:31:41.000Z
+- matched query: "learn chinese" app
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -134,11 +141,4 @@ Generated: 2026-07-18T19:49:06.475Z
 - comments: 7
 - created: 2026-06-19T04:02:44.000Z
 - matched query: flashcard app
-
-## [How do I get proper guide for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1u7zmd8/how_do_i_get_proper_guide_for_learning_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 19
-- created: 2026-06-17T04:02:17.000Z
-- matched query: "learn chinese" app
 

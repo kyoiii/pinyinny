@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-18T15:28:16.626Z
+Generated: 2026-07-18T16:30:12.422Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -36,13 +36,6 @@ Generated: 2026-07-18T15:28:16.626Z
 - comments: 7
 - created: 2026-07-15T19:25:05.000Z
 - matched query: resource
-
-## [I built a simple HSK 3.0 flashcard app for levels 1-9](https://old.reddit.com/r/ChineseLanguage/comments/1ux9nxt/i_built_a_simple_hsk_30_flashcard_app_for_levels/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 1
-- created: 2026-07-15T15:48:14.000Z
-- matched query: flashcard app
 
 ## [Help finding resources?](https://old.reddit.com/r/ChineseLanguage/comments/1uvgsam/help_finding_resources/)
 - subreddit: r/ChineseLanguage
@@ -141,4 +134,11 @@ Generated: 2026-07-18T15:28:16.626Z
 - comments: 35
 - created: 2026-06-29T16:01:14.000Z
 - matched query: "learn chinese" app
+
+## [Any tips for a beginner?](https://old.reddit.com/r/ChineseLanguage/comments/1u9rkyf/any_tips_for_a_beginner/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 7
+- created: 2026-06-19T04:02:44.000Z
+- matched query: flashcard app
 

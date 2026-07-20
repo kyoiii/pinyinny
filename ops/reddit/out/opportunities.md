@@ -1,6 +1,20 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-20T16:54:41.503Z
+Generated: 2026-07-20T18:52:48.104Z
+
+## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
+- subreddit: r/ChineseLanguage
+- score: 10
+- comments: 1
+- created: 2026-07-04T09:29:23.000Z
+- matched query: app OR website pinyin hanzi
+
+## [Resources for learning Mandarin with my toddler (2yo)? Looking for apps/books/websites for absolute beginners + kids.](https://old.reddit.com/r/ChineseLanguage/comments/1uf0578/resources_for_learning_mandarin_with_my_toddler/)
+- subreddit: r/ChineseLanguage
+- score: 10
+- comments: 2
+- created: 2026-06-25T04:39:08.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [adapting resources from the learn Japanese subs?](https://old.reddit.com/r/ChineseLanguage/comments/1v0qngt/adapting_resources_from_the_learn_japanese_subs/)
 - subreddit: r/ChineseLanguage
@@ -56,7 +70,7 @@ Generated: 2026-07-20T16:54:41.503Z
 - score: 6
 - comments: 16
 - created: 2026-06-24T14:01:41.000Z
-- matched query: "learn chinese" app
+- matched query: app OR website pinyin hanzi
 
 ## [Is this App good for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1udyxxp/is_this_app_good_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -65,10 +79,17 @@ Generated: 2026-07-20T16:54:41.503Z
 - created: 2026-06-24T00:51:58.000Z
 - matched query: "learn chinese" app
 
+## [Are there any kinda HSK books with their instructions including pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1u9s0jz/are_there_any_kinda_hsk_books_with_their/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 3
+- created: 2026-06-19T04:24:57.000Z
+- matched query: app OR website pinyin hanzi
+
 ## [Starting Chinese!](https://old.reddit.com/r/ChineseLanguage/comments/1v1pu5v/starting_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 2
+- comments: 3
 - created: 2026-07-20T16:09:10.000Z
 - matched query: resource
 
@@ -79,18 +100,18 @@ Generated: 2026-07-20T16:54:41.503Z
 - created: 2026-07-14T21:30:30.000Z
 - matched query: resource
 
-## [Beginner ABC here, What books should I read?](https://old.reddit.com/r/ChineseLanguage/comments/1uvhtg0/beginner_abc_here_what_books_should_i_read/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 11
-- created: 2026-07-13T17:17:27.000Z
-- matched query: resource
-
 ## [Peng's Chinese Treasury: Enriching Learning in the 80s](https://old.reddit.com/r/ChineseLanguage/comments/1v0tup0/pengs_chinese_treasury_enriching_learning_in_the/)
 - subreddit: r/ChineseLanguage
 - score: 4
 - comments: 1
 - created: 2026-07-19T15:42:45.000Z
+- matched query: resource
+
+## [Beginner ABC here, What books should I read?](https://old.reddit.com/r/ChineseLanguage/comments/1uvhtg0/beginner_abc_here_what_books_should_i_read/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 11
+- created: 2026-07-13T17:17:27.000Z
 - matched query: resource
 
 ## [Resources for chinese](https://old.reddit.com/r/ChineseLanguage/comments/1uv8zjh/resources_for_chinese/)
@@ -120,11 +141,4 @@ Generated: 2026-07-20T16:54:41.503Z
 - comments: 34
 - created: 2026-06-29T16:01:14.000Z
 - matched query: "learn chinese" app
-
-## [Any tips for a beginner?](https://old.reddit.com/r/ChineseLanguage/comments/1u9rkyf/any_tips_for_a_beginner/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 7
-- created: 2026-06-19T04:02:44.000Z
-- matched query: flashcard app
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-20T01:10:41.196Z
+Generated: 2026-07-20T04:54:08.760Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -22,6 +22,13 @@ Generated: 2026-07-20T01:10:41.196Z
 - comments: 1
 - created: 2026-07-19T13:29:34.000Z
 - matched query: resource
+
+## [Music app](https://old.reddit.com/r/languagelearning/comments/1v1bac9/music_app/)
+- subreddit: r/languagelearning
+- score: 8
+- comments: 0
+- created: 2026-07-20T04:24:39.000Z
+- matched query: "Chinese" app
 
 ## [Best FREE way to learn Chinese? - Free Chinese learning app](https://old.reddit.com/r/ChineseLanguage/comments/1v06k4s/best_free_way_to_learn_chinese_free_chinese/)
 - subreddit: r/ChineseLanguage
@@ -116,7 +123,7 @@ Generated: 2026-07-20T01:10:41.196Z
 
 ## [Anyone use GraphChinese and VerticalChinese? Any reviews?](https://old.reddit.com/r/ChineseLanguage/comments/1uuznv1/anyone_use_graphchinese_and_verticalchinese_any/)
 - subreddit: r/ChineseLanguage
-- score: 5
+- score: 4
 - comments: 7
 - created: 2026-07-13T03:04:50.000Z
 - matched query: resource
@@ -134,11 +141,4 @@ Generated: 2026-07-20T01:10:41.196Z
 - comments: 34
 - created: 2026-06-29T16:01:14.000Z
 - matched query: "learn chinese" app
-
-## [Any tips for a beginner?](https://old.reddit.com/r/ChineseLanguage/comments/1u9rkyf/any_tips_for_a_beginner/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 7
-- created: 2026-06-19T04:02:44.000Z
-- matched query: flashcard app
 

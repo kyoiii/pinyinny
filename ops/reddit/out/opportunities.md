@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-21T15:14:14.095Z
+Generated: 2026-07-21T16:46:55.582Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -40,7 +40,7 @@ Generated: 2026-07-21T15:14:14.095Z
 ## [Japanese vs Chinese - which want do I learn?](https://old.reddit.com/r/ChineseLanguage/comments/1v2feph/japanese_vs_chinese_which_want_do_i_learn/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 9
+- comments: 10
 - created: 2026-07-21T11:13:36.000Z
 - matched query: "learn chinese" app
 
@@ -89,15 +89,8 @@ Generated: 2026-07-21T15:14:14.095Z
 ## [Studying for HSK5, I need advices](https://old.reddit.com/r/ChineseLanguage/comments/1v2dige/studying_for_hsk5_i_need_advices/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 18
+- comments: 19
 - created: 2026-07-21T09:32:14.000Z
-- matched query: resource
-
-## [Starting Chinese!](https://old.reddit.com/r/ChineseLanguage/comments/1v1pu5v/starting_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 4
-- created: 2026-07-20T16:09:10.000Z
 - matched query: resource
 
 ## [Looking for good resources to learn Mandarin as a Spanish-speaking person](https://old.reddit.com/r/ChineseLanguage/comments/1uwlyjn/looking_for_good_resources_to_learn_mandarin_as_a/)
@@ -105,6 +98,13 @@ Generated: 2026-07-21T15:14:14.095Z
 - score: 5
 - comments: 8
 - created: 2026-07-14T21:30:30.000Z
+- matched query: resource
+
+## [Starting Chinese!](https://old.reddit.com/r/ChineseLanguage/comments/1v1pu5v/starting_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 4
+- created: 2026-07-20T16:09:10.000Z
 - matched query: resource
 
 ## [Peng's Chinese Treasury: Enriching Learning in the 80s](https://old.reddit.com/r/ChineseLanguage/comments/1v0tup0/pengs_chinese_treasury_enriching_learning_in_the/)

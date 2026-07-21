@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-20T23:39:44.834Z
+Generated: 2026-07-21T01:10:16.632Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -51,13 +51,6 @@ Generated: 2026-07-20T23:39:44.834Z
 - created: 2026-07-15T19:25:05.000Z
 - matched query: resource
 
-## [Help finding resources?](https://old.reddit.com/r/ChineseLanguage/comments/1uvgsam/help_finding_resources/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 5
-- created: 2026-07-13T16:40:45.000Z
-- matched query: resource
-
 ## [Non-ai app for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1uiu7xl/nonai_app_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -79,13 +72,6 @@ Generated: 2026-07-20T23:39:44.834Z
 - created: 2026-06-24T00:51:58.000Z
 - matched query: "learn chinese" app
 
-## [Are there any kinda HSK books with their instructions including pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1u9s0jz/are_there_any_kinda_hsk_books_with_their/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 3
-- created: 2026-06-19T04:24:57.000Z
-- matched query: app OR website pinyin hanzi
-
 ## [Starting Chinese!](https://old.reddit.com/r/ChineseLanguage/comments/1v1pu5v/starting_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -105,27 +91,6 @@ Generated: 2026-07-20T23:39:44.834Z
 - score: 4
 - comments: 1
 - created: 2026-07-19T15:42:45.000Z
-- matched query: resource
-
-## [Beginner ABC here, What books should I read?](https://old.reddit.com/r/ChineseLanguage/comments/1uvhtg0/beginner_abc_here_what_books_should_i_read/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 11
-- created: 2026-07-13T17:17:27.000Z
-- matched query: resource
-
-## [Resources for chinese](https://old.reddit.com/r/ChineseLanguage/comments/1uv8zjh/resources_for_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 2
-- created: 2026-07-13T11:33:50.000Z
-- matched query: resource
-
-## [Anyone use GraphChinese and VerticalChinese? Any reviews?](https://old.reddit.com/r/ChineseLanguage/comments/1uuznv1/anyone_use_graphchinese_and_verticalchinese_any/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 7
-- created: 2026-07-13T03:04:50.000Z
 - matched query: resource
 
 ## [Is there an app that trains you to write Chinese characters from memory (which is not Skritter)](https://old.reddit.com/r/ChineseLanguage/comments/1us27my/is_there_an_app_that_trains_you_to_write_chinese/)

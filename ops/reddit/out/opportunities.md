@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-21T09:44:56.314Z
+Generated: 2026-07-21T11:31:49.259Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -30,6 +30,13 @@ Generated: 2026-07-21T09:44:56.314Z
 - created: 2026-07-18T20:31:41.000Z
 - matched query: "learn chinese" app
 
+## [Japanese vs Chinese - which want do I learn?](https://old.reddit.com/r/ChineseLanguage/comments/1v2feph/japanese_vs_chinese_which_want_do_i_learn/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 3
+- created: 2026-07-21T11:13:36.000Z
+- matched query: "learn chinese" app
+
 ## [Is chat GPT a reliable resource for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1uyl4tm/is_chat_gpt_a_reliable_resource_for_learning/)
 - subreddit: r/ChineseLanguage
 - score: 7
@@ -49,13 +56,6 @@ Generated: 2026-07-21T09:44:56.314Z
 - score: 7
 - comments: 7
 - created: 2026-07-15T19:25:05.000Z
-- matched query: resource
-
-## [Studying for HSK5, I need advices](https://old.reddit.com/r/ChineseLanguage/comments/1v2dige/studying_for_hsk5_i_need_advices/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-07-21T09:32:14.000Z
 - matched query: resource
 
 ## [Non-ai app for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1uiu7xl/nonai_app_for_learning_chinese/)
@@ -78,6 +78,13 @@ Generated: 2026-07-21T09:44:56.314Z
 - comments: 11
 - created: 2026-06-24T00:51:58.000Z
 - matched query: "learn chinese" app
+
+## [Studying for HSK5, I need advices](https://old.reddit.com/r/ChineseLanguage/comments/1v2dige/studying_for_hsk5_i_need_advices/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 10
+- created: 2026-07-21T09:32:14.000Z
+- matched query: resource
 
 ## [Starting Chinese!](https://old.reddit.com/r/ChineseLanguage/comments/1v1pu5v/starting_chinese/)
 - subreddit: r/ChineseLanguage

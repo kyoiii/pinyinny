@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-21T20:54:09.666Z
+Generated: 2026-07-21T22:02:43.800Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -35,13 +35,6 @@ Generated: 2026-07-21T20:54:09.666Z
 - score: 7
 - comments: 11
 - created: 2026-07-21T11:13:36.000Z
-- matched query: "learn chinese" app
-
-## [Best FREE way to learn Chinese? - Free Chinese learning app](https://old.reddit.com/r/ChineseLanguage/comments/1v06k4s/best_free_way_to_learn_chinese_free_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 10
-- created: 2026-07-18T20:31:41.000Z
 - matched query: "learn chinese" app
 
 ## [Is chat GPT a reliable resource for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1uyl4tm/is_chat_gpt_a_reliable_resource_for_learning/)
@@ -86,13 +79,6 @@ Generated: 2026-07-21T20:54:09.666Z
 - created: 2026-06-24T00:51:58.000Z
 - matched query: "learn chinese" app
 
-## [Looking for good resources to learn Mandarin as a Spanish-speaking person](https://old.reddit.com/r/ChineseLanguage/comments/1uwlyjn/looking_for_good_resources_to_learn_mandarin_as_a/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 8
-- created: 2026-07-14T21:30:30.000Z
-- matched query: resource
-
 ## [Starting Chinese!](https://old.reddit.com/r/ChineseLanguage/comments/1v1pu5v/starting_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -105,6 +91,13 @@ Generated: 2026-07-21T20:54:09.666Z
 - score: 4
 - comments: 1
 - created: 2026-07-19T15:42:45.000Z
+- matched query: resource
+
+## [Looking for good resources to learn Mandarin as a Spanish-speaking person](https://old.reddit.com/r/ChineseLanguage/comments/1uwlyjn/looking_for_good_resources_to_learn_mandarin_as_a/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 8
+- created: 2026-07-14T21:30:30.000Z
 - matched query: resource
 
 ## [Is there an app that trains you to write Chinese characters from memory (which is not Skritter)](https://old.reddit.com/r/ChineseLanguage/comments/1us27my/is_there_an_app_that_trains_you_to_write_chinese/)

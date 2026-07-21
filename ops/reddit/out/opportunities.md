@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-21T07:16:21.154Z
+Generated: 2026-07-21T09:44:56.314Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -49,6 +49,13 @@ Generated: 2026-07-21T07:16:21.154Z
 - score: 7
 - comments: 7
 - created: 2026-07-15T19:25:05.000Z
+- matched query: resource
+
+## [Studying for HSK5, I need advices](https://old.reddit.com/r/ChineseLanguage/comments/1v2dige/studying_for_hsk5_i_need_advices/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 0
+- created: 2026-07-21T09:32:14.000Z
 - matched query: resource
 
 ## [Non-ai app for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1uiu7xl/nonai_app_for_learning_chinese/)

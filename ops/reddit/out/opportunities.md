@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-21T16:46:55.582Z
+Generated: 2026-07-21T18:03:27.013Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -26,7 +26,7 @@ Generated: 2026-07-21T16:46:55.582Z
 ## [adapting resources from the learn Japanese subs?](https://old.reddit.com/r/ChineseLanguage/comments/1v0qngt/adapting_resources_from_the_learn_japanese_subs/)
 - subreddit: r/ChineseLanguage
 - score: 8
-- comments: 1
+- comments: 3
 - created: 2026-07-19T13:29:34.000Z
 - matched query: resource
 
@@ -40,7 +40,7 @@ Generated: 2026-07-21T16:46:55.582Z
 ## [Japanese vs Chinese - which want do I learn?](https://old.reddit.com/r/ChineseLanguage/comments/1v2feph/japanese_vs_chinese_which_want_do_i_learn/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 10
+- comments: 11
 - created: 2026-07-21T11:13:36.000Z
 - matched query: "learn chinese" app
 
@@ -89,7 +89,7 @@ Generated: 2026-07-21T16:46:55.582Z
 ## [Studying for HSK5, I need advices](https://old.reddit.com/r/ChineseLanguage/comments/1v2dige/studying_for_hsk5_i_need_advices/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 19
+- comments: 20
 - created: 2026-07-21T09:32:14.000Z
 - matched query: resource
 

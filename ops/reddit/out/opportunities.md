@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-22T06:16:58.991Z
+Generated: 2026-07-22T09:03:52.260Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -40,7 +40,7 @@ Generated: 2026-07-22T06:16:58.991Z
 ## [Language challenge: can you read a language you have never touched, out loud, in one week?](https://old.reddit.com/r/languagelearning/comments/1v305tz/language_challenge_can_you_read_a_language_you/)
 - subreddit: r/languagelearning
 - score: 7
-- comments: 20
+- comments: 21
 - created: 2026-07-22T00:20:28.000Z
 - matched query: "Chinese" app
 

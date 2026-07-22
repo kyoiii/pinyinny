@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-22T12:51:00.588Z
+Generated: 2026-07-22T14:56:51.177Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -16,20 +16,6 @@ Generated: 2026-07-22T12:51:00.588Z
 - created: 2026-06-25T04:39:08.000Z
 - matched query: app OR website pinyin hanzi
 
-## [Chinese Telegraph Code in practice: decoding handwritten Morse into “你好”](https://old.reddit.com/r/ChineseLanguage/comments/1v2itpl/chinese_telegraph_code_in_practice_decoding/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 0
-- created: 2026-07-21T13:42:00.000Z
-- matched query: "learn chinese" app
-
-## [adapting resources from the learn Japanese subs?](https://old.reddit.com/r/ChineseLanguage/comments/1v0qngt/adapting_resources_from_the_learn_japanese_subs/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 4
-- created: 2026-07-19T13:29:34.000Z
-- matched query: resource
-
 ## [Any great beginner friendly options?](https://old.reddit.com/r/ChineseLanguage/comments/1v32oim/any_great_beginner_friendly_options/)
 - subreddit: r/ChineseLanguage
 - score: 7
@@ -40,9 +26,23 @@ Generated: 2026-07-22T12:51:00.588Z
 ## [Language challenge: can you read a language you have never touched, out loud, in one week?](https://old.reddit.com/r/languagelearning/comments/1v305tz/language_challenge_can_you_read_a_language_you/)
 - subreddit: r/languagelearning
 - score: 7
-- comments: 22
+- comments: 25
 - created: 2026-07-22T00:20:28.000Z
 - matched query: "Chinese" app
+
+## [Chinese Telegraph Code in practice: decoding handwritten Morse into “你好”](https://old.reddit.com/r/ChineseLanguage/comments/1v2itpl/chinese_telegraph_code_in_practice_decoding/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 0
+- created: 2026-07-21T13:42:00.000Z
+- matched query: "learn chinese" app
+
+## [adapting resources from the learn Japanese subs?](https://old.reddit.com/r/ChineseLanguage/comments/1v0qngt/adapting_resources_from_the_learn_japanese_subs/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 4
+- created: 2026-07-19T13:29:34.000Z
+- matched query: resource
 
 ## [Is chat GPT a reliable resource for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1uyl4tm/is_chat_gpt_a_reliable_resource_for_learning/)
 - subreddit: r/ChineseLanguage

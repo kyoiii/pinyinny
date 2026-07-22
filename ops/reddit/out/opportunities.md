@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-22T14:56:51.177Z
+Generated: 2026-07-22T16:24:48.005Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -22,13 +22,6 @@ Generated: 2026-07-22T14:56:51.177Z
 - comments: 1
 - created: 2026-07-22T02:11:27.000Z
 - matched query: resource
-
-## [Language challenge: can you read a language you have never touched, out loud, in one week?](https://old.reddit.com/r/languagelearning/comments/1v305tz/language_challenge_can_you_read_a_language_you/)
-- subreddit: r/languagelearning
-- score: 7
-- comments: 25
-- created: 2026-07-22T00:20:28.000Z
-- matched query: "Chinese" app
 
 ## [Chinese Telegraph Code in practice: decoding handwritten Morse into “你好”](https://old.reddit.com/r/ChineseLanguage/comments/1v2itpl/chinese_telegraph_code_in_practice_decoding/)
 - subreddit: r/ChineseLanguage
@@ -100,18 +93,18 @@ Generated: 2026-07-22T14:56:51.177Z
 - created: 2026-06-24T00:51:58.000Z
 - matched query: "learn chinese" app
 
+## [Language challenge: can you read a language you have never touched, out loud, in one week?](https://old.reddit.com/r/languagelearning/comments/1v305tz/language_challenge_can_you_read_a_language_you/)
+- subreddit: r/languagelearning
+- score: 5
+- comments: 31
+- created: 2026-07-22T00:20:28.000Z
+- matched query: "Chinese" app
+
 ## [Starting Chinese!](https://old.reddit.com/r/ChineseLanguage/comments/1v1pu5v/starting_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 4
 - comments: 4
 - created: 2026-07-20T16:09:10.000Z
-- matched query: resource
-
-## [Peng's Chinese Treasury: Enriching Learning in the 80s](https://old.reddit.com/r/ChineseLanguage/comments/1v0tup0/pengs_chinese_treasury_enriching_learning_in_the/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 1
-- created: 2026-07-19T15:42:45.000Z
 - matched query: resource
 
 ## [Is there an app that trains you to write Chinese characters from memory (which is not Skritter)](https://old.reddit.com/r/ChineseLanguage/comments/1us27my/is_there_an_app_that_trains_you_to_write_chinese/)

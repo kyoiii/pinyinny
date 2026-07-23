@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-23T01:14:04.403Z
+Generated: 2026-07-23T04:39:23.201Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -15,13 +15,6 @@ Generated: 2026-07-23T01:14:04.403Z
 - comments: 2
 - created: 2026-06-25T04:39:08.000Z
 - matched query: app OR website pinyin hanzi
-
-## [Any great beginner friendly options?](https://old.reddit.com/r/ChineseLanguage/comments/1v32oim/any_great_beginner_friendly_options/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 1
-- created: 2026-07-22T02:11:27.000Z
-- matched query: resource
 
 ## [Chinese Telegraph Code in practice: decoding handwritten Morse into “你好”](https://old.reddit.com/r/ChineseLanguage/comments/1v2itpl/chinese_telegraph_code_in_practice_decoding/)
 - subreddit: r/ChineseLanguage
@@ -51,18 +44,18 @@ Generated: 2026-07-23T01:14:04.403Z
 - created: 2026-07-16T13:39:13.000Z
 - matched query: "learn chinese" app
 
-## [推薦一首我朋友水菱唱的-中國風經典歌曲｛憶芙蓉｝A beautiful Mandopop classic sung by my friend Shuiling: "Yi Furong" 🎵](https://old.reddit.com/r/ChineseLanguage/comments/1v3np4b/推薦一首我朋友水菱唱的中國風經典歌曲憶芙蓉a_beautiful_mandopop_classic/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-07-22T17:55:41.000Z
-- matched query: resource
-
 ## [Looking for Study & Language Exchange Friends 🌍📚](https://old.reddit.com/r/ChineseLanguage/comments/1v3ceod/looking_for_study_language_exchange_friends/)
 - subreddit: r/ChineseLanguage
 - score: 6
 - comments: 0
 - created: 2026-07-22T10:40:31.000Z
+- matched query: resource
+
+## [Any great beginner friendly options?](https://old.reddit.com/r/ChineseLanguage/comments/1v32oim/any_great_beginner_friendly_options/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 1
+- created: 2026-07-22T02:11:27.000Z
 - matched query: resource
 
 ## [Japanese vs Chinese - which want do I learn?](https://old.reddit.com/r/ChineseLanguage/comments/1v2feph/japanese_vs_chinese_which_want_do_i_learn/)

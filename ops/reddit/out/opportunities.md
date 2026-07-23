@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-23T09:43:37.554Z
+Generated: 2026-07-23T11:42:05.632Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -44,13 +44,6 @@ Generated: 2026-07-23T09:43:37.554Z
 - created: 2026-07-16T13:39:13.000Z
 - matched query: "learn chinese" app
 
-## [Looking for Study & Language Exchange Friends 🌍📚](https://old.reddit.com/r/ChineseLanguage/comments/1v3ceod/looking_for_study_language_exchange_friends/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-07-22T10:40:31.000Z
-- matched query: resource
-
 ## [Any great beginner friendly options?](https://old.reddit.com/r/ChineseLanguage/comments/1v32oim/any_great_beginner_friendly_options/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -85,6 +78,13 @@ Generated: 2026-07-23T09:43:37.554Z
 - comments: 11
 - created: 2026-06-24T00:51:58.000Z
 - matched query: "learn chinese" app
+
+## [Looking for Study & Language Exchange Friends 🌍📚](https://old.reddit.com/r/ChineseLanguage/comments/1v3ceod/looking_for_study_language_exchange_friends/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 0
+- created: 2026-07-22T10:40:31.000Z
+- matched query: resource
 
 ## [Language challenge: can you read a language you have never touched, out loud, in one week?](https://old.reddit.com/r/languagelearning/comments/1v305tz/language_challenge_can_you_read_a_language_you/)
 - subreddit: r/languagelearning

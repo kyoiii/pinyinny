@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-23T13:13:29.712Z
+Generated: 2026-07-23T17:03:57.163Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -37,13 +37,6 @@ Generated: 2026-07-23T13:13:29.712Z
 - created: 2026-07-17T01:04:01.000Z
 - matched query: resource
 
-## [I need (FUN) chinese studying resources please?](https://old.reddit.com/r/ChineseLanguage/comments/1uy36dv/i_need_fun_chinese_studying_resources_please/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 10
-- created: 2026-07-16T13:39:13.000Z
-- matched query: "learn chinese" app
-
 ## [Any great beginner friendly options?](https://old.reddit.com/r/ChineseLanguage/comments/1v32oim/any_great_beginner_friendly_options/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -56,6 +49,13 @@ Generated: 2026-07-23T13:13:29.712Z
 - score: 6
 - comments: 11
 - created: 2026-07-21T11:13:36.000Z
+- matched query: "learn chinese" app
+
+## [I need (FUN) chinese studying resources please?](https://old.reddit.com/r/ChineseLanguage/comments/1uy36dv/i_need_fun_chinese_studying_resources_please/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 10
+- created: 2026-07-16T13:39:13.000Z
 - matched query: "learn chinese" app
 
 ## [Non-ai app for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1uiu7xl/nonai_app_for_learning_chinese/)
@@ -92,13 +92,6 @@ Generated: 2026-07-23T13:13:29.712Z
 - comments: 33
 - created: 2026-07-22T00:20:28.000Z
 - matched query: "Chinese" app
-
-## [Starting Chinese!](https://old.reddit.com/r/ChineseLanguage/comments/1v1pu5v/starting_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 4
-- created: 2026-07-20T16:09:10.000Z
-- matched query: resource
 
 ## [Is there an app that trains you to write Chinese characters from memory (which is not Skritter)](https://old.reddit.com/r/ChineseLanguage/comments/1us27my/is_there_an_app_that_trains_you_to_write_chinese/)
 - subreddit: r/ChineseLanguage

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-24T22:39:21.735Z
+Generated: 2026-07-24T23:44:00.351Z
 
 ## [AI resources for Integrated Chinese textbook?](https://old.reddit.com/r/ChineseLanguage/comments/1v5cclj/ai_resources_for_integrated_chinese_textbook/)
 - subreddit: r/ChineseLanguage
@@ -25,8 +25,8 @@ Generated: 2026-07-24T22:39:21.735Z
 
 ## [I made a multiplayer browser Chinese word game (any feedback appreciated!!)](https://old.reddit.com/r/ChineseLanguage/comments/1v5ltcp/i_made_a_multiplayer_browser_chinese_word_game/)
 - subreddit: r/ChineseLanguage
-- score: 8
-- comments: 0
+- score: 7
+- comments: 2
 - created: 2026-07-24T19:44:23.000Z
 - matched query: app OR website pinyin hanzi
 

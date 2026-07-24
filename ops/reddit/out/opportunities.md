@@ -1,6 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-24T12:13:34.053Z
+Generated: 2026-07-24T14:16:40.743Z
+
+## [AI resources for Integrated Chinese textbook?](https://old.reddit.com/r/ChineseLanguage/comments/1v5cclj/ai_resources_for_integrated_chinese_textbook/)
+- subreddit: r/ChineseLanguage
+- score: 10
+- comments: 0
+- created: 2026-07-24T14:04:33.000Z
+- matched query: resource
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -16,13 +23,6 @@ Generated: 2026-07-24T12:13:34.053Z
 - created: 2026-06-25T04:39:08.000Z
 - matched query: app OR website pinyin hanzi
 
-## [Chinese Telegraph Code in practice: decoding handwritten Morse into “你好”](https://old.reddit.com/r/ChineseLanguage/comments/1v2itpl/chinese_telegraph_code_in_practice_decoding/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 0
-- created: 2026-07-21T13:42:00.000Z
-- matched query: "learn chinese" app
-
 ## [adapting resources from the learn Japanese subs?](https://old.reddit.com/r/ChineseLanguage/comments/1v0qngt/adapting_resources_from_the_learn_japanese_subs/)
 - subreddit: r/ChineseLanguage
 - score: 7
@@ -36,6 +36,13 @@ Generated: 2026-07-24T12:13:34.053Z
 - comments: 1
 - created: 2026-07-22T02:11:27.000Z
 - matched query: resource
+
+## [Chinese Telegraph Code in practice: decoding handwritten Morse into “你好”](https://old.reddit.com/r/ChineseLanguage/comments/1v2itpl/chinese_telegraph_code_in_practice_decoding/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 0
+- created: 2026-07-21T13:42:00.000Z
+- matched query: "learn chinese" app
 
 ## [Is chat GPT a reliable resource for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1uyl4tm/is_chat_gpt_a_reliable_resource_for_learning/)
 - subreddit: r/ChineseLanguage

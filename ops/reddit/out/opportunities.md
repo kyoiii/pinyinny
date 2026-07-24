@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-24T21:32:10.605Z
+Generated: 2026-07-24T22:39:21.735Z
 
 ## [AI resources for Integrated Chinese textbook?](https://old.reddit.com/r/ChineseLanguage/comments/1v5cclj/ai_resources_for_integrated_chinese_textbook/)
 - subreddit: r/ChineseLanguage

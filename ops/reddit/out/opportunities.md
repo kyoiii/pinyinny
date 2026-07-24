@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-24T10:51:09.433Z
+Generated: 2026-07-24T12:13:34.053Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -36,13 +36,6 @@ Generated: 2026-07-24T10:51:09.433Z
 - comments: 1
 - created: 2026-07-22T02:11:27.000Z
 - matched query: resource
-
-## [Japanese vs Chinese - which want do I learn?](https://old.reddit.com/r/ChineseLanguage/comments/1v2feph/japanese_vs_chinese_which_want_do_i_learn/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 11
-- created: 2026-07-21T11:13:36.000Z
-- matched query: "learn chinese" app
 
 ## [Is chat GPT a reliable resource for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1uyl4tm/is_chat_gpt_a_reliable_resource_for_learning/)
 - subreddit: r/ChineseLanguage
@@ -85,6 +78,13 @@ Generated: 2026-07-24T10:51:09.433Z
 - comments: 0
 - created: 2026-07-22T10:40:31.000Z
 - matched query: resource
+
+## [Japanese vs Chinese - which want do I learn?](https://old.reddit.com/r/ChineseLanguage/comments/1v2feph/japanese_vs_chinese_which_want_do_i_learn/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 11
+- created: 2026-07-21T11:13:36.000Z
+- matched query: "learn chinese" app
 
 ## [Language challenge: can you read a language you have never touched, out loud, in one week?](https://old.reddit.com/r/languagelearning/comments/1v305tz/language_challenge_can_you_read_a_language_you/)
 - subreddit: r/languagelearning

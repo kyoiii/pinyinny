@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-24T23:44:00.351Z
+Generated: 2026-07-25T01:14:11.471Z
 
 ## [AI resources for Integrated Chinese textbook?](https://old.reddit.com/r/ChineseLanguage/comments/1v5cclj/ai_resources_for_integrated_chinese_textbook/)
 - subreddit: r/ChineseLanguage
@@ -51,13 +51,6 @@ Generated: 2026-07-24T23:44:00.351Z
 - created: 2026-07-21T13:42:00.000Z
 - matched query: "learn chinese" app
 
-## [Is chat GPT a reliable resource for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1uyl4tm/is_chat_gpt_a_reliable_resource_for_learning/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 16
-- created: 2026-07-17T01:04:01.000Z
-- matched query: resource
-
 ## [I need (FUN) chinese studying resources please?](https://old.reddit.com/r/ChineseLanguage/comments/1uy36dv/i_need_fun_chinese_studying_resources_please/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -99,13 +92,6 @@ Generated: 2026-07-24T23:44:00.351Z
 - comments: 11
 - created: 2026-07-21T11:13:36.000Z
 - matched query: "learn chinese" app
-
-## [Language challenge: can you read a language you have never touched, out loud, in one week?](https://old.reddit.com/r/languagelearning/comments/1v305tz/language_challenge_can_you_read_a_language_you/)
-- subreddit: r/languagelearning
-- score: 4
-- comments: 33
-- created: 2026-07-22T00:20:28.000Z
-- matched query: "Chinese" app
 
 ## [Is there an app that trains you to write Chinese characters from memory (which is not Skritter)](https://old.reddit.com/r/ChineseLanguage/comments/1us27my/is_there_an_app_that_trains_you_to_write_chinese/)
 - subreddit: r/ChineseLanguage

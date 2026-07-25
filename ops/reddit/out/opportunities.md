@@ -1,13 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-25T01:14:11.471Z
-
-## [AI resources for Integrated Chinese textbook?](https://old.reddit.com/r/ChineseLanguage/comments/1v5cclj/ai_resources_for_integrated_chinese_textbook/)
-- subreddit: r/ChineseLanguage
-- score: 10
-- comments: 0
-- created: 2026-07-24T14:04:33.000Z
-- matched query: resource
+Generated: 2026-07-25T04:32:24.790Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -23,6 +16,13 @@ Generated: 2026-07-25T01:14:11.471Z
 - created: 2026-06-25T04:39:08.000Z
 - matched query: app OR website pinyin hanzi
 
+## [AI resources for Integrated Chinese textbook?](https://old.reddit.com/r/ChineseLanguage/comments/1v5cclj/ai_resources_for_integrated_chinese_textbook/)
+- subreddit: r/ChineseLanguage
+- score: 9
+- comments: 2
+- created: 2026-07-24T14:04:33.000Z
+- matched query: resource
+
 ## [I made a multiplayer browser Chinese word game (any feedback appreciated!!)](https://old.reddit.com/r/ChineseLanguage/comments/1v5ltcp/i_made_a_multiplayer_browser_chinese_word_game/)
 - subreddit: r/ChineseLanguage
 - score: 7
@@ -35,13 +35,6 @@ Generated: 2026-07-25T01:14:11.471Z
 - score: 7
 - comments: 5
 - created: 2026-07-19T13:29:34.000Z
-- matched query: resource
-
-## [Any great beginner friendly options?](https://old.reddit.com/r/ChineseLanguage/comments/1v32oim/any_great_beginner_friendly_options/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 1
-- created: 2026-07-22T02:11:27.000Z
 - matched query: resource
 
 ## [Chinese Telegraph Code in practice: decoding handwritten Morse into “你好”](https://old.reddit.com/r/ChineseLanguage/comments/1v2itpl/chinese_telegraph_code_in_practice_decoding/)
@@ -84,6 +77,13 @@ Generated: 2026-07-25T01:14:11.471Z
 - score: 5
 - comments: 0
 - created: 2026-07-22T10:40:31.000Z
+- matched query: resource
+
+## [Any great beginner friendly options?](https://old.reddit.com/r/ChineseLanguage/comments/1v32oim/any_great_beginner_friendly_options/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 1
+- created: 2026-07-22T02:11:27.000Z
 - matched query: resource
 
 ## [Japanese vs Chinese - which want do I learn?](https://old.reddit.com/r/ChineseLanguage/comments/1v2feph/japanese_vs_chinese_which_want_do_i_learn/)

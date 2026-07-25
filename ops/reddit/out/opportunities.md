@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-25T18:42:35.124Z
+Generated: 2026-07-25T19:59:33.402Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -37,19 +37,19 @@ Generated: 2026-07-25T18:42:35.124Z
 - created: 2026-07-25T12:25:34.000Z
 - matched query: resource
 
-## [I made a multiplayer browser Chinese word game (any feedback appreciated!!)](https://old.reddit.com/r/ChineseLanguage/comments/1v5ltcp/i_made_a_multiplayer_browser_chinese_word_game/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 2
-- created: 2026-07-24T19:44:23.000Z
-- matched query: app OR website pinyin hanzi
-
 ## [adapting resources from the learn Japanese subs?](https://old.reddit.com/r/ChineseLanguage/comments/1v0qngt/adapting_resources_from_the_learn_japanese_subs/)
 - subreddit: r/ChineseLanguage
 - score: 7
 - comments: 5
 - created: 2026-07-19T13:29:34.000Z
 - matched query: resource
+
+## [I made a multiplayer browser Chinese word game (any feedback appreciated!!)](https://old.reddit.com/r/ChineseLanguage/comments/1v5ltcp/i_made_a_multiplayer_browser_chinese_word_game/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 2
+- created: 2026-07-24T19:44:23.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [Chinese Telegraph Code in practice: decoding handwritten Morse into “你好”](https://old.reddit.com/r/ChineseLanguage/comments/1v2itpl/chinese_telegraph_code_in_practice_decoding/)
 - subreddit: r/ChineseLanguage

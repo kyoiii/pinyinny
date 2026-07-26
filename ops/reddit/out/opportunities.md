@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-26T13:25:24.310Z
+Generated: 2026-07-26T14:49:13.476Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -30,13 +30,6 @@ Generated: 2026-07-26T13:25:24.310Z
 - created: 2026-07-24T14:04:33.000Z
 - matched query: resource
 
-## [adapting resources from the learn Japanese subs?](https://old.reddit.com/r/ChineseLanguage/comments/1v0qngt/adapting_resources_from_the_learn_japanese_subs/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 5
-- created: 2026-07-19T13:29:34.000Z
-- matched query: resource
-
 ## [How to learn traditional Chinese, being able to speak some Chinese and read some simplified Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1v6713k/how_to_learn_traditional_chinese_being_able_to/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -57,6 +50,13 @@ Generated: 2026-07-26T13:25:24.310Z
 - comments: 0
 - created: 2026-07-21T13:42:00.000Z
 - matched query: "learn chinese" app
+
+## [adapting resources from the learn Japanese subs?](https://old.reddit.com/r/ChineseLanguage/comments/1v0qngt/adapting_resources_from_the_learn_japanese_subs/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 5
+- created: 2026-07-19T13:29:34.000Z
+- matched query: resource
 
 ## [I need (FUN) chinese studying resources please?](https://old.reddit.com/r/ChineseLanguage/comments/1uy36dv/i_need_fun_chinese_studying_resources_please/)
 - subreddit: r/ChineseLanguage

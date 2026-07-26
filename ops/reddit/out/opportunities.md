@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-26T11:55:07.831Z
+Generated: 2026-07-26T13:25:24.310Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -30,13 +30,6 @@ Generated: 2026-07-26T11:55:07.831Z
 - created: 2026-07-24T14:04:33.000Z
 - matched query: resource
 
-## [How to learn traditional Chinese, being able to speak some Chinese and read some simplified Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1v6713k/how_to_learn_traditional_chinese_being_able_to/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 3
-- created: 2026-07-25T12:25:34.000Z
-- matched query: resource
-
 ## [adapting resources from the learn Japanese subs?](https://old.reddit.com/r/ChineseLanguage/comments/1v0qngt/adapting_resources_from_the_learn_japanese_subs/)
 - subreddit: r/ChineseLanguage
 - score: 7
@@ -44,10 +37,17 @@ Generated: 2026-07-26T11:55:07.831Z
 - created: 2026-07-19T13:29:34.000Z
 - matched query: resource
 
+## [How to learn traditional Chinese, being able to speak some Chinese and read some simplified Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1v6713k/how_to_learn_traditional_chinese_being_able_to/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 4
+- created: 2026-07-25T12:25:34.000Z
+- matched query: resource
+
 ## [I made a multiplayer browser Chinese word game (any feedback appreciated!!)](https://old.reddit.com/r/ChineseLanguage/comments/1v5ltcp/i_made_a_multiplayer_browser_chinese_word_game/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 2
+- comments: 3
 - created: 2026-07-24T19:44:23.000Z
 - matched query: app OR website pinyin hanzi
 

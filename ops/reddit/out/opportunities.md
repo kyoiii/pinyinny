@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-26T09:04:45.212Z
+Generated: 2026-07-26T10:50:47.414Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -19,7 +19,7 @@ Generated: 2026-07-26T09:04:45.212Z
 ## [Looking for a Mandarin Chinese only visual dictionary. Pictures and the concept in Hanzi or Pinyin with no english or spanish translations.](https://old.reddit.com/r/ChineseLanguage/comments/1v6ccjq/looking_for_a_mandarin_chinese_only_visual/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 4
+- comments: 5
 - created: 2026-07-25T16:09:09.000Z
 - matched query: app OR website pinyin hanzi
 

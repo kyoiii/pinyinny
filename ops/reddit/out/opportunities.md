@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-25T23:10:12.757Z
+Generated: 2026-07-26T00:14:28.281Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -70,20 +70,6 @@ Generated: 2026-07-25T23:10:12.757Z
 - score: 6
 - comments: 30
 - created: 2026-06-29T14:34:18.000Z
-- matched query: "learn chinese" app
-
-## [I built a Pinyin-only Mandarin app for people who want to learn to speak mandarin without learning Chinese characters. Help me to beta test it in exchange for a free lifetime subscription!](https://old.reddit.com/r/ChineseLanguage/comments/1ueedmd/i_built_a_pinyinonly_mandarin_app_for_people_who/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 16
-- created: 2026-06-24T14:01:41.000Z
-- matched query: app OR website pinyin hanzi
-
-## [Is this App good for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1udyxxp/is_this_app_good_for_learning_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 11
-- created: 2026-06-24T00:51:58.000Z
 - matched query: "learn chinese" app
 
 ## [Any great beginner friendly options?](https://old.reddit.com/r/ChineseLanguage/comments/1v32oim/any_great_beginner_friendly_options/)

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-27T07:51:30.870Z
+Generated: 2026-07-27T11:12:20.465Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -15,6 +15,13 @@ Generated: 2026-07-27T07:51:30.870Z
 - comments: 6
 - created: 2026-07-25T16:09:09.000Z
 - matched query: app OR website pinyin hanzi
+
+## [How to study HSK 6 or more as someone with a background](https://old.reddit.com/r/ChineseLanguage/comments/1v7we16/how_to_study_hsk_6_or_more_as_someone_with_a/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 0
+- created: 2026-07-27T10:22:55.000Z
+- matched query: resource
 
 ## [How to learn traditional Chinese, being able to speak some Chinese and read some simplified Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1v6713k/how_to_learn_traditional_chinese_being_able_to/)
 - subreddit: r/ChineseLanguage

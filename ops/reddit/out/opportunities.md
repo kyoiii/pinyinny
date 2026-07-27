@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-27T21:57:59.689Z
+Generated: 2026-07-27T23:14:09.515Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -15,13 +15,6 @@ Generated: 2026-07-27T21:57:59.689Z
 - comments: 6
 - created: 2026-07-25T16:09:09.000Z
 - matched query: app OR website pinyin hanzi
-
-## [Documenting Gan Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1v8edxb/documenting_gan_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-07-27T21:48:25.000Z
-- matched query: resource
 
 ## [Chinese Telegraph Code in practice: decoding handwritten Morse into “你好”](https://old.reddit.com/r/ChineseLanguage/comments/1v2itpl/chinese_telegraph_code_in_practice_decoding/)
 - subreddit: r/ChineseLanguage
@@ -43,6 +36,20 @@ Generated: 2026-07-27T21:57:59.689Z
 - comments: 30
 - created: 2026-06-29T14:34:18.000Z
 - matched query: "learn chinese" app
+
+## [14 years (2 in Taiwan), and still not fluent. My hard lessons on learning Chinese.](https://old.reddit.com/r/ChineseLanguage/comments/1v8es3m/14_years_2_in_taiwan_and_still_not_fluent_my_hard/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 3
+- created: 2026-07-27T22:03:14.000Z
+- matched query: "learn chinese" app
+
+## [Documenting Gan Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1v8edxb/documenting_gan_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 2
+- created: 2026-07-27T21:48:25.000Z
+- matched query: resource
 
 ## [Need help to learn Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1v8bk18/need_help_to_learn_chinese/)
 - subreddit: r/ChineseLanguage

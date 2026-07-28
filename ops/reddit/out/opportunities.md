@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-28T11:28:20.840Z
+Generated: 2026-07-28T13:13:06.170Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -75,7 +75,7 @@ Generated: 2026-07-28T11:28:20.840Z
 ## [I made a multiplayer browser Chinese word game (any feedback appreciated!!)](https://old.reddit.com/r/ChineseLanguage/comments/1v5ltcp/i_made_a_multiplayer_browser_chinese_word_game/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 3
+- comments: 2
 - created: 2026-07-24T19:44:23.000Z
 - matched query: app OR website pinyin hanzi
 

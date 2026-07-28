@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-27T23:14:09.515Z
+Generated: 2026-07-28T00:13:35.312Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -40,7 +40,7 @@ Generated: 2026-07-27T23:14:09.515Z
 ## [14 years (2 in Taiwan), and still not fluent. My hard lessons on learning Chinese.](https://old.reddit.com/r/ChineseLanguage/comments/1v8es3m/14_years_2_in_taiwan_and_still_not_fluent_my_hard/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 3
+- comments: 5
 - created: 2026-07-27T22:03:14.000Z
 - matched query: "learn chinese" app
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-28T03:41:07.624Z
+Generated: 2026-07-28T06:14:45.483Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -36,6 +36,13 @@ Generated: 2026-07-28T03:41:07.624Z
 - comments: 30
 - created: 2026-06-29T14:34:18.000Z
 - matched query: "learn chinese" app
+
+## [In need of motivation and strcture as an ABC First time language learner](https://old.reddit.com/r/ChineseLanguage/comments/1v8oqx1/in_need_of_motivation_and_strcture_as_an_abc/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 2
+- created: 2026-07-28T05:21:11.000Z
+- matched query: resource
 
 ## [Documenting Gan Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1v8edxb/documenting_gan_chinese/)
 - subreddit: r/ChineseLanguage

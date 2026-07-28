@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-28T15:37:39.016Z
+Generated: 2026-07-28T17:08:01.154Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -11,10 +11,17 @@ Generated: 2026-07-28T15:37:39.016Z
 
 ## [Looking for a Mandarin Chinese only visual dictionary. Pictures and the concept in Hanzi or Pinyin with no english or spanish translations.](https://old.reddit.com/r/ChineseLanguage/comments/1v6ccjq/looking_for_a_mandarin_chinese_only_visual/)
 - subreddit: r/ChineseLanguage
-- score: 8
+- score: 7
 - comments: 6
 - created: 2026-07-25T16:09:09.000Z
 - matched query: app OR website pinyin hanzi
+
+## [Remembering the Zhuyin](https://old.reddit.com/r/ChineseLanguage/comments/1v93z38/remembering_the_zhuyin/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 0
+- created: 2026-07-28T16:47:15.000Z
+- matched query: flashcard app
 
 ## [I need (FUN) chinese studying resources please?](https://old.reddit.com/r/ChineseLanguage/comments/1uy36dv/i_need_fun_chinese_studying_resources_please/)
 - subreddit: r/ChineseLanguage
@@ -33,7 +40,7 @@ Generated: 2026-07-28T15:37:39.016Z
 ## [Learning Chinese as a foreigner](https://old.reddit.com/r/ChineseLanguage/comments/1v8tp1j/learning_chinese_as_a_foreigner/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 3
+- comments: 4
 - created: 2026-07-28T09:52:38.000Z
 - matched query: "learn chinese" app
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-28T17:08:01.154Z
+Generated: 2026-07-28T18:44:51.411Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -16,11 +16,11 @@ Generated: 2026-07-28T17:08:01.154Z
 - created: 2026-07-25T16:09:09.000Z
 - matched query: app OR website pinyin hanzi
 
-## [Remembering the Zhuyin](https://old.reddit.com/r/ChineseLanguage/comments/1v93z38/remembering_the_zhuyin/)
+## [Remembering the Zhuyin](https://old.reddit.com/r/ChineseLanguage/comments/1v95k7w/remembering_the_zhuyin/)
 - subreddit: r/ChineseLanguage
 - score: 6
 - comments: 0
-- created: 2026-07-28T16:47:15.000Z
+- created: 2026-07-28T17:43:08.000Z
 - matched query: flashcard app
 
 ## [I need (FUN) chinese studying resources please?](https://old.reddit.com/r/ChineseLanguage/comments/1uy36dv/i_need_fun_chinese_studying_resources_please/)

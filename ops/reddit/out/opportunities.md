@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-28T13:13:06.170Z
+Generated: 2026-07-28T15:37:39.016Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -15,13 +15,6 @@ Generated: 2026-07-28T13:13:06.170Z
 - comments: 6
 - created: 2026-07-25T16:09:09.000Z
 - matched query: app OR website pinyin hanzi
-
-## [Chinese Telegraph Code in practice: decoding handwritten Morse into “你好”](https://old.reddit.com/r/ChineseLanguage/comments/1v2itpl/chinese_telegraph_code_in_practice_decoding/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-07-21T13:42:00.000Z
-- matched query: "learn chinese" app
 
 ## [I need (FUN) chinese studying resources please?](https://old.reddit.com/r/ChineseLanguage/comments/1uy36dv/i_need_fun_chinese_studying_resources_please/)
 - subreddit: r/ChineseLanguage
@@ -61,7 +54,7 @@ Generated: 2026-07-28T13:13:06.170Z
 ## [Documenting Gan Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1v8edxb/documenting_gan_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 5
+- comments: 6
 - created: 2026-07-27T21:48:25.000Z
 - matched query: resource
 
@@ -85,6 +78,13 @@ Generated: 2026-07-28T13:13:06.170Z
 - comments: 1
 - created: 2026-07-22T02:11:27.000Z
 - matched query: resource
+
+## [Chinese Telegraph Code in practice: decoding handwritten Morse into “你好”](https://old.reddit.com/r/ChineseLanguage/comments/1v2itpl/chinese_telegraph_code_in_practice_decoding/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 0
+- created: 2026-07-21T13:42:00.000Z
+- matched query: "learn chinese" app
 
 ## [How to study HSK 6 or more as someone with a background](https://old.reddit.com/r/ChineseLanguage/comments/1v7we16/how_to_study_hsk_6_or_more_as_someone_with_a/)
 - subreddit: r/ChineseLanguage

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-28T18:44:51.411Z
+Generated: 2026-07-28T20:08:42.911Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -40,7 +40,7 @@ Generated: 2026-07-28T18:44:51.411Z
 ## [Learning Chinese as a foreigner](https://old.reddit.com/r/ChineseLanguage/comments/1v8tp1j/learning_chinese_as_a_foreigner/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 4
+- comments: 5
 - created: 2026-07-28T09:52:38.000Z
 - matched query: "learn chinese" app
 
@@ -65,13 +65,6 @@ Generated: 2026-07-28T18:44:51.411Z
 - created: 2026-07-27T21:48:25.000Z
 - matched query: resource
 
-## [Need help to learn Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1v8bk18/need_help_to_learn_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 8
-- created: 2026-07-27T20:04:51.000Z
-- matched query: "learn chinese" app
-
 ## [I made a multiplayer browser Chinese word game (any feedback appreciated!!)](https://old.reddit.com/r/ChineseLanguage/comments/1v5ltcp/i_made_a_multiplayer_browser_chinese_word_game/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -91,6 +84,13 @@ Generated: 2026-07-28T18:44:51.411Z
 - score: 5
 - comments: 0
 - created: 2026-07-21T13:42:00.000Z
+- matched query: "learn chinese" app
+
+## [Need help to learn Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1v8bk18/need_help_to_learn_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 8
+- created: 2026-07-27T20:04:51.000Z
 - matched query: "learn chinese" app
 
 ## [How to study HSK 6 or more as someone with a background](https://old.reddit.com/r/ChineseLanguage/comments/1v7we16/how_to_study_hsk_6_or_more_as_someone_with_a/)

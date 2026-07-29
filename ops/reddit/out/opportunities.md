@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-29T14:37:31.660Z
+Generated: 2026-07-29T16:09:19.308Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -33,7 +33,7 @@ Generated: 2026-07-29T14:37:31.660Z
 ## [Remembering the Zhuyin](https://old.reddit.com/r/ChineseLanguage/comments/1v95k7w/remembering_the_zhuyin/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 2
+- comments: 4
 - created: 2026-07-28T17:43:08.000Z
 - matched query: flashcard app
 
@@ -54,7 +54,7 @@ Generated: 2026-07-29T14:37:31.660Z
 ## [Learning Chinese as a foreigner](https://old.reddit.com/r/ChineseLanguage/comments/1v8tp1j/learning_chinese_as_a_foreigner/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 6
+- comments: 7
 - created: 2026-07-28T09:52:38.000Z
 - matched query: "learn chinese" app
 
@@ -82,7 +82,7 @@ Generated: 2026-07-29T14:37:31.660Z
 ## [Need help to learn Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1v8bk18/need_help_to_learn_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 8
+- comments: 9
 - created: 2026-07-27T20:04:51.000Z
 - matched query: "learn chinese" app
 

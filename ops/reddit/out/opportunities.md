@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-29T04:32:16.857Z
+Generated: 2026-07-29T07:25:34.270Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -44,20 +44,6 @@ Generated: 2026-07-29T04:32:16.857Z
 - created: 2026-07-28T09:52:38.000Z
 - matched query: "learn chinese" app
 
-## [Chinese exam help!](https://old.reddit.com/r/ChineseLanguage/comments/1v8qy04/chinese_exam_help/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 3
-- created: 2026-07-28T07:18:30.000Z
-- matched query: flashcard app
-
-## [In need of motivation and strcture as an ABC First time language learner](https://old.reddit.com/r/ChineseLanguage/comments/1v8oqx1/in_need_of_motivation_and_strcture_as_an_abc/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 2
-- created: 2026-07-28T05:21:11.000Z
-- matched query: resource
-
 ## [I made a multiplayer browser Chinese word game (any feedback appreciated!!)](https://old.reddit.com/r/ChineseLanguage/comments/1v5ltcp/i_made_a_multiplayer_browser_chinese_word_game/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -72,10 +58,24 @@ Generated: 2026-07-29T04:32:16.857Z
 - created: 2026-07-21T13:42:00.000Z
 - matched query: "learn chinese" app
 
+## [Chinese exam help!](https://old.reddit.com/r/ChineseLanguage/comments/1v8qy04/chinese_exam_help/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 3
+- created: 2026-07-28T07:18:30.000Z
+- matched query: flashcard app
+
+## [In need of motivation and strcture as an ABC First time language learner](https://old.reddit.com/r/ChineseLanguage/comments/1v8oqx1/in_need_of_motivation_and_strcture_as_an_abc/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 2
+- created: 2026-07-28T05:21:11.000Z
+- matched query: resource
+
 ## [Documenting Gan Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1v8edxb/documenting_gan_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 6
+- comments: 7
 - created: 2026-07-27T21:48:25.000Z
 - matched query: resource
 

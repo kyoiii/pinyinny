@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-29T01:10:18.742Z
+Generated: 2026-07-29T04:32:16.857Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -65,13 +65,6 @@ Generated: 2026-07-29T01:10:18.742Z
 - created: 2026-07-24T19:44:23.000Z
 - matched query: app OR website pinyin hanzi
 
-## [Any great beginner friendly options?](https://old.reddit.com/r/ChineseLanguage/comments/1v32oim/any_great_beginner_friendly_options/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 1
-- created: 2026-07-22T02:11:27.000Z
-- matched query: resource
-
 ## [Chinese Telegraph Code in practice: decoding handwritten Morse into “你好”](https://old.reddit.com/r/ChineseLanguage/comments/1v2itpl/chinese_telegraph_code_in_practice_decoding/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -105,6 +98,13 @@ Generated: 2026-07-29T01:10:18.742Z
 - score: 4
 - comments: 0
 - created: 2026-07-22T10:40:31.000Z
+- matched query: resource
+
+## [Any great beginner friendly options?](https://old.reddit.com/r/ChineseLanguage/comments/1v32oim/any_great_beginner_friendly_options/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 1
+- created: 2026-07-22T02:11:27.000Z
 - matched query: resource
 
 ## [Japanese vs Chinese - which want do I learn?](https://old.reddit.com/r/ChineseLanguage/comments/1v2feph/japanese_vs_chinese_which_want_do_i_learn/)

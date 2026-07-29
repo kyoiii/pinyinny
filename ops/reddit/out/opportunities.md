@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-29T17:38:53.410Z
+Generated: 2026-07-29T18:41:39.270Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -30,13 +30,6 @@ Generated: 2026-07-29T17:38:53.410Z
 - created: 2026-06-29T14:34:18.000Z
 - matched query: "learn chinese" app
 
-## [Remembering the Zhuyin](https://old.reddit.com/r/ChineseLanguage/comments/1v95k7w/remembering_the_zhuyin/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 4
-- created: 2026-07-28T17:43:08.000Z
-- matched query: flashcard app
-
 ## [I made a multiplayer browser Chinese word game (any feedback appreciated!!)](https://old.reddit.com/r/ChineseLanguage/comments/1v5ltcp/i_made_a_multiplayer_browser_chinese_word_game/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -50,6 +43,13 @@ Generated: 2026-07-29T17:38:53.410Z
 - comments: 0
 - created: 2026-07-21T13:42:00.000Z
 - matched query: "learn chinese" app
+
+## [Remembering the Zhuyin](https://old.reddit.com/r/ChineseLanguage/comments/1v95k7w/remembering_the_zhuyin/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 4
+- created: 2026-07-28T17:43:08.000Z
+- matched query: flashcard app
 
 ## [Learning Chinese as a foreigner](https://old.reddit.com/r/ChineseLanguage/comments/1v8tp1j/learning_chinese_as_a_foreigner/)
 - subreddit: r/ChineseLanguage

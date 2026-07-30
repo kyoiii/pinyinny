@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-30T21:18:59.624Z
+Generated: 2026-07-30T22:31:52.993Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -19,7 +19,7 @@ Generated: 2026-07-30T21:18:59.624Z
 ## [Looking for a Mandarin Chinese only visual dictionary. Pictures and the concept in Hanzi or Pinyin with no english or spanish translations.](https://old.reddit.com/r/ChineseLanguage/comments/1v6ccjq/looking_for_a_mandarin_chinese_only_visual/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 6
+- comments: 7
 - created: 2026-07-25T16:09:09.000Z
 - matched query: app OR website pinyin hanzi
 
@@ -51,13 +51,6 @@ Generated: 2026-07-30T21:18:59.624Z
 - created: 2026-07-30T01:53:45.000Z
 - matched query: resource
 
-## [Being fluent](https://old.reddit.com/r/ChineseLanguage/comments/1vaa14b/being_fluent/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 21
-- created: 2026-07-29T21:42:12.000Z
-- matched query: "learn chinese" app
-
 ## [I made a multiplayer browser Chinese word game (any feedback appreciated!!)](https://old.reddit.com/r/ChineseLanguage/comments/1v5ltcp/i_made_a_multiplayer_browser_chinese_word_game/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -70,6 +63,13 @@ Generated: 2026-07-30T21:18:59.624Z
 - score: 5
 - comments: 0
 - created: 2026-07-21T13:42:00.000Z
+- matched query: "learn chinese" app
+
+## [Being fluent](https://old.reddit.com/r/ChineseLanguage/comments/1vaa14b/being_fluent/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 22
+- created: 2026-07-29T21:42:12.000Z
 - matched query: "learn chinese" app
 
 ## [Learning Chinese as a foreigner](https://old.reddit.com/r/ChineseLanguage/comments/1v8tp1j/learning_chinese_as_a_foreigner/)
@@ -91,13 +91,6 @@ Generated: 2026-07-30T21:18:59.624Z
 - score: 4
 - comments: 2
 - created: 2026-07-28T05:21:11.000Z
-- matched query: resource
-
-## [Documenting Gan Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1v8edxb/documenting_gan_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 7
-- created: 2026-07-27T21:48:25.000Z
 - matched query: resource
 
 ## [Japanese vs Chinese - which want do I learn?](https://old.reddit.com/r/ChineseLanguage/comments/1v2feph/japanese_vs_chinese_which_want_do_i_learn/)

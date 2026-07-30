@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-30T06:12:37.581Z
+Generated: 2026-07-30T09:04:59.028Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -8,6 +8,13 @@ Generated: 2026-07-30T06:12:37.581Z
 - comments: 1
 - created: 2026-07-04T09:29:23.000Z
 - matched query: app OR website pinyin hanzi
+
+## [If you had to recommend one Chinese textbook to a beginner, which one would it be? Why?](https://old.reddit.com/r/ChineseLanguage/comments/1vanh00/if_you_had_to_recommend_one_chinese_textbook_to_a/)
+- subreddit: r/ChineseLanguage
+- score: 9
+- comments: 1
+- created: 2026-07-30T08:16:47.000Z
+- matched query: "learn chinese" app
 
 ## [Looking for a Mandarin Chinese only visual dictionary. Pictures and the concept in Hanzi or Pinyin with no english or spanish translations.](https://old.reddit.com/r/ChineseLanguage/comments/1v6ccjq/looking_for_a_mandarin_chinese_only_visual/)
 - subreddit: r/ChineseLanguage
@@ -33,21 +40,21 @@ Generated: 2026-07-30T06:12:37.581Z
 ## [6 months learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1vah42t/6_months_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 3
+- comments: 4
 - created: 2026-07-30T02:42:51.000Z
 - matched query: resource
 
 ## [Help me identify the Hakka dialect spoken by my relatives](https://old.reddit.com/r/ChineseLanguage/comments/1vag0yk/help_me_identify_the_hakka_dialect_spoken_by_my/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 1
+- comments: 5
 - created: 2026-07-30T01:53:45.000Z
 - matched query: resource
 
 ## [Being fluent](https://old.reddit.com/r/ChineseLanguage/comments/1vaa14b/being_fluent/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 16
+- comments: 21
 - created: 2026-07-29T21:42:12.000Z
 - matched query: "learn chinese" app
 
@@ -75,7 +82,7 @@ Generated: 2026-07-30T06:12:37.581Z
 ## [Chinese exam help!](https://old.reddit.com/r/ChineseLanguage/comments/1v8qy04/chinese_exam_help/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 5
+- comments: 6
 - created: 2026-07-28T07:18:30.000Z
 - matched query: flashcard app
 

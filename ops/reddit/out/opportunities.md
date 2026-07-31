@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-31T12:23:01.813Z
+Generated: 2026-07-31T14:56:49.987Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -12,7 +12,7 @@ Generated: 2026-07-31T12:23:01.813Z
 ## [If you had to recommend one Chinese textbook to a beginner, which one would it be? Why?](https://old.reddit.com/r/ChineseLanguage/comments/1vanh00/if_you_had_to_recommend_one_chinese_textbook_to_a/)
 - subreddit: r/ChineseLanguage
 - score: 8
-- comments: 11
+- comments: 12
 - created: 2026-07-30T08:16:47.000Z
 - matched query: "learn chinese" app
 
@@ -33,7 +33,7 @@ Generated: 2026-07-31T12:23:01.813Z
 ## [Trying to get to HSK 1 before leaving](https://old.reddit.com/r/ChineseLanguage/comments/1vbdin4/trying_to_get_to_hsk_1_before_leaving/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 6
+- comments: 5
 - created: 2026-07-31T02:09:46.000Z
 - matched query: resource
 
@@ -61,7 +61,7 @@ Generated: 2026-07-31T12:23:01.813Z
 ## [Help me identify the Hakka dialect spoken by my relatives](https://old.reddit.com/r/ChineseLanguage/comments/1vag0yk/help_me_identify_the_hakka_dialect_spoken_by_my/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 6
+- comments: 7
 - created: 2026-07-30T01:53:45.000Z
 - matched query: resource
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-30T23:37:03.905Z
+Generated: 2026-07-31T01:12:32.526Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -28,13 +28,6 @@ Generated: 2026-07-30T23:37:03.905Z
 - score: 6
 - comments: 10
 - created: 2026-07-16T13:39:13.000Z
-- matched query: "learn chinese" app
-
-## [Non-ai app for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1uiu7xl/nonai_app_for_learning_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 30
-- created: 2026-06-29T14:34:18.000Z
 - matched query: "learn chinese" app
 
 ## [6 months learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1vah42t/6_months_learning_chinese/)
@@ -106,11 +99,4 @@ Generated: 2026-07-30T23:37:03.905Z
 - comments: 13
 - created: 2026-07-09T20:34:22.000Z
 - matched query: flashcard app
-
-## [Is the Du Chinese app worth it?](https://old.reddit.com/r/ChineseLanguage/comments/1uiwlud/is_the_du_chinese_app_worth_it/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 34
-- created: 2026-06-29T16:01:14.000Z
-- matched query: "learn chinese" app
 

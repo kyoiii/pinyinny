@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-31T21:10:51.571Z
+Generated: 2026-07-31T22:16:32.624Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -19,7 +19,7 @@ Generated: 2026-07-31T21:10:51.571Z
 ## [Is HSK good for someone wanting structured learning but doesn’t plan on taking the test?](https://old.reddit.com/r/ChineseLanguage/comments/1vc19i5/is_hsk_good_for_someone_wanting_structured/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 1
+- comments: 4
 - created: 2026-07-31T19:48:29.000Z
 - matched query: resource
 
@@ -68,7 +68,7 @@ Generated: 2026-07-31T21:10:51.571Z
 ## [Being fluent](https://old.reddit.com/r/ChineseLanguage/comments/1vaa14b/being_fluent/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 22
+- comments: 23
 - created: 2026-07-29T21:42:12.000Z
 - matched query: "learn chinese" app
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-31T04:45:08.892Z
+Generated: 2026-07-31T07:39:14.969Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -78,20 +78,6 @@ Generated: 2026-07-31T04:45:08.892Z
 - comments: 8
 - created: 2026-07-28T09:52:38.000Z
 - matched query: "learn chinese" app
-
-## [Chinese exam help!](https://old.reddit.com/r/ChineseLanguage/comments/1v8qy04/chinese_exam_help/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 6
-- created: 2026-07-28T07:18:30.000Z
-- matched query: flashcard app
-
-## [In need of motivation and strcture as an ABC First time language learner](https://old.reddit.com/r/ChineseLanguage/comments/1v8oqx1/in_need_of_motivation_and_strcture_as_an_abc/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 2
-- created: 2026-07-28T05:21:11.000Z
-- matched query: resource
 
 ## [Japanese vs Chinese - which want do I learn?](https://old.reddit.com/r/ChineseLanguage/comments/1v2feph/japanese_vs_chinese_which_want_do_i_learn/)
 - subreddit: r/ChineseLanguage

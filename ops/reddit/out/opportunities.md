@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-07-31T19:57:27.065Z
+Generated: 2026-07-31T21:10:51.571Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -9,19 +9,19 @@ Generated: 2026-07-31T19:57:27.065Z
 - created: 2026-07-04T09:29:23.000Z
 - matched query: app OR website pinyin hanzi
 
-## [Is HSK good for someone wanting structured learning but doesn’t plan on taking the test?](https://old.reddit.com/r/ChineseLanguage/comments/1vc19i5/is_hsk_good_for_someone_wanting_structured/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 0
-- created: 2026-07-31T19:48:29.000Z
-- matched query: resource
-
 ## [If you had to recommend one Chinese textbook to a beginner, which one would it be? Why?](https://old.reddit.com/r/ChineseLanguage/comments/1vanh00/if_you_had_to_recommend_one_chinese_textbook_to_a/)
 - subreddit: r/ChineseLanguage
 - score: 8
 - comments: 12
 - created: 2026-07-30T08:16:47.000Z
 - matched query: "learn chinese" app
+
+## [Is HSK good for someone wanting structured learning but doesn’t plan on taking the test?](https://old.reddit.com/r/ChineseLanguage/comments/1vc19i5/is_hsk_good_for_someone_wanting_structured/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 1
+- created: 2026-07-31T19:48:29.000Z
+- matched query: resource
 
 ## [Looking for a Mandarin Chinese only visual dictionary. Pictures and the concept in Hanzi or Pinyin with no english or spanish translations.](https://old.reddit.com/r/ChineseLanguage/comments/1v6ccjq/looking_for_a_mandarin_chinese_only_visual/)
 - subreddit: r/ChineseLanguage

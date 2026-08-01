@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-01T21:12:34.350Z
+Generated: 2026-08-01T22:13:27.073Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -71,13 +71,6 @@ Generated: 2026-08-01T21:12:34.350Z
 - comments: 7
 - created: 2026-07-30T01:53:45.000Z
 - matched query: resource
-
-## [Being fluent](https://old.reddit.com/r/ChineseLanguage/comments/1vaa14b/being_fluent/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 23
-- created: 2026-07-29T21:42:12.000Z
-- matched query: "learn chinese" app
 
 ## [I made a multiplayer browser Chinese word game (any feedback appreciated!!)](https://old.reddit.com/r/ChineseLanguage/comments/1v5ltcp/i_made_a_multiplayer_browser_chinese_word_game/)
 - subreddit: r/ChineseLanguage

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-01T01:08:03.975Z
+Generated: 2026-08-01T04:33:18.249Z
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -9,10 +9,17 @@ Generated: 2026-08-01T01:08:03.975Z
 - created: 2026-07-04T09:29:23.000Z
 - matched query: app OR website pinyin hanzi
 
+## [Has anyone tried this app for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1vc97fh/has_anyone_tried_this_app_for_learning_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 9
+- comments: 3
+- created: 2026-08-01T01:11:11.000Z
+- matched query: "learn chinese" app
+
 ## [If you had to recommend one Chinese textbook to a beginner, which one would it be? Why?](https://old.reddit.com/r/ChineseLanguage/comments/1vanh00/if_you_had_to_recommend_one_chinese_textbook_to_a/)
 - subreddit: r/ChineseLanguage
 - score: 8
-- comments: 12
+- comments: 13
 - created: 2026-07-30T08:16:47.000Z
 - matched query: "learn chinese" app
 
@@ -37,19 +44,19 @@ Generated: 2026-08-01T01:08:03.975Z
 - created: 2026-07-16T13:39:13.000Z
 - matched query: "learn chinese" app
 
-## [Trying to get to HSK 1 before leaving](https://old.reddit.com/r/ChineseLanguage/comments/1vbdin4/trying_to_get_to_hsk_1_before_leaving/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 5
-- created: 2026-07-31T02:09:46.000Z
-- matched query: resource
-
 ## [Chinese Telegraph Code in practice: decoding handwritten Morse into “你好”](https://old.reddit.com/r/ChineseLanguage/comments/1v2itpl/chinese_telegraph_code_in_practice_decoding/)
 - subreddit: r/ChineseLanguage
 - score: 5
 - comments: 0
 - created: 2026-07-21T13:42:00.000Z
 - matched query: "learn chinese" app
+
+## [Trying to get to HSK 1 before leaving](https://old.reddit.com/r/ChineseLanguage/comments/1vbdin4/trying_to_get_to_hsk_1_before_leaving/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 5
+- created: 2026-07-31T02:09:46.000Z
+- matched query: resource
 
 ## [6 months learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1vah42t/6_months_learning_chinese/)
 - subreddit: r/ChineseLanguage

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-02T18:42:49.320Z
+Generated: 2026-08-02T19:58:56.823Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -49,6 +49,13 @@ Generated: 2026-08-02T18:42:49.320Z
 - score: 6
 - comments: 10
 - created: 2026-07-16T13:39:13.000Z
+- matched query: "learn chinese" app
+
+## [Learning Chinese by watching series like the Pursuit of Jade](https://old.reddit.com/r/ChineseLanguage/comments/1vdq4ul/learning_chinese_by_watching_series_like_the/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 2
+- created: 2026-08-02T18:50:39.000Z
 - matched query: "learn chinese" app
 
 ## [Looking for feedback from Chinese learners](https://old.reddit.com/r/ChineseLanguage/comments/1vd52ie/looking_for_feedback_from_chinese_learners/)

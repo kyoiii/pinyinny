@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-02T06:41:25.071Z
+Generated: 2026-08-02T09:00:46.973Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -25,7 +25,7 @@ Generated: 2026-08-02T06:41:25.071Z
 
 ## [If you had to recommend one Chinese textbook to a beginner, which one would it be? Why?](https://old.reddit.com/r/ChineseLanguage/comments/1vanh00/if_you_had_to_recommend_one_chinese_textbook_to_a/)
 - subreddit: r/ChineseLanguage
-- score: 8
+- score: 7
 - comments: 13
 - created: 2026-07-30T08:16:47.000Z
 - matched query: "learn chinese" app
@@ -89,7 +89,7 @@ Generated: 2026-08-02T06:41:25.071Z
 ## [Is there an app that trains you to write Chinese characters from memory (which is not Skritter)](https://old.reddit.com/r/ChineseLanguage/comments/1us27my/is_there_an_app_that_trains_you_to_write_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 13
+- comments: 14
 - created: 2026-07-09T20:34:22.000Z
 - matched query: flashcard app
 

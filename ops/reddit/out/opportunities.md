@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-02T03:59:10.187Z
+Generated: 2026-08-02T06:41:25.071Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
 - score: 13
-- comments: 11
+- comments: 15
 - created: 2026-08-02T01:24:35.000Z
 - matched query: app OR website pinyin hanzi
 
@@ -33,7 +33,7 @@ Generated: 2026-08-02T03:59:10.187Z
 ## [Is HSK good for someone wanting structured learning but doesn’t plan on taking the test?](https://old.reddit.com/r/ChineseLanguage/comments/1vc19i5/is_hsk_good_for_someone_wanting_structured/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 6
+- comments: 7
 - created: 2026-07-31T19:48:29.000Z
 - matched query: resource
 
@@ -54,7 +54,7 @@ Generated: 2026-08-02T03:59:10.187Z
 ## [Looking for feedback from Chinese learners](https://old.reddit.com/r/ChineseLanguage/comments/1vd52ie/looking_for_feedback_from_chinese_learners/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 5
+- comments: 3
 - created: 2026-08-02T01:51:04.000Z
 - matched query: "learn chinese" app
 

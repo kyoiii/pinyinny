@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-02T22:07:42.756Z
+Generated: 2026-08-02T23:10:06.813Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -64,6 +64,13 @@ Generated: 2026-08-02T22:07:42.756Z
 - comments: 3
 - created: 2026-08-02T01:51:04.000Z
 - matched query: "learn chinese" app
+
+## [The importance of mindset in language learning](https://old.reddit.com/r/languagelearning/comments/1vc3cz2/the_importance_of_mindset_in_language_learning/)
+- subreddit: r/languagelearning
+- score: 5
+- comments: 0
+- created: 2026-07-31T21:07:14.000Z
+- matched query: "Chinese" app
 
 ## [Chinese Telegraph Code in practice: decoding handwritten Morse into “你好”](https://old.reddit.com/r/ChineseLanguage/comments/1v2itpl/chinese_telegraph_code_in_practice_decoding/)
 - subreddit: r/ChineseLanguage

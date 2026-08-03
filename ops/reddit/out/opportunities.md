@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-03T21:07:08.727Z
+Generated: 2026-08-03T22:17:01.298Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -16,19 +16,19 @@ Generated: 2026-08-03T21:07:08.727Z
 - created: 2026-07-04T09:29:23.000Z
 - matched query: app OR website pinyin hanzi
 
-## [How to improve writing & grammar part by self-studying?](https://old.reddit.com/r/ChineseLanguage/comments/1veo0ap/how_to_improve_writing_grammar_part_by/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 0
-- created: 2026-08-03T19:52:50.000Z
-- matched query: resource
-
 ## [Has anyone tried this app for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1vc97fh/has_anyone_tried_this_app_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 8
 - comments: 8
 - created: 2026-08-01T01:11:11.000Z
 - matched query: "learn chinese" app
+
+## [How to improve writing & grammar part by self-studying?](https://old.reddit.com/r/ChineseLanguage/comments/1veo0ap/how_to_improve_writing_grammar_part_by/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 1
+- created: 2026-08-03T19:52:50.000Z
+- matched query: resource
 
 ## [If you had to recommend one Chinese textbook to a beginner, which one would it be? Why?](https://old.reddit.com/r/ChineseLanguage/comments/1vanh00/if_you_had_to_recommend_one_chinese_textbook_to_a/)
 - subreddit: r/ChineseLanguage
@@ -54,7 +54,7 @@ Generated: 2026-08-03T21:07:08.727Z
 ## [Please help🥲](https://old.reddit.com/r/ChineseLanguage/comments/1ve62sy/please_help/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 16
+- comments: 17
 - created: 2026-08-03T07:04:31.000Z
 - matched query: app OR website pinyin hanzi
 
@@ -85,13 +85,6 @@ Generated: 2026-08-03T21:07:08.727Z
 - comments: 3
 - created: 2026-08-02T01:51:04.000Z
 - matched query: "learn chinese" app
-
-## [The importance of mindset in language learning](https://old.reddit.com/r/languagelearning/comments/1vc3cz2/the_importance_of_mindset_in_language_learning/)
-- subreddit: r/languagelearning
-- score: 4
-- comments: 19
-- created: 2026-07-31T21:07:14.000Z
-- matched query: "Chinese" app
 
 ## [I made a multiplayer browser Chinese word game (any feedback appreciated!!)](https://old.reddit.com/r/ChineseLanguage/comments/1v5ltcp/i_made_a_multiplayer_browser_chinese_word_game/)
 - subreddit: r/ChineseLanguage

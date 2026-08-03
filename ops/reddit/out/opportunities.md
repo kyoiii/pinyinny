@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-03T00:13:30.433Z
+Generated: 2026-08-03T03:59:38.136Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
-- score: 13
-- comments: 16
+- score: 12
+- comments: 18
 - created: 2026-08-02T01:24:35.000Z
 - matched query: app OR website pinyin hanzi
 
@@ -16,19 +16,19 @@ Generated: 2026-08-03T00:13:30.433Z
 - created: 2026-07-04T09:29:23.000Z
 - matched query: app OR website pinyin hanzi
 
-## [What features help you stay consistent with language learning? (TL)](https://old.reddit.com/r/languagelearning/comments/1vdvpgb/what_features_help_you_stay_consistent_with/)
-- subreddit: r/languagelearning
-- score: 8
-- comments: 0
-- created: 2026-08-02T22:34:11.000Z
-- matched query: "Chinese" app
-
 ## [Has anyone tried this app for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1vc97fh/has_anyone_tried_this_app_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 8
 - comments: 8
 - created: 2026-08-01T01:11:11.000Z
 - matched query: "learn chinese" app
+
+## [What features help you stay consistent with language learning? (TL)](https://old.reddit.com/r/languagelearning/comments/1vdvpgb/what_features_help_you_stay_consistent_with/)
+- subreddit: r/languagelearning
+- score: 7
+- comments: 1
+- created: 2026-08-02T22:34:11.000Z
+- matched query: "Chinese" app
 
 ## [If you had to recommend one Chinese textbook to a beginner, which one would it be? Why?](https://old.reddit.com/r/ChineseLanguage/comments/1vanh00/if_you_had_to_recommend_one_chinese_textbook_to_a/)
 - subreddit: r/ChineseLanguage
@@ -61,23 +61,9 @@ Generated: 2026-08-03T00:13:30.433Z
 ## [Learning Chinese by watching series like the Pursuit of Jade](https://old.reddit.com/r/ChineseLanguage/comments/1vdq4ul/learning_chinese_by_watching_series_like_the/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 2
+- comments: 3
 - created: 2026-08-02T18:50:39.000Z
 - matched query: "learn chinese" app
-
-## [Looking for feedback from Chinese learners](https://old.reddit.com/r/ChineseLanguage/comments/1vd52ie/looking_for_feedback_from_chinese_learners/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 3
-- created: 2026-08-02T01:51:04.000Z
-- matched query: "learn chinese" app
-
-## [The importance of mindset in language learning](https://old.reddit.com/r/languagelearning/comments/1vc3cz2/the_importance_of_mindset_in_language_learning/)
-- subreddit: r/languagelearning
-- score: 5
-- comments: 0
-- created: 2026-07-31T21:07:14.000Z
-- matched query: "Chinese" app
 
 ## [Chinese Telegraph Code in practice: decoding handwritten Morse into “你好”](https://old.reddit.com/r/ChineseLanguage/comments/1v2itpl/chinese_telegraph_code_in_practice_decoding/)
 - subreddit: r/ChineseLanguage
@@ -86,12 +72,19 @@ Generated: 2026-08-03T00:13:30.433Z
 - created: 2026-07-21T13:42:00.000Z
 - matched query: "learn chinese" app
 
-## [Trying to get to HSK 1 before leaving](https://old.reddit.com/r/ChineseLanguage/comments/1vbdin4/trying_to_get_to_hsk_1_before_leaving/)
+## [Looking for feedback from Chinese learners](https://old.reddit.com/r/ChineseLanguage/comments/1vd52ie/looking_for_feedback_from_chinese_learners/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 5
-- created: 2026-07-31T02:09:46.000Z
-- matched query: resource
+- comments: 3
+- created: 2026-08-02T01:51:04.000Z
+- matched query: "learn chinese" app
+
+## [The importance of mindset in language learning](https://old.reddit.com/r/languagelearning/comments/1vc3cz2/the_importance_of_mindset_in_language_learning/)
+- subreddit: r/languagelearning
+- score: 4
+- comments: 1
+- created: 2026-07-31T21:07:14.000Z
+- matched query: "Chinese" app
 
 ## [I made a multiplayer browser Chinese word game (any feedback appreciated!!)](https://old.reddit.com/r/ChineseLanguage/comments/1v5ltcp/i_made_a_multiplayer_browser_chinese_word_game/)
 - subreddit: r/ChineseLanguage

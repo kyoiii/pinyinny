@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-03T19:55:51.009Z
+Generated: 2026-08-03T21:07:08.727Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -15,6 +15,13 @@ Generated: 2026-08-03T19:55:51.009Z
 - comments: 1
 - created: 2026-07-04T09:29:23.000Z
 - matched query: app OR website pinyin hanzi
+
+## [How to improve writing & grammar part by self-studying?](https://old.reddit.com/r/ChineseLanguage/comments/1veo0ap/how_to_improve_writing_grammar_part_by/)
+- subreddit: r/ChineseLanguage
+- score: 8
+- comments: 0
+- created: 2026-08-03T19:52:50.000Z
+- matched query: resource
 
 ## [Has anyone tried this app for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1vc97fh/has_anyone_tried_this_app_for_learning_chinese/)
 - subreddit: r/ChineseLanguage

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-02T23:10:06.813Z
+Generated: 2026-08-03T00:13:30.433Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -15,6 +15,13 @@ Generated: 2026-08-02T23:10:06.813Z
 - comments: 1
 - created: 2026-07-04T09:29:23.000Z
 - matched query: app OR website pinyin hanzi
+
+## [What features help you stay consistent with language learning? (TL)](https://old.reddit.com/r/languagelearning/comments/1vdvpgb/what_features_help_you_stay_consistent_with/)
+- subreddit: r/languagelearning
+- score: 8
+- comments: 0
+- created: 2026-08-02T22:34:11.000Z
+- matched query: "Chinese" app
 
 ## [Has anyone tried this app for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1vc97fh/has_anyone_tried_this_app_for_learning_chinese/)
 - subreddit: r/ChineseLanguage

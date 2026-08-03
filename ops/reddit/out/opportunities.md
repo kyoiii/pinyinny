@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-03T16:10:45.721Z
+Generated: 2026-08-03T18:07:05.078Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -54,7 +54,7 @@ Generated: 2026-08-03T16:10:45.721Z
 ## [Please help🥲](https://old.reddit.com/r/ChineseLanguage/comments/1ve62sy/please_help/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 14
+- comments: 15
 - created: 2026-08-03T07:04:31.000Z
 - matched query: app OR website pinyin hanzi
 
@@ -82,7 +82,7 @@ Generated: 2026-08-03T16:10:45.721Z
 ## [The importance of mindset in language learning](https://old.reddit.com/r/languagelearning/comments/1vc3cz2/the_importance_of_mindset_in_language_learning/)
 - subreddit: r/languagelearning
 - score: 4
-- comments: 7
+- comments: 11
 - created: 2026-07-31T21:07:14.000Z
 - matched query: "Chinese" app
 

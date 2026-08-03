@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-03T03:59:38.136Z
+Generated: 2026-08-03T07:38:31.427Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -26,7 +26,7 @@ Generated: 2026-08-03T03:59:38.136Z
 ## [What features help you stay consistent with language learning? (TL)](https://old.reddit.com/r/languagelearning/comments/1vdvpgb/what_features_help_you_stay_consistent_with/)
 - subreddit: r/languagelearning
 - score: 7
-- comments: 1
+- comments: 4
 - created: 2026-08-02T22:34:11.000Z
 - matched query: "Chinese" app
 
@@ -58,6 +58,13 @@ Generated: 2026-08-03T03:59:38.136Z
 - created: 2026-07-16T13:39:13.000Z
 - matched query: "learn chinese" app
 
+## [Please help🥲](https://old.reddit.com/r/ChineseLanguage/comments/1ve62sy/please_help/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 2
+- created: 2026-08-03T07:04:31.000Z
+- matched query: app OR website pinyin hanzi
+
 ## [Learning Chinese by watching series like the Pursuit of Jade](https://old.reddit.com/r/ChineseLanguage/comments/1vdq4ul/learning_chinese_by_watching_series_like_the/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -82,7 +89,7 @@ Generated: 2026-08-03T03:59:38.136Z
 ## [The importance of mindset in language learning](https://old.reddit.com/r/languagelearning/comments/1vc3cz2/the_importance_of_mindset_in_language_learning/)
 - subreddit: r/languagelearning
 - score: 4
-- comments: 1
+- comments: 2
 - created: 2026-07-31T21:07:14.000Z
 - matched query: "Chinese" app
 

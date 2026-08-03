@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-03T18:07:05.078Z
+Generated: 2026-08-03T19:55:51.009Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -30,13 +30,6 @@ Generated: 2026-08-03T18:07:05.078Z
 - created: 2026-07-30T08:16:47.000Z
 - matched query: "learn chinese" app
 
-## [Is HSK good for someone wanting structured learning but doesn’t plan on taking the test?](https://old.reddit.com/r/ChineseLanguage/comments/1vc19i5/is_hsk_good_for_someone_wanting_structured/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 7
-- created: 2026-07-31T19:48:29.000Z
-- matched query: resource
-
 ## [Looking for a Mandarin Chinese only visual dictionary. Pictures and the concept in Hanzi or Pinyin with no english or spanish translations.](https://old.reddit.com/r/ChineseLanguage/comments/1v6ccjq/looking_for_a_mandarin_chinese_only_visual/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -54,22 +47,29 @@ Generated: 2026-08-03T18:07:05.078Z
 ## [Please help🥲](https://old.reddit.com/r/ChineseLanguage/comments/1ve62sy/please_help/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 15
+- comments: 16
 - created: 2026-08-03T07:04:31.000Z
 - matched query: app OR website pinyin hanzi
 
-## [Learning Chinese by watching series like the Pursuit of Jade](https://old.reddit.com/r/ChineseLanguage/comments/1vdq4ul/learning_chinese_by_watching_series_like_the/)
+## [Is HSK good for someone wanting structured learning but doesn’t plan on taking the test?](https://old.reddit.com/r/ChineseLanguage/comments/1vc19i5/is_hsk_good_for_someone_wanting_structured/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 3
-- created: 2026-08-02T18:50:39.000Z
-- matched query: "learn chinese" app
+- comments: 7
+- created: 2026-07-31T19:48:29.000Z
+- matched query: resource
 
 ## [Chinese Telegraph Code in practice: decoding handwritten Morse into “你好”](https://old.reddit.com/r/ChineseLanguage/comments/1v2itpl/chinese_telegraph_code_in_practice_decoding/)
 - subreddit: r/ChineseLanguage
 - score: 5
 - comments: 0
 - created: 2026-07-21T13:42:00.000Z
+- matched query: "learn chinese" app
+
+## [Learning Chinese by watching series like the Pursuit of Jade](https://old.reddit.com/r/ChineseLanguage/comments/1vdq4ul/learning_chinese_by_watching_series_like_the/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 3
+- created: 2026-08-02T18:50:39.000Z
 - matched query: "learn chinese" app
 
 ## [Looking for feedback from Chinese learners](https://old.reddit.com/r/ChineseLanguage/comments/1vd52ie/looking_for_feedback_from_chinese_learners/)
@@ -82,7 +82,7 @@ Generated: 2026-08-03T18:07:05.078Z
 ## [The importance of mindset in language learning](https://old.reddit.com/r/languagelearning/comments/1vc3cz2/the_importance_of_mindset_in_language_learning/)
 - subreddit: r/languagelearning
 - score: 4
-- comments: 11
+- comments: 19
 - created: 2026-07-31T21:07:14.000Z
 - matched query: "Chinese" app
 

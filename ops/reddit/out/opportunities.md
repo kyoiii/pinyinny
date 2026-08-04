@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-04T12:14:11.405Z
+Generated: 2026-08-04T14:43:13.607Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -8,6 +8,13 @@ Generated: 2026-08-04T12:14:11.405Z
 - comments: 18
 - created: 2026-08-02T01:24:35.000Z
 - matched query: app OR website pinyin hanzi
+
+## [I built a free Chinese tone practice tool with real human audio and Taiwanese pronunciation](https://old.reddit.com/r/ChineseLanguage/comments/1vfao4d/i_built_a_free_chinese_tone_practice_tool_with/)
+- subreddit: r/ChineseLanguage
+- score: 10
+- comments: 0
+- created: 2026-08-04T13:40:05.000Z
+- matched query: resource
 
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
@@ -26,7 +33,7 @@ Generated: 2026-08-04T12:14:11.405Z
 ## [Has AI become accurate enough for language learners to start using it in certain circumstances?](https://old.reddit.com/r/languagelearning/comments/1vezu4l/has_ai_become_accurate_enough_for_language/)
 - subreddit: r/languagelearning
 - score: 7
-- comments: 25
+- comments: 27
 - created: 2026-08-04T04:14:20.000Z
 - matched query: "Chinese" resource
 
@@ -89,7 +96,7 @@ Generated: 2026-08-04T12:14:11.405Z
 ## [Please help🥲](https://old.reddit.com/r/ChineseLanguage/comments/1ve62sy/please_help/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 19
+- comments: 25
 - created: 2026-08-03T07:04:31.000Z
 - matched query: app OR website pinyin hanzi
 

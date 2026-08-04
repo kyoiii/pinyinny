@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-04T22:35:35.025Z
+Generated: 2026-08-04T23:40:51.251Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -26,14 +26,14 @@ Generated: 2026-08-04T22:35:35.025Z
 ## [where should i start ?](https://old.reddit.com/r/ChineseLanguage/comments/1vf4p0u/where_should_i_start/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 3
+- comments: 4
 - created: 2026-08-04T08:45:41.000Z
 - matched query: resource
 
 ## [Has AI become accurate enough for language learners to start using it in certain circumstances?](https://old.reddit.com/r/languagelearning/comments/1vezu4l/has_ai_become_accurate_enough_for_language/)
 - subreddit: r/languagelearning
 - score: 7
-- comments: 27
+- comments: 28
 - created: 2026-08-04T04:14:20.000Z
 - matched query: "Chinese" resource
 
@@ -89,7 +89,7 @@ Generated: 2026-08-04T22:35:35.025Z
 ## [ABC learning chinese](https://old.reddit.com/r/ChineseLanguage/comments/1veua8r/abc_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 5
+- comments: 6
 - created: 2026-08-04T00:00:23.000Z
 - matched query: "learn chinese" app
 

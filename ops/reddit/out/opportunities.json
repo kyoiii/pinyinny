@@ -56,17 +56,6 @@
   },
   {
     "subreddit": "ChineseLanguage",
-    "query": "resource",
-    "title": "How to improve writing & grammar part by self-studying?",
-    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1veo0ap/how_to_improve_writing_grammar_part_by/",
-    "created_utc": 1785786770,
-    "created_at": "2026-08-03T19:52:50.000Z",
-    "num_comments": 2,
-    "author": "NoWrapp",
-    "score": 7
-  },
-  {
-    "subreddit": "ChineseLanguage",
     "query": "\"learn chinese\" app",
     "title": "Has anyone tried this app for learning chinese?",
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1vc97fh/has_anyone_tried_this_app_for_learning_chinese/",
@@ -89,6 +78,17 @@
   },
   {
     "subreddit": "ChineseLanguage",
+    "query": "resource",
+    "title": "How to improve writing & grammar part by self-studying?",
+    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1veo0ap/how_to_improve_writing_grammar_part_by/",
+    "created_utc": 1785786770,
+    "created_at": "2026-08-03T19:52:50.000Z",
+    "num_comments": 2,
+    "author": "NoWrapp",
+    "score": 6
+  },
+  {
+    "subreddit": "ChineseLanguage",
     "query": "app OR website pinyin hanzi",
     "title": "Looking for a Mandarin Chinese only visual dictionary. Pictures and the concept in Hanzi or Pinyin with no english or spanish translations.",
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1v6ccjq/looking_for_a_mandarin_chinese_only_visual/",
@@ -108,6 +108,28 @@
     "num_comments": 10,
     "author": "onnewayout",
     "score": 6
+  },
+  {
+    "subreddit": "ChineseLanguage",
+    "query": "resource",
+    "title": "I built a free open-source HSK 1-3 reader, flash card, games",
+    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1vfk9tg/i_built_a_free_opensource_hsk_13_reader_flash/",
+    "created_utc": 1785871515,
+    "created_at": "2026-08-04T19:25:15.000Z",
+    "num_comments": 2,
+    "author": "pourteaux",
+    "score": 5
+  },
+  {
+    "subreddit": "ChineseLanguage",
+    "query": "app OR website pinyin hanzi",
+    "title": "Shoutout - LazyChinese CI",
+    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1vfjwxr/shoutout_lazychinese_ci/",
+    "created_utc": 1785870736,
+    "created_at": "2026-08-04T19:12:16.000Z",
+    "num_comments": 1,
+    "author": "Imaginary-Cellist918",
+    "score": 5
   },
   {
     "subreddit": "ChineseLanguage",
@@ -195,17 +217,6 @@
     "created_at": "2026-07-21T11:13:36.000Z",
     "num_comments": 13,
     "author": "Impressive-Run306",
-    "score": 4
-  },
-  {
-    "subreddit": "ChineseLanguage",
-    "query": "flashcard app",
-    "title": "Is there an app that trains you to write Chinese characters from memory (which is not Skritter)",
-    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1us27my/is_there_an_app_that_trains_you_to_write_chinese/",
-    "created_utc": 1783629262,
-    "created_at": "2026-07-09T20:34:22.000Z",
-    "num_comments": 14,
-    "author": "lazier_garlic",
     "score": 4
   }
 ]

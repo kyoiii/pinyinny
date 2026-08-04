@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-04T18:16:15.024Z
+Generated: 2026-08-04T20:02:46.342Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -37,13 +37,6 @@ Generated: 2026-08-04T18:16:15.024Z
 - created: 2026-08-04T04:14:20.000Z
 - matched query: "Chinese" resource
 
-## [How to improve writing & grammar part by self-studying?](https://old.reddit.com/r/ChineseLanguage/comments/1veo0ap/how_to_improve_writing_grammar_part_by/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 2
-- created: 2026-08-03T19:52:50.000Z
-- matched query: resource
-
 ## [Has anyone tried this app for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1vc97fh/has_anyone_tried_this_app_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 7
@@ -58,6 +51,13 @@ Generated: 2026-08-04T18:16:15.024Z
 - created: 2026-07-30T08:16:47.000Z
 - matched query: "learn chinese" app
 
+## [How to improve writing & grammar part by self-studying?](https://old.reddit.com/r/ChineseLanguage/comments/1veo0ap/how_to_improve_writing_grammar_part_by/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 2
+- created: 2026-08-03T19:52:50.000Z
+- matched query: resource
+
 ## [Looking for a Mandarin Chinese only visual dictionary. Pictures and the concept in Hanzi or Pinyin with no english or spanish translations.](https://old.reddit.com/r/ChineseLanguage/comments/1v6ccjq/looking_for_a_mandarin_chinese_only_visual/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -71,6 +71,20 @@ Generated: 2026-08-04T18:16:15.024Z
 - comments: 10
 - created: 2026-07-16T13:39:13.000Z
 - matched query: "learn chinese" app
+
+## [I built a free open-source HSK 1-3 reader, flash card, games](https://old.reddit.com/r/ChineseLanguage/comments/1vfk9tg/i_built_a_free_opensource_hsk_13_reader_flash/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 2
+- created: 2026-08-04T19:25:15.000Z
+- matched query: resource
+
+## [Shoutout - LazyChinese CI](https://old.reddit.com/r/ChineseLanguage/comments/1vfjwxr/shoutout_lazychinese_ci/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 1
+- created: 2026-08-04T19:12:16.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [ABC learning chinese](https://old.reddit.com/r/ChineseLanguage/comments/1veua8r/abc_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -127,11 +141,4 @@ Generated: 2026-08-04T18:16:15.024Z
 - comments: 13
 - created: 2026-07-21T11:13:36.000Z
 - matched query: "learn chinese" app
-
-## [Is there an app that trains you to write Chinese characters from memory (which is not Skritter)](https://old.reddit.com/r/ChineseLanguage/comments/1us27my/is_there_an_app_that_trains_you_to_write_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 14
-- created: 2026-07-09T20:34:22.000Z
-- matched query: flashcard app
 

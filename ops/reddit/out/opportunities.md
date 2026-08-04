@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-03T23:32:05.989Z
+Generated: 2026-08-04T01:04:04.497Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -49,6 +49,13 @@ Generated: 2026-08-03T23:32:05.989Z
 - score: 6
 - comments: 10
 - created: 2026-07-16T13:39:13.000Z
+- matched query: "learn chinese" app
+
+## [ABC learning chinese](https://old.reddit.com/r/ChineseLanguage/comments/1veua8r/abc_learning_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 2
+- created: 2026-08-04T00:00:23.000Z
 - matched query: "learn chinese" app
 
 ## [Please help🥲](https://old.reddit.com/r/ChineseLanguage/comments/1ve62sy/please_help/)

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-04T04:26:47.592Z
+Generated: 2026-08-04T07:16:23.473Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -19,7 +19,7 @@ Generated: 2026-08-04T04:26:47.592Z
 ## [Has AI become accurate enough for language learners to start using it in certain circumstances?](https://old.reddit.com/r/languagelearning/comments/1vezu4l/has_ai_become_accurate_enough_for_language/)
 - subreddit: r/languagelearning
 - score: 7
-- comments: 5
+- comments: 11
 - created: 2026-08-04T04:14:20.000Z
 - matched query: "Chinese" resource
 
@@ -61,16 +61,9 @@ Generated: 2026-08-04T04:26:47.592Z
 ## [ABC learning chinese](https://old.reddit.com/r/ChineseLanguage/comments/1veua8r/abc_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 2
+- comments: 4
 - created: 2026-08-04T00:00:23.000Z
 - matched query: "learn chinese" app
-
-## [Please help🥲](https://old.reddit.com/r/ChineseLanguage/comments/1ve62sy/please_help/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 17
-- created: 2026-08-03T07:04:31.000Z
-- matched query: app OR website pinyin hanzi
 
 ## [Is HSK good for someone wanting structured learning but doesn’t plan on taking the test?](https://old.reddit.com/r/ChineseLanguage/comments/1vc19i5/is_hsk_good_for_someone_wanting_structured/)
 - subreddit: r/ChineseLanguage
@@ -85,6 +78,13 @@ Generated: 2026-08-04T04:26:47.592Z
 - comments: 0
 - created: 2026-07-21T13:42:00.000Z
 - matched query: "learn chinese" app
+
+## [Please help🥲](https://old.reddit.com/r/ChineseLanguage/comments/1ve62sy/please_help/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 18
+- created: 2026-08-03T07:04:31.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [Learning Chinese by watching series like the Pursuit of Jade](https://old.reddit.com/r/ChineseLanguage/comments/1vdq4ul/learning_chinese_by_watching_series_like_the/)
 - subreddit: r/ChineseLanguage

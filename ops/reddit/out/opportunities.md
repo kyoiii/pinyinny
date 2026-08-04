@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-04T20:02:46.342Z
+Generated: 2026-08-04T21:23:50.284Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -9,19 +9,19 @@ Generated: 2026-08-04T20:02:46.342Z
 - created: 2026-08-02T01:24:35.000Z
 - matched query: app OR website pinyin hanzi
 
-## [I built a free Chinese tone practice tool with real human audio and Taiwanese pronunciation](https://old.reddit.com/r/ChineseLanguage/comments/1vfao4d/i_built_a_free_chinese_tone_practice_tool_with/)
-- subreddit: r/ChineseLanguage
-- score: 10
-- comments: 0
-- created: 2026-08-04T13:40:05.000Z
-- matched query: resource
-
 ## [Pinyin + English apps/websites for cdramas *for phones*?](https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/)
 - subreddit: r/ChineseLanguage
 - score: 10
 - comments: 1
 - created: 2026-07-04T09:29:23.000Z
 - matched query: app OR website pinyin hanzi
+
+## [I built a free Chinese tone practice tool with real human audio and Taiwanese pronunciation](https://old.reddit.com/r/ChineseLanguage/comments/1vfao4d/i_built_a_free_chinese_tone_practice_tool_with/)
+- subreddit: r/ChineseLanguage
+- score: 9
+- comments: 1
+- created: 2026-08-04T13:40:05.000Z
+- matched query: resource
 
 ## [where should i start ?](https://old.reddit.com/r/ChineseLanguage/comments/1vf4p0u/where_should_i_start/)
 - subreddit: r/ChineseLanguage
@@ -75,7 +75,7 @@ Generated: 2026-08-04T20:02:46.342Z
 ## [I built a free open-source HSK 1-3 reader, flash card, games](https://old.reddit.com/r/ChineseLanguage/comments/1vfk9tg/i_built_a_free_opensource_hsk_13_reader_flash/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 2
+- comments: 4
 - created: 2026-08-04T19:25:15.000Z
 - matched query: resource
 

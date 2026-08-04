@@ -12,17 +12,6 @@
   },
   {
     "subreddit": "ChineseLanguage",
-    "query": "resource",
-    "title": "I built a free Chinese tone practice tool with real human audio and Taiwanese pronunciation",
-    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1vfao4d/i_built_a_free_chinese_tone_practice_tool_with/",
-    "created_utc": 1785850805,
-    "created_at": "2026-08-04T13:40:05.000Z",
-    "num_comments": 0,
-    "author": "aevitas",
-    "score": 10
-  },
-  {
-    "subreddit": "ChineseLanguage",
     "query": "app OR website pinyin hanzi",
     "title": "Pinyin + English apps/websites for cdramas *for phones*?",
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1un4nnf/pinyin_english_appswebsites_for_cdramas_for_phones/",
@@ -31,6 +20,17 @@
     "num_comments": 1,
     "author": "Qyustullyze",
     "score": 10
+  },
+  {
+    "subreddit": "ChineseLanguage",
+    "query": "resource",
+    "title": "I built a free Chinese tone practice tool with real human audio and Taiwanese pronunciation",
+    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1vfao4d/i_built_a_free_chinese_tone_practice_tool_with/",
+    "created_utc": 1785850805,
+    "created_at": "2026-08-04T13:40:05.000Z",
+    "num_comments": 1,
+    "author": "aevitas",
+    "score": 9
   },
   {
     "subreddit": "ChineseLanguage",
@@ -116,7 +116,7 @@
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1vfk9tg/i_built_a_free_opensource_hsk_13_reader_flash/",
     "created_utc": 1785871515,
     "created_at": "2026-08-04T19:25:15.000Z",
-    "num_comments": 2,
+    "num_comments": 4,
     "author": "pourteaux",
     "score": 5
   },

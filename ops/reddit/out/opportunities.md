@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-05T07:18:28.868Z
+Generated: 2026-08-05T10:02:14.946Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -12,7 +12,7 @@ Generated: 2026-08-05T07:18:28.868Z
 ## [How should I start? What resources should I use?](https://old.reddit.com/r/ChineseLanguage/comments/1vftxaj/how_should_i_start_what_resources_should_i_use/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 6
+- comments: 7
 - created: 2026-08-05T01:57:48.000Z
 - matched query: resource
 
@@ -21,13 +21,6 @@ Generated: 2026-08-05T07:18:28.868Z
 - score: 9
 - comments: 2
 - created: 2026-08-04T13:40:05.000Z
-- matched query: resource
-
-## [where should i start ?](https://old.reddit.com/r/ChineseLanguage/comments/1vf4p0u/where_should_i_start/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 4
-- created: 2026-08-04T08:45:41.000Z
 - matched query: resource
 
 ## [Has anyone tried this app for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1vc97fh/has_anyone_tried_this_app_for_learning_chinese/)
@@ -43,6 +36,13 @@ Generated: 2026-08-05T07:18:28.868Z
 - comments: 13
 - created: 2026-07-30T08:16:47.000Z
 - matched query: "learn chinese" app
+
+## [where should i start ?](https://old.reddit.com/r/ChineseLanguage/comments/1vf4p0u/where_should_i_start/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 4
+- created: 2026-08-04T08:45:41.000Z
+- matched query: resource
 
 ## [Has AI become accurate enough for language learners to start using it in certain circumstances?](https://old.reddit.com/r/languagelearning/comments/1vezu4l/has_ai_become_accurate_enough_for_language/)
 - subreddit: r/languagelearning
@@ -75,7 +75,7 @@ Generated: 2026-08-05T07:18:28.868Z
 ## [I built a free open-source HSK 1-3 reader, flash card, games](https://old.reddit.com/r/ChineseLanguage/comments/1vfk9tg/i_built_a_free_opensource_hsk_13_reader_flash/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 8
+- comments: 10
 - created: 2026-08-04T19:25:15.000Z
 - matched query: resource
 

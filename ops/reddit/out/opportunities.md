@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-05T14:33:08.204Z
+Generated: 2026-08-05T16:20:51.652Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -19,7 +19,7 @@ Generated: 2026-08-05T14:33:08.204Z
 ## [I built a free Chinese tone practice tool with real human audio and Taiwanese pronunciation](https://old.reddit.com/r/ChineseLanguage/comments/1vfao4d/i_built_a_free_chinese_tone_practice_tool_with/)
 - subreddit: r/ChineseLanguage
 - score: 8
-- comments: 2
+- comments: 4
 - created: 2026-08-04T13:40:05.000Z
 - matched query: resource
 
@@ -61,7 +61,7 @@ Generated: 2026-08-05T14:33:08.204Z
 ## [Looking for a Mandarin Chinese only visual dictionary. Pictures and the concept in Hanzi or Pinyin with no english or spanish translations.](https://old.reddit.com/r/ChineseLanguage/comments/1v6ccjq/looking_for_a_mandarin_chinese_only_visual/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 7
+- comments: 8
 - created: 2026-07-25T16:09:09.000Z
 - matched query: app OR website pinyin hanzi
 
@@ -82,7 +82,7 @@ Generated: 2026-08-05T14:33:08.204Z
 ## [Shoutout - LazyChinese CI](https://old.reddit.com/r/ChineseLanguage/comments/1vfjwxr/shoutout_lazychinese_ci/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 3
+- comments: 4
 - created: 2026-08-04T19:12:16.000Z
 - matched query: app OR website pinyin hanzi
 

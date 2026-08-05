@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-05T22:04:44.387Z
+Generated: 2026-08-05T23:16:07.205Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -47,7 +47,7 @@ Generated: 2026-08-05T22:04:44.387Z
 ## [Has AI become accurate enough for language learners to start using it in certain circumstances?](https://old.reddit.com/r/languagelearning/comments/1vezu4l/has_ai_become_accurate_enough_for_language/)
 - subreddit: r/languagelearning
 - score: 6
-- comments: 29
+- comments: 30
 - created: 2026-08-04T04:14:20.000Z
 - matched query: "Chinese" resource
 

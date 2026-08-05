@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-05T12:09:37.110Z
+Generated: 2026-08-05T14:33:08.204Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -18,7 +18,7 @@ Generated: 2026-08-05T12:09:37.110Z
 
 ## [I built a free Chinese tone practice tool with real human audio and Taiwanese pronunciation](https://old.reddit.com/r/ChineseLanguage/comments/1vfao4d/i_built_a_free_chinese_tone_practice_tool_with/)
 - subreddit: r/ChineseLanguage
-- score: 9
+- score: 8
 - comments: 2
 - created: 2026-08-04T13:40:05.000Z
 - matched query: resource

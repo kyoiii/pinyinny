@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-05T17:58:39.833Z
+Generated: 2026-08-05T19:48:28.961Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -72,20 +72,6 @@ Generated: 2026-08-05T17:58:39.833Z
 - created: 2026-07-16T13:39:13.000Z
 - matched query: "learn chinese" app
 
-## [I built a free open-source HSK 1-3 reader, flash card, games](https://old.reddit.com/r/ChineseLanguage/comments/1vfk9tg/i_built_a_free_opensource_hsk_13_reader_flash/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 10
-- created: 2026-08-04T19:25:15.000Z
-- matched query: resource
-
-## [Shoutout - LazyChinese CI](https://old.reddit.com/r/ChineseLanguage/comments/1vfjwxr/shoutout_lazychinese_ci/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 4
-- created: 2026-08-04T19:12:16.000Z
-- matched query: app OR website pinyin hanzi
-
 ## [Is HSK good for someone wanting structured learning but doesn’t plan on taking the test?](https://old.reddit.com/r/ChineseLanguage/comments/1vc19i5/is_hsk_good_for_someone_wanting_structured/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -100,6 +86,20 @@ Generated: 2026-08-05T17:58:39.833Z
 - created: 2026-07-21T13:42:00.000Z
 - matched query: "learn chinese" app
 
+## [I built a free open-source HSK 1-3 reader, flash card, games](https://old.reddit.com/r/ChineseLanguage/comments/1vfk9tg/i_built_a_free_opensource_hsk_13_reader_flash/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 10
+- created: 2026-08-04T19:25:15.000Z
+- matched query: resource
+
+## [Shoutout - LazyChinese CI](https://old.reddit.com/r/ChineseLanguage/comments/1vfjwxr/shoutout_lazychinese_ci/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 4
+- created: 2026-08-04T19:12:16.000Z
+- matched query: app OR website pinyin hanzi
+
 ## [ABC learning chinese](https://old.reddit.com/r/ChineseLanguage/comments/1veua8r/abc_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -113,13 +113,6 @@ Generated: 2026-08-05T17:58:39.833Z
 - comments: 27
 - created: 2026-08-03T07:04:31.000Z
 - matched query: app OR website pinyin hanzi
-
-## [Learning Chinese by watching series like the Pursuit of Jade](https://old.reddit.com/r/ChineseLanguage/comments/1vdq4ul/learning_chinese_by_watching_series_like_the/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 3
-- created: 2026-08-02T18:50:39.000Z
-- matched query: "learn chinese" app
 
 ## [I made a multiplayer browser Chinese word game (any feedback appreciated!!)](https://old.reddit.com/r/ChineseLanguage/comments/1v5ltcp/i_made_a_multiplayer_browser_chinese_word_game/)
 - subreddit: r/ChineseLanguage

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-06T06:17:54.758Z
+Generated: 2026-08-06T09:16:40.095Z
 
 ## [Free Flashcard Apps / Resources](https://old.reddit.com/r/ChineseLanguage/comments/1vgomgy/free_flashcard_apps_resources/)
 - subreddit: r/ChineseLanguage
@@ -19,7 +19,7 @@ Generated: 2026-08-06T06:17:54.758Z
 ## [Looking for Ip Man with triple subtitles (Hanzi + Pinyin + English)](https://old.reddit.com/r/ChineseLanguage/comments/1vgq3hs/looking_for_ip_man_with_triple_subtitles_hanzi/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 4
+- comments: 5
 - created: 2026-08-06T01:18:27.000Z
 - matched query: app OR website pinyin hanzi
 
@@ -44,13 +44,6 @@ Generated: 2026-08-06T06:17:54.758Z
 - created: 2026-08-01T01:11:11.000Z
 - matched query: "learn chinese" app
 
-## [If you had to recommend one Chinese textbook to a beginner, which one would it be? Why?](https://old.reddit.com/r/ChineseLanguage/comments/1vanh00/if_you_had_to_recommend_one_chinese_textbook_to_a/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 13
-- created: 2026-07-30T08:16:47.000Z
-- matched query: "learn chinese" app
-
 ## [where should i start ?](https://old.reddit.com/r/ChineseLanguage/comments/1vf4p0u/where_should_i_start/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -71,6 +64,13 @@ Generated: 2026-08-06T06:17:54.758Z
 - comments: 2
 - created: 2026-08-03T19:52:50.000Z
 - matched query: resource
+
+## [If you had to recommend one Chinese textbook to a beginner, which one would it be? Why?](https://old.reddit.com/r/ChineseLanguage/comments/1vanh00/if_you_had_to_recommend_one_chinese_textbook_to_a/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 13
+- created: 2026-07-30T08:16:47.000Z
+- matched query: "learn chinese" app
 
 ## [Looking for a Mandarin Chinese only visual dictionary. Pictures and the concept in Hanzi or Pinyin with no english or spanish translations.](https://old.reddit.com/r/ChineseLanguage/comments/1v6ccjq/looking_for_a_mandarin_chinese_only_visual/)
 - subreddit: r/ChineseLanguage
@@ -121,13 +121,6 @@ Generated: 2026-08-06T06:17:54.758Z
 - created: 2026-08-04T00:00:23.000Z
 - matched query: "learn chinese" app
 
-## [Please help🥲](https://old.reddit.com/r/ChineseLanguage/comments/1ve62sy/please_help/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 27
-- created: 2026-08-03T07:04:31.000Z
-- matched query: app OR website pinyin hanzi
-
 ## [I made a multiplayer browser Chinese word game (any feedback appreciated!!)](https://old.reddit.com/r/ChineseLanguage/comments/1v5ltcp/i_made_a_multiplayer_browser_chinese_word_game/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -141,4 +134,11 @@ Generated: 2026-08-06T06:17:54.758Z
 - comments: 13
 - created: 2026-07-21T11:13:36.000Z
 - matched query: "learn chinese" app
+
+## [Is there an app that trains you to write Chinese characters from memory (which is not Skritter)](https://old.reddit.com/r/ChineseLanguage/comments/1us27my/is_there_an_app_that_trains_you_to_write_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 14
+- created: 2026-07-09T20:34:22.000Z
+- matched query: flashcard app
 

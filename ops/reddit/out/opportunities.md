@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-06T11:36:47.418Z
+Generated: 2026-08-06T13:18:37.193Z
 
 ## [Free Flashcard Apps / Resources](https://old.reddit.com/r/ChineseLanguage/comments/1vgomgy/free_flashcard_apps_resources/)
 - subreddit: r/ChineseLanguage
@@ -36,6 +36,13 @@ Generated: 2026-08-06T11:36:47.418Z
 - comments: 4
 - created: 2026-08-04T13:40:05.000Z
 - matched query: resource
+
+## [I made free HSK 3.0 flashcard decks, searchable word lists and PDFs, for all of the new HSK levels (1 to 9)](https://old.reddit.com/r/ChineseLanguage/comments/1vh3fv8/i_made_free_hsk_30_flashcard_decks_searchable/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 1
+- created: 2026-08-06T12:53:58.000Z
+- matched query: flashcard app
 
 ## [Has anyone tried this app for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1vc97fh/has_anyone_tried_this_app_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -134,11 +141,4 @@ Generated: 2026-08-06T11:36:47.418Z
 - comments: 13
 - created: 2026-07-21T11:13:36.000Z
 - matched query: "learn chinese" app
-
-## [Is there an app that trains you to write Chinese characters from memory (which is not Skritter)](https://old.reddit.com/r/ChineseLanguage/comments/1us27my/is_there_an_app_that_trains_you_to_write_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 14
-- created: 2026-07-09T20:34:22.000Z
-- matched query: flashcard app
 

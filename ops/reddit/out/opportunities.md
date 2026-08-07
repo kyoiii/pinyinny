@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-07T19:28:26.631Z
+Generated: 2026-08-07T20:09:11.436Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -121,13 +121,6 @@ Generated: 2026-08-07T19:28:26.631Z
 - created: 2026-08-03T19:52:50.000Z
 - matched query: resource
 
-## [Is HSK good for someone wanting structured learning but doesn’t plan on taking the test?](https://old.reddit.com/r/ChineseLanguage/comments/1vc19i5/is_hsk_good_for_someone_wanting_structured/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 7
-- created: 2026-07-31T19:48:29.000Z
-- matched query: resource
-
 ## [Chinese Telegraph Code in practice: decoding handwritten Morse into “你好”](https://old.reddit.com/r/ChineseLanguage/comments/1v2itpl/chinese_telegraph_code_in_practice_decoding/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -140,5 +133,12 @@ Generated: 2026-08-07T19:28:26.631Z
 - score: 4
 - comments: 39
 - created: 2026-08-06T19:25:55.000Z
+- matched query: resource
+
+## [Is HSK good for someone wanting structured learning but doesn’t plan on taking the test?](https://old.reddit.com/r/ChineseLanguage/comments/1vc19i5/is_hsk_good_for_someone_wanting_structured/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 7
+- created: 2026-07-31T19:48:29.000Z
 - matched query: resource
 

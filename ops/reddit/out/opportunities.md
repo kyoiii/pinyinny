@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-07T00:34:20.191Z
+Generated: 2026-08-07T03:36:02.235Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -12,13 +12,20 @@ Generated: 2026-08-07T00:34:20.191Z
 ## [Free Flashcard Apps / Resources](https://old.reddit.com/r/ChineseLanguage/comments/1vgomgy/free_flashcard_apps_resources/)
 - subreddit: r/ChineseLanguage
 - score: 10
-- comments: 5
+- comments: 6
 - created: 2026-08-06T00:13:06.000Z
 - matched query: flashcard app
 
-## [Looking for Ip Man with triple subtitles (Hanzi + Pinyin + English)](https://old.reddit.com/r/ChineseLanguage/comments/1vgq3hs/looking_for_ip_man_with_triple_subtitles_hanzi/)
+## [Is there an official guide to writing pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1vhnk7g/is_there_an_official_guide_to_writing_pinyin/)
 - subreddit: r/ChineseLanguage
 - score: 9
+- comments: 3
+- created: 2026-08-07T02:00:04.000Z
+- matched query: app OR website pinyin hanzi
+
+## [Looking for Ip Man with triple subtitles (Hanzi + Pinyin + English)](https://old.reddit.com/r/ChineseLanguage/comments/1vgq3hs/looking_for_ip_man_with_triple_subtitles_hanzi/)
+- subreddit: r/ChineseLanguage
+- score: 8
 - comments: 7
 - created: 2026-08-06T01:18:27.000Z
 - matched query: app OR website pinyin hanzi
@@ -47,7 +54,7 @@ Generated: 2026-08-07T00:34:20.191Z
 ## [Complete beginner in Mandarin - what would you do if you started again?](https://old.reddit.com/r/ChineseLanguage/comments/1vhe3a6/complete_beginner_in_mandarin_what_would_you_do/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 14
+- comments: 17
 - created: 2026-08-06T19:25:55.000Z
 - matched query: resource
 
@@ -134,11 +141,4 @@ Generated: 2026-08-07T00:34:20.191Z
 - comments: 12
 - created: 2026-08-04T19:25:15.000Z
 - matched query: resource
-
-## [Shoutout - LazyChinese CI](https://old.reddit.com/r/ChineseLanguage/comments/1vfjwxr/shoutout_lazychinese_ci/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 4
-- created: 2026-08-04T19:12:16.000Z
-- matched query: app OR website pinyin hanzi
 

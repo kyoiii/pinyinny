@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-07T11:58:14.518Z
+Generated: 2026-08-07T13:21:35.773Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -58,19 +58,19 @@ Generated: 2026-08-07T11:58:14.518Z
 - created: 2026-08-06T21:00:06.000Z
 - matched query: flashcard app
 
-## [I made free HSK 3.0 flashcard decks, searchable word lists and PDFs, for all of the new HSK levels (1 to 9)](https://old.reddit.com/r/ChineseLanguage/comments/1vh3fv8/i_made_free_hsk_30_flashcard_decks_searchable/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 23
-- created: 2026-08-06T12:53:58.000Z
-- matched query: flashcard app
-
 ## [Has anyone tried this app for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1vc97fh/has_anyone_tried_this_app_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 7
 - comments: 8
 - created: 2026-08-01T01:11:11.000Z
 - matched query: "learn chinese" app
+
+## [I made free HSK 3.0 flashcard decks, searchable word lists and PDFs, for all of the new HSK levels (1 to 9)](https://old.reddit.com/r/ChineseLanguage/comments/1vh3fv8/i_made_free_hsk_30_flashcard_decks_searchable/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 23
+- created: 2026-08-06T12:53:58.000Z
+- matched query: flashcard app
 
 ## [Chinese Grammar Book Reccomendations???](https://old.reddit.com/r/ChineseLanguage/comments/1vfn6wk/chinese_grammar_book_reccomendations/)
 - subreddit: r/ChineseLanguage
@@ -100,10 +100,17 @@ Generated: 2026-08-07T11:58:14.518Z
 - created: 2026-07-16T13:39:13.000Z
 - matched query: "learn chinese" app
 
+## [Just finished the entirety of HelloChinese's content (main course + graded reader library). Here's my review and comparison with SuperChinese.](https://old.reddit.com/r/ChineseLanguage/comments/1vhze17/just_finished_the_entirety_of_hellochineses/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 5
+- created: 2026-08-07T12:33:36.000Z
+- matched query: "learn chinese" app
+
 ## [Complete beginner in Mandarin - what would you do if you started again?](https://old.reddit.com/r/ChineseLanguage/comments/1vhe3a6/complete_beginner_in_mandarin_what_would_you_do/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 34
+- comments: 35
 - created: 2026-08-06T19:25:55.000Z
 - matched query: resource
 
@@ -134,11 +141,4 @@ Generated: 2026-08-07T11:58:14.518Z
 - comments: 7
 - created: 2026-07-31T19:48:29.000Z
 - matched query: resource
-
-## [Chinese Telegraph Code in practice: decoding handwritten Morse into “你好”](https://old.reddit.com/r/ChineseLanguage/comments/1v2itpl/chinese_telegraph_code_in_practice_decoding/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 0
-- created: 2026-07-21T13:42:00.000Z
-- matched query: "learn chinese" app
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-07T13:21:35.773Z
+Generated: 2026-08-07T14:30:28.534Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -35,13 +35,6 @@ Generated: 2026-08-07T13:21:35.773Z
 - score: 8
 - comments: 7
 - created: 2026-08-05T01:57:48.000Z
-- matched query: resource
-
-## [I built a free Chinese tone practice tool with real human audio and Taiwanese pronunciation](https://old.reddit.com/r/ChineseLanguage/comments/1vfao4d/i_built_a_free_chinese_tone_practice_tool_with/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 4
-- created: 2026-08-04T13:40:05.000Z
 - matched query: resource
 
 ## [I have been building a Chinese study app for 6+ months. Really looking for honest early testers](https://old.reddit.com/r/ChineseLanguage/comments/1vhrbxu/i_have_been_building_a_chinese_study_app_for_6/)
@@ -103,14 +96,14 @@ Generated: 2026-08-07T13:21:35.773Z
 ## [Just finished the entirety of HelloChinese's content (main course + graded reader library). Here's my review and comparison with SuperChinese.](https://old.reddit.com/r/ChineseLanguage/comments/1vhze17/just_finished_the_entirety_of_hellochineses/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 5
+- comments: 6
 - created: 2026-08-07T12:33:36.000Z
 - matched query: "learn chinese" app
 
 ## [Complete beginner in Mandarin - what would you do if you started again?](https://old.reddit.com/r/ChineseLanguage/comments/1vhe3a6/complete_beginner_in_mandarin_what_would_you_do/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 35
+- comments: 37
 - created: 2026-08-06T19:25:55.000Z
 - matched query: resource
 
@@ -141,4 +134,11 @@ Generated: 2026-08-07T13:21:35.773Z
 - comments: 7
 - created: 2026-07-31T19:48:29.000Z
 - matched query: resource
+
+## [Chinese Telegraph Code in practice: decoding handwritten Morse into “你好”](https://old.reddit.com/r/ChineseLanguage/comments/1v2itpl/chinese_telegraph_code_in_practice_decoding/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 0
+- created: 2026-07-21T13:42:00.000Z
+- matched query: "learn chinese" app
 

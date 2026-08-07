@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-07T20:58:52.575Z
+Generated: 2026-08-07T21:50:00.236Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -19,7 +19,7 @@ Generated: 2026-08-07T20:58:52.575Z
 ## [Is there an official guide to writing pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1vhnk7g/is_there_an_official_guide_to_writing_pinyin/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 11
+- comments: 12
 - created: 2026-08-07T02:00:04.000Z
 - matched query: app OR website pinyin hanzi
 
@@ -44,13 +44,6 @@ Generated: 2026-08-07T20:58:52.575Z
 - created: 2026-08-07T05:06:47.000Z
 - matched query: flashcard app
 
-## [Is anyone else hitting a wall with character retention and textbook boredom?](https://old.reddit.com/r/ChineseLanguage/comments/1vhgl1w/is_anyone_else_hitting_a_wall_with_character/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 2
-- created: 2026-08-06T21:00:06.000Z
-- matched query: flashcard app
-
 ## [Has anyone tried this app for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1vc97fh/has_anyone_tried_this_app_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 7
@@ -58,19 +51,19 @@ Generated: 2026-08-07T20:58:52.575Z
 - created: 2026-08-01T01:11:11.000Z
 - matched query: "learn chinese" app
 
+## [Is anyone else hitting a wall with character retention and textbook boredom?](https://old.reddit.com/r/ChineseLanguage/comments/1vhgl1w/is_anyone_else_hitting_a_wall_with_character/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 2
+- created: 2026-08-06T21:00:06.000Z
+- matched query: flashcard app
+
 ## [I made free HSK 3.0 flashcard decks, searchable word lists and PDFs, for all of the new HSK levels (1 to 9)](https://old.reddit.com/r/ChineseLanguage/comments/1vh3fv8/i_made_free_hsk_30_flashcard_decks_searchable/)
 - subreddit: r/ChineseLanguage
 - score: 6
 - comments: 24
 - created: 2026-08-06T12:53:58.000Z
 - matched query: flashcard app
-
-## [Chinese Grammar Book Reccomendations???](https://old.reddit.com/r/ChineseLanguage/comments/1vfn6wk/chinese_grammar_book_reccomendations/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 6
-- created: 2026-08-04T21:12:12.000Z
-- matched query: resource
 
 ## [If you had to recommend one Chinese textbook to a beginner, which one would it be? Why?](https://old.reddit.com/r/ChineseLanguage/comments/1vanh00/if_you_had_to_recommend_one_chinese_textbook_to_a/)
 - subreddit: r/ChineseLanguage
@@ -99,6 +92,13 @@ Generated: 2026-08-07T20:58:52.575Z
 - comments: 18
 - created: 2026-08-07T12:33:36.000Z
 - matched query: "learn chinese" app
+
+## [Chinese Grammar Book Reccomendations???](https://old.reddit.com/r/ChineseLanguage/comments/1vfn6wk/chinese_grammar_book_reccomendations/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 6
+- created: 2026-08-04T21:12:12.000Z
+- matched query: resource
 
 ## [where should i start ?](https://old.reddit.com/r/ChineseLanguage/comments/1vf4p0u/where_should_i_start/)
 - subreddit: r/ChineseLanguage

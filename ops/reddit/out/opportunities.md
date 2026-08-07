@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-07T18:23:30.960Z
+Generated: 2026-08-07T19:28:26.631Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -96,16 +96,9 @@ Generated: 2026-08-07T18:23:30.960Z
 ## [Just finished the entirety of HelloChinese's content (main course + graded reader library). Here's my review and comparison with SuperChinese.](https://old.reddit.com/r/ChineseLanguage/comments/1vhze17/just_finished_the_entirety_of_hellochineses/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 13
+- comments: 18
 - created: 2026-08-07T12:33:36.000Z
 - matched query: "learn chinese" app
-
-## [Complete beginner in Mandarin - what would you do if you started again?](https://old.reddit.com/r/ChineseLanguage/comments/1vhe3a6/complete_beginner_in_mandarin_what_would_you_do/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 38
-- created: 2026-08-06T19:25:55.000Z
-- matched query: resource
 
 ## [where should i start ?](https://old.reddit.com/r/ChineseLanguage/comments/1vf4p0u/where_should_i_start/)
 - subreddit: r/ChineseLanguage
@@ -141,4 +134,11 @@ Generated: 2026-08-07T18:23:30.960Z
 - comments: 0
 - created: 2026-07-21T13:42:00.000Z
 - matched query: "learn chinese" app
+
+## [Complete beginner in Mandarin - what would you do if you started again?](https://old.reddit.com/r/ChineseLanguage/comments/1vhe3a6/complete_beginner_in_mandarin_what_would_you_do/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 39
+- created: 2026-08-06T19:25:55.000Z
+- matched query: resource
 

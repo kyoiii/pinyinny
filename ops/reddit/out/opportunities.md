@@ -1,13 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-06T13:18:37.193Z
-
-## [Free Flashcard Apps / Resources](https://old.reddit.com/r/ChineseLanguage/comments/1vgomgy/free_flashcard_apps_resources/)
-- subreddit: r/ChineseLanguage
-- score: 11
-- comments: 4
-- created: 2026-08-06T00:13:06.000Z
-- matched query: flashcard app
+Generated: 2026-08-07T00:34:20.191Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -15,6 +8,13 @@ Generated: 2026-08-06T13:18:37.193Z
 - comments: 18
 - created: 2026-08-02T01:24:35.000Z
 - matched query: app OR website pinyin hanzi
+
+## [Free Flashcard Apps / Resources](https://old.reddit.com/r/ChineseLanguage/comments/1vgomgy/free_flashcard_apps_resources/)
+- subreddit: r/ChineseLanguage
+- score: 10
+- comments: 5
+- created: 2026-08-06T00:13:06.000Z
+- matched query: flashcard app
 
 ## [Looking for Ip Man with triple subtitles (Hanzi + Pinyin + English)](https://old.reddit.com/r/ChineseLanguage/comments/1vgq3hs/looking_for_ip_man_with_triple_subtitles_hanzi/)
 - subreddit: r/ChineseLanguage
@@ -37,10 +37,24 @@ Generated: 2026-08-06T13:18:37.193Z
 - created: 2026-08-04T13:40:05.000Z
 - matched query: resource
 
+## [Is anyone else hitting a wall with character retention and textbook boredom?](https://old.reddit.com/r/ChineseLanguage/comments/1vhgl1w/is_anyone_else_hitting_a_wall_with_character/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 2
+- created: 2026-08-06T21:00:06.000Z
+- matched query: flashcard app
+
+## [Complete beginner in Mandarin - what would you do if you started again?](https://old.reddit.com/r/ChineseLanguage/comments/1vhe3a6/complete_beginner_in_mandarin_what_would_you_do/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 14
+- created: 2026-08-06T19:25:55.000Z
+- matched query: resource
+
 ## [I made free HSK 3.0 flashcard decks, searchable word lists and PDFs, for all of the new HSK levels (1 to 9)](https://old.reddit.com/r/ChineseLanguage/comments/1vh3fv8/i_made_free_hsk_30_flashcard_decks_searchable/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 1
+- comments: 18
 - created: 2026-08-06T12:53:58.000Z
 - matched query: flashcard app
 
@@ -50,6 +64,13 @@ Generated: 2026-08-06T13:18:37.193Z
 - comments: 8
 - created: 2026-08-01T01:11:11.000Z
 - matched query: "learn chinese" app
+
+## [Chinese Grammar Book Reccomendations???](https://old.reddit.com/r/ChineseLanguage/comments/1vfn6wk/chinese_grammar_book_reccomendations/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 6
+- created: 2026-08-04T21:12:12.000Z
+- matched query: resource
 
 ## [where should i start ?](https://old.reddit.com/r/ChineseLanguage/comments/1vf4p0u/where_should_i_start/)
 - subreddit: r/ChineseLanguage
@@ -64,13 +85,6 @@ Generated: 2026-08-06T13:18:37.193Z
 - comments: 30
 - created: 2026-08-04T04:14:20.000Z
 - matched query: "Chinese" resource
-
-## [How to improve writing & grammar part by self-studying?](https://old.reddit.com/r/ChineseLanguage/comments/1veo0ap/how_to_improve_writing_grammar_part_by/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 2
-- created: 2026-08-03T19:52:50.000Z
-- matched query: resource
 
 ## [If you had to recommend one Chinese textbook to a beginner, which one would it be? Why?](https://old.reddit.com/r/ChineseLanguage/comments/1vanh00/if_you_had_to_recommend_one_chinese_textbook_to_a/)
 - subreddit: r/ChineseLanguage
@@ -92,6 +106,13 @@ Generated: 2026-08-06T13:18:37.193Z
 - comments: 10
 - created: 2026-07-16T13:39:13.000Z
 - matched query: "learn chinese" app
+
+## [How to improve writing & grammar part by self-studying?](https://old.reddit.com/r/ChineseLanguage/comments/1veo0ap/how_to_improve_writing_grammar_part_by/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 2
+- created: 2026-08-03T19:52:50.000Z
+- matched query: resource
 
 ## [Is HSK good for someone wanting structured learning but doesn’t plan on taking the test?](https://old.reddit.com/r/ChineseLanguage/comments/1vc19i5/is_hsk_good_for_someone_wanting_structured/)
 - subreddit: r/ChineseLanguage
@@ -120,25 +141,4 @@ Generated: 2026-08-06T13:18:37.193Z
 - comments: 4
 - created: 2026-08-04T19:12:16.000Z
 - matched query: app OR website pinyin hanzi
-
-## [ABC learning chinese](https://old.reddit.com/r/ChineseLanguage/comments/1veua8r/abc_learning_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 8
-- created: 2026-08-04T00:00:23.000Z
-- matched query: "learn chinese" app
-
-## [I made a multiplayer browser Chinese word game (any feedback appreciated!!)](https://old.reddit.com/r/ChineseLanguage/comments/1v5ltcp/i_made_a_multiplayer_browser_chinese_word_game/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 2
-- created: 2026-07-24T19:44:23.000Z
-- matched query: app OR website pinyin hanzi
-
-## [Japanese vs Chinese - which want do I learn?](https://old.reddit.com/r/ChineseLanguage/comments/1v2feph/japanese_vs_chinese_which_want_do_i_learn/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 13
-- created: 2026-07-21T11:13:36.000Z
-- matched query: "learn chinese" app
 

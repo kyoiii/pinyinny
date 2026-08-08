@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-08T19:11:15.921Z
+Generated: 2026-08-08T19:45:51.320Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -138,7 +138,7 @@ Generated: 2026-08-08T19:11:15.921Z
 ## [Complete beginner in Mandarin - what would you do if you started again?](https://old.reddit.com/r/ChineseLanguage/comments/1vhe3a6/complete_beginner_in_mandarin_what_would_you_do/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 38
+- comments: 39
 - created: 2026-08-06T19:25:55.000Z
 - matched query: resource
 

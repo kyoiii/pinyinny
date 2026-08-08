@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-08T05:00:00.646Z
+Generated: 2026-08-08T05:51:24.794Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -30,19 +30,19 @@ Generated: 2026-08-08T05:00:00.646Z
 - created: 2026-08-06T01:18:27.000Z
 - matched query: app OR website pinyin hanzi
 
-## [I have been building a Chinese study app for 6+ months. Really looking for honest early testers](https://old.reddit.com/r/ChineseLanguage/comments/1vhrbxu/i_have_been_building_a_chinese_study_app_for_6/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 6
-- created: 2026-08-07T05:06:47.000Z
-- matched query: flashcard app
-
 ## [How should I start? What resources should I use?](https://old.reddit.com/r/ChineseLanguage/comments/1vftxaj/how_should_i_start_what_resources_should_i_use/)
 - subreddit: r/ChineseLanguage
 - score: 7
 - comments: 7
 - created: 2026-08-05T01:57:48.000Z
 - matched query: resource
+
+## [I have been building a Chinese study app for 6+ months. Really looking for honest early testers](https://old.reddit.com/r/ChineseLanguage/comments/1vhrbxu/i_have_been_building_a_chinese_study_app_for_6/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 6
+- created: 2026-08-07T05:06:47.000Z
+- matched query: flashcard app
 
 ## [Is anyone else hitting a wall with character retention and textbook boredom?](https://old.reddit.com/r/ChineseLanguage/comments/1vhgl1w/is_anyone_else_hitting_a_wall_with_character/)
 - subreddit: r/ChineseLanguage
@@ -89,7 +89,7 @@ Generated: 2026-08-08T05:00:00.646Z
 ## [Just finished the entirety of HelloChinese's content (main course + graded reader library). Here's my review and comparison with SuperChinese.](https://old.reddit.com/r/ChineseLanguage/comments/1vhze17/just_finished_the_entirety_of_hellochineses/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 20
+- comments: 21
 - created: 2026-08-07T12:33:36.000Z
 - matched query: "learn chinese" app
 

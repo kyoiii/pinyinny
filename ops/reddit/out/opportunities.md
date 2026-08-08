@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-08T06:36:55.608Z
+Generated: 2026-08-08T07:34:39.243Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -89,7 +89,7 @@ Generated: 2026-08-08T06:36:55.608Z
 ## [Just finished the entirety of HelloChinese's content (main course + graded reader library). Here's my review and comparison with SuperChinese.](https://old.reddit.com/r/ChineseLanguage/comments/1vhze17/just_finished_the_entirety_of_hellochineses/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 21
+- comments: 23
 - created: 2026-08-07T12:33:36.000Z
 - matched query: "learn chinese" app
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-08T13:57:02.528Z
+Generated: 2026-08-08T14:38:17.265Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -61,7 +61,7 @@ Generated: 2026-08-08T13:57:02.528Z
 ## [I made free HSK 3.0 flashcard decks, searchable word lists and PDFs, for all of the new HSK levels (1 to 9)](https://old.reddit.com/r/ChineseLanguage/comments/1vh3fv8/i_made_free_hsk_30_flashcard_decks_searchable/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 24
+- comments: 26
 - created: 2026-08-06T12:53:58.000Z
 - matched query: flashcard app
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-09T06:01:13.103Z
+Generated: 2026-08-09T07:10:57.949Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -93,6 +93,13 @@ Generated: 2026-08-09T06:01:13.103Z
 - created: 2026-07-16T13:39:13.000Z
 - matched query: "learn chinese" app
 
+## [Struggling with tones while learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1vji6qw/struggling_with_tones_while_learning_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 6
+- created: 2026-08-09T06:17:16.000Z
+- matched query: resource
+
 ## [Chinese Grammar Book Reccomendations???](https://old.reddit.com/r/ChineseLanguage/comments/1vfn6wk/chinese_grammar_book_reccomendations/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -134,11 +141,4 @@ Generated: 2026-08-09T06:01:13.103Z
 - comments: 27
 - created: 2026-08-07T12:33:36.000Z
 - matched query: "learn chinese" app
-
-## [Complete beginner in Mandarin - what would you do if you started again?](https://old.reddit.com/r/ChineseLanguage/comments/1vhe3a6/complete_beginner_in_mandarin_what_would_you_do/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 42
-- created: 2026-08-06T19:25:55.000Z
-- matched query: resource
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-09T12:02:38.692Z
+Generated: 2026-08-09T13:11:48.434Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -58,13 +58,6 @@ Generated: 2026-08-09T12:02:38.692Z
 - created: 2026-08-06T21:00:06.000Z
 - matched query: flashcard app
 
-## [I made free HSK 3.0 flashcard decks, searchable word lists and PDFs, for all of the new HSK levels (1 to 9)](https://old.reddit.com/r/ChineseLanguage/comments/1vh3fv8/i_made_free_hsk_30_flashcard_decks_searchable/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 26
-- created: 2026-08-06T12:53:58.000Z
-- matched query: flashcard app
-
 ## [Has anyone tried this app for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1vc97fh/has_anyone_tried_this_app_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -96,7 +89,7 @@ Generated: 2026-08-09T12:02:38.692Z
 ## [Struggling with tones while learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1vji6qw/struggling_with_tones_while_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 17
+- comments: 20
 - created: 2026-08-09T06:17:16.000Z
 - matched query: resource
 
@@ -141,4 +134,11 @@ Generated: 2026-08-09T12:02:38.692Z
 - comments: 28
 - created: 2026-08-07T12:33:36.000Z
 - matched query: "learn chinese" app
+
+## [Complete beginner in Mandarin - what would you do if you started again?](https://old.reddit.com/r/ChineseLanguage/comments/1vhe3a6/complete_beginner_in_mandarin_what_would_you_do/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 43
+- created: 2026-08-06T19:25:55.000Z
+- matched query: resource
 

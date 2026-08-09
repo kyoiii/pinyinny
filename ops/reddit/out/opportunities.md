@@ -1,17 +1,17 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-09T00:02:51.387Z
+Generated: 2026-08-09T02:25:17.437Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
-- score: 11
+- score: 10
 - comments: 18
 - created: 2026-08-02T01:24:35.000Z
 - matched query: app OR website pinyin hanzi
 
 ## [Free Flashcard Apps / Resources](https://old.reddit.com/r/ChineseLanguage/comments/1vgomgy/free_flashcard_apps_resources/)
 - subreddit: r/ChineseLanguage
-- score: 10
+- score: 9
 - comments: 6
 - created: 2026-08-06T00:13:06.000Z
 - matched query: flashcard app
@@ -32,7 +32,7 @@ Generated: 2026-08-09T00:02:51.387Z
 
 ## [Looking for Ip Man with triple subtitles (Hanzi + Pinyin + English)](https://old.reddit.com/r/ChineseLanguage/comments/1vgq3hs/looking_for_ip_man_with_triple_subtitles_hanzi/)
 - subreddit: r/ChineseLanguage
-- score: 8
+- score: 7
 - comments: 7
 - created: 2026-08-06T01:18:27.000Z
 - matched query: app OR website pinyin hanzi
@@ -138,7 +138,7 @@ Generated: 2026-08-09T00:02:51.387Z
 ## [Complete beginner in Mandarin - what would you do if you started again?](https://old.reddit.com/r/ChineseLanguage/comments/1vhe3a6/complete_beginner_in_mandarin_what_would_you_do/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 39
+- comments: 40
 - created: 2026-08-06T19:25:55.000Z
 - matched query: resource
 

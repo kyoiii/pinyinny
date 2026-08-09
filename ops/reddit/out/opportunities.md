@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-09T20:56:04.921Z
+Generated: 2026-08-09T21:37:15.078Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -51,13 +51,6 @@ Generated: 2026-08-09T20:56:04.921Z
 - created: 2026-08-07T05:06:47.000Z
 - matched query: flashcard app
 
-## [Is anyone else hitting a wall with character retention and textbook boredom?](https://old.reddit.com/r/ChineseLanguage/comments/1vhgl1w/is_anyone_else_hitting_a_wall_with_character/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 2
-- created: 2026-08-06T21:00:06.000Z
-- matched query: flashcard app
-
 ## [Has anyone tried this app for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1vc97fh/has_anyone_tried_this_app_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -85,6 +78,13 @@ Generated: 2026-08-09T20:56:04.921Z
 - comments: 10
 - created: 2026-07-16T13:39:13.000Z
 - matched query: "learn chinese" app
+
+## [Is anyone else hitting a wall with character retention and textbook boredom?](https://old.reddit.com/r/ChineseLanguage/comments/1vhgl1w/is_anyone_else_hitting_a_wall_with_character/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 2
+- created: 2026-08-06T21:00:06.000Z
+- matched query: flashcard app
 
 ## [Chinese Grammar Book Reccomendations???](https://old.reddit.com/r/ChineseLanguage/comments/1vfn6wk/chinese_grammar_book_reccomendations/)
 - subreddit: r/ChineseLanguage

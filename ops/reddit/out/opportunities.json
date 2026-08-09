@@ -56,17 +56,6 @@
   },
   {
     "subreddit": "ChineseLanguage",
-    "query": "resource",
-    "title": "How should I start? What resources should I use?",
-    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1vftxaj/how_should_i_start_what_resources_should_i_use/",
-    "created_utc": 1785895068,
-    "created_at": "2026-08-05T01:57:48.000Z",
-    "num_comments": 7,
-    "author": "neoninja2509",
-    "score": 7
-  },
-  {
-    "subreddit": "ChineseLanguage",
     "query": "flashcard app",
     "title": "I have been building a Chinese study app for 6+ months. Really looking for honest early testers",
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1vhrbxu/i_have_been_building_a_chinese_study_app_for_6/",
@@ -132,39 +121,6 @@
     "score": 6
   },
   {
-    "subreddit": "ChineseLanguage",
-    "query": "resource",
-    "title": "Struggling with tones while learning Chinese",
-    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1vji6qw/struggling_with_tones_while_learning_chinese/",
-    "created_utc": 1786256236,
-    "created_at": "2026-08-09T06:17:16.000Z",
-    "num_comments": 28,
-    "author": "imdead-lol",
-    "score": 5
-  },
-  {
-    "subreddit": "ChineseLanguage",
-    "query": "resource",
-    "title": "Chinese Grammar Book Reccomendations???",
-    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1vfn6wk/chinese_grammar_book_reccomendations/",
-    "created_utc": 1785877932,
-    "created_at": "2026-08-04T21:12:12.000Z",
-    "num_comments": 6,
-    "author": "igartisanillusion",
-    "score": 5
-  },
-  {
-    "subreddit": "ChineseLanguage",
-    "query": "resource",
-    "title": "where should i start ?",
-    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1vf4p0u/where_should_i_start/",
-    "created_utc": 1785833141,
-    "created_at": "2026-08-04T08:45:41.000Z",
-    "num_comments": 5,
-    "author": "DesignerShopping6710",
-    "score": 5
-  },
-  {
     "subreddit": "languagelearning",
     "query": "\"Chinese\" resource",
     "title": "Has AI become accurate enough for language learners to start using it in certain circumstances?",
@@ -173,17 +129,6 @@
     "created_at": "2026-08-04T04:14:20.000Z",
     "num_comments": 30,
     "author": "UnusualBreakfast1726",
-    "score": 5
-  },
-  {
-    "subreddit": "ChineseLanguage",
-    "query": "resource",
-    "title": "How to improve writing & grammar part by self-studying?",
-    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1veo0ap/how_to_improve_writing_grammar_part_by/",
-    "created_utc": 1785786770,
-    "created_at": "2026-08-03T19:52:50.000Z",
-    "num_comments": 2,
-    "author": "NoWrapp",
     "score": 5
   },
   {
@@ -210,13 +155,35 @@
   },
   {
     "subreddit": "ChineseLanguage",
-    "query": "resource",
-    "title": "Complete beginner in Mandarin - what would you do if you started again?",
-    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1vhe3a6/complete_beginner_in_mandarin_what_would_you_do/",
-    "created_utc": 1786044355,
-    "created_at": "2026-08-06T19:25:55.000Z",
-    "num_comments": 43,
-    "author": "vincent_dpr",
+    "query": "app OR website pinyin hanzi",
+    "title": "I made a multiplayer browser Chinese word game (any feedback appreciated!!)",
+    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1v5ltcp/i_made_a_multiplayer_browser_chinese_word_game/",
+    "created_utc": 1784922263,
+    "created_at": "2026-07-24T19:44:23.000Z",
+    "num_comments": 2,
+    "author": "maenbalja",
+    "score": 4
+  },
+  {
+    "subreddit": "ChineseLanguage",
+    "query": "\"learn chinese\" app",
+    "title": "Japanese vs Chinese - which want do I learn?",
+    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1v2feph/japanese_vs_chinese_which_want_do_i_learn/",
+    "created_utc": 1784632416,
+    "created_at": "2026-07-21T11:13:36.000Z",
+    "num_comments": 13,
+    "author": "Impressive-Run306",
+    "score": 4
+  },
+  {
+    "subreddit": "ChineseLanguage",
+    "query": "flashcard app",
+    "title": "Is there an app that trains you to write Chinese characters from memory (which is not Skritter)",
+    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1us27my/is_there_an_app_that_trains_you_to_write_chinese/",
+    "created_utc": 1783629262,
+    "created_at": "2026-07-09T20:34:22.000Z",
+    "num_comments": 14,
+    "author": "lazier_garlic",
     "score": 4
   }
 ]

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-09T14:46:25.876Z
+Generated: 2026-08-09T15:16:30.093Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -36,13 +36,6 @@ Generated: 2026-08-09T14:46:25.876Z
 - comments: 7
 - created: 2026-08-06T01:18:27.000Z
 - matched query: app OR website pinyin hanzi
-
-## [How should I start? What resources should I use?](https://old.reddit.com/r/ChineseLanguage/comments/1vftxaj/how_should_i_start_what_resources_should_i_use/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 7
-- created: 2026-08-05T01:57:48.000Z
-- matched query: resource
 
 ## [I have been building a Chinese study app for 6+ months. Really looking for honest early testers](https://old.reddit.com/r/ChineseLanguage/comments/1vhrbxu/i_have_been_building_a_chinese_study_app_for_6/)
 - subreddit: r/ChineseLanguage
@@ -86,40 +79,12 @@ Generated: 2026-08-09T14:46:25.876Z
 - created: 2026-07-16T13:39:13.000Z
 - matched query: "learn chinese" app
 
-## [Struggling with tones while learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1vji6qw/struggling_with_tones_while_learning_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 28
-- created: 2026-08-09T06:17:16.000Z
-- matched query: resource
-
-## [Chinese Grammar Book Reccomendations???](https://old.reddit.com/r/ChineseLanguage/comments/1vfn6wk/chinese_grammar_book_reccomendations/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 6
-- created: 2026-08-04T21:12:12.000Z
-- matched query: resource
-
-## [where should i start ?](https://old.reddit.com/r/ChineseLanguage/comments/1vf4p0u/where_should_i_start/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 5
-- created: 2026-08-04T08:45:41.000Z
-- matched query: resource
-
 ## [Has AI become accurate enough for language learners to start using it in certain circumstances?](https://old.reddit.com/r/languagelearning/comments/1vezu4l/has_ai_become_accurate_enough_for_language/)
 - subreddit: r/languagelearning
 - score: 5
 - comments: 30
 - created: 2026-08-04T04:14:20.000Z
 - matched query: "Chinese" resource
-
-## [How to improve writing & grammar part by self-studying?](https://old.reddit.com/r/ChineseLanguage/comments/1veo0ap/how_to_improve_writing_grammar_part_by/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 2
-- created: 2026-08-03T19:52:50.000Z
-- matched query: resource
 
 ## [Chinese Telegraph Code in practice: decoding handwritten Morse into “你好”](https://old.reddit.com/r/ChineseLanguage/comments/1v2itpl/chinese_telegraph_code_in_practice_decoding/)
 - subreddit: r/ChineseLanguage
@@ -135,10 +100,24 @@ Generated: 2026-08-09T14:46:25.876Z
 - created: 2026-08-07T12:33:36.000Z
 - matched query: "learn chinese" app
 
-## [Complete beginner in Mandarin - what would you do if you started again?](https://old.reddit.com/r/ChineseLanguage/comments/1vhe3a6/complete_beginner_in_mandarin_what_would_you_do/)
+## [I made a multiplayer browser Chinese word game (any feedback appreciated!!)](https://old.reddit.com/r/ChineseLanguage/comments/1v5ltcp/i_made_a_multiplayer_browser_chinese_word_game/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 43
-- created: 2026-08-06T19:25:55.000Z
-- matched query: resource
+- comments: 2
+- created: 2026-07-24T19:44:23.000Z
+- matched query: app OR website pinyin hanzi
+
+## [Japanese vs Chinese - which want do I learn?](https://old.reddit.com/r/ChineseLanguage/comments/1v2feph/japanese_vs_chinese_which_want_do_i_learn/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 13
+- created: 2026-07-21T11:13:36.000Z
+- matched query: "learn chinese" app
+
+## [Is there an app that trains you to write Chinese characters from memory (which is not Skritter)](https://old.reddit.com/r/ChineseLanguage/comments/1us27my/is_there_an_app_that_trains_you_to_write_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 14
+- created: 2026-07-09T20:34:22.000Z
+- matched query: flashcard app
 

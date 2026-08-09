@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-09T08:02:37.402Z
+Generated: 2026-08-09T08:57:32.518Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -16,19 +16,19 @@ Generated: 2026-08-09T08:02:37.402Z
 - created: 2026-08-06T00:13:06.000Z
 - matched query: flashcard app
 
-## [I built an AI tool to help with Anki Mining](https://old.reddit.com/r/ChineseLanguage/comments/1viqw7d/i_built_an_ai_tool_to_help_with_anki_mining/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 0
-- created: 2026-08-08T08:49:52.000Z
-- matched query: flashcard app
-
 ## [Is there an official guide to writing pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1vhnk7g/is_there_an_official_guide_to_writing_pinyin/)
 - subreddit: r/ChineseLanguage
 - score: 8
 - comments: 12
 - created: 2026-08-07T02:00:04.000Z
 - matched query: app OR website pinyin hanzi
+
+## [I built an AI tool to help with Anki Mining](https://old.reddit.com/r/ChineseLanguage/comments/1viqw7d/i_built_an_ai_tool_to_help_with_anki_mining/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 0
+- created: 2026-08-08T08:49:52.000Z
+- matched query: flashcard app
 
 ## [Looking for Ip Man with triple subtitles (Hanzi + Pinyin + English)](https://old.reddit.com/r/ChineseLanguage/comments/1vgq3hs/looking_for_ip_man_with_triple_subtitles_hanzi/)
 - subreddit: r/ChineseLanguage
@@ -96,7 +96,7 @@ Generated: 2026-08-09T08:02:37.402Z
 ## [Struggling with tones while learning Chinese](https://old.reddit.com/r/ChineseLanguage/comments/1vji6qw/struggling_with_tones_while_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 8
+- comments: 10
 - created: 2026-08-09T06:17:16.000Z
 - matched query: resource
 

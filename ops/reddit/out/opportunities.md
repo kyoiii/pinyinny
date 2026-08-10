@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-10T15:13:26.008Z
+Generated: 2026-08-10T16:11:10.084Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -19,7 +19,7 @@ Generated: 2026-08-10T15:13:26.008Z
 ## [Has anyone tried Hello Nora for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1vk4trx/has_anyone_tried_hello_nora_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 1
+- comments: 2
 - created: 2026-08-09T23:36:58.000Z
 - matched query: "learn chinese" app
 
@@ -82,7 +82,7 @@ Generated: 2026-08-10T15:13:26.008Z
 ## [I want to improve my speaking, but I hate talking to people just for that purpose](https://old.reddit.com/r/ChineseLanguage/comments/1vklcuu/i_want_to_improve_my_speaking_but_i_hate_talking/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 5
+- comments: 6
 - created: 2026-08-10T13:47:18.000Z
 - matched query: "learn chinese" app
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-10T04:59:58.283Z
+Generated: 2026-08-10T06:17:53.736Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -18,8 +18,8 @@ Generated: 2026-08-10T04:59:58.283Z
 
 ## [Has anyone tried Hello Nora for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1vk4trx/has_anyone_tried_hello_nora_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
-- score: 8
-- comments: 0
+- score: 7
+- comments: 1
 - created: 2026-08-09T23:36:58.000Z
 - matched query: "learn chinese" app
 
@@ -49,13 +49,6 @@ Generated: 2026-08-10T04:59:58.283Z
 - score: 6
 - comments: 1
 - created: 2026-08-08T08:49:52.000Z
-- matched query: flashcard app
-
-## [I have been building a Chinese study app for 6+ months. Really looking for honest early testers](https://old.reddit.com/r/ChineseLanguage/comments/1vhrbxu/i_have_been_building_a_chinese_study_app_for_6/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 6
-- created: 2026-08-07T05:06:47.000Z
 - matched query: flashcard app
 
 ## [Has anyone tried this app for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1vc97fh/has_anyone_tried_this_app_for_learning_chinese/)
@@ -141,4 +134,11 @@ Generated: 2026-08-10T04:59:58.283Z
 - comments: 2
 - created: 2026-07-24T19:44:23.000Z
 - matched query: app OR website pinyin hanzi
+
+## [Japanese vs Chinese - which want do I learn?](https://old.reddit.com/r/ChineseLanguage/comments/1v2feph/japanese_vs_chinese_which_want_do_i_learn/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 13
+- created: 2026-07-21T11:13:36.000Z
+- matched query: "learn chinese" app
 

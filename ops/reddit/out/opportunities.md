@@ -1,6 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-10T22:29:00.386Z
+Generated: 2026-08-10T23:08:55.116Z
+
+## [what is actually the best app for learning chinese that's useful in real life? especially pronunciation](https://old.reddit.com/r/ChineseLanguage/comments/1vkzxm9/what_is_actually_the_best_app_for_learning/)
+- subreddit: r/ChineseLanguage
+- score: 10
+- comments: 0
+- created: 2026-08-10T22:47:43.000Z
+- matched query: "learn chinese" app
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -134,11 +141,4 @@ Generated: 2026-08-10T22:29:00.386Z
 - comments: 2
 - created: 2026-08-03T19:52:50.000Z
 - matched query: resource
-
-## [I made a multiplayer browser Chinese word game (any feedback appreciated!!)](https://old.reddit.com/r/ChineseLanguage/comments/1v5ltcp/i_made_a_multiplayer_browser_chinese_word_game/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 2
-- created: 2026-07-24T19:44:23.000Z
-- matched query: app OR website pinyin hanzi
 

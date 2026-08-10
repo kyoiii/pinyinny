@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-10T03:19:11.935Z
+Generated: 2026-08-10T04:59:58.283Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -89,7 +89,7 @@ Generated: 2026-08-10T03:19:11.935Z
 ## [What is a realistic timeframe and any tips to learning Mandarin](https://old.reddit.com/r/ChineseLanguage/comments/1vk4tkj/what_is_a_realistic_timeframe_and_any_tips_to/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 2
+- comments: 3
 - created: 2026-08-09T23:36:42.000Z
 - matched query: flashcard app
 

@@ -1,6 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-11T11:03:24.308Z
+Generated: 2026-08-11T11:53:09.102Z
+
+## [Flashcard app - best one for Android?](https://old.reddit.com/r/ChineseLanguage/comments/1vleg2o/flashcard_app_best_one_for_android/)
+- subreddit: r/ChineseLanguage
+- score: 12
+- comments: 0
+- created: 2026-08-11T11:10:14.000Z
+- matched query: flashcard app
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -12,7 +19,7 @@ Generated: 2026-08-11T11:03:24.308Z
 ## [what is actually the best app for learning chinese that's useful in real life? especially pronunciation](https://old.reddit.com/r/ChineseLanguage/comments/1vkzxm9/what_is_actually_the_best_app_for_learning/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 15
+- comments: 16
 - created: 2026-08-10T22:47:43.000Z
 - matched query: "learn chinese" app
 
@@ -21,6 +28,13 @@ Generated: 2026-08-11T11:03:24.308Z
 - score: 9
 - comments: 7
 - created: 2026-08-06T00:13:06.000Z
+- matched query: flashcard app
+
+## [Alternatives to Migaku (flashcard service)](https://old.reddit.com/r/ChineseLanguage/comments/1vleguy/alternatives_to_migaku_flashcard_service/)
+- subreddit: r/ChineseLanguage
+- score: 8
+- comments: 0
+- created: 2026-08-11T11:11:19.000Z
 - matched query: flashcard app
 
 ## [Is there an official guide to writing pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1vhnk7g/is_there_an_official_guide_to_writing_pinyin/)
@@ -110,7 +124,7 @@ Generated: 2026-08-11T11:03:24.308Z
 ## [Just started learning Chinese, need help!!](https://old.reddit.com/r/ChineseLanguage/comments/1vkf83p/just_started_learning_chinese_need_help/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 10
+- comments: 11
 - created: 2026-08-10T08:41:02.000Z
 - matched query: "learn chinese" app
 
@@ -127,18 +141,4 @@ Generated: 2026-08-11T11:03:24.308Z
 - comments: 5
 - created: 2026-08-04T08:45:41.000Z
 - matched query: resource
-
-## [Has AI become accurate enough for language learners to start using it in certain circumstances?](https://old.reddit.com/r/languagelearning/comments/1vezu4l/has_ai_become_accurate_enough_for_language/)
-- subreddit: r/languagelearning
-- score: 4
-- comments: 30
-- created: 2026-08-04T04:14:20.000Z
-- matched query: "Chinese" resource
-
-## [I made a multiplayer browser Chinese word game (any feedback appreciated!!)](https://old.reddit.com/r/ChineseLanguage/comments/1v5ltcp/i_made_a_multiplayer_browser_chinese_word_game/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 2
-- created: 2026-07-24T19:44:23.000Z
-- matched query: app OR website pinyin hanzi
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-11T22:10:34.026Z
+Generated: 2026-08-11T23:05:31.555Z
 
 ## [Flashcard app - best one for Android?](https://old.reddit.com/r/ChineseLanguage/comments/1vleg2o/flashcard_app_best_one_for_android/)
 - subreddit: r/ChineseLanguage
@@ -16,13 +16,6 @@ Generated: 2026-08-11T22:10:34.026Z
 - created: 2026-08-02T01:24:35.000Z
 - matched query: app OR website pinyin hanzi
 
-## [what is actually the best app for learning chinese that's useful in real life? especially pronunciation](https://old.reddit.com/r/ChineseLanguage/comments/1vkzxm9/what_is_actually_the_best_app_for_learning/)
-- subreddit: r/ChineseLanguage
-- score: 9
-- comments: 18
-- created: 2026-08-10T22:47:43.000Z
-- matched query: "learn chinese" app
-
 ## [Free Flashcard Apps / Resources](https://old.reddit.com/r/ChineseLanguage/comments/1vgomgy/free_flashcard_apps_resources/)
 - subreddit: r/ChineseLanguage
 - score: 9
@@ -30,10 +23,17 @@ Generated: 2026-08-11T22:10:34.026Z
 - created: 2026-08-06T00:13:06.000Z
 - matched query: flashcard app
 
+## [what is actually the best app for learning chinese that's useful in real life? especially pronunciation](https://old.reddit.com/r/ChineseLanguage/comments/1vkzxm9/what_is_actually_the_best_app_for_learning/)
+- subreddit: r/ChineseLanguage
+- score: 8
+- comments: 18
+- created: 2026-08-10T22:47:43.000Z
+- matched query: "learn chinese" app
+
 ## [Best way to restart?](https://old.reddit.com/r/ChineseLanguage/comments/1vlntx4/best_way_to_restart/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 3
+- comments: 5
 - created: 2026-08-11T17:21:40.000Z
 - matched query: resource
 
@@ -103,7 +103,7 @@ Generated: 2026-08-11T22:10:34.026Z
 ## [不懂 vs 不明白 vs 聽不懂](https://old.reddit.com/r/ChineseLanguage/comments/1vlrsvy/不懂_vs_不明白_vs_聽不懂/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 3
+- comments: 7
 - created: 2026-08-11T19:43:30.000Z
 - matched query: resource
 

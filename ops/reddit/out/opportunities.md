@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-11T12:55:41.010Z
+Generated: 2026-08-11T14:21:02.551Z
 
 ## [Flashcard app - best one for Android?](https://old.reddit.com/r/ChineseLanguage/comments/1vleg2o/flashcard_app_best_one_for_android/)
 - subreddit: r/ChineseLanguage
 - score: 11
-- comments: 1
+- comments: 4
 - created: 2026-08-11T11:10:14.000Z
 - matched query: flashcard app
 
@@ -100,13 +100,6 @@ Generated: 2026-08-11T12:55:41.010Z
 - created: 2026-08-11T04:01:17.000Z
 - matched query: resource
 
-## [I want to improve my speaking, but I hate talking to people just for that purpose](https://old.reddit.com/r/ChineseLanguage/comments/1vklcuu/i_want_to_improve_my_speaking_but_i_hate_talking/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 15
-- created: 2026-08-10T13:47:18.000Z
-- matched query: "learn chinese" app
-
 ## [Chinese Grammar Book Reccomendations???](https://old.reddit.com/r/ChineseLanguage/comments/1vfn6wk/chinese_grammar_book_reccomendations/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -119,6 +112,13 @@ Generated: 2026-08-11T12:55:41.010Z
 - score: 5
 - comments: 0
 - created: 2026-07-21T13:42:00.000Z
+- matched query: "learn chinese" app
+
+## [I want to improve my speaking, but I hate talking to people just for that purpose](https://old.reddit.com/r/ChineseLanguage/comments/1vklcuu/i_want_to_improve_my_speaking_but_i_hate_talking/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 15
+- created: 2026-08-10T13:47:18.000Z
 - matched query: "learn chinese" app
 
 ## [Just started learning Chinese, need help!!](https://old.reddit.com/r/ChineseLanguage/comments/1vkf83p/just_started_learning_chinese_need_help/)

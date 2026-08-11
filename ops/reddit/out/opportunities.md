@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-11T04:38:02.757Z
+Generated: 2026-08-11T05:41:40.517Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -12,7 +12,7 @@ Generated: 2026-08-11T04:38:02.757Z
 ## [what is actually the best app for learning chinese that's useful in real life? especially pronunciation](https://old.reddit.com/r/ChineseLanguage/comments/1vkzxm9/what_is_actually_the_best_app_for_learning/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 14
+- comments: 15
 - created: 2026-08-10T22:47:43.000Z
 - matched query: "learn chinese" app
 
@@ -42,13 +42,6 @@ Generated: 2026-08-11T04:38:02.757Z
 - score: 7
 - comments: 7
 - created: 2026-08-05T01:57:48.000Z
-- matched query: resource
-
-## [Finding HSK books (India) - HSK 2](https://old.reddit.com/r/ChineseLanguage/comments/1vl6tvg/finding_hsk_books_india_hsk_2/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-08-11T04:01:17.000Z
 - matched query: resource
 
 ## [Has anyone tried Hello Nora for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1vk4trx/has_anyone_tried_hello_nora_for_learning_chinese/)
@@ -93,10 +86,17 @@ Generated: 2026-08-11T04:38:02.757Z
 - created: 2026-07-16T13:39:13.000Z
 - matched query: "learn chinese" app
 
+## [Finding HSK books (India) - HSK 2](https://old.reddit.com/r/ChineseLanguage/comments/1vl6tvg/finding_hsk_books_india_hsk_2/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 1
+- created: 2026-08-11T04:01:17.000Z
+- matched query: resource
+
 ## [I want to improve my speaking, but I hate talking to people just for that purpose](https://old.reddit.com/r/ChineseLanguage/comments/1vklcuu/i_want_to_improve_my_speaking_but_i_hate_talking/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 14
+- comments: 15
 - created: 2026-08-10T13:47:18.000Z
 - matched query: "learn chinese" app
 

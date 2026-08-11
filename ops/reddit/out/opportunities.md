@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-11T07:55:03.102Z
+Generated: 2026-08-11T08:57:06.910Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -12,7 +12,7 @@ Generated: 2026-08-11T07:55:03.102Z
 ## [what is actually the best app for learning chinese that's useful in real life? especially pronunciation](https://old.reddit.com/r/ChineseLanguage/comments/1vkzxm9/what_is_actually_the_best_app_for_learning/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 15
+- comments: 16
 - created: 2026-08-10T22:47:43.000Z
 - matched query: "learn chinese" app
 
@@ -50,13 +50,6 @@ Generated: 2026-08-11T07:55:03.102Z
 - comments: 2
 - created: 2026-08-09T23:36:58.000Z
 - matched query: "learn chinese" app
-
-## [I built an AI tool to help with Anki Mining](https://old.reddit.com/r/ChineseLanguage/comments/1viqw7d/i_built_an_ai_tool_to_help_with_anki_mining/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 1
-- created: 2026-08-08T08:49:52.000Z
-- matched query: flashcard app
 
 ## [Has anyone tried this app for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1vc97fh/has_anyone_tried_this_app_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -100,25 +93,18 @@ Generated: 2026-08-11T07:55:03.102Z
 - created: 2026-08-10T13:47:18.000Z
 - matched query: "learn chinese" app
 
-## [Just started learning Chinese, need help!!](https://old.reddit.com/r/ChineseLanguage/comments/1vkf83p/just_started_learning_chinese_need_help/)
+## [I built an AI tool to help with Anki Mining](https://old.reddit.com/r/ChineseLanguage/comments/1viqw7d/i_built_an_ai_tool_to_help_with_anki_mining/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 10
-- created: 2026-08-10T08:41:02.000Z
-- matched query: "learn chinese" app
+- comments: 1
+- created: 2026-08-08T08:49:52.000Z
+- matched query: flashcard app
 
 ## [Chinese Grammar Book Reccomendations???](https://old.reddit.com/r/ChineseLanguage/comments/1vfn6wk/chinese_grammar_book_reccomendations/)
 - subreddit: r/ChineseLanguage
 - score: 5
 - comments: 7
 - created: 2026-08-04T21:12:12.000Z
-- matched query: resource
-
-## [where should i start ?](https://old.reddit.com/r/ChineseLanguage/comments/1vf4p0u/where_should_i_start/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 5
-- created: 2026-08-04T08:45:41.000Z
 - matched query: resource
 
 ## [Chinese Telegraph Code in practice: decoding handwritten Morse into “你好”](https://old.reddit.com/r/ChineseLanguage/comments/1v2itpl/chinese_telegraph_code_in_practice_decoding/)
@@ -128,12 +114,26 @@ Generated: 2026-08-11T07:55:03.102Z
 - created: 2026-07-21T13:42:00.000Z
 - matched query: "learn chinese" app
 
+## [Just started learning Chinese, need help!!](https://old.reddit.com/r/ChineseLanguage/comments/1vkf83p/just_started_learning_chinese_need_help/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 10
+- created: 2026-08-10T08:41:02.000Z
+- matched query: "learn chinese" app
+
 ## [What is a realistic timeframe and any tips to learning Mandarin](https://old.reddit.com/r/ChineseLanguage/comments/1vk4tkj/what_is_a_realistic_timeframe_and_any_tips_to/)
 - subreddit: r/ChineseLanguage
 - score: 4
 - comments: 4
 - created: 2026-08-09T23:36:42.000Z
 - matched query: flashcard app
+
+## [where should i start ?](https://old.reddit.com/r/ChineseLanguage/comments/1vf4p0u/where_should_i_start/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 5
+- created: 2026-08-04T08:45:41.000Z
+- matched query: resource
 
 ## [Has AI become accurate enough for language learners to start using it in certain circumstances?](https://old.reddit.com/r/languagelearning/comments/1vezu4l/has_ai_become_accurate_enough_for_language/)
 - subreddit: r/languagelearning

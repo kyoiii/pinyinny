@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-11T20:24:32.140Z
+Generated: 2026-08-11T21:21:44.336Z
 
 ## [Flashcard app - best one for Android?](https://old.reddit.com/r/ChineseLanguage/comments/1vleg2o/flashcard_app_best_one_for_android/)
 - subreddit: r/ChineseLanguage
@@ -114,13 +114,6 @@ Generated: 2026-08-11T20:24:32.140Z
 - created: 2026-08-11T04:01:17.000Z
 - matched query: resource
 
-## [Chinese Grammar Book Reccomendations???](https://old.reddit.com/r/ChineseLanguage/comments/1vfn6wk/chinese_grammar_book_reccomendations/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 7
-- created: 2026-08-04T21:12:12.000Z
-- matched query: resource
-
 ## [Chinese Telegraph Code in practice: decoding handwritten Morse into “你好”](https://old.reddit.com/r/ChineseLanguage/comments/1v2itpl/chinese_telegraph_code_in_practice_decoding/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -141,4 +134,11 @@ Generated: 2026-08-11T20:24:32.140Z
 - comments: 11
 - created: 2026-08-10T08:41:02.000Z
 - matched query: "learn chinese" app
+
+## [What is a realistic timeframe and any tips to learning Mandarin](https://old.reddit.com/r/ChineseLanguage/comments/1vk4tkj/what_is_a_realistic_timeframe_and_any_tips_to/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 4
+- created: 2026-08-09T23:36:42.000Z
+- matched query: flashcard app
 

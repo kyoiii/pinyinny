@@ -17,7 +17,7 @@
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1vkzxm9/what_is_actually_the_best_app_for_learning/",
     "created_utc": 1786402063,
     "created_at": "2026-08-10T22:47:43.000Z",
-    "num_comments": 12,
+    "num_comments": 14,
     "author": "ProfessorBusiness162",
     "score": 9
   },
@@ -64,6 +64,17 @@
     "num_comments": 7,
     "author": "neoninja2509",
     "score": 7
+  },
+  {
+    "subreddit": "ChineseLanguage",
+    "query": "resource",
+    "title": "Finding HSK books (India) - HSK 2",
+    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1vl6tvg/finding_hsk_books_india_hsk_2/",
+    "created_utc": 1786420877,
+    "created_at": "2026-08-11T04:01:17.000Z",
+    "num_comments": 0,
+    "author": "Chikorita_Kiwi",
+    "score": 6
   },
   {
     "subreddit": "ChineseLanguage",
@@ -176,17 +187,6 @@
     "score": 5
   },
   {
-    "subreddit": "languagelearning",
-    "query": "\"Chinese\" resource",
-    "title": "Has AI become accurate enough for language learners to start using it in certain circumstances?",
-    "permalink": "https://old.reddit.com/r/languagelearning/comments/1vezu4l/has_ai_become_accurate_enough_for_language/",
-    "created_utc": 1785816860,
-    "created_at": "2026-08-04T04:14:20.000Z",
-    "num_comments": 30,
-    "author": "UnusualBreakfast1726",
-    "score": 5
-  },
-  {
     "subreddit": "ChineseLanguage",
     "query": "\"learn chinese\" app",
     "title": "Chinese Telegraph Code in practice: decoding handwritten Morse into “你好”",
@@ -209,14 +209,14 @@
     "score": 4
   },
   {
-    "subreddit": "ChineseLanguage",
-    "query": "app OR website pinyin hanzi",
-    "title": "I made a multiplayer browser Chinese word game (any feedback appreciated!!)",
-    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1v5ltcp/i_made_a_multiplayer_browser_chinese_word_game/",
-    "created_utc": 1784922263,
-    "created_at": "2026-07-24T19:44:23.000Z",
-    "num_comments": 2,
-    "author": "maenbalja",
+    "subreddit": "languagelearning",
+    "query": "\"Chinese\" resource",
+    "title": "Has AI become accurate enough for language learners to start using it in certain circumstances?",
+    "permalink": "https://old.reddit.com/r/languagelearning/comments/1vezu4l/has_ai_become_accurate_enough_for_language/",
+    "created_utc": 1785816860,
+    "created_at": "2026-08-04T04:14:20.000Z",
+    "num_comments": 30,
+    "author": "UnusualBreakfast1726",
     "score": 4
   }
 ]

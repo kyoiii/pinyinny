@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-11T18:29:38.699Z
+Generated: 2026-08-11T19:39:21.204Z
 
 ## [Flashcard app - best one for Android?](https://old.reddit.com/r/ChineseLanguage/comments/1vleg2o/flashcard_app_best_one_for_android/)
 - subreddit: r/ChineseLanguage
@@ -33,7 +33,7 @@ Generated: 2026-08-11T18:29:38.699Z
 ## [Best way to restart?](https://old.reddit.com/r/ChineseLanguage/comments/1vlntx4/best_way_to_restart/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 1
+- comments: 2
 - created: 2026-08-11T17:21:40.000Z
 - matched query: resource
 

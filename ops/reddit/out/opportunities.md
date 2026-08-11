@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-11T19:39:21.204Z
+Generated: 2026-08-11T20:24:32.140Z
 
 ## [Flashcard app - best one for Android?](https://old.reddit.com/r/ChineseLanguage/comments/1vleg2o/flashcard_app_best_one_for_android/)
 - subreddit: r/ChineseLanguage
@@ -40,7 +40,7 @@ Generated: 2026-08-11T19:39:21.204Z
 ## [Alternatives to Migaku (flashcard service)](https://old.reddit.com/r/ChineseLanguage/comments/1vleguy/alternatives_to_migaku_flashcard_service/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 3
+- comments: 4
 - created: 2026-08-11T11:11:19.000Z
 - matched query: flashcard app
 
@@ -100,6 +100,13 @@ Generated: 2026-08-11T19:39:21.204Z
 - created: 2026-07-16T13:39:13.000Z
 - matched query: "learn chinese" app
 
+## [不懂 vs 不明白 vs 聽不懂](https://old.reddit.com/r/ChineseLanguage/comments/1vlrsvy/不懂_vs_不明白_vs_聽不懂/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 2
+- created: 2026-08-11T19:43:30.000Z
+- matched query: resource
+
 ## [Finding HSK books (India) - HSK 2](https://old.reddit.com/r/ChineseLanguage/comments/1vl6tvg/finding_hsk_books_india_hsk_2/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -134,11 +141,4 @@ Generated: 2026-08-11T19:39:21.204Z
 - comments: 11
 - created: 2026-08-10T08:41:02.000Z
 - matched query: "learn chinese" app
-
-## [What is a realistic timeframe and any tips to learning Mandarin](https://old.reddit.com/r/ChineseLanguage/comments/1vk4tkj/what_is_a_realistic_timeframe_and_any_tips_to/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 4
-- created: 2026-08-09T23:36:42.000Z
-- matched query: flashcard app
 

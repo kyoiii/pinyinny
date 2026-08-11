@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-11T14:21:02.551Z
+Generated: 2026-08-11T15:28:43.495Z
 
 ## [Flashcard app - best one for Android?](https://old.reddit.com/r/ChineseLanguage/comments/1vleg2o/flashcard_app_best_one_for_android/)
 - subreddit: r/ChineseLanguage
@@ -33,7 +33,7 @@ Generated: 2026-08-11T14:21:02.551Z
 ## [Alternatives to Migaku (flashcard service)](https://old.reddit.com/r/ChineseLanguage/comments/1vleguy/alternatives_to_migaku_flashcard_service/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 2
+- comments: 3
 - created: 2026-08-11T11:11:19.000Z
 - matched query: flashcard app
 
@@ -117,7 +117,7 @@ Generated: 2026-08-11T14:21:02.551Z
 ## [I want to improve my speaking, but I hate talking to people just for that purpose](https://old.reddit.com/r/ChineseLanguage/comments/1vklcuu/i_want_to_improve_my_speaking_but_i_hate_talking/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 15
+- comments: 16
 - created: 2026-08-10T13:47:18.000Z
 - matched query: "learn chinese" app
 

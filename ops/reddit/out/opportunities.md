@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-11T15:28:43.495Z
+Generated: 2026-08-11T16:26:38.405Z
 
 ## [Flashcard app - best one for Android?](https://old.reddit.com/r/ChineseLanguage/comments/1vleg2o/flashcard_app_best_one_for_android/)
 - subreddit: r/ChineseLanguage
 - score: 11
-- comments: 4
+- comments: 6
 - created: 2026-08-11T11:10:14.000Z
 - matched query: flashcard app
 
@@ -19,7 +19,7 @@ Generated: 2026-08-11T15:28:43.495Z
 ## [what is actually the best app for learning chinese that's useful in real life? especially pronunciation](https://old.reddit.com/r/ChineseLanguage/comments/1vkzxm9/what_is_actually_the_best_app_for_learning/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 17
+- comments: 18
 - created: 2026-08-10T22:47:43.000Z
 - matched query: "learn chinese" app
 
@@ -117,7 +117,7 @@ Generated: 2026-08-11T15:28:43.495Z
 ## [I want to improve my speaking, but I hate talking to people just for that purpose](https://old.reddit.com/r/ChineseLanguage/comments/1vklcuu/i_want_to_improve_my_speaking_but_i_hate_talking/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 16
+- comments: 18
 - created: 2026-08-10T13:47:18.000Z
 - matched query: "learn chinese" app
 

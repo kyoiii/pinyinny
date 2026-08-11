@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-10T23:50:47.826Z
+Generated: 2026-08-11T00:56:47.117Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -12,7 +12,7 @@ Generated: 2026-08-10T23:50:47.826Z
 ## [what is actually the best app for learning chinese that's useful in real life? especially pronunciation](https://old.reddit.com/r/ChineseLanguage/comments/1vkzxm9/what_is_actually_the_best_app_for_learning/)
 - subreddit: r/ChineseLanguage
 - score: 9
-- comments: 9
+- comments: 10
 - created: 2026-08-10T22:47:43.000Z
 - matched query: "learn chinese" app
 
@@ -131,14 +131,14 @@ Generated: 2026-08-10T23:50:47.826Z
 ## [What is a realistic timeframe and any tips to learning Mandarin](https://old.reddit.com/r/ChineseLanguage/comments/1vk4tkj/what_is_a_realistic_timeframe_and_any_tips_to/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 5
+- comments: 4
 - created: 2026-08-09T23:36:42.000Z
 - matched query: flashcard app
 
-## [How to improve writing & grammar part by self-studying?](https://old.reddit.com/r/ChineseLanguage/comments/1veo0ap/how_to_improve_writing_grammar_part_by/)
+## [I made a multiplayer browser Chinese word game (any feedback appreciated!!)](https://old.reddit.com/r/ChineseLanguage/comments/1v5ltcp/i_made_a_multiplayer_browser_chinese_word_game/)
 - subreddit: r/ChineseLanguage
 - score: 4
 - comments: 2
-- created: 2026-08-03T19:52:50.000Z
-- matched query: resource
+- created: 2026-07-24T19:44:23.000Z
+- matched query: app OR website pinyin hanzi
 

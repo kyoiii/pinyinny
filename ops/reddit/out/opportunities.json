@@ -8,7 +8,7 @@
     "created_at": "2026-08-11T11:10:14.000Z",
     "num_comments": 9,
     "author": "NotMyselfNotme",
-    "score": 11
+    "score": 10
   },
   {
     "subreddit": "ChineseLanguage",
@@ -56,17 +56,6 @@
   },
   {
     "subreddit": "ChineseLanguage",
-    "query": "flashcard app",
-    "title": "Alternatives to Migaku (flashcard service)",
-    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1vleguy/alternatives_to_migaku_flashcard_service/",
-    "created_utc": 1786446679,
-    "created_at": "2026-08-11T11:11:19.000Z",
-    "num_comments": 4,
-    "author": "NotMyselfNotme",
-    "score": 7
-  },
-  {
-    "subreddit": "ChineseLanguage",
     "query": "app OR website pinyin hanzi",
     "title": "Is there an official guide to writing pinyin?",
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1vhnk7g/is_there_an_official_guide_to_writing_pinyin/",
@@ -86,6 +75,17 @@
     "num_comments": 7,
     "author": "Ok_Emu1460",
     "score": 7
+  },
+  {
+    "subreddit": "ChineseLanguage",
+    "query": "flashcard app",
+    "title": "Alternatives to Migaku (flashcard service)",
+    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1vleguy/alternatives_to_migaku_flashcard_service/",
+    "created_utc": 1786446679,
+    "created_at": "2026-08-11T11:11:19.000Z",
+    "num_comments": 4,
+    "author": "NotMyselfNotme",
+    "score": 6
   },
   {
     "subreddit": "ChineseLanguage",
@@ -160,7 +160,7 @@
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1vlrsvy/不懂_vs_不明白_vs_聽不懂/",
     "created_utc": 1786477410,
     "created_at": "2026-08-11T19:43:30.000Z",
-    "num_comments": 9,
+    "num_comments": 10,
     "author": "OL050617",
     "score": 5
   },

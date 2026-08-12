@@ -1,10 +1,10 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-12T10:46:00.879Z
+Generated: 2026-08-12T11:35:07.116Z
 
 ## [Flashcard app - best one for Android?](https://old.reddit.com/r/ChineseLanguage/comments/1vleg2o/flashcard_app_best_one_for_android/)
 - subreddit: r/ChineseLanguage
-- score: 11
+- score: 10
 - comments: 9
 - created: 2026-08-11T11:10:14.000Z
 - matched query: flashcard app
@@ -37,13 +37,6 @@ Generated: 2026-08-12T10:46:00.879Z
 - created: 2026-08-11T17:21:40.000Z
 - matched query: resource
 
-## [Alternatives to Migaku (flashcard service)](https://old.reddit.com/r/ChineseLanguage/comments/1vleguy/alternatives_to_migaku_flashcard_service/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 4
-- created: 2026-08-11T11:11:19.000Z
-- matched query: flashcard app
-
 ## [Is there an official guide to writing pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1vhnk7g/is_there_an_official_guide_to_writing_pinyin/)
 - subreddit: r/ChineseLanguage
 - score: 7
@@ -57,6 +50,13 @@ Generated: 2026-08-12T10:46:00.879Z
 - comments: 7
 - created: 2026-08-06T01:18:27.000Z
 - matched query: app OR website pinyin hanzi
+
+## [Alternatives to Migaku (flashcard service)](https://old.reddit.com/r/ChineseLanguage/comments/1vleguy/alternatives_to_migaku_flashcard_service/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 4
+- created: 2026-08-11T11:11:19.000Z
+- matched query: flashcard app
 
 ## [Has anyone tried Hello Nora for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1vk4trx/has_anyone_tried_hello_nora_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -103,7 +103,7 @@ Generated: 2026-08-12T10:46:00.879Z
 ## [不懂 vs 不明白 vs 聽不懂](https://old.reddit.com/r/ChineseLanguage/comments/1vlrsvy/不懂_vs_不明白_vs_聽不懂/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 9
+- comments: 10
 - created: 2026-08-11T19:43:30.000Z
 - matched query: resource
 

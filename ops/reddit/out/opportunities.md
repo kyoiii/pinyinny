@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-12T20:08:05.645Z
+Generated: 2026-08-12T21:02:14.708Z
 
 ## [Flashcard app - best one for Android?](https://old.reddit.com/r/ChineseLanguage/comments/1vleg2o/flashcard_app_best_one_for_android/)
 - subreddit: r/ChineseLanguage
@@ -124,7 +124,7 @@ Generated: 2026-08-12T20:08:05.645Z
 ## [不懂 vs 不明白 vs 聽不懂](https://old.reddit.com/r/ChineseLanguage/comments/1vlrsvy/不懂_vs_不明白_vs_聽不懂/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 11
+- comments: 12
 - created: 2026-08-11T19:43:30.000Z
 - matched query: resource
 

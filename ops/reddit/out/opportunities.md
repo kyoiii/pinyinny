@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-11T23:55:25.175Z
+Generated: 2026-08-12T02:08:31.312Z
 
 ## [Flashcard app - best one for Android?](https://old.reddit.com/r/ChineseLanguage/comments/1vleg2o/flashcard_app_best_one_for_android/)
 - subreddit: r/ChineseLanguage
@@ -33,7 +33,7 @@ Generated: 2026-08-11T23:55:25.175Z
 ## [Best way to restart?](https://old.reddit.com/r/ChineseLanguage/comments/1vlntx4/best_way_to_restart/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 5
+- comments: 7
 - created: 2026-08-11T17:21:40.000Z
 - matched query: resource
 
@@ -58,19 +58,19 @@ Generated: 2026-08-11T23:55:25.175Z
 - created: 2026-08-06T01:18:27.000Z
 - matched query: app OR website pinyin hanzi
 
-## [How should I start? What resources should I use?](https://old.reddit.com/r/ChineseLanguage/comments/1vftxaj/how_should_i_start_what_resources_should_i_use/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 7
-- created: 2026-08-05T01:57:48.000Z
-- matched query: resource
-
 ## [Has anyone tried Hello Nora for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1vk4trx/has_anyone_tried_hello_nora_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 6
 - comments: 2
 - created: 2026-08-09T23:36:58.000Z
 - matched query: "learn chinese" app
+
+## [How should I start? What resources should I use?](https://old.reddit.com/r/ChineseLanguage/comments/1vftxaj/how_should_i_start_what_resources_should_i_use/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 7
+- created: 2026-08-05T01:57:48.000Z
+- matched query: resource
 
 ## [Has anyone tried this app for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1vc97fh/has_anyone_tried_this_app_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -103,7 +103,7 @@ Generated: 2026-08-11T23:55:25.175Z
 ## [不懂 vs 不明白 vs 聽不懂](https://old.reddit.com/r/ChineseLanguage/comments/1vlrsvy/不懂_vs_不明白_vs_聽不懂/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 7
+- comments: 9
 - created: 2026-08-11T19:43:30.000Z
 - matched query: resource
 

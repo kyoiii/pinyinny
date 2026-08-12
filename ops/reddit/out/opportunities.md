@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-12T19:20:00.171Z
+Generated: 2026-08-12T20:08:05.645Z
 
 ## [Flashcard app - best one for Android?](https://old.reddit.com/r/ChineseLanguage/comments/1vleg2o/flashcard_app_best_one_for_android/)
 - subreddit: r/ChineseLanguage
@@ -22,6 +22,13 @@ Generated: 2026-08-12T19:20:00.171Z
 - comments: 7
 - created: 2026-08-06T00:13:06.000Z
 - matched query: flashcard app
+
+## [Looking for advice on HSK 4 resources and a good teacher/course](https://old.reddit.com/r/ChineseLanguage/comments/1vmfbga/looking_for_advice_on_hsk_4_resources_and_a_good/)
+- subreddit: r/ChineseLanguage
+- score: 8
+- comments: 0
+- created: 2026-08-12T14:13:40.000Z
+- matched query: resource
 
 ## [what is actually the best app for learning chinese that's useful in real life? especially pronunciation](https://old.reddit.com/r/ChineseLanguage/comments/1vkzxm9/what_is_actually_the_best_app_for_learning/)
 - subreddit: r/ChineseLanguage
@@ -107,19 +114,19 @@ Generated: 2026-08-12T19:20:00.171Z
 - created: 2026-08-12T13:14:28.000Z
 - matched query: app OR website pinyin hanzi
 
-## [不懂 vs 不明白 vs 聽不懂](https://old.reddit.com/r/ChineseLanguage/comments/1vlrsvy/不懂_vs_不明白_vs_聽不懂/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 11
-- created: 2026-08-11T19:43:30.000Z
-- matched query: resource
-
 ## [Chinese Telegraph Code in practice: decoding handwritten Morse into “你好”](https://old.reddit.com/r/ChineseLanguage/comments/1v2itpl/chinese_telegraph_code_in_practice_decoding/)
 - subreddit: r/ChineseLanguage
 - score: 5
 - comments: 0
 - created: 2026-07-21T13:42:00.000Z
 - matched query: "learn chinese" app
+
+## [不懂 vs 不明白 vs 聽不懂](https://old.reddit.com/r/ChineseLanguage/comments/1vlrsvy/不懂_vs_不明白_vs_聽不懂/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 11
+- created: 2026-08-11T19:43:30.000Z
+- matched query: resource
 
 ## [Finding HSK books (India) - HSK 2](https://old.reddit.com/r/ChineseLanguage/comments/1vl6tvg/finding_hsk_books_india_hsk_2/)
 - subreddit: r/ChineseLanguage
@@ -133,12 +140,5 @@ Generated: 2026-08-12T19:20:00.171Z
 - score: 4
 - comments: 19
 - created: 2026-08-10T13:47:18.000Z
-- matched query: "learn chinese" app
-
-## [Just started learning Chinese, need help!!](https://old.reddit.com/r/ChineseLanguage/comments/1vkf83p/just_started_learning_chinese_need_help/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 11
-- created: 2026-08-10T08:41:02.000Z
 - matched query: "learn chinese" app
 

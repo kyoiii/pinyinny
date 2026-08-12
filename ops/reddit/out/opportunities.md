@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-12T17:12:25.244Z
+Generated: 2026-08-12T18:09:22.220Z
 
 ## [Flashcard app - best one for Android?](https://old.reddit.com/r/ChineseLanguage/comments/1vleg2o/flashcard_app_best_one_for_android/)
 - subreddit: r/ChineseLanguage
@@ -30,13 +30,6 @@ Generated: 2026-08-12T17:12:25.244Z
 - created: 2026-08-10T22:47:43.000Z
 - matched query: "learn chinese" app
 
-## [Best way to restart?](https://old.reddit.com/r/ChineseLanguage/comments/1vlntx4/best_way_to_restart/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 9
-- created: 2026-08-11T17:21:40.000Z
-- matched query: resource
-
 ## [Is there an official guide to writing pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1vhnk7g/is_there_an_official_guide_to_writing_pinyin/)
 - subreddit: r/ChineseLanguage
 - score: 7
@@ -50,6 +43,13 @@ Generated: 2026-08-12T17:12:25.244Z
 - comments: 7
 - created: 2026-08-06T01:18:27.000Z
 - matched query: app OR website pinyin hanzi
+
+## [Best way to restart?](https://old.reddit.com/r/ChineseLanguage/comments/1vlntx4/best_way_to_restart/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 9
+- created: 2026-08-11T17:21:40.000Z
+- matched query: resource
 
 ## [Alternatives to Migaku (flashcard service)](https://old.reddit.com/r/ChineseLanguage/comments/1vleguy/alternatives_to_migaku_flashcard_service/)
 - subreddit: r/ChineseLanguage

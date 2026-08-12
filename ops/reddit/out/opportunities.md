@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-12T18:09:22.220Z
+Generated: 2026-08-12T19:20:00.171Z
 
 ## [Flashcard app - best one for Android?](https://old.reddit.com/r/ChineseLanguage/comments/1vleg2o/flashcard_app_best_one_for_android/)
 - subreddit: r/ChineseLanguage
@@ -103,14 +103,14 @@ Generated: 2026-08-12T18:09:22.220Z
 ## [Imagery: The key to remembering tones](https://old.reddit.com/r/ChineseLanguage/comments/1vmdtqe/imagery_the_key_to_remembering_tones/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 3
+- comments: 5
 - created: 2026-08-12T13:14:28.000Z
 - matched query: app OR website pinyin hanzi
 
 ## [不懂 vs 不明白 vs 聽不懂](https://old.reddit.com/r/ChineseLanguage/comments/1vlrsvy/不懂_vs_不明白_vs_聽不懂/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 10
+- comments: 11
 - created: 2026-08-11T19:43:30.000Z
 - matched query: resource
 

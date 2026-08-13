@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-12T23:34:31.719Z
+Generated: 2026-08-13T00:42:15.643Z
 
 ## [Flashcard app - best one for Android?](https://old.reddit.com/r/ChineseLanguage/comments/1vleg2o/flashcard_app_best_one_for_android/)
 - subreddit: r/ChineseLanguage
@@ -16,19 +16,19 @@ Generated: 2026-08-12T23:34:31.719Z
 - created: 2026-08-02T01:24:35.000Z
 - matched query: app OR website pinyin hanzi
 
-## [Free Flashcard Apps / Resources](https://old.reddit.com/r/ChineseLanguage/comments/1vgomgy/free_flashcard_apps_resources/)
-- subreddit: r/ChineseLanguage
-- score: 9
-- comments: 7
-- created: 2026-08-06T00:13:06.000Z
-- matched query: flashcard app
-
 ## [what is actually the best app for learning chinese that's useful in real life? especially pronunciation](https://old.reddit.com/r/ChineseLanguage/comments/1vkzxm9/what_is_actually_the_best_app_for_learning/)
 - subreddit: r/ChineseLanguage
 - score: 8
 - comments: 18
 - created: 2026-08-10T22:47:43.000Z
 - matched query: "learn chinese" app
+
+## [Free Flashcard Apps / Resources](https://old.reddit.com/r/ChineseLanguage/comments/1vgomgy/free_flashcard_apps_resources/)
+- subreddit: r/ChineseLanguage
+- score: 8
+- comments: 7
+- created: 2026-08-06T00:13:06.000Z
+- matched query: flashcard app
 
 ## [Looking for advice on HSK 4 resources and a good teacher/course](https://old.reddit.com/r/ChineseLanguage/comments/1vmfbga/looking_for_advice_on_hsk_4_resources_and_a_good/)
 - subreddit: r/ChineseLanguage
@@ -65,20 +65,6 @@ Generated: 2026-08-12T23:34:31.719Z
 - created: 2026-08-11T11:11:19.000Z
 - matched query: flashcard app
 
-## [Has anyone tried Hello Nora for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1vk4trx/has_anyone_tried_hello_nora_for_learning_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 2
-- created: 2026-08-09T23:36:58.000Z
-- matched query: "learn chinese" app
-
-## [How should I start? What resources should I use?](https://old.reddit.com/r/ChineseLanguage/comments/1vftxaj/how_should_i_start_what_resources_should_i_use/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 7
-- created: 2026-08-05T01:57:48.000Z
-- matched query: resource
-
 ## [Has anyone tried this app for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1vc97fh/has_anyone_tried_this_app_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
 - score: 6
@@ -114,6 +100,13 @@ Generated: 2026-08-12T23:34:31.719Z
 - created: 2026-08-12T13:14:28.000Z
 - matched query: app OR website pinyin hanzi
 
+## [Has anyone tried Hello Nora for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1vk4trx/has_anyone_tried_hello_nora_for_learning_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 2
+- created: 2026-08-09T23:36:58.000Z
+- matched query: "learn chinese" app
+
 ## [Chinese Telegraph Code in practice: decoding handwritten Morse into “你好”](https://old.reddit.com/r/ChineseLanguage/comments/1v2itpl/chinese_telegraph_code_in_practice_decoding/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -140,5 +133,12 @@ Generated: 2026-08-12T23:34:31.719Z
 - score: 4
 - comments: 19
 - created: 2026-08-10T13:47:18.000Z
+- matched query: "learn chinese" app
+
+## [Just started learning Chinese, need help!!](https://old.reddit.com/r/ChineseLanguage/comments/1vkf83p/just_started_learning_chinese_need_help/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 11
+- created: 2026-08-10T08:41:02.000Z
 - matched query: "learn chinese" app
 

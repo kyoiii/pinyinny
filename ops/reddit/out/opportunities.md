@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-13T18:10:47.486Z
+Generated: 2026-08-13T19:21:56.652Z
 
 ## [Do you still practice writing Hanzi by hand, or only recognize them? I am testing a writing-first review feature for Hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1vmytks/do_you_still_practice_writing_hanzi_by_hand_or/)
 - subreddit: r/ChineseLanguage
@@ -36,6 +36,13 @@ Generated: 2026-08-13T18:10:47.486Z
 - comments: 7
 - created: 2026-08-06T00:13:06.000Z
 - matched query: flashcard app
+
+## [New to Chinese, Low on Time, Any Hints?](https://old.reddit.com/r/ChineseLanguage/comments/1vnik6t/new_to_chinese_low_on_time_any_hints/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 6
+- created: 2026-08-13T18:12:11.000Z
+- matched query: resource
 
 ## [Is there an official guide to writing pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1vhnk7g/is_there_an_official_guide_to_writing_pinyin/)
 - subreddit: r/ChineseLanguage
@@ -133,12 +140,5 @@ Generated: 2026-08-13T18:10:47.486Z
 - score: 4
 - comments: 12
 - created: 2026-08-11T19:43:30.000Z
-- matched query: resource
-
-## [Finding HSK books (India) - HSK 2](https://old.reddit.com/r/ChineseLanguage/comments/1vl6tvg/finding_hsk_books_india_hsk_2/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 1
-- created: 2026-08-11T04:01:17.000Z
 - matched query: resource
 

@@ -1,6 +1,13 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-13T00:42:15.643Z
+Generated: 2026-08-13T03:16:21.204Z
+
+## [Do you still practice writing Hanzi by hand, or only recognize them? I am testing a writing-first review feature for Hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1vmytks/do_you_still_practice_writing_hanzi_by_hand_or/)
+- subreddit: r/ChineseLanguage
+- score: 11
+- comments: 1
+- created: 2026-08-13T02:58:27.000Z
+- matched query: flashcard app
 
 ## [Flashcard app - best one for Android?](https://old.reddit.com/r/ChineseLanguage/comments/1vleg2o/flashcard_app_best_one_for_android/)
 - subreddit: r/ChineseLanguage
@@ -33,7 +40,7 @@ Generated: 2026-08-13T00:42:15.643Z
 ## [Looking for advice on HSK 4 resources and a good teacher/course](https://old.reddit.com/r/ChineseLanguage/comments/1vmfbga/looking_for_advice_on_hsk_4_resources_and_a_good/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 1
+- comments: 2
 - created: 2026-08-12T14:13:40.000Z
 - matched query: resource
 
@@ -42,13 +49,6 @@ Generated: 2026-08-13T00:42:15.643Z
 - score: 7
 - comments: 12
 - created: 2026-08-07T02:00:04.000Z
-- matched query: app OR website pinyin hanzi
-
-## [Looking for Ip Man with triple subtitles (Hanzi + Pinyin + English)](https://old.reddit.com/r/ChineseLanguage/comments/1vgq3hs/looking_for_ip_man_with_triple_subtitles_hanzi/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 7
-- created: 2026-08-06T01:18:27.000Z
 - matched query: app OR website pinyin hanzi
 
 ## [Best way to restart?](https://old.reddit.com/r/ChineseLanguage/comments/1vlntx4/best_way_to_restart/)
@@ -64,6 +64,13 @@ Generated: 2026-08-13T00:42:15.643Z
 - comments: 4
 - created: 2026-08-11T11:11:19.000Z
 - matched query: flashcard app
+
+## [Looking for Ip Man with triple subtitles (Hanzi + Pinyin + English)](https://old.reddit.com/r/ChineseLanguage/comments/1vgq3hs/looking_for_ip_man_with_triple_subtitles_hanzi/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 7
+- created: 2026-08-06T01:18:27.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [Has anyone tried this app for learning chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1vc97fh/has_anyone_tried_this_app_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -133,12 +140,5 @@ Generated: 2026-08-13T00:42:15.643Z
 - score: 4
 - comments: 19
 - created: 2026-08-10T13:47:18.000Z
-- matched query: "learn chinese" app
-
-## [Just started learning Chinese, need help!!](https://old.reddit.com/r/ChineseLanguage/comments/1vkf83p/just_started_learning_chinese_need_help/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 11
-- created: 2026-08-10T08:41:02.000Z
 - matched query: "learn chinese" app
 

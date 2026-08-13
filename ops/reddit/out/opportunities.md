@@ -1,11 +1,11 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-13T08:09:01.291Z
+Generated: 2026-08-13T09:33:33.228Z
 
 ## [Do you still practice writing Hanzi by hand, or only recognize them? I am testing a writing-first review feature for Hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1vmytks/do_you_still_practice_writing_hanzi_by_hand_or/)
 - subreddit: r/ChineseLanguage
 - score: 11
-- comments: 5
+- comments: 6
 - created: 2026-08-13T02:58:27.000Z
 - matched query: flashcard app
 

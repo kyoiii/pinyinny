@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-13T15:10:12.392Z
+Generated: 2026-08-13T16:09:56.965Z
 
 ## [Do you still practice writing Hanzi by hand, or only recognize them? I am testing a writing-first review feature for Hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1vmytks/do_you_still_practice_writing_hanzi_by_hand_or/)
 - subreddit: r/ChineseLanguage
@@ -138,7 +138,7 @@ Generated: 2026-08-13T15:10:12.392Z
 ## [Finding HSK books (India) - HSK 2](https://old.reddit.com/r/ChineseLanguage/comments/1vl6tvg/finding_hsk_books_india_hsk_2/)
 - subreddit: r/ChineseLanguage
 - score: 4
-- comments: 2
+- comments: 1
 - created: 2026-08-11T04:01:17.000Z
 - matched query: resource
 

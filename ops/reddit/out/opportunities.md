@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-13T12:29:44.500Z
+Generated: 2026-08-13T14:02:57.468Z
 
 ## [Do you still practice writing Hanzi by hand, or only recognize them? I am testing a writing-first review feature for Hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1vmytks/do_you_still_practice_writing_hanzi_by_hand_or/)
 - subreddit: r/ChineseLanguage
@@ -100,12 +100,12 @@ Generated: 2026-08-13T12:29:44.500Z
 - created: 2026-07-16T13:39:13.000Z
 - matched query: "learn chinese" app
 
-## [Imagery: The key to remembering tones](https://old.reddit.com/r/ChineseLanguage/comments/1vmdtqe/imagery_the_key_to_remembering_tones/)
+## [Help learning Chinese Dialect](https://old.reddit.com/r/ChineseLanguage/comments/1vn9wqi/help_learning_chinese_dialect/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 5
-- created: 2026-08-12T13:14:28.000Z
-- matched query: app OR website pinyin hanzi
+- comments: 1
+- created: 2026-08-13T12:54:07.000Z
+- matched query: resource
 
 ## [Has anyone tried Hello Nora for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1vk4trx/has_anyone_tried_hello_nora_for_learning_chinese/)
 - subreddit: r/ChineseLanguage
@@ -121,6 +121,13 @@ Generated: 2026-08-13T12:29:44.500Z
 - created: 2026-07-21T13:42:00.000Z
 - matched query: "learn chinese" app
 
+## [Imagery: The key to remembering tones](https://old.reddit.com/r/ChineseLanguage/comments/1vmdtqe/imagery_the_key_to_remembering_tones/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 5
+- created: 2026-08-12T13:14:28.000Z
+- matched query: app OR website pinyin hanzi
+
 ## [不懂 vs 不明白 vs 聽不懂](https://old.reddit.com/r/ChineseLanguage/comments/1vlrsvy/不懂_vs_不明白_vs_聽不懂/)
 - subreddit: r/ChineseLanguage
 - score: 4
@@ -134,11 +141,4 @@ Generated: 2026-08-13T12:29:44.500Z
 - comments: 2
 - created: 2026-08-11T04:01:17.000Z
 - matched query: resource
-
-## [I want to improve my speaking, but I hate talking to people just for that purpose](https://old.reddit.com/r/ChineseLanguage/comments/1vklcuu/i_want_to_improve_my_speaking_but_i_hate_talking/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 19
-- created: 2026-08-10T13:47:18.000Z
-- matched query: "learn chinese" app
 

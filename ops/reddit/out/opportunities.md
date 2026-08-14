@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-14T16:06:33.085Z
+Generated: 2026-08-14T17:08:44.512Z
 
 ## [Do you still practice writing Hanzi by hand, or only recognize them? I am testing a writing-first review feature for Hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1vmytks/do_you_still_practice_writing_hanzi_by_hand_or/)
 - subreddit: r/ChineseLanguage
@@ -43,6 +43,13 @@ Generated: 2026-08-14T16:06:33.085Z
 - comments: 22
 - created: 2026-08-13T18:12:11.000Z
 - matched query: resource
+
+## [Reading-first language learning: 620 hour update](https://old.reddit.com/r/languagelearning/comments/1vobrfe/readingfirst_language_learning_620_hour_update/)
+- subreddit: r/languagelearning
+- score: 6
+- comments: 0
+- created: 2026-08-14T16:18:31.000Z
+- matched query: "Chinese" resource
 
 ## [Looking for advice on HSK 4 resources and a good teacher/course](https://old.reddit.com/r/ChineseLanguage/comments/1vmfbga/looking_for_advice_on_hsk_4_resources_and_a_good/)
 - subreddit: r/ChineseLanguage
@@ -134,11 +141,4 @@ Generated: 2026-08-14T16:06:33.085Z
 - comments: 13
 - created: 2026-08-11T19:43:30.000Z
 - matched query: resource
-
-## [I made a multiplayer browser Chinese word game (any feedback appreciated!!)](https://old.reddit.com/r/ChineseLanguage/comments/1v5ltcp/i_made_a_multiplayer_browser_chinese_word_game/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 2
-- created: 2026-07-24T19:44:23.000Z
-- matched query: app OR website pinyin hanzi
 

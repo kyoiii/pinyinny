@@ -1,10 +1,10 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-14T02:46:32.094Z
+Generated: 2026-08-14T04:31:07.673Z
 
 ## [Do you still practice writing Hanzi by hand, or only recognize them? I am testing a writing-first review feature for Hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1vmytks/do_you_still_practice_writing_hanzi_by_hand_or/)
 - subreddit: r/ChineseLanguage
-- score: 11
+- score: 10
 - comments: 6
 - created: 2026-08-13T02:58:27.000Z
 - matched query: flashcard app
@@ -23,19 +23,19 @@ Generated: 2026-08-14T02:46:32.094Z
 - created: 2026-08-02T01:24:35.000Z
 - matched query: app OR website pinyin hanzi
 
-## [I built a small set of free tools for learning and working with Chinese characters](https://old.reddit.com/r/ChineseLanguage/comments/1vntzfm/i_built_a_small_set_of_free_tools_for_learning/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 0
-- created: 2026-08-14T01:49:48.000Z
-- matched query: "learn chinese" app
-
 ## [Free Flashcard Apps / Resources](https://old.reddit.com/r/ChineseLanguage/comments/1vgomgy/free_flashcard_apps_resources/)
 - subreddit: r/ChineseLanguage
 - score: 8
 - comments: 7
 - created: 2026-08-06T00:13:06.000Z
 - matched query: flashcard app
+
+## [I built a small set of free tools for learning and working with Chinese characters](https://old.reddit.com/r/ChineseLanguage/comments/1vntzfm/i_built_a_small_set_of_free_tools_for_learning/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 1
+- created: 2026-08-14T01:49:48.000Z
+- matched query: "learn chinese" app
 
 ## [Issues with HSK textbook website speaking functionality](https://old.reddit.com/r/ChineseLanguage/comments/1vns88y/issues_with_hsk_textbook_website_speaking/)
 - subreddit: r/ChineseLanguage
@@ -47,7 +47,7 @@ Generated: 2026-08-14T02:46:32.094Z
 ## [New to Chinese, Low on Time, Any Hints?](https://old.reddit.com/r/ChineseLanguage/comments/1vnik6t/new_to_chinese_low_on_time_any_hints/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 15
+- comments: 20
 - created: 2026-08-13T18:12:11.000Z
 - matched query: resource
 

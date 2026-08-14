@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-14T18:06:19.425Z
+Generated: 2026-08-14T19:12:10.313Z
 
 ## [Do you still practice writing Hanzi by hand, or only recognize them? I am testing a writing-first review feature for Hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1vmytks/do_you_still_practice_writing_hanzi_by_hand_or/)
 - subreddit: r/ChineseLanguage
@@ -39,7 +39,7 @@ Generated: 2026-08-14T18:06:19.425Z
 
 ## [New to Chinese, Low on Time, Any Hints?](https://old.reddit.com/r/ChineseLanguage/comments/1vnik6t/new_to_chinese_low_on_time_any_hints/)
 - subreddit: r/ChineseLanguage
-- score: 7
+- score: 6
 - comments: 22
 - created: 2026-08-13T18:12:11.000Z
 - matched query: resource
@@ -96,7 +96,7 @@ Generated: 2026-08-14T18:06:19.425Z
 ## [Reading-first language learning: 620 hour update](https://old.reddit.com/r/languagelearning/comments/1vobrfe/readingfirst_language_learning_620_hour_update/)
 - subreddit: r/languagelearning
 - score: 5
-- comments: 1
+- comments: 2
 - created: 2026-08-14T16:18:31.000Z
 - matched query: "Chinese" resource
 

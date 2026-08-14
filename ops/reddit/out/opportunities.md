@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-14T10:59:37.993Z
+Generated: 2026-08-14T11:52:37.042Z
 
 ## [Do you still practice writing Hanzi by hand, or only recognize them? I am testing a writing-first review feature for Hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1vmytks/do_you_still_practice_writing_hanzi_by_hand_or/)
 - subreddit: r/ChineseLanguage
@@ -9,19 +9,19 @@ Generated: 2026-08-14T10:59:37.993Z
 - created: 2026-08-13T02:58:27.000Z
 - matched query: flashcard app
 
-## [Flashcard app - best one for Android?](https://old.reddit.com/r/ChineseLanguage/comments/1vleg2o/flashcard_app_best_one_for_android/)
-- subreddit: r/ChineseLanguage
-- score: 10
-- comments: 9
-- created: 2026-08-11T11:10:14.000Z
-- matched query: flashcard app
-
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
 - score: 10
 - comments: 18
 - created: 2026-08-02T01:24:35.000Z
 - matched query: app OR website pinyin hanzi
+
+## [Flashcard app - best one for Android?](https://old.reddit.com/r/ChineseLanguage/comments/1vleg2o/flashcard_app_best_one_for_android/)
+- subreddit: r/ChineseLanguage
+- score: 9
+- comments: 9
+- created: 2026-08-11T11:10:14.000Z
+- matched query: flashcard app
 
 ## [Free Flashcard Apps / Resources](https://old.reddit.com/r/ChineseLanguage/comments/1vgomgy/free_flashcard_apps_resources/)
 - subreddit: r/ChineseLanguage
@@ -64,13 +64,6 @@ Generated: 2026-08-14T10:59:37.993Z
 - comments: 9
 - created: 2026-08-11T17:21:40.000Z
 - matched query: resource
-
-## [Alternatives to Migaku (flashcard service)](https://old.reddit.com/r/ChineseLanguage/comments/1vleguy/alternatives_to_migaku_flashcard_service/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 4
-- created: 2026-08-11T11:11:19.000Z
-- matched query: flashcard app
 
 ## [Is there an official guide to writing pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1vhnk7g/is_there_an_official_guide_to_writing_pinyin/)
 - subreddit: r/ChineseLanguage
@@ -117,9 +110,16 @@ Generated: 2026-08-14T10:59:37.993Z
 ## [Help learning Chinese Dialect](https://old.reddit.com/r/ChineseLanguage/comments/1vn9wqi/help_learning_chinese_dialect/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 4
+- comments: 5
 - created: 2026-08-13T12:54:07.000Z
 - matched query: resource
+
+## [Alternatives to Migaku (flashcard service)](https://old.reddit.com/r/ChineseLanguage/comments/1vleguy/alternatives_to_migaku_flashcard_service/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 4
+- created: 2026-08-11T11:11:19.000Z
+- matched query: flashcard app
 
 ## [Has anyone tried Hello Nora for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1vk4trx/has_anyone_tried_hello_nora_for_learning_chinese/)
 - subreddit: r/ChineseLanguage

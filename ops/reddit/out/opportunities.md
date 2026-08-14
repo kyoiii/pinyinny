@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-14T00:09:59.144Z
+Generated: 2026-08-14T02:46:32.094Z
 
 ## [Do you still practice writing Hanzi by hand, or only recognize them? I am testing a writing-first review feature for Hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1vmytks/do_you_still_practice_writing_hanzi_by_hand_or/)
 - subreddit: r/ChineseLanguage
@@ -23,6 +23,13 @@ Generated: 2026-08-14T00:09:59.144Z
 - created: 2026-08-02T01:24:35.000Z
 - matched query: app OR website pinyin hanzi
 
+## [I built a small set of free tools for learning and working with Chinese characters](https://old.reddit.com/r/ChineseLanguage/comments/1vntzfm/i_built_a_small_set_of_free_tools_for_learning/)
+- subreddit: r/ChineseLanguage
+- score: 8
+- comments: 0
+- created: 2026-08-14T01:49:48.000Z
+- matched query: "learn chinese" app
+
 ## [Free Flashcard Apps / Resources](https://old.reddit.com/r/ChineseLanguage/comments/1vgomgy/free_flashcard_apps_resources/)
 - subreddit: r/ChineseLanguage
 - score: 8
@@ -30,19 +37,19 @@ Generated: 2026-08-14T00:09:59.144Z
 - created: 2026-08-06T00:13:06.000Z
 - matched query: flashcard app
 
+## [Issues with HSK textbook website speaking functionality](https://old.reddit.com/r/ChineseLanguage/comments/1vns88y/issues_with_hsk_textbook_website_speaking/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 1
+- created: 2026-08-14T00:29:02.000Z
+- matched query: resource
+
 ## [New to Chinese, Low on Time, Any Hints?](https://old.reddit.com/r/ChineseLanguage/comments/1vnik6t/new_to_chinese_low_on_time_any_hints/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 14
+- comments: 15
 - created: 2026-08-13T18:12:11.000Z
 - matched query: resource
-
-## [Is there an official guide to writing pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1vhnk7g/is_there_an_official_guide_to_writing_pinyin/)
-- subreddit: r/ChineseLanguage
-- score: 7
-- comments: 12
-- created: 2026-08-07T02:00:04.000Z
-- matched query: app OR website pinyin hanzi
 
 ## [Looking for advice on HSK 4 resources and a good teacher/course](https://old.reddit.com/r/ChineseLanguage/comments/1vmfbga/looking_for_advice_on_hsk_4_resources_and_a_good/)
 - subreddit: r/ChineseLanguage
@@ -64,6 +71,13 @@ Generated: 2026-08-14T00:09:59.144Z
 - comments: 4
 - created: 2026-08-11T11:11:19.000Z
 - matched query: flashcard app
+
+## [Is there an official guide to writing pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1vhnk7g/is_there_an_official_guide_to_writing_pinyin/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 12
+- created: 2026-08-07T02:00:04.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [Looking for Ip Man with triple subtitles (Hanzi + Pinyin + English)](https://old.reddit.com/r/ChineseLanguage/comments/1vgq3hs/looking_for_ip_man_with_triple_subtitles_hanzi/)
 - subreddit: r/ChineseLanguage
@@ -127,18 +141,4 @@ Generated: 2026-08-14T00:09:59.144Z
 - comments: 5
 - created: 2026-08-12T13:14:28.000Z
 - matched query: app OR website pinyin hanzi
-
-## [不懂 vs 不明白 vs 聽不懂](https://old.reddit.com/r/ChineseLanguage/comments/1vlrsvy/不懂_vs_不明白_vs_聽不懂/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 12
-- created: 2026-08-11T19:43:30.000Z
-- matched query: resource
-
-## [Finding HSK books (India) - HSK 2](https://old.reddit.com/r/ChineseLanguage/comments/1vl6tvg/finding_hsk_books_india_hsk_2/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 1
-- created: 2026-08-11T04:01:17.000Z
-- matched query: resource
 

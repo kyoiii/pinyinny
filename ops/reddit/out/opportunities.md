@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-14T09:55:21.621Z
+Generated: 2026-08-14T10:59:37.993Z
 
 ## [Do you still practice writing Hanzi by hand, or only recognize them? I am testing a writing-first review feature for Hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1vmytks/do_you_still_practice_writing_hanzi_by_hand_or/)
 - subreddit: r/ChineseLanguage
@@ -82,7 +82,7 @@ Generated: 2026-08-14T09:55:21.621Z
 ## [Looking for Ip Man with triple subtitles (Hanzi + Pinyin + English)](https://old.reddit.com/r/ChineseLanguage/comments/1vgq3hs/looking_for_ip_man_with_triple_subtitles_hanzi/)
 - subreddit: r/ChineseLanguage
 - score: 6
-- comments: 7
+- comments: 8
 - created: 2026-08-06T01:18:27.000Z
 - matched query: app OR website pinyin hanzi
 

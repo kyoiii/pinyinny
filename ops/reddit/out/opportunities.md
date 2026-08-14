@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-14T17:08:44.512Z
+Generated: 2026-08-14T18:06:19.425Z
 
 ## [Do you still practice writing Hanzi by hand, or only recognize them? I am testing a writing-first review feature for Hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1vmytks/do_you_still_practice_writing_hanzi_by_hand_or/)
 - subreddit: r/ChineseLanguage
@@ -33,7 +33,7 @@ Generated: 2026-08-14T17:08:44.512Z
 ## [Issues with HSK textbook website speaking functionality](https://old.reddit.com/r/ChineseLanguage/comments/1vns88y/issues_with_hsk_textbook_website_speaking/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 1
+- comments: 4
 - created: 2026-08-14T00:29:02.000Z
 - matched query: resource
 
@@ -44,25 +44,11 @@ Generated: 2026-08-14T17:08:44.512Z
 - created: 2026-08-13T18:12:11.000Z
 - matched query: resource
 
-## [Reading-first language learning: 620 hour update](https://old.reddit.com/r/languagelearning/comments/1vobrfe/readingfirst_language_learning_620_hour_update/)
-- subreddit: r/languagelearning
-- score: 6
-- comments: 0
-- created: 2026-08-14T16:18:31.000Z
-- matched query: "Chinese" resource
-
 ## [Looking for advice on HSK 4 resources and a good teacher/course](https://old.reddit.com/r/ChineseLanguage/comments/1vmfbga/looking_for_advice_on_hsk_4_resources_and_a_good/)
 - subreddit: r/ChineseLanguage
 - score: 6
 - comments: 2
 - created: 2026-08-12T14:13:40.000Z
-- matched query: resource
-
-## [Best way to restart?](https://old.reddit.com/r/ChineseLanguage/comments/1vlntx4/best_way_to_restart/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 9
-- created: 2026-08-11T17:21:40.000Z
 - matched query: resource
 
 ## [Is there an official guide to writing pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1vhnk7g/is_there_an_official_guide_to_writing_pinyin/)
@@ -106,6 +92,20 @@ Generated: 2026-08-14T17:08:44.512Z
 - comments: 10
 - created: 2026-07-16T13:39:13.000Z
 - matched query: "learn chinese" app
+
+## [Reading-first language learning: 620 hour update](https://old.reddit.com/r/languagelearning/comments/1vobrfe/readingfirst_language_learning_620_hour_update/)
+- subreddit: r/languagelearning
+- score: 5
+- comments: 1
+- created: 2026-08-14T16:18:31.000Z
+- matched query: "Chinese" resource
+
+## [Best way to restart?](https://old.reddit.com/r/ChineseLanguage/comments/1vlntx4/best_way_to_restart/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 9
+- created: 2026-08-11T17:21:40.000Z
+- matched query: resource
 
 ## [Has anyone tried Hello Nora for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1vk4trx/has_anyone_tried_hello_nora_for_learning_chinese/)
 - subreddit: r/ChineseLanguage

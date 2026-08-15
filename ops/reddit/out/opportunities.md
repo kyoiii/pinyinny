@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-15T13:53:45.219Z
+Generated: 2026-08-15T14:19:44.832Z
 
 ## [Do you still practice writing Hanzi by hand, or only recognize them? I am testing a writing-first review feature for Hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1vmytks/do_you_still_practice_writing_hanzi_by_hand_or/)
 - subreddit: r/ChineseLanguage
@@ -42,13 +42,6 @@ Generated: 2026-08-15T13:53:45.219Z
 - score: 6
 - comments: 22
 - created: 2026-08-13T18:12:11.000Z
-- matched query: resource
-
-## [Looking for advice on HSK 4 resources and a good teacher/course](https://old.reddit.com/r/ChineseLanguage/comments/1vmfbga/looking_for_advice_on_hsk_4_resources_and_a_good/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 2
-- created: 2026-08-12T14:13:40.000Z
 - matched query: resource
 
 ## [Is there an official guide to writing pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1vhnk7g/is_there_an_official_guide_to_writing_pinyin/)
@@ -99,6 +92,13 @@ Generated: 2026-08-15T13:53:45.219Z
 - comments: 13
 - created: 2026-08-14T16:18:31.000Z
 - matched query: "Chinese" resource
+
+## [Looking for advice on HSK 4 resources and a good teacher/course](https://old.reddit.com/r/ChineseLanguage/comments/1vmfbga/looking_for_advice_on_hsk_4_resources_and_a_good/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 2
+- created: 2026-08-12T14:13:40.000Z
+- matched query: resource
 
 ## [Best way to restart?](https://old.reddit.com/r/ChineseLanguage/comments/1vlntx4/best_way_to_restart/)
 - subreddit: r/ChineseLanguage

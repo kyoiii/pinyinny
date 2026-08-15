@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-15T12:52:36.555Z
+Generated: 2026-08-15T13:26:15.622Z
 
 ## [Do you still practice writing Hanzi by hand, or only recognize them? I am testing a writing-first review feature for Hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1vmytks/do_you_still_practice_writing_hanzi_by_hand_or/)
 - subreddit: r/ChineseLanguage
@@ -128,17 +128,17 @@ Generated: 2026-08-15T12:52:36.555Z
 - created: 2026-08-13T12:54:07.000Z
 - matched query: resource
 
-## [Imagery: The key to remembering tones](https://old.reddit.com/r/ChineseLanguage/comments/1vmdtqe/imagery_the_key_to_remembering_tones/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 5
-- created: 2026-08-12T13:14:28.000Z
-- matched query: app OR website pinyin hanzi
-
 ## [I made a multiplayer browser Chinese word game (any feedback appreciated!!)](https://old.reddit.com/r/ChineseLanguage/comments/1v5ltcp/i_made_a_multiplayer_browser_chinese_word_game/)
 - subreddit: r/ChineseLanguage
 - score: 4
 - comments: 2
 - created: 2026-07-24T19:44:23.000Z
 - matched query: app OR website pinyin hanzi
+
+## [Japanese vs Chinese - which want do I learn?](https://old.reddit.com/r/ChineseLanguage/comments/1v2feph/japanese_vs_chinese_which_want_do_i_learn/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 13
+- created: 2026-07-21T11:13:36.000Z
+- matched query: "learn chinese" app
 

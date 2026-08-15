@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-15T00:24:03.130Z
+Generated: 2026-08-15T01:56:41.025Z
 
 ## [Do you still practice writing Hanzi by hand, or only recognize them? I am testing a writing-first review feature for Hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1vmytks/do_you_still_practice_writing_hanzi_by_hand_or/)
 - subreddit: r/ChineseLanguage
@@ -25,14 +25,14 @@ Generated: 2026-08-15T00:24:03.130Z
 
 ## [I built a small set of free tools for learning and working with Chinese characters](https://old.reddit.com/r/ChineseLanguage/comments/1vntzfm/i_built_a_small_set_of_free_tools_for_learning/)
 - subreddit: r/ChineseLanguage
-- score: 7
+- score: 6
 - comments: 1
 - created: 2026-08-14T01:49:48.000Z
 - matched query: "learn chinese" app
 
 ## [Issues with HSK textbook website speaking functionality](https://old.reddit.com/r/ChineseLanguage/comments/1vns88y/issues_with_hsk_textbook_website_speaking/)
 - subreddit: r/ChineseLanguage
-- score: 7
+- score: 6
 - comments: 4
 - created: 2026-08-14T00:29:02.000Z
 - matched query: resource
@@ -96,7 +96,7 @@ Generated: 2026-08-15T00:24:03.130Z
 ## [Reading-first language learning: 620 hour update](https://old.reddit.com/r/languagelearning/comments/1vobrfe/readingfirst_language_learning_620_hour_update/)
 - subreddit: r/languagelearning
 - score: 5
-- comments: 4
+- comments: 5
 - created: 2026-08-14T16:18:31.000Z
 - matched query: "Chinese" resource
 

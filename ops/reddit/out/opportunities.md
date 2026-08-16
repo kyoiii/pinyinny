@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-16T22:54:41.177Z
+Generated: 2026-08-16T23:20:21.549Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -86,13 +86,6 @@ Generated: 2026-08-16T22:54:41.177Z
 - created: 2026-07-16T13:39:13.000Z
 - matched query: "learn chinese" app
 
-## [chaotic chinese 101](https://old.reddit.com/r/ChineseLanguage/comments/1vq8d7f/chaotic_chinese_101/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 3
-- created: 2026-08-16T20:54:44.000Z
-- matched query: flashcard app
-
 ## [HSK Level for business](https://old.reddit.com/r/ChineseLanguage/comments/1vpqhp4/hsk_level_for_business/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -141,4 +134,11 @@ Generated: 2026-08-16T22:54:41.177Z
 - comments: 17
 - created: 2026-08-14T16:18:31.000Z
 - matched query: "Chinese" resource
+
+## [I made a multiplayer browser Chinese word game (any feedback appreciated!!)](https://old.reddit.com/r/ChineseLanguage/comments/1v5ltcp/i_made_a_multiplayer_browser_chinese_word_game/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 2
+- created: 2026-07-24T19:44:23.000Z
+- matched query: app OR website pinyin hanzi
 

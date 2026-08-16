@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-16T22:04:03.195Z
+Generated: 2026-08-16T22:34:41.151Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -89,7 +89,7 @@ Generated: 2026-08-16T22:04:03.195Z
 ## [chaotic chinese 101](https://old.reddit.com/r/ChineseLanguage/comments/1vq8d7f/chaotic_chinese_101/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 2
+- comments: 3
 - created: 2026-08-16T20:54:44.000Z
 - matched query: flashcard app
 

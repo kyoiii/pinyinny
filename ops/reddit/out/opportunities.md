@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-16T18:08:57.441Z
+Generated: 2026-08-16T18:46:47.067Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -26,7 +26,7 @@ Generated: 2026-08-16T18:08:57.441Z
 ## [Speaking only and Hanzi later😭](https://old.reddit.com/r/ChineseLanguage/comments/1vpnxj3/speaking_only_and_hanzi_later/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 22
+- comments: 23
 - created: 2026-08-16T04:59:11.000Z
 - matched query: app OR website pinyin hanzi
 
@@ -42,13 +42,6 @@ Generated: 2026-08-16T18:08:57.441Z
 - score: 6
 - comments: 4
 - created: 2026-08-14T00:29:02.000Z
-- matched query: resource
-
-## [New to Chinese, Low on Time, Any Hints?](https://old.reddit.com/r/ChineseLanguage/comments/1vnik6t/new_to_chinese_low_on_time_any_hints/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 22
-- created: 2026-08-13T18:12:11.000Z
 - matched query: resource
 
 ## [Is there an official guide to writing pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1vhnk7g/is_there_an_official_guide_to_writing_pinyin/)
@@ -98,6 +91,13 @@ Generated: 2026-08-16T18:08:57.441Z
 - score: 5
 - comments: 2
 - created: 2026-08-16T07:22:47.000Z
+- matched query: resource
+
+## [New to Chinese, Low on Time, Any Hints?](https://old.reddit.com/r/ChineseLanguage/comments/1vnik6t/new_to_chinese_low_on_time_any_hints/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 22
+- created: 2026-08-13T18:12:11.000Z
 - matched query: resource
 
 ## [Looking for advice on HSK 4 resources and a good teacher/course](https://old.reddit.com/r/ChineseLanguage/comments/1vmfbga/looking_for_advice_on_hsk_4_resources_and_a_good/)

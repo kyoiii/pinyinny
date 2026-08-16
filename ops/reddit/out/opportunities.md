@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-16T23:20:21.549Z
+Generated: 2026-08-16T23:40:46.234Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -114,13 +114,6 @@ Generated: 2026-08-16T23:20:21.549Z
 - created: 2026-08-11T17:21:40.000Z
 - matched query: resource
 
-## [Has anyone tried Hello Nora for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1vk4trx/has_anyone_tried_hello_nora_for_learning_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 2
-- created: 2026-08-09T23:36:58.000Z
-- matched query: "learn chinese" app
-
 ## [Chinese Telegraph Code in practice: decoding handwritten Morse into “你好”](https://old.reddit.com/r/ChineseLanguage/comments/1v2itpl/chinese_telegraph_code_in_practice_decoding/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -134,6 +127,13 @@ Generated: 2026-08-16T23:20:21.549Z
 - comments: 17
 - created: 2026-08-14T16:18:31.000Z
 - matched query: "Chinese" resource
+
+## [Has anyone tried Hello Nora for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1vk4trx/has_anyone_tried_hello_nora_for_learning_chinese/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 2
+- created: 2026-08-09T23:36:58.000Z
+- matched query: "learn chinese" app
 
 ## [I made a multiplayer browser Chinese word game (any feedback appreciated!!)](https://old.reddit.com/r/ChineseLanguage/comments/1v5ltcp/i_made_a_multiplayer_browser_chinese_word_game/)
 - subreddit: r/ChineseLanguage

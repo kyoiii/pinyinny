@@ -1,13 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-16T02:54:02.646Z
-
-## [Do you still practice writing Hanzi by hand, or only recognize them? I am testing a writing-first review feature for Hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1vmytks/do_you_still_practice_writing_hanzi_by_hand_or/)
-- subreddit: r/ChineseLanguage
-- score: 10
-- comments: 6
-- created: 2026-08-13T02:58:27.000Z
-- matched query: flashcard app
+Generated: 2026-08-16T03:46:59.027Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -15,6 +8,13 @@ Generated: 2026-08-16T02:54:02.646Z
 - comments: 18
 - created: 2026-08-02T01:24:35.000Z
 - matched query: app OR website pinyin hanzi
+
+## [Do you still practice writing Hanzi by hand, or only recognize them? I am testing a writing-first review feature for Hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1vmytks/do_you_still_practice_writing_hanzi_by_hand_or/)
+- subreddit: r/ChineseLanguage
+- score: 9
+- comments: 6
+- created: 2026-08-13T02:58:27.000Z
+- matched query: flashcard app
 
 ## [Free Flashcard Apps / Resources](https://old.reddit.com/r/ChineseLanguage/comments/1vgomgy/free_flashcard_apps_resources/)
 - subreddit: r/ChineseLanguage
@@ -117,7 +117,7 @@ Generated: 2026-08-16T02:54:02.646Z
 ## [Reading-first language learning: 620 hour update](https://old.reddit.com/r/languagelearning/comments/1vobrfe/readingfirst_language_learning_620_hour_update/)
 - subreddit: r/languagelearning
 - score: 4
-- comments: 13
+- comments: 14
 - created: 2026-08-14T16:18:31.000Z
 - matched query: "Chinese" resource
 

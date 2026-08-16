@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-16T16:00:30.763Z
+Generated: 2026-08-16T16:37:03.628Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -131,7 +131,7 @@ Generated: 2026-08-16T16:00:30.763Z
 ## [Reading-first language learning: 620 hour update](https://old.reddit.com/r/languagelearning/comments/1vobrfe/readingfirst_language_learning_620_hour_update/)
 - subreddit: r/languagelearning
 - score: 4
-- comments: 15
+- comments: 16
 - created: 2026-08-14T16:18:31.000Z
 - matched query: "Chinese" resource
 

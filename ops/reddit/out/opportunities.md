@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-16T23:57:24.268Z
+Generated: 2026-08-17T01:48:40.637Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -26,7 +26,7 @@ Generated: 2026-08-16T23:57:24.268Z
 ## [Speaking only and Hanzi later😭](https://old.reddit.com/r/ChineseLanguage/comments/1vpnxj3/speaking_only_and_hanzi_later/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 26
+- comments: 27
 - created: 2026-08-16T04:59:11.000Z
 - matched query: app OR website pinyin hanzi
 
@@ -36,13 +36,6 @@ Generated: 2026-08-16T23:57:24.268Z
 - comments: 1
 - created: 2026-08-14T01:49:48.000Z
 - matched query: "learn chinese" app
-
-## [Issues with HSK textbook website speaking functionality](https://old.reddit.com/r/ChineseLanguage/comments/1vns88y/issues_with_hsk_textbook_website_speaking/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 4
-- created: 2026-08-14T00:29:02.000Z
-- matched query: resource
 
 ## [Is there an official guide to writing pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1vhnk7g/is_there_an_official_guide_to_writing_pinyin/)
 - subreddit: r/ChineseLanguage
@@ -79,18 +72,18 @@ Generated: 2026-08-16T23:57:24.268Z
 - created: 2026-07-25T16:09:09.000Z
 - matched query: app OR website pinyin hanzi
 
-## [I need (FUN) chinese studying resources please?](https://old.reddit.com/r/ChineseLanguage/comments/1uy36dv/i_need_fun_chinese_studying_resources_please/)
-- subreddit: r/ChineseLanguage
-- score: 6
-- comments: 10
-- created: 2026-07-16T13:39:13.000Z
-- matched query: "learn chinese" app
-
 ## [HSK Level for business](https://old.reddit.com/r/ChineseLanguage/comments/1vpqhp4/hsk_level_for_business/)
 - subreddit: r/ChineseLanguage
 - score: 5
 - comments: 2
 - created: 2026-08-16T07:22:47.000Z
+- matched query: resource
+
+## [Issues with HSK textbook website speaking functionality](https://old.reddit.com/r/ChineseLanguage/comments/1vns88y/issues_with_hsk_textbook_website_speaking/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 4
+- created: 2026-08-14T00:29:02.000Z
 - matched query: resource
 
 ## [New to Chinese, Low on Time, Any Hints?](https://old.reddit.com/r/ChineseLanguage/comments/1vnik6t/new_to_chinese_low_on_time_any_hints/)
@@ -141,4 +134,11 @@ Generated: 2026-08-16T23:57:24.268Z
 - comments: 2
 - created: 2026-07-24T19:44:23.000Z
 - matched query: app OR website pinyin hanzi
+
+## [Japanese vs Chinese - which want do I learn?](https://old.reddit.com/r/ChineseLanguage/comments/1v2feph/japanese_vs_chinese_which_want_do_i_learn/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 13
+- created: 2026-07-21T11:13:36.000Z
+- matched query: "learn chinese" app
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-17T06:30:50.898Z
+Generated: 2026-08-17T07:36:06.497Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -65,13 +65,6 @@ Generated: 2026-08-17T06:30:50.898Z
 - created: 2026-07-25T16:09:09.000Z
 - matched query: app OR website pinyin hanzi
 
-## [HSK Level for business](https://old.reddit.com/r/ChineseLanguage/comments/1vpqhp4/hsk_level_for_business/)
-- subreddit: r/ChineseLanguage
-- score: 5
-- comments: 2
-- created: 2026-08-16T07:22:47.000Z
-- matched query: resource
-
 ## [Issues with HSK textbook website speaking functionality](https://old.reddit.com/r/ChineseLanguage/comments/1vns88y/issues_with_hsk_textbook_website_speaking/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -106,6 +99,13 @@ Generated: 2026-08-17T06:30:50.898Z
 - comments: 0
 - created: 2026-07-21T13:42:00.000Z
 - matched query: "learn chinese" app
+
+## [HSK Level for business](https://old.reddit.com/r/ChineseLanguage/comments/1vpqhp4/hsk_level_for_business/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 2
+- created: 2026-08-16T07:22:47.000Z
+- matched query: resource
 
 ## [Reading-first language learning: 620 hour update](https://old.reddit.com/r/languagelearning/comments/1vobrfe/readingfirst_language_learning_620_hour_update/)
 - subreddit: r/languagelearning

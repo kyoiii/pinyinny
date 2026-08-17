@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-17T23:09:44.303Z
+Generated: 2026-08-17T23:36:47.712Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -33,7 +33,7 @@ Generated: 2026-08-17T23:09:44.303Z
 ## [I've been learning Mandarin for 2 years + . Here are the apps that worked best for me (and my honest ratings)](https://old.reddit.com/r/ChineseLanguage/comments/1vqzo61/ive_been_learning_mandarin_for_2_years_here_are/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 6
+- comments: 7
 - created: 2026-08-17T17:59:22.000Z
 - matched query: flashcard app
 

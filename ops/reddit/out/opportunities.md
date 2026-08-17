@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-17T04:25:06.565Z
+Generated: 2026-08-17T05:09:34.936Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -25,8 +25,8 @@ Generated: 2026-08-17T04:25:06.565Z
 
 ## [Speaking only and Hanzi later😭](https://old.reddit.com/r/ChineseLanguage/comments/1vpnxj3/speaking_only_and_hanzi_later/)
 - subreddit: r/ChineseLanguage
-- score: 7
-- comments: 27
+- score: 6
+- comments: 28
 - created: 2026-08-16T04:59:11.000Z
 - matched query: app OR website pinyin hanzi
 

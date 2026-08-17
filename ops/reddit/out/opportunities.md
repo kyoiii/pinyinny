@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-17T11:58:03.686Z
+Generated: 2026-08-17T12:59:42.968Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -26,9 +26,16 @@ Generated: 2026-08-17T11:58:03.686Z
 ## [Free Chinese reading app stories matched to the words you actually know](https://old.reddit.com/r/ChineseLanguage/comments/1vqpo5c/free_chinese_reading_app_stories_matched_to_the/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 3
+- comments: 7
 - created: 2026-08-17T11:28:47.000Z
 - matched query: flashcard app
+
+## [Just had my first Chinese lesson in a while, reminded me of how much I love this language!](https://old.reddit.com/r/ChineseLanguage/comments/1vqr1ln/just_had_my_first_chinese_lesson_in_a_while/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 0
+- created: 2026-08-17T12:32:27.000Z
+- matched query: resource
 
 ## [Speaking only and Hanzi later😭](https://old.reddit.com/r/ChineseLanguage/comments/1vpnxj3/speaking_only_and_hanzi_later/)
 - subreddit: r/ChineseLanguage
@@ -134,11 +141,4 @@ Generated: 2026-08-17T11:58:03.686Z
 - comments: 2
 - created: 2026-07-24T19:44:23.000Z
 - matched query: app OR website pinyin hanzi
-
-## [Japanese vs Chinese - which want do I learn?](https://old.reddit.com/r/ChineseLanguage/comments/1v2feph/japanese_vs_chinese_which_want_do_i_learn/)
-- subreddit: r/ChineseLanguage
-- score: 4
-- comments: 13
-- created: 2026-07-21T11:13:36.000Z
-- matched query: "learn chinese" app
 

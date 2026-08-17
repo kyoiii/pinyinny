@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-17T16:01:56.269Z
+Generated: 2026-08-17T16:39:53.759Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -9,19 +9,40 @@ Generated: 2026-08-17T16:01:56.269Z
 - created: 2026-08-02T01:24:35.000Z
 - matched query: app OR website pinyin hanzi
 
+## [Do you still practice writing Hanzi by hand, or only recognize them? I am testing a writing-first review feature for Hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1vmytks/do_you_still_practice_writing_hanzi_by_hand_or/)
+- subreddit: r/ChineseLanguage
+- score: 9
+- comments: 6
+- created: 2026-08-13T02:58:27.000Z
+- matched query: flashcard app
+
+## [Free Flashcard Apps / Resources](https://old.reddit.com/r/ChineseLanguage/comments/1vgomgy/free_flashcard_apps_resources/)
+- subreddit: r/ChineseLanguage
+- score: 8
+- comments: 7
+- created: 2026-08-06T00:13:06.000Z
+- matched query: flashcard app
+
+## [MCT Resource Questions](https://old.reddit.com/r/ChineseLanguage/comments/1vqwc0w/mct_resource_questions/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 1
+- created: 2026-08-17T16:01:47.000Z
+- matched query: resource
+
 ## [No tutor for a tonal language atm. Should I wait to start speaking?](https://old.reddit.com/r/languagelearning/comments/1vqw83p/no_tutor_for_a_tonal_language_atm_should_i_wait/)
 - subreddit: r/languagelearning
 - score: 7
-- comments: 1
+- comments: 2
 - created: 2026-08-17T15:56:29.000Z
 - matched query: "Chinese" app
 
-## [Just had my first Chinese lesson in a while, reminded me of how much I love this language!](https://old.reddit.com/r/ChineseLanguage/comments/1vqr1ln/just_had_my_first_chinese_lesson_in_a_while/)
+## [Free Chinese reading app stories matched to the words you actually know](https://old.reddit.com/r/ChineseLanguage/comments/1vqpo5c/free_chinese_reading_app_stories_matched_to_the/)
 - subreddit: r/ChineseLanguage
-- score: 6
-- comments: 0
-- created: 2026-08-17T12:32:27.000Z
-- matched query: resource
+- score: 7
+- comments: 8
+- created: 2026-08-17T11:28:47.000Z
+- matched query: flashcard app
 
 ## [Speaking only and Hanzi later😭](https://old.reddit.com/r/ChineseLanguage/comments/1vpnxj3/speaking_only_and_hanzi_later/)
 - subreddit: r/ChineseLanguage
@@ -58,6 +79,13 @@ Generated: 2026-08-17T16:01:56.269Z
 - created: 2026-08-17T15:35:19.000Z
 - matched query: resource
 
+## [Just had my first Chinese lesson in a while, reminded me of how much I love this language!](https://old.reddit.com/r/ChineseLanguage/comments/1vqr1ln/just_had_my_first_chinese_lesson_in_a_while/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 1
+- created: 2026-08-17T12:32:27.000Z
+- matched query: resource
+
 ## [Issues with HSK textbook website speaking functionality](https://old.reddit.com/r/ChineseLanguage/comments/1vns88y/issues_with_hsk_textbook_website_speaking/)
 - subreddit: r/ChineseLanguage
 - score: 5
@@ -92,13 +120,6 @@ Generated: 2026-08-17T16:01:56.269Z
 - comments: 2
 - created: 2026-08-16T07:22:47.000Z
 - matched query: resource
-
-## [Reading-first language learning: 620 hour update](https://old.reddit.com/r/languagelearning/comments/1vobrfe/readingfirst_language_learning_620_hour_update/)
-- subreddit: r/languagelearning
-- score: 4
-- comments: 17
-- created: 2026-08-14T16:18:31.000Z
-- matched query: "Chinese" resource
 
 ## [I made a multiplayer browser Chinese word game (any feedback appreciated!!)](https://old.reddit.com/r/ChineseLanguage/comments/1v5ltcp/i_made_a_multiplayer_browser_chinese_word_game/)
 - subreddit: r/ChineseLanguage

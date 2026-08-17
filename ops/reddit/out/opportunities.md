@@ -1,12 +1,26 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-17T17:41:19.655Z
+Generated: 2026-08-17T18:04:44.439Z
+
+## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
+- subreddit: r/ChineseLanguage
+- score: 10
+- comments: 18
+- created: 2026-08-02T01:24:35.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [Do you still practice writing Hanzi by hand, or only recognize them? I am testing a writing-first review feature for Hanzi](https://old.reddit.com/r/ChineseLanguage/comments/1vmytks/do_you_still_practice_writing_hanzi_by_hand_or/)
 - subreddit: r/ChineseLanguage
 - score: 9
 - comments: 6
 - created: 2026-08-13T02:58:27.000Z
+- matched query: flashcard app
+
+## [I've been learning Mandarin for 2 years + . Here are the apps that worked best for me (and my honest ratings)](https://old.reddit.com/r/ChineseLanguage/comments/1vqzo61/ive_been_learning_mandarin_for_2_years_here_are/)
+- subreddit: r/ChineseLanguage
+- score: 8
+- comments: 0
+- created: 2026-08-17T17:59:22.000Z
 - matched query: flashcard app
 
 ## [Free Flashcard Apps / Resources](https://old.reddit.com/r/ChineseLanguage/comments/1vgomgy/free_flashcard_apps_resources/)
@@ -26,7 +40,7 @@ Generated: 2026-08-17T17:41:19.655Z
 ## [No tutor for a tonal language atm. Should I wait to start speaking?](https://old.reddit.com/r/languagelearning/comments/1vqw83p/no_tutor_for_a_tonal_language_atm_should_i_wait/)
 - subreddit: r/languagelearning
 - score: 7
-- comments: 5
+- comments: 7
 - created: 2026-08-17T15:56:29.000Z
 - matched query: "Chinese" app
 
@@ -42,7 +56,28 @@ Generated: 2026-08-17T17:41:19.655Z
 - score: 6
 - comments: 29
 - created: 2026-08-16T04:59:11.000Z
-- matched query: resource
+- matched query: app OR website pinyin hanzi
+
+## [Is there an official guide to writing pinyin?](https://old.reddit.com/r/ChineseLanguage/comments/1vhnk7g/is_there_an_official_guide_to_writing_pinyin/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 12
+- created: 2026-08-07T02:00:04.000Z
+- matched query: app OR website pinyin hanzi
+
+## [Looking for Ip Man with triple subtitles (Hanzi + Pinyin + English)](https://old.reddit.com/r/ChineseLanguage/comments/1vgq3hs/looking_for_ip_man_with_triple_subtitles_hanzi/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 8
+- created: 2026-08-06T01:18:27.000Z
+- matched query: app OR website pinyin hanzi
+
+## [Looking for a Mandarin Chinese only visual dictionary. Pictures and the concept in Hanzi or Pinyin with no english or spanish translations.](https://old.reddit.com/r/ChineseLanguage/comments/1v6ccjq/looking_for_a_mandarin_chinese_only_visual/)
+- subreddit: r/ChineseLanguage
+- score: 6
+- comments: 8
+- created: 2026-07-25T16:09:09.000Z
+- matched query: app OR website pinyin hanzi
 
 ## [Struggling with Vocabs](https://old.reddit.com/r/ChineseLanguage/comments/1vqvpz6/struggling_with_vocabs/)
 - subreddit: r/ChineseLanguage
@@ -92,4 +127,11 @@ Generated: 2026-08-17T17:41:19.655Z
 - comments: 2
 - created: 2026-08-16T07:22:47.000Z
 - matched query: resource
+
+## [I made a multiplayer browser Chinese word game (any feedback appreciated!!)](https://old.reddit.com/r/ChineseLanguage/comments/1v5ltcp/i_made_a_multiplayer_browser_chinese_word_game/)
+- subreddit: r/ChineseLanguage
+- score: 4
+- comments: 2
+- created: 2026-07-24T19:44:23.000Z
+- matched query: app OR website pinyin hanzi
 

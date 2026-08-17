@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-17T11:36:08.707Z
+Generated: 2026-08-17T11:58:03.686Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -16,18 +16,18 @@ Generated: 2026-08-17T11:36:08.707Z
 - created: 2026-08-13T02:58:27.000Z
 - matched query: flashcard app
 
-## [Free Chinese reading app stories matched to the words you actually know](https://old.reddit.com/r/ChineseLanguage/comments/1vqpo5c/free_chinese_reading_app_stories_matched_to_the/)
-- subreddit: r/ChineseLanguage
-- score: 8
-- comments: 0
-- created: 2026-08-17T11:28:47.000Z
-- matched query: flashcard app
-
 ## [Free Flashcard Apps / Resources](https://old.reddit.com/r/ChineseLanguage/comments/1vgomgy/free_flashcard_apps_resources/)
 - subreddit: r/ChineseLanguage
 - score: 8
 - comments: 7
 - created: 2026-08-06T00:13:06.000Z
+- matched query: flashcard app
+
+## [Free Chinese reading app stories matched to the words you actually know](https://old.reddit.com/r/ChineseLanguage/comments/1vqpo5c/free_chinese_reading_app_stories_matched_to_the/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 3
+- created: 2026-08-17T11:28:47.000Z
 - matched query: flashcard app
 
 ## [Speaking only and Hanzi later😭](https://old.reddit.com/r/ChineseLanguage/comments/1vpnxj3/speaking_only_and_hanzi_later/)

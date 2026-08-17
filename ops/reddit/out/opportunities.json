@@ -39,7 +39,7 @@
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1vqzo61/ive_been_learning_mandarin_for_2_years_here_are/",
     "created_utc": 1786989562,
     "created_at": "2026-08-17T17:59:22.000Z",
-    "num_comments": 2,
+    "num_comments": 3,
     "author": "tsjmattar",
     "score": 7
   },
@@ -52,6 +52,17 @@
     "created_at": "2026-08-17T16:01:47.000Z",
     "num_comments": 1,
     "author": "FoxNorth4770",
+    "score": 7
+  },
+  {
+    "subreddit": "languagelearning",
+    "query": "\"Chinese\" app",
+    "title": "No tutor for a tonal language atm. Should I wait to start speaking?",
+    "permalink": "https://old.reddit.com/r/languagelearning/comments/1vqw83p/no_tutor_for_a_tonal_language_atm_should_i_wait/",
+    "created_utc": 1786982189,
+    "created_at": "2026-08-17T15:56:29.000Z",
+    "num_comments": 12,
+    "author": "Fruit-ELoop",
     "score": 7
   },
   {
@@ -96,28 +107,6 @@
     "created_at": "2026-08-06T01:18:27.000Z",
     "num_comments": 8,
     "author": "Ok_Emu1460",
-    "score": 6
-  },
-  {
-    "subreddit": "ChineseLanguage",
-    "query": "\"learn chinese\" app",
-    "title": "Has anyone tried this app for learning chinese?",
-    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1vc97fh/has_anyone_tried_this_app_for_learning_chinese/",
-    "created_utc": 1785546671,
-    "created_at": "2026-08-01T01:11:11.000Z",
-    "num_comments": 8,
-    "author": "FRANZT01",
-    "score": 6
-  },
-  {
-    "subreddit": "ChineseLanguage",
-    "query": "\"learn chinese\" app",
-    "title": "If you had to recommend one Chinese textbook to a beginner, which one would it be? Why?",
-    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1vanh00/if_you_had_to_recommend_one_chinese_textbook_to_a/",
-    "created_utc": 1785399407,
-    "created_at": "2026-07-30T08:16:47.000Z",
-    "num_comments": 13,
-    "author": "Mainelody",
     "score": 6
   },
   {
@@ -199,17 +188,6 @@
   },
   {
     "subreddit": "ChineseLanguage",
-    "query": "\"learn chinese\" app",
-    "title": "Chinese Telegraph Code in practice: decoding handwritten Morse into “你好”",
-    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1v2itpl/chinese_telegraph_code_in_practice_decoding/",
-    "created_utc": 1784641320,
-    "created_at": "2026-07-21T13:42:00.000Z",
-    "num_comments": 0,
-    "author": "VegetableLegal6737",
-    "score": 5
-  },
-  {
-    "subreddit": "ChineseLanguage",
     "query": "resource",
     "title": "HSK Level for business",
     "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1vpqhp4/hsk_level_for_business/",
@@ -217,6 +195,17 @@
     "created_at": "2026-08-16T07:22:47.000Z",
     "num_comments": 2,
     "author": "Visible_Wrongdoer590",
+    "score": 4
+  },
+  {
+    "subreddit": "ChineseLanguage",
+    "query": "app OR website pinyin hanzi",
+    "title": "I made a multiplayer browser Chinese word game (any feedback appreciated!!)",
+    "permalink": "https://old.reddit.com/r/ChineseLanguage/comments/1v5ltcp/i_made_a_multiplayer_browser_chinese_word_game/",
+    "created_utc": 1784922263,
+    "created_at": "2026-07-24T19:44:23.000Z",
+    "num_comments": 2,
+    "author": "maenbalja",
     "score": 4
   }
 ]

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-18T07:34:51.426Z
+Generated: 2026-08-18T08:06:20.485Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -43,13 +43,6 @@ Generated: 2026-08-18T07:34:51.426Z
 - comments: 1
 - created: 2026-08-17T16:01:47.000Z
 - matched query: resource
-
-## [No tutor for a tonal language atm. Should I wait to start speaking?](https://old.reddit.com/r/languagelearning/comments/1vqw83p/no_tutor_for_a_tonal_language_atm_should_i_wait/)
-- subreddit: r/languagelearning
-- score: 7
-- comments: 14
-- created: 2026-08-17T15:56:29.000Z
-- matched query: "Chinese" app
 
 ## [Free Chinese reading app stories matched to the words you actually know](https://old.reddit.com/r/ChineseLanguage/comments/1vqpo5c/free_chinese_reading_app_stories_matched_to_the/)
 - subreddit: r/ChineseLanguage
@@ -141,4 +134,11 @@ Generated: 2026-08-18T07:34:51.426Z
 - comments: 9
 - created: 2026-08-11T17:21:40.000Z
 - matched query: resource
+
+## [Chinese Telegraph Code in practice: decoding handwritten Morse into “你好”](https://old.reddit.com/r/ChineseLanguage/comments/1v2itpl/chinese_telegraph_code_in_practice_decoding/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 0
+- created: 2026-07-21T13:42:00.000Z
+- matched query: "learn chinese" app
 

@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-18T01:41:23.259Z
+Generated: 2026-08-18T02:43:49.698Z
 
 ## [Are there any good pinyin to hanzi apps? 拼音输入法](https://old.reddit.com/r/ChineseLanguage/comments/1vd4j6r/are_there_any_good_pinyin_to_hanzi_apps_拼音输入法/)
 - subreddit: r/ChineseLanguage
@@ -26,7 +26,7 @@ Generated: 2026-08-18T01:41:23.259Z
 ## [Looking for a tool to help with formatting my Chinese notes / assignments](https://old.reddit.com/r/ChineseLanguage/comments/1vr6q60/looking_for_a_tool_to_help_with_formatting_my/)
 - subreddit: r/ChineseLanguage
 - score: 7
-- comments: 4
+- comments: 6
 - created: 2026-08-17T22:18:01.000Z
 - matched query: app OR website pinyin hanzi
 
@@ -36,6 +36,13 @@ Generated: 2026-08-18T01:41:23.259Z
 - comments: 6
 - created: 2026-08-17T17:59:22.000Z
 - matched query: flashcard app
+
+## [MCT Resource Questions](https://old.reddit.com/r/ChineseLanguage/comments/1vqwc0w/mct_resource_questions/)
+- subreddit: r/ChineseLanguage
+- score: 7
+- comments: 1
+- created: 2026-08-17T16:01:47.000Z
+- matched query: resource
 
 ## [No tutor for a tonal language atm. Should I wait to start speaking?](https://old.reddit.com/r/languagelearning/comments/1vqw83p/no_tutor_for_a_tonal_language_atm_should_i_wait/)
 - subreddit: r/languagelearning
@@ -93,31 +100,45 @@ Generated: 2026-08-18T01:41:23.259Z
 - created: 2026-07-25T16:09:09.000Z
 - matched query: app OR website pinyin hanzi
 
-## [Chinese Telegraph Code in practice: decoding handwritten Morse into “你好”](https://old.reddit.com/r/ChineseLanguage/comments/1v2itpl/chinese_telegraph_code_in_practice_decoding/)
+## [Struggling with Vocabs](https://old.reddit.com/r/ChineseLanguage/comments/1vqvpz6/struggling_with_vocabs/)
 - subreddit: r/ChineseLanguage
 - score: 5
-- comments: 0
-- created: 2026-07-21T13:42:00.000Z
-- matched query: "learn chinese" app
-
-## [Has anyone tried Hello Nora for learning Chinese?](https://old.reddit.com/r/ChineseLanguage/comments/1vk4trx/has_anyone_tried_hello_nora_for_learning_chinese/)
-- subreddit: r/ChineseLanguage
-- score: 4
 - comments: 2
-- created: 2026-08-09T23:36:58.000Z
-- matched query: "learn chinese" app
+- created: 2026-08-17T15:35:19.000Z
+- matched query: resource
 
-## [I made a multiplayer browser Chinese word game (any feedback appreciated!!)](https://old.reddit.com/r/ChineseLanguage/comments/1v5ltcp/i_made_a_multiplayer_browser_chinese_word_game/)
+## [Just had my first Chinese lesson in a while, reminded me of how much I love this language!](https://old.reddit.com/r/ChineseLanguage/comments/1vqr1ln/just_had_my_first_chinese_lesson_in_a_while/)
 - subreddit: r/ChineseLanguage
-- score: 4
+- score: 5
+- comments: 1
+- created: 2026-08-17T12:32:27.000Z
+- matched query: resource
+
+## [Issues with HSK textbook website speaking functionality](https://old.reddit.com/r/ChineseLanguage/comments/1vns88y/issues_with_hsk_textbook_website_speaking/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 4
+- created: 2026-08-14T00:29:02.000Z
+- matched query: resource
+
+## [New to Chinese, Low on Time, Any Hints?](https://old.reddit.com/r/ChineseLanguage/comments/1vnik6t/new_to_chinese_low_on_time_any_hints/)
+- subreddit: r/ChineseLanguage
+- score: 5
+- comments: 22
+- created: 2026-08-13T18:12:11.000Z
+- matched query: resource
+
+## [Looking for advice on HSK 4 resources and a good teacher/course](https://old.reddit.com/r/ChineseLanguage/comments/1vmfbga/looking_for_advice_on_hsk_4_resources_and_a_good/)
+- subreddit: r/ChineseLanguage
+- score: 5
 - comments: 2
-- created: 2026-07-24T19:44:23.000Z
-- matched query: app OR website pinyin hanzi
+- created: 2026-08-12T14:13:40.000Z
+- matched query: resource
 
-## [Japanese vs Chinese - which want do I learn?](https://old.reddit.com/r/ChineseLanguage/comments/1v2feph/japanese_vs_chinese_which_want_do_i_learn/)
+## [Best way to restart?](https://old.reddit.com/r/ChineseLanguage/comments/1vlntx4/best_way_to_restart/)
 - subreddit: r/ChineseLanguage
-- score: 4
-- comments: 13
-- created: 2026-07-21T11:13:36.000Z
-- matched query: "learn chinese" app
+- score: 5
+- comments: 9
+- created: 2026-08-11T17:21:40.000Z
+- matched query: resource
 

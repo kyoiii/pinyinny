@@ -1,6 +1,6 @@
 # Reddit Opportunity Queue
 
-Generated: 2026-08-19T06:34:23.233Z
+Generated: 2026-08-19T07:27:03.638Z
 
 ## [No tutor for a tonal language atm. Should I wait to start speaking?](https://old.reddit.com/r/languagelearning/comments/1vqw83p/no_tutor_for_a_tonal_language_atm_should_i_wait/)
 - subreddit: r/languagelearning

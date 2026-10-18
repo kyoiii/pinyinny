@@ -1,6 +1,6 @@
 # Reddit Feedback Snapshot
 
-Generated: 2026-10-18T13:44:53.910Z
+Generated: 2026-10-18T16:58:24.575Z
 
 ## languagelearning resource thread comment
 - url: https://www.reddit.com/r/languagelearning/comments/1rkdltm/share_your_resources_march_04_2026/o9fxg28/
